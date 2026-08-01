@@ -1,0 +1,52 @@
+groups:
+- duplicate_group: dzerzhinsky-trio-winter
+  status: visually_confirmed_related
+  members:
+  - path: /photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg
+    role: published_context_crop
+    source_type: separate-family-album
+    note: Includes right-side caption and more edge; stable URL — KEEP
+  - path: /photos/archive-b02/b02-mp001-ph01.jpg
+    role: notebook_print_crop_b02
+    source_batch: manuscript-b02
+    merged_page: 1
+    note: image_only from notebook; alternate_scan of same print subject
+  canonical_public_path: /photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg
+  replace_decision: keep_both
+  reason: Same three men winter coats; different scan crop/tone. pHash distance high
+    due to crop/color — visual match. Do not break 08 URL. Prefer 08 for context+caption
+    already published; B02 crop for image_only archive.
+- duplicate_group: alexandrovsky-central-1910
+  status: visually_confirmed_related
+  members:
+  - path: /photos/samsonov-tp/09-alexandrovsky-central-1910.jpg
+    role: published_context
+    source_type: separate-family-album
+    note: Stable URL KEEP
+  - path: /photos/archive-b02/b02-mp002-ph01.jpg
+    role: notebook_print_crop_b02
+    source_batch: manuscript-b02
+    merged_page: 2
+  canonical_public_path: /photos/samsonov-tp/09-alexandrovsky-central-1910.jpg
+  replace_decision: keep_both
+  reason: Same building print (Александровский централ). B02 notebook mount may be
+    rotated; view crop upright. No URL replace.
+- duplicate_group: eva-portrait-polka-dots
+  status: visually_confirmed_related
+  members:
+  - path: /photos/eva-konstantinovna/eva-portrait.jpg
+    role: published_tight_portrait
+    source_type: separate-family-album
+    note: Stable URL KEEP
+  - path: /photos/dnevnik-tt/str-002.jpg
+    role: page_scan_full_leaf
+    source_batch: manuscript-b01
+    original_page: 2
+  - path: /photos/archive-b01/b01-c002-ph01.jpg
+    role: notebook_print_crop_b01
+    source_batch: manuscript-b01
+    original_page: 2
+  canonical_public_path: /photos/eva-konstantinovna/eva-portrait.jpg
+  replace_decision: keep_all
+  reason: Same portrait print on op002. Published portrait URL stable. New B01 crop
+    is archive/print extraction; page scan remains for notebook context.

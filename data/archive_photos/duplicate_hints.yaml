@@ -1,0 +1,54 @@
+title: pHash duplicate hints (assistive only)
+threshold_hamming_max: 10
+hash_size: 16
+note: HINT only. Confirm visually before duplicate_of.
+pair_count: 12
+pairs:
+- a: static/photos/archive-b02/b02-mp007-ph02.jpg
+  b: inbox/scans/memoirs/batch_b02/crops/view/b02-mp007-ph02-view.jpg
+  hamming: 0
+  status: hint_needs_visual
+- a: static/photos/archive-b02/b02-mp001-ph01.jpg
+  b: inbox/scans/memoirs/batch_b02/crops/view/b02-mp001-ph01-view.jpg
+  hamming: 0
+  status: hint_needs_visual
+- a: static/photos/archive-b02/b02-mp007-ph01.jpg
+  b: inbox/scans/memoirs/batch_b02/crops/view/b02-mp007-ph01-view.jpg
+  hamming: 0
+  status: hint_needs_visual
+- a: static/photos/archive-b02/b02-mp001-ph02.jpg
+  b: inbox/scans/memoirs/batch_b02/crops/view/b02-mp001-ph02-view.jpg
+  hamming: 0
+  status: hint_needs_visual
+- a: inbox/scans/memoirs/batch_b02/crops/view/b02-mp005-ph02-view.jpg
+  b: inbox/scans/memoirs/batch_b02/candidates/m-005-ph03.jpg
+  hamming: 0
+  status: hint_needs_visual
+- a: static/photos/archive-b02/b02-mp001-ph01.jpg
+  b: inbox/scans/memoirs/batch_b02/candidates/m-001-ph01.jpg
+  hamming: 2
+  status: hint_needs_visual
+- a: static/photos/archive-b02/b02-mp002-ph01.jpg
+  b: inbox/scans/memoirs/batch_b02/crops/view/b02-mp002-ph01-view-upright.jpg
+  hamming: 2
+  status: hint_needs_visual
+- a: static/photos/archive-b02/b02-mp001-ph02.jpg
+  b: inbox/scans/memoirs/batch_b02/candidates/m-001-ph02.jpg
+  hamming: 2
+  status: hint_needs_visual
+- a: inbox/scans/memoirs/batch_b02/crops/view/b02-mp001-ph01-view.jpg
+  b: inbox/scans/memoirs/batch_b02/candidates/m-001-ph01.jpg
+  hamming: 2
+  status: hint_needs_visual
+- a: inbox/scans/memoirs/batch_b02/crops/view/b02-mp002-ph01-view.jpg
+  b: inbox/scans/memoirs/batch_b02/crops/view/b02-mp002-ph01-view-upright.jpg
+  hamming: 2
+  status: hint_needs_visual
+- a: inbox/scans/memoirs/batch_b02/crops/view/b02-mp001-ph02-view.jpg
+  b: inbox/scans/memoirs/batch_b02/candidates/m-001-ph02.jpg
+  hamming: 2
+  status: hint_needs_visual
+- a: static/photos/archive-b02/b02-mp002-ph01.jpg
+  b: inbox/scans/memoirs/batch_b02/crops/view/b02-mp002-ph01-view.jpg
+  hamming: 4
+  status: hint_needs_visual

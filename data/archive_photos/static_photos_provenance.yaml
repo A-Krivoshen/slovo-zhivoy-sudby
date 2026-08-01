@@ -1,0 +1,2158 @@
+title: Provenance inventory of static/photos
+generated: '2026-08-01'
+rule: Never assign manuscript page by visual similarity alone.
+totals:
+  files: 123
+  by_source_type:
+    manuscript_print_crop: 10
+    manuscript_page_scan: 93
+    separate-family-album: 16
+    external-public-source: 1
+    user-photo: 3
+  by_folder:
+    archive-b02: 10
+    dnevnik-tt: 93
+    eva-konstantinovna: 1
+    krivoshein-da: 1
+    samsonov-tp: 15
+    tatyana-tt: 3
+images:
+- public_path: /photos/archive-b02/b02-mp001-ph01-thumb.jpg
+  file: static/photos/archive-b02/b02-mp001-ph01-thumb.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 80
+  merged_page: 1
+  provenance_confidence: high
+  provenance_notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
+  object_role: thumbnail
+  canonical_public_path: /photos/archive-b02/b02-mp001-ph01-thumb.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 24109
+  width: 400
+  height: 382
+- public_path: /photos/archive-b02/b02-mp001-ph01.jpg
+  file: static/photos/archive-b02/b02-mp001-ph01.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 80
+  merged_page: 1
+  provenance_confidence: high
+  provenance_notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
+  object_role: print_crop
+  canonical_public_path: /photos/archive-b02/b02-mp001-ph01.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 564919
+  width: 1547
+  height: 1478
+- public_path: /photos/archive-b02/b02-mp001-ph02-thumb.jpg
+  file: static/photos/archive-b02/b02-mp001-ph02-thumb.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 80
+  merged_page: 1
+  provenance_confidence: high
+  provenance_notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
+  object_role: thumbnail
+  canonical_public_path: /photos/archive-b02/b02-mp001-ph02-thumb.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 35170
+  width: 343
+  height: 400
+- public_path: /photos/archive-b02/b02-mp001-ph02.jpg
+  file: static/photos/archive-b02/b02-mp001-ph02.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 80
+  merged_page: 1
+  provenance_confidence: high
+  provenance_notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
+  object_role: print_crop
+  canonical_public_path: /photos/archive-b02/b02-mp001-ph02.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 535632
+  width: 1373
+  height: 1600
+- public_path: /photos/archive-b02/b02-mp002-ph01-thumb.jpg
+  file: static/photos/archive-b02/b02-mp002-ph01-thumb.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 81
+  merged_page: 2
+  provenance_confidence: high
+  provenance_notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
+  object_role: thumbnail
+  canonical_public_path: /photos/archive-b02/b02-mp002-ph01-thumb.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 32265
+  width: 400
+  height: 234
+- public_path: /photos/archive-b02/b02-mp002-ph01.jpg
+  file: static/photos/archive-b02/b02-mp002-ph01.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 81
+  merged_page: 2
+  provenance_confidence: high
+  provenance_notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
+  object_role: print_crop
+  canonical_public_path: /photos/archive-b02/b02-mp002-ph01.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 549905
+  width: 1600
+  height: 936
+- public_path: /photos/archive-b02/b02-mp007-ph01-thumb.jpg
+  file: static/photos/archive-b02/b02-mp007-ph01-thumb.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 86
+  merged_page: 7
+  provenance_confidence: high
+  provenance_notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
+  object_role: thumbnail
+  canonical_public_path: /photos/archive-b02/b02-mp007-ph01-thumb.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 64356
+  width: 400
+  height: 353
+- public_path: /photos/archive-b02/b02-mp007-ph01.jpg
+  file: static/photos/archive-b02/b02-mp007-ph01.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 86
+  merged_page: 7
+  provenance_confidence: high
+  provenance_notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
+  object_role: print_crop
+  canonical_public_path: /photos/archive-b02/b02-mp007-ph01.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 623775
+  width: 1134
+  height: 1000
+- public_path: /photos/archive-b02/b02-mp007-ph02-thumb.jpg
+  file: static/photos/archive-b02/b02-mp007-ph02-thumb.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 86
+  merged_page: 7
+  provenance_confidence: high
+  provenance_notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
+  object_role: thumbnail
+  canonical_public_path: /photos/archive-b02/b02-mp007-ph02-thumb.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 63668
+  width: 350
+  height: 400
+- public_path: /photos/archive-b02/b02-mp007-ph02.jpg
+  file: static/photos/archive-b02/b02-mp007-ph02.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 86
+  merged_page: 7
+  provenance_confidence: high
+  provenance_notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
+  object_role: print_crop
+  canonical_public_path: /photos/archive-b02/b02-mp007-ph02.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 537911
+  width: 933
+  height: 1066
+- public_path: /photos/dnevnik-tt/str-001.jpg
+  file: static/photos/dnevnik-tt/str-001.jpg
+  source_batch: manuscript-b01
+  source_type: manuscript_page_scan
+  original_page: 1
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Published diary page scan; canonical original_page numbering.
+    Not a single-print crop.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-001.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/about-the-notebook.md
+  - content/en/memoirs/diary/about-the-notebook.md
+  - content/ru/vospominaniya/dnevnik/o-tetradi.md
+  - content/ru/vospominaniya/dnevnik/o-tetradi.md
+  bytes: 609611
+  width: 1600
+  height: 2262
+- public_path: /photos/dnevnik-tt/str-002.jpg
+  file: static/photos/dnevnik-tt/str-002.jpg
+  source_batch: manuscript-b01
+  source_type: manuscript_page_scan
+  original_page: 2
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Published diary page scan; canonical original_page numbering.
+    Not a single-print crop.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-002.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/eva-konstantinovna.md
+  - content/ru/roditeli/eva-konstantinovna.md
+  bytes: 379344
+  width: 1131
+  height: 1600
+- public_path: /photos/dnevnik-tt/str-003.jpg
+  file: static/photos/dnevnik-tt/str-003.jpg
+  source_batch: manuscript-b01
+  source_type: manuscript_page_scan
+  original_page: 3
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Published diary page scan; canonical original_page numbering.
+    Not a single-print crop.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-003.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 376393
+  width: 1600
+  height: 1132
+- public_path: /photos/dnevnik-tt/str-007.jpg
+  file: static/photos/dnevnik-tt/str-007.jpg
+  source_batch: manuscript-b01
+  source_type: manuscript_page_scan
+  original_page: 7
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Published diary page scan; canonical original_page numbering.
+    Not a single-print crop.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-007.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 698818
+  width: 1600
+  height: 2262
+- public_path: /photos/dnevnik-tt/str-009.jpg
+  file: static/photos/dnevnik-tt/str-009.jpg
+  source_batch: manuscript-b01
+  source_type: manuscript_page_scan
+  original_page: 9
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Published diary page scan; canonical original_page numbering.
+    Not a single-print crop.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-009.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 637044
+  width: 1600
+  height: 2262
+- public_path: /photos/dnevnik-tt/str-010.jpg
+  file: static/photos/dnevnik-tt/str-010.jpg
+  source_batch: manuscript-b01
+  source_type: manuscript_page_scan
+  original_page: 10
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Published diary page scan; canonical original_page numbering.
+    Not a single-print crop.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-010.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 607712
+  width: 1600
+  height: 2262
+- public_path: /photos/dnevnik-tt/str-012.jpg
+  file: static/photos/dnevnik-tt/str-012.jpg
+  source_batch: manuscript-b01
+  source_type: manuscript_page_scan
+  original_page: 12
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Published diary page scan; canonical original_page numbering.
+    Not a single-print crop.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-012.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/03-childhood-moscow.md
+  - content/ru/vospominaniya/dnevnik/03-detstvo-moskva.md
+  bytes: 641890
+  width: 1600
+  height: 2262
+- public_path: /photos/dnevnik-tt/str-015.jpg
+  file: static/photos/dnevnik-tt/str-015.jpg
+  source_batch: manuscript-b01
+  source_type: manuscript_page_scan
+  original_page: 15
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Published diary page scan; canonical original_page numbering.
+    Not a single-print crop.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-015.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/04-war-1941.md
+  - content/en/memoirs/diary/04-war-1941.md
+  - content/ru/vospominaniya/dnevnik/04-voyna-1941.md
+  - content/ru/vospominaniya/dnevnik/04-voyna-1941.md
+  bytes: 835621
+  width: 1600
+  height: 2262
+- public_path: /photos/dnevnik-tt/str-022.jpg
+  file: static/photos/dnevnik-tt/str-022.jpg
+  source_batch: manuscript-b01
+  source_type: manuscript_page_scan
+  original_page: 22
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Published diary page scan; canonical original_page numbering.
+    Not a single-print crop.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-022.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/04-war-1941.md
+  - content/ru/vospominaniya/dnevnik/04-voyna-1941.md
+  bytes: 553531
+  width: 1600
+  height: 2262
+- public_path: /photos/dnevnik-tt/str-023.jpg
+  file: static/photos/dnevnik-tt/str-023.jpg
+  source_batch: manuscript-b01
+  source_type: manuscript_page_scan
+  original_page: 23
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Published diary page scan; canonical original_page numbering.
+    Not a single-print crop.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-023.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/04-war-1941.md
+  - content/ru/vospominaniya/dnevnik/04-voyna-1941.md
+  bytes: 674081
+  width: 1600
+  height: 2262
+- public_path: /photos/dnevnik-tt/str-024.jpg
+  file: static/photos/dnevnik-tt/str-024.jpg
+  source_batch: manuscript-b01
+  source_type: manuscript_page_scan
+  original_page: 24
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Published diary page scan; canonical original_page numbering.
+    Not a single-print crop.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-024.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/04-war-1941.md
+  - content/ru/vospominaniya/dnevnik/04-voyna-1941.md
+  bytes: 657253
+  width: 1600
+  height: 2262
+- public_path: /photos/dnevnik-tt/str-080.jpg
+  file: static/photos/dnevnik-tt/str-080.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 80
+  merged_page: 1
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-080.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/10-notebook-continued-080-089.md
+  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
+  bytes: 79791
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-081.jpg
+  file: static/photos/dnevnik-tt/str-081.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 81
+  merged_page: 2
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-081.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/10-notebook-continued-080-089.md
+  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
+  bytes: 119584
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-082.jpg
+  file: static/photos/dnevnik-tt/str-082.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 82
+  merged_page: 3
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-082.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/10-notebook-continued-080-089.md
+  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
+  bytes: 153864
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-083.jpg
+  file: static/photos/dnevnik-tt/str-083.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 83
+  merged_page: 4
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-083.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/10-notebook-continued-080-089.md
+  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
+  bytes: 159965
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-084.jpg
+  file: static/photos/dnevnik-tt/str-084.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 84
+  merged_page: 5
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-084.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/10-notebook-continued-080-089.md
+  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
+  bytes: 125445
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-085.jpg
+  file: static/photos/dnevnik-tt/str-085.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 85
+  merged_page: 6
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-085.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/10-notebook-continued-080-089.md
+  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
+  bytes: 122433
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-086.jpg
+  file: static/photos/dnevnik-tt/str-086.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 86
+  merged_page: 7
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-086.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/10-notebook-continued-080-089.md
+  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
+  bytes: 108014
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-087.jpg
+  file: static/photos/dnevnik-tt/str-087.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 87
+  merged_page: 8
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-087.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/10-notebook-continued-080-089.md
+  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
+  bytes: 139538
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-088.jpg
+  file: static/photos/dnevnik-tt/str-088.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 88
+  merged_page: 9
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-088.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/10-notebook-continued-080-089.md
+  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
+  bytes: 168018
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-089.jpg
+  file: static/photos/dnevnik-tt/str-089.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 89
+  merged_page: 10
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-089.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/diary/10-notebook-continued-080-089.md
+  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
+  bytes: 62228
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-090.jpg
+  file: static/photos/dnevnik-tt/str-090.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 90
+  merged_page: 11
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-090.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 42370
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-091.jpg
+  file: static/photos/dnevnik-tt/str-091.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 91
+  merged_page: 12
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-091.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 157653
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-092.jpg
+  file: static/photos/dnevnik-tt/str-092.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 92
+  merged_page: 13
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-092.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 88760
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-093.jpg
+  file: static/photos/dnevnik-tt/str-093.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 93
+  merged_page: 14
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-093.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 155906
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-094.jpg
+  file: static/photos/dnevnik-tt/str-094.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 94
+  merged_page: 15
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-094.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 143348
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-095.jpg
+  file: static/photos/dnevnik-tt/str-095.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 95
+  merged_page: 16
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-095.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 166864
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-096.jpg
+  file: static/photos/dnevnik-tt/str-096.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 96
+  merged_page: 17
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-096.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 166557
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-097.jpg
+  file: static/photos/dnevnik-tt/str-097.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 97
+  merged_page: 18
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-097.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 160117
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-098.jpg
+  file: static/photos/dnevnik-tt/str-098.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 98
+  merged_page: 19
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-098.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 79067
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-099.jpg
+  file: static/photos/dnevnik-tt/str-099.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 99
+  merged_page: 20
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-099.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 14461
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-100.jpg
+  file: static/photos/dnevnik-tt/str-100.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 100
+  merged_page: 21
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-100.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 35351
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-101.jpg
+  file: static/photos/dnevnik-tt/str-101.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 101
+  merged_page: 22
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-101.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 41630
+  width: 841
+  height: 595
+- public_path: /photos/dnevnik-tt/str-102.jpg
+  file: static/photos/dnevnik-tt/str-102.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 102
+  merged_page: 23
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-102.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 42200
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-103.jpg
+  file: static/photos/dnevnik-tt/str-103.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 103
+  merged_page: 24
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-103.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 43082
+  width: 841
+  height: 595
+- public_path: /photos/dnevnik-tt/str-104.jpg
+  file: static/photos/dnevnik-tt/str-104.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 104
+  merged_page: 25
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-104.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 39979
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-105.jpg
+  file: static/photos/dnevnik-tt/str-105.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 105
+  merged_page: 26
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-105.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 41710
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-106.jpg
+  file: static/photos/dnevnik-tt/str-106.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 106
+  merged_page: 27
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-106.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 43844
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-107.jpg
+  file: static/photos/dnevnik-tt/str-107.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 107
+  merged_page: 28
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-107.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 55478
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-108.jpg
+  file: static/photos/dnevnik-tt/str-108.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 108
+  merged_page: 29
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-108.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 57727
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-109.jpg
+  file: static/photos/dnevnik-tt/str-109.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 109
+  merged_page: 30
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-109.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 155815
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-110.jpg
+  file: static/photos/dnevnik-tt/str-110.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 110
+  merged_page: 31
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-110.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 174600
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-111.jpg
+  file: static/photos/dnevnik-tt/str-111.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 111
+  merged_page: 32
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-111.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 164724
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-112.jpg
+  file: static/photos/dnevnik-tt/str-112.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 112
+  merged_page: 33
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-112.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 173270
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-113.jpg
+  file: static/photos/dnevnik-tt/str-113.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 113
+  merged_page: 34
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-113.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 171050
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-114.jpg
+  file: static/photos/dnevnik-tt/str-114.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 114
+  merged_page: 35
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-114.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 169409
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-115.jpg
+  file: static/photos/dnevnik-tt/str-115.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 115
+  merged_page: 36
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-115.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 172558
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-116.jpg
+  file: static/photos/dnevnik-tt/str-116.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 116
+  merged_page: 37
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-116.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 171525
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-117.jpg
+  file: static/photos/dnevnik-tt/str-117.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 117
+  merged_page: 38
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-117.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 143046
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-118.jpg
+  file: static/photos/dnevnik-tt/str-118.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 118
+  merged_page: 39
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-118.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 169651
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-119.jpg
+  file: static/photos/dnevnik-tt/str-119.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 119
+  merged_page: 40
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-119.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 184877
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-120.jpg
+  file: static/photos/dnevnik-tt/str-120.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 120
+  merged_page: 41
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-120.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 177243
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-121.jpg
+  file: static/photos/dnevnik-tt/str-121.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 121
+  merged_page: 42
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-121.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 171525
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-122.jpg
+  file: static/photos/dnevnik-tt/str-122.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 122
+  merged_page: 43
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-122.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 170257
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-123.jpg
+  file: static/photos/dnevnik-tt/str-123.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 123
+  merged_page: 44
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-123.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 176205
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-124.jpg
+  file: static/photos/dnevnik-tt/str-124.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 124
+  merged_page: 45
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-124.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 152995
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-125.jpg
+  file: static/photos/dnevnik-tt/str-125.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 125
+  merged_page: 46
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-125.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 144274
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-126.jpg
+  file: static/photos/dnevnik-tt/str-126.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 126
+  merged_page: 47
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-126.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 145796
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-127.jpg
+  file: static/photos/dnevnik-tt/str-127.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 127
+  merged_page: 48
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-127.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 29997
+  width: 841
+  height: 595
+- public_path: /photos/dnevnik-tt/str-128.jpg
+  file: static/photos/dnevnik-tt/str-128.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 128
+  merged_page: 49
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-128.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 84270
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-129.jpg
+  file: static/photos/dnevnik-tt/str-129.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 129
+  merged_page: 50
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-129.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 82711
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-130.jpg
+  file: static/photos/dnevnik-tt/str-130.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 130
+  merged_page: 51
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-130.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 33959
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-131.jpg
+  file: static/photos/dnevnik-tt/str-131.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 131
+  merged_page: 52
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-131.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 34176
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-132.jpg
+  file: static/photos/dnevnik-tt/str-132.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 132
+  merged_page: 53
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-132.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 71377
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-133.jpg
+  file: static/photos/dnevnik-tt/str-133.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 133
+  merged_page: 54
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-133.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 49982
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-134.jpg
+  file: static/photos/dnevnik-tt/str-134.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 134
+  merged_page: 55
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-134.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 48530
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-135.jpg
+  file: static/photos/dnevnik-tt/str-135.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 135
+  merged_page: 56
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-135.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 142274
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-136.jpg
+  file: static/photos/dnevnik-tt/str-136.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 136
+  merged_page: 57
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-136.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 145137
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-137.jpg
+  file: static/photos/dnevnik-tt/str-137.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 137
+  merged_page: 58
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-137.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 143779
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-138.jpg
+  file: static/photos/dnevnik-tt/str-138.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 138
+  merged_page: 59
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-138.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 145186
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-139.jpg
+  file: static/photos/dnevnik-tt/str-139.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 139
+  merged_page: 60
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-139.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 162525
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-140.jpg
+  file: static/photos/dnevnik-tt/str-140.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 140
+  merged_page: 61
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-140.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 165084
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-141.jpg
+  file: static/photos/dnevnik-tt/str-141.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 141
+  merged_page: 62
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-141.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 161622
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-142.jpg
+  file: static/photos/dnevnik-tt/str-142.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 142
+  merged_page: 63
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-142.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 160470
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-143.jpg
+  file: static/photos/dnevnik-tt/str-143.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 143
+  merged_page: 64
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-143.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 154701
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-144.jpg
+  file: static/photos/dnevnik-tt/str-144.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 144
+  merged_page: 65
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-144.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 158363
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-145.jpg
+  file: static/photos/dnevnik-tt/str-145.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 145
+  merged_page: 66
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-145.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 152330
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-146.jpg
+  file: static/photos/dnevnik-tt/str-146.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 146
+  merged_page: 67
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-146.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 147075
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-147.jpg
+  file: static/photos/dnevnik-tt/str-147.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 147
+  merged_page: 68
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-147.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 90495
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-148.jpg
+  file: static/photos/dnevnik-tt/str-148.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 148
+  merged_page: 69
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-148.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 133704
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-149.jpg
+  file: static/photos/dnevnik-tt/str-149.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 149
+  merged_page: 70
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-149.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 165538
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-150.jpg
+  file: static/photos/dnevnik-tt/str-150.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 150
+  merged_page: 71
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-150.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 154210
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-151.jpg
+  file: static/photos/dnevnik-tt/str-151.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 151
+  merged_page: 72
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-151.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 125617
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-152.jpg
+  file: static/photos/dnevnik-tt/str-152.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 152
+  merged_page: 73
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-152.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 159392
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-153.jpg
+  file: static/photos/dnevnik-tt/str-153.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 153
+  merged_page: 74
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-153.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 155305
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-154.jpg
+  file: static/photos/dnevnik-tt/str-154.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 154
+  merged_page: 75
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-154.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 125622
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-155.jpg
+  file: static/photos/dnevnik-tt/str-155.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 155
+  merged_page: 76
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-155.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 150523
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-156.jpg
+  file: static/photos/dnevnik-tt/str-156.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 156
+  merged_page: 77
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-156.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 156496
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-157.jpg
+  file: static/photos/dnevnik-tt/str-157.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 157
+  merged_page: 78
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-157.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 92530
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-158.jpg
+  file: static/photos/dnevnik-tt/str-158.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 158
+  merged_page: 79
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-158.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 154864
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-159.jpg
+  file: static/photos/dnevnik-tt/str-159.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 159
+  merged_page: 80
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-159.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 165726
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-160.jpg
+  file: static/photos/dnevnik-tt/str-160.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 160
+  merged_page: 81
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-160.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 159061
+  width: 595
+  height: 841
+- public_path: /photos/dnevnik-tt/str-161.jpg
+  file: static/photos/dnevnik-tt/str-161.jpg
+  source_batch: manuscript-b02
+  source_type: manuscript_page_scan
+  original_page: 161
+  merged_page: 82
+  provenance_confidence: medium
+  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
+    QA.
+  object_role: page_scan_overview
+  canonical_public_path: /photos/dnevnik-tt/str-161.jpg
+  url_stable: true
+  content_refs: []
+  bytes: 112587
+  width: 595
+  height: 841
+- public_path: /photos/eva-konstantinovna/eva-portrait.jpg
+  file: static/photos/eva-konstantinovna/eva-portrait.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Portrait page; may match notebook paste-in on op002 — verify visually,
+    do not assume.
+  object_role: published_portrait
+  canonical_public_path: /photos/eva-konstantinovna/eva-portrait.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/eva-konstantinovna.md
+  - content/en/parents/eva-konstantinovna.md
+  - content/en/memoirs/diary/01-my-mother.md
+  - content/en/memoirs/diary/01-my-mother.md
+  - content/ru/roditeli/eva-konstantinovna.md
+  - content/ru/roditeli/eva-konstantinovna.md
+  - content/ru/vospominaniya/dnevnik/01-moya-mama.md
+  - content/ru/vospominaniya/dnevnik/01-moya-mama.md
+  bytes: 130888
+  width: 672
+  height: 900
+- public_path: /photos/krivoshein-da/dmitry-portrait.jpg
+  file: static/photos/krivoshein-da/dmitry-portrait.jpg
+  source_batch: null
+  source_type: external-public-source
+  original_page: null
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Wikipedia/Wikimedia Commons per content caption.
+  object_role: published_portrait
+  canonical_public_path: /photos/krivoshein-da/dmitry-portrait.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/dmitry-aleksandrovich-krivoshein.md
+  - content/en/parents/dmitry-aleksandrovich-krivoshein.md
+  - content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
+  - content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
+  bytes: 145897
+  width: 815
+  height: 1200
+- public_path: /photos/samsonov-tp/01-cabinet-desk.jpg
+  file: static/photos/samsonov-tp/01-cabinet-desk.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: published_portrait_or_document
+  canonical_public_path: /photos/samsonov-tp/01-cabinet-desk.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  bytes: 304511
+  width: 1125
+  height: 2000
+- public_path: /photos/samsonov-tp/02-young-cap.jpg
+  file: static/photos/samsonov-tp/02-young-cap.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: published_portrait_or_document
+  canonical_public_path: /photos/samsonov-tp/02-young-cap.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  bytes: 197099
+  width: 1217
+  height: 2000
+- public_path: /photos/samsonov-tp/03-late-years.jpg
+  file: static/photos/samsonov-tp/03-late-years.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: published_portrait_or_document
+  canonical_public_path: /photos/samsonov-tp/03-late-years.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  bytes: 335484
+  width: 1125
+  height: 2000
+- public_path: /photos/samsonov-tp/04-official-bashkir.jpg
+  file: static/photos/samsonov-tp/04-official-bashkir.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: published_portrait_or_document
+  canonical_public_path: /photos/samsonov-tp/04-official-bashkir.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  bytes: 273383
+  width: 1125
+  height: 2000
+- public_path: /photos/samsonov-tp/05-studio-moscow-oval.jpg
+  file: static/photos/samsonov-tp/05-studio-moscow-oval.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: published_portrait_or_document
+  canonical_public_path: /photos/samsonov-tp/05-studio-moscow-oval.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/father-and-mother.md
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/otets-i-mat.md
+  bytes: 199756
+  width: 1125
+  height: 2000
+- public_path: /photos/samsonov-tp/06-dzerzhinsky-and-wife.jpg
+  file: static/photos/samsonov-tp/06-dzerzhinsky-and-wife.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: published_portrait_or_document
+  canonical_public_path: /photos/samsonov-tp/06-dzerzhinsky-and-wife.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  bytes: 529086
+  width: 2000
+  height: 1125
+- public_path: /photos/samsonov-tp/07-bust-1888-1955.jpg
+  file: static/photos/samsonov-tp/07-bust-1888-1955.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: published_portrait_or_document
+  canonical_public_path: /photos/samsonov-tp/07-bust-1888-1955.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  bytes: 273253
+  width: 1125
+  height: 2000
+- public_path: /photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg
+  file: static/photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page. Likely same print subject as some notebook photos (check duplicates).
+  object_role: published_portrait_or_document
+  canonical_public_path: /photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/father-and-mother.md
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/otets-i-mat.md
+  bytes: 343479
+  width: 2000
+  height: 1125
+- public_path: /photos/samsonov-tp/09-alexandrovsky-central-1910.jpg
+  file: static/photos/samsonov-tp/09-alexandrovsky-central-1910.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page. Likely same print subject as some notebook photos (check duplicates).
+  object_role: published_portrait_or_document
+  canonical_public_path: /photos/samsonov-tp/09-alexandrovsky-central-1910.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  bytes: 278135
+  width: 2000
+  height: 1125
+- public_path: /photos/samsonov-tp/10-order-red-banner.jpg
+  file: static/photos/samsonov-tp/10-order-red-banner.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: document_scan
+  canonical_public_path: /photos/samsonov-tp/10-order-red-banner.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/en/documents/order-of-the-red-banner-samsonov.md
+  - content/en/documents/order-of-the-red-banner-samsonov.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/dokumenty/orden-krasnogo-znameni-samsonov.md
+  - content/ru/dokumenty/orden-krasnogo-znameni-samsonov.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  bytes: 553630
+  width: 1125
+  height: 2000
+- public_path: /photos/samsonov-tp/11-expulsion-uk-1917.jpg
+  file: static/photos/samsonov-tp/11-expulsion-uk-1917.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: document_scan
+  canonical_public_path: /photos/samsonov-tp/11-expulsion-uk-1917.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/en/documents/expulsion-uk-1917.md
+  - content/en/documents/expulsion-uk-1917.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/dokumenty/vysylka-velikobritaniya-1917.md
+  - content/ru/dokumenty/vysylka-velikobritaniya-1917.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  bytes: 421356
+  width: 1339
+  height: 2000
+- public_path: /photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg
+  file: static/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: published_portrait_or_document
+  canonical_public_path: /photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/about-tatyana-timofeevna.md
+  - content/en/parents/father-and-mother.md
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/ru/vospominaniya/o-tatyane-timofeevne.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  - content/ru/roditeli/otets-i-mat.md
+  bytes: 300517
+  width: 1387
+  height: 2000
+- public_path: /photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg
+  file: static/photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: document_scan
+  canonical_public_path: /photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/en/documents/colt-certificate-1919.md
+  - content/en/documents/colt-certificate-1919.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/dokumenty/udostoverenie-kolt-1919.md
+  - content/ru/dokumenty/udostoverenie-kolt-1919.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  - content/ru/vospominaniya/dnevnik/09-dokumenty-v-tetradi.md
+  bytes: 231457
+  width: 2000
+  height: 869
+- public_path: /photos/samsonov-tp/14-gpu-badge.jpg
+  file: static/photos/samsonov-tp/14-gpu-badge.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: document_scan
+  canonical_public_path: /photos/samsonov-tp/14-gpu-badge.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/en/documents/gpu-badge-samsonov.md
+  - content/en/documents/gpu-badge-samsonov.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/dokumenty/znak-gpu-samsonov.md
+  - content/ru/dokumenty/znak-gpu-samsonov.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  bytes: 273660
+  width: 2000
+  height: 1583
+- public_path: /photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg
+  file: static/photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg
+  source_batch: null
+  source_type: separate-family-album
+  original_page: null
+  merged_page: null
+  provenance_confidence: medium
+  provenance_notes: Published under samsonov-tp; content notes family album / Google
+    Photos dedupe. May also appear as print inside notebook B01/B02 — cross-check
+    via pHash only as hint, do not assign original_page without visual proof on manuscript
+    page.
+  object_role: document_scan
+  canonical_public_path: /photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg
+  url_stable: true
+  content_refs:
+  - content/en/parents/timofey-petrovich-samsonov.md
+  - content/en/photos/samsonov-timofey-petrovich.md
+  - content/en/documents/pravda-on-dzerzhinsky-1929.md
+  - content/en/documents/pravda-on-dzerzhinsky-1929.md
+  - content/ru/foto/samsonov-timofey-petrovich.md
+  - content/ru/dokumenty/pravda-o-dzerzhinskom-1929.md
+  - content/ru/dokumenty/pravda-o-dzerzhinskom-1929.md
+  - content/ru/roditeli/samsonov-timofey-petrovich.md
+  bytes: 562305
+  width: 2000
+  height: 1374
+- public_path: /photos/tatyana-tt/2019-home-last-year.jpg
+  file: static/photos/tatyana-tt/2019-home-last-year.jpg
+  source_batch: null
+  source_type: user-photo
+  original_page: null
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Family photo 2019; not from manuscript PDF.
+  object_role: contemporary_family_photo
+  canonical_public_path: /photos/tatyana-tt/2019-home-last-year.jpg
+  url_stable: true
+  content_refs:
+  - content/en/_index.md
+  - content/ru/_index.md
+  - content/en/memoirs/about-tatyana-timofeevna.md
+  - content/en/memoirs/about-tatyana-timofeevna.md
+  - content/en/photos/tatyana-timofeevna-2019.md
+  - content/en/photos/tatyana-timofeevna-2019.md
+  - content/ru/vospominaniya/o-tatyane-timofeevne.md
+  - content/ru/vospominaniya/o-tatyane-timofeevne.md
+  - content/ru/foto/tatyana-timofeevna-2019.md
+  - content/ru/foto/tatyana-timofeevna-2019.md
+  bytes: 424650
+  width: 1125
+  height: 2000
+- public_path: /photos/tatyana-tt/grave-plaque-2021.jpg
+  file: static/photos/tatyana-tt/grave-plaque-2021.jpg
+  source_batch: null
+  source_type: user-photo
+  original_page: null
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Grave plaque photo; not from manuscript PDF.
+  object_role: grave_plaque_photo
+  canonical_public_path: /photos/tatyana-tt/grave-plaque-2021.jpg
+  url_stable: true
+  content_refs:
+  - content/en/memoirs/about-tatyana-timofeevna.md
+  - content/ru/vospominaniya/o-tatyane-timofeevne.md
+  bytes: 1478728
+  width: 1600
+  height: 2143
+- public_path: /photos/tatyana-tt/grave-plaque-2021.webp
+  file: static/photos/tatyana-tt/grave-plaque-2021.webp
+  source_batch: null
+  source_type: user-photo
+  original_page: null
+  merged_page: null
+  provenance_confidence: high
+  provenance_notes: Grave plaque photo; not from manuscript PDF.
+  object_role: grave_plaque_photo
+  canonical_public_path: /photos/tatyana-tt/grave-plaque-2021.webp
+  url_stable: true
+  content_refs: []
+  bytes: 1398874
+  width: 1600
+  height: 2143

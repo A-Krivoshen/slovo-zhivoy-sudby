@@ -1,0 +1,96 @@
+batch_id: manuscript-b01
+source_pdf: inbox/scans/memoirs/_raw/nasha_rodoslovnaya_samsonovy_corrected.pdf
+sha256: 99d859f158eaece09502b25e0082a9d8ca1294441312fb6978b64fac311a75c9
+stage: first_verified_block
+note: PARTIAL. Auto candidates exist for 41 pages; only visually verified entries
+  listed. URL-stable published files not replaced.
+photos:
+- photo_id: b01-c002-ph01
+  batch_id: manuscript-b01
+  corrected_page: 2
+  original_page: 2
+  photo_index_on_page: 1
+  object_type: portrait_photo
+  bbox_px:
+    x: 668
+    y: 500
+    w: 943
+    h: 1286
+  context_bbox_px:
+    x: 628
+    y: 380
+    w: 1023
+    h: 1686
+  page_dimensions_px:
+    w: 2480
+    h: 3507
+  page_rotation: 0
+  local_photo_rotation: 0
+  caption_raw: 'Моя мама.
+
+    Моя мама – Самсонова (Морозова)
+
+    Ева Константиновна.'
+  caption_normalized_ru: Моя мама — Самсонова (Морозова) Ева Константиновна.
+  caption_translation_en: My mother — Samsonova (Morozova) Eva Konstantinovna.
+  caption_relation: above_and_below
+  people_confirmed:
+  - Самсонова (Морозова) Ева Константиновна
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  duplicate_group: eva-portrait-polka-dots
+  related_public_paths:
+  - /photos/eva-konstantinovna/eva-portrait.jpg
+  - /photos/dnevnik-tt/str-002.jpg
+  relation_to_public: same_print_subject_as_eva-portrait; page_scan str-002 is full
+    leaf; do not replace public URLs without comparison
+  published_path_new: /photos/archive-b01/b01-c002-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c002-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c002-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c002-ph01-context.jpg
+page_scans_published_keep:
+- path: /photos/dnevnik-tt/str-001.jpg
+  original_page: 1
+  decision: keep
+  role: page_scan_overview
+- path: /photos/dnevnik-tt/str-002.jpg
+  original_page: 2
+  decision: keep
+  role: page_scan_overview
+- path: /photos/dnevnik-tt/str-003.jpg
+  original_page: 3
+  decision: keep
+  role: page_scan_overview
+- path: /photos/dnevnik-tt/str-007.jpg
+  original_page: 7
+  decision: keep
+  role: page_scan_overview
+- path: /photos/dnevnik-tt/str-009.jpg
+  original_page: 9
+  decision: keep
+  role: page_scan_overview
+- path: /photos/dnevnik-tt/str-010.jpg
+  original_page: 10
+  decision: keep
+  role: page_scan_overview
+- path: /photos/dnevnik-tt/str-012.jpg
+  original_page: 12
+  decision: keep
+  role: page_scan_overview
+- path: /photos/dnevnik-tt/str-015.jpg
+  original_page: 15
+  decision: keep
+  role: page_scan_overview
+- path: /photos/dnevnik-tt/str-022.jpg
+  original_page: 22
+  decision: keep
+  role: page_scan_overview
+- path: /photos/dnevnik-tt/str-023.jpg
+  original_page: 23
+  decision: keep
+  role: page_scan_overview
+- path: /photos/dnevnik-tt/str-024.jpg
+  original_page: 24
+  decision: keep
+  role: page_scan_overview

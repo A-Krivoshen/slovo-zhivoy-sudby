@@ -691,10 +691,23 @@ images:
   source_type: manuscript_page_scan
   original_page: 99
   merged_page: 20
-  provenance_confidence: medium
-  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
-    QA.
+  photo_id: pub-photos__dnevnik-tt__str-099
+  document_id: doc-b02-medal-zahysnyku-vitichyzny
+  provenance_confidence: high
+  provenance_notes: >
+    B02 m-020 cover of Ukrainian medal certificate «Захиснику Вітчизни».
+    person_confirmed: Самсонов Тимофей Тимофеевич (Uncle Tyoma).
+    not_this_person: Самсонов Тимофей Петрович.
+    identity_status: document_confirmed (FIO on filled face str-100 / m-021).
+    review_status: withheld_pending_person_page — do not publish as standalone
+    or on T.P. Samsonov pages/album.
   object_role: page_scan_overview
+  person_confirmed:
+  - Самсонов Тимофей Тимофеевич
+  identity_status: document_confirmed
+  not_this_person:
+  - Самсонов Тимофей Петрович
+  review_status: withheld_pending_person_page
   canonical_public_path: /photos/dnevnik-tt/str-099.jpg
   url_stable: true
   content_refs: []
@@ -707,10 +720,21 @@ images:
   source_type: manuscript_page_scan
   original_page: 100
   merged_page: 21
-  provenance_confidence: medium
-  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
-    QA.
+  photo_id: pub-photos__dnevnik-tt__str-100
+  document_id: doc-b02-medal-zahysnyku-vitichyzny
+  provenance_confidence: high
+  provenance_notes: >
+    B02 m-021 filled certificate. Handwritten FIO: САМСОНОВ ТИМОФЕЙ ТИМОФЕЕВИЧ.
+    Decree 14 October 1999. NOT T.P. Samsonov (1888–1955).
+    review_status: withheld_pending_person_page. Do not publish series/number
+    (МН 178440) on public site. Not for samsonov-tp bio or album.
   object_role: page_scan_overview
+  person_confirmed:
+  - Самсонов Тимофей Тимофеевич
+  identity_status: document_confirmed
+  not_this_person:
+  - Самсонов Тимофей Петрович
+  review_status: withheld_pending_person_page
   canonical_public_path: /photos/dnevnik-tt/str-100.jpg
   url_stable: true
   content_refs: []

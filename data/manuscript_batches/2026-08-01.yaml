@@ -1,0 +1,1014 @@
+# batch manuscript-2026-08-01-b02
+batch_id: manuscript-2026-08-01-b02
+received: "2026-08-01"
+pdf_path: inbox/scans/memoirs/_raw/samsonovy_new_scans_2026-08-01_corrected.pdf
+pdf_sha256: 66f69122cc6e0adac3083fb1c3b2833db8a85c9d5952c692f125188f114d424d
+pdf_bytes: 199481679
+page_count: 82
+numbering_decision: sequential_continuation
+first_original_page: 80
+last_original_page: 161
+overlap_with_batch1_end: none_confirmed
+pages:
+  - merged_page: "001"
+    source_file: 20260801164217.pdf
+    source_page: 1
+    archive_original_page: "080"
+    scan_id: str-080
+    rotation_applied: 0
+    content_type: photo_collage
+    transcription_status: first_pass
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Dzerzhinsky trio + funeral crowd captions"
+  - merged_page: "002"
+    source_file: 20260801164217.pdf
+    source_page: 2
+    archive_original_page: "081"
+    scan_id: str-081
+    rotation_applied: 180
+    content_type: mixed
+    transcription_status: first_pass
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Father colleagues list; Alexandrovsky Central 1910 photo"
+  - merged_page: "003"
+    source_file: 20260801164217.pdf
+    source_page: 3
+    archive_original_page: "082"
+    scan_id: str-082
+    rotation_applied: 0
+    content_type: handwriting
+    transcription_status: first_pass
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "1941 evacuation / war narrative continues"
+  - merged_page: "004"
+    source_file: 20260801164217.pdf
+    source_page: 4
+    archive_original_page: "083"
+    scan_id: str-083
+    rotation_applied: 0
+    content_type: handwriting
+    transcription_status: first_pass
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "1948–1955; father illness and death Oct 1955"
+  - merged_page: "005"
+    source_file: 20260801171433.pdf
+    source_page: 1
+    archive_original_page: "084"
+    scan_id: str-084
+    rotation_applied: 0
+    content_type: mixed
+    transcription_status: first_pass
+    privacy_status: possible_living
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Novodevichy grave; KGB museum visit note"
+  - merged_page: "006"
+    source_file: 20260801171433.pdf
+    source_page: 2
+    archive_original_page: "085"
+    scan_id: str-085
+    rotation_applied: 0
+    content_type: handwriting
+    transcription_status: first_pass
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Curriculum / roles list of Samsonov T.P."
+  - merged_page: "007"
+    source_file: 20260801171433.pdf
+    source_page: 3
+    archive_original_page: "086"
+    scan_id: str-086
+    rotation_applied: 0
+    content_type: photo_collage
+    transcription_status: first_pass
+    privacy_status: possible_living
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Mama and Papa at Gostukha; group library photos"
+  - merged_page: "008"
+    source_file: 20260801171433.pdf
+    source_page: 4
+    archive_original_page: "087"
+    scan_id: str-087
+    rotation_applied: 0
+    content_type: mixed
+    transcription_status: first_pass
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Sister Genya and brother Tyoma; letter-poem 1 Dec 1936"
+  - merged_page: "009"
+    source_file: 20260801171433.pdf
+    source_page: 5
+    archive_original_page: "088"
+    scan_id: str-088
+    rotation_applied: 0
+    content_type: handwriting
+    transcription_status: first_pass
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Sister Genya illness TB; childhood"
+  - merged_page: "010"
+    source_file: 20260801171433.pdf
+    source_page: 6
+    archive_original_page: "089"
+    scan_id: str-089
+    rotation_applied: 180
+    content_type: letter
+    transcription_status: first_pass
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Letter to sister (cropped edges)"
+  - merged_page: "011"
+    source_file: 20260801171433.pdf
+    source_page: 7
+    archive_original_page: "090"
+    scan_id: str-090
+    rotation_applied: 0
+    content_type: letter
+    transcription_status: first_pass
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Pale paper leaf (or scrap) with black-ink Cyrillic handwriting against a plain white background; right edge of the leaf is cut off so…"
+  - merged_page: "012"
+    source_file: 20260801171433.pdf
+    source_page: 8
+    archive_original_page: "091"
+    scan_id: str-091
+    rotation_applied: 0
+    content_type: handwriting
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full grid-notebook page, blue pen, continuous memoir narrative. Continues story of Женя: mother disapproves of lifestyle; doctor…"
+  - merged_page: "013"
+    source_file: 20260801171433.pdf
+    source_page: 9
+    archive_original_page: "092"
+    scan_id: str-092
+    rotation_applied: 0
+    content_type: photo_collage
+    transcription_status: first_pass
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Grid notebook page with three mounted black-and-white photographs and handwritten captions (black and blue ink). Top-left: two young…"
+  - merged_page: "014"
+    source_file: 20260801171433.pdf
+    source_page: 10
+    archive_original_page: "093"
+    scan_id: str-093
+    rotation_applied: 0
+    content_type: mixed
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Grid notebook page. Title underlined in red: \"Мой брат.\" Blue-ink biography of brother \"Самсонов Григорий Тимофеевич,\" born in Moscow 27…"
+  - merged_page: "015"
+    source_file: 20260801171433.pdf
+    source_page: 11
+    archive_original_page: "094"
+    scan_id: str-094
+    rotation_applied: 0
+    content_type: handwriting
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full grid notebook page, blue pen, memoir continuation about brother Женя/Григорий. Topics visible: swimming/diving and parental worry;…"
+  - merged_page: "016"
+    source_file: 20260801171433.pdf
+    source_page: 12
+    archive_original_page: "095"
+    scan_id: str-095
+    rotation_applied: 0
+    content_type: handwriting
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full grid notebook page, blue pen. Continues childhood/war narrative: uncle sailor joke about trousers and money; friends Илюша and Коля…"
+  - merged_page: "017"
+    source_file: 20260801171433.pdf
+    source_page: 13
+    archive_original_page: "096"
+    scan_id: str-096
+    rotation_applied: 0
+    content_type: handwriting
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full grid notebook page, blue pen. Post-hospital / wartime and postwar notes about brother: returns home January; relatives visit; mama…"
+  - merged_page: "018"
+    source_file: 20260801171433.pdf
+    source_page: 14
+    archive_original_page: "097"
+    scan_id: str-097
+    rotation_applied: 0
+    content_type: handwriting
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full grid notebook page, blue pen. Postwar path of brother: enters pedagogy school, becomes teacher; author already at 10th grade; they…"
+  - merged_page: "019"
+    source_file: 20260801171433.pdf
+    source_page: 15
+    archive_original_page: "098"
+    scan_id: str-098
+    rotation_applied: 0
+    content_type: mixed
+    transcription_status: second_pass
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Grid notebook page with two mounted handwritten notes plus album captions. Upper note (black ink): \"Таня, любимая!\" — New Year good…"
+  - merged_page: "020"
+    source_file: 20260801171433.pdf
+    source_page: 16
+    archive_original_page: "099"
+    scan_id: str-099
+    photo_id: pub-photos__dnevnik-tt__str-099
+    document_id: doc-b02-medal-zahysnyku-vitichyzny
+    rotation_applied: 0
+    content_type: official_document
+    transcription_status: second_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    # Cover of the same booklet as m-021 (filled face). Recipient is NOT T.P. Samsonov.
+    person_confirmed:
+      - Самсонов Тимофей Тимофеевич
+    identity_status: document_confirmed
+    not_this_person:
+      - Самсонов Тимофей Петрович
+    review_status: withheld_pending_person_page
+    notes: "Cover of Ukrainian certificate booklet ПОСВІДЧЕННЯ… медалі «ЗАХИСНИКУ ВІТЧИЗНИ». Paired with m-021. Recipient confirmed on filled face: Самсонов Тимофей Тимофеевич (Uncle Tyoma). NOT Самсонов Тимофей Петрович. Withheld from public until person page for brother exists; do not add to T.P. bio/album."
+  - merged_page: "021"
+    source_file: 20260801171433.pdf
+    source_page: 17
+    archive_original_page: "100"
+    scan_id: str-100
+    photo_id: pub-photos__dnevnik-tt__str-100
+    document_id: doc-b02-medal-zahysnyku-vitichyzny
+    rotation_applied: 0
+    content_type: award_certificate
+    transcription_status: second_pass
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    # Handwritten FIO on form: САМСОНОВ / ТИМОФЕЙ / ТИМОФЕЕВИЧ. Decree 14 Oct 1999.
+    person_confirmed:
+      - Самсонов Тимофей Тимофеевич
+    identity_status: document_confirmed
+    not_this_person:
+      - Самсонов Тимофей Петрович
+    review_status: withheld_pending_person_page
+    notes: "Ukrainian medal certificate «Захиснику Вітчизни»; handwritten САМСОНОВ ТИМОФЕЙ ТИМОФЕЕВИЧ; series МН 178440 (do not publish series/number). Uncle Tyoma, brother of T.T. Krivosheina. NOT father T.P. Samsonov (1888–1955). Withheld_pending_person_page; never attach to samsonov-tp pages or album."
+  - merged_page: "022"
+    source_file: 20260801171433.pdf
+    source_page: 18
+    archive_original_page: "101"
+    scan_id: str-101
+    rotation_applied: 90
+    content_type: photograph
+    transcription_status: second_pass
+    privacy_status: low
+    duplicate_of: "023"
+    alternate_scan_of: null
+    notes: "Black-and-white photo of four adults at a table (exam/meeting scene); handwritten caption top right «Экзамен по гражд. обороне.» Content…"
+  - merged_page: "023"
+    source_file: 20260801171433.pdf
+    source_page: 19
+    archive_original_page: "102"
+    scan_id: str-102
+    rotation_applied: 0
+    content_type: photograph
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: "022"
+    alternate_scan_of: null
+    notes: "Same black-and-white photo and same handwritten caption as m-022 (alternate crop / tighter framing, less surrounding blank). Content…"
+  - merged_page: "024"
+    source_file: 20260801171433.pdf
+    source_page: 20
+    archive_original_page: "103"
+    scan_id: str-103
+    rotation_applied: 90
+    content_type: letter
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Handwritten wartime letter on tan paper; header date 11.05.43 and «Действующая армия»; salutation to parents and sister; blue ink, dense…"
+  - merged_page: "025"
+    source_file: 20260801171433.pdf
+    source_page: 21
+    archive_original_page: "104"
+    scan_id: str-104
+    rotation_applied: 0
+    content_type: letter
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Handwritten wartime letter on tan paper; header date 28.VI.44; salutation to parents; folds and edge wear; dense blue cursive, some…"
+  - merged_page: "026"
+    source_file: 20260801171433.pdf
+    source_page: 22
+    archive_original_page: "105"
+    scan_id: str-105
+    rotation_applied: 0
+    content_type: letter
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Handwritten wartime letter on tan paper; header date 14.VI.43 and «Действующая армия»; salutation to mother; full page of continuous…"
+  - merged_page: "027"
+    source_file: 20260801171433.pdf
+    source_page: 23
+    archive_original_page: "106"
+    scan_id: str-106
+    rotation_applied: 0
+    content_type: envelope
+    transcription_status: first_pass
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Reverse of wartime letter sheet: short text continuation at top, then postal address block to Moscow and field-post return line;…"
+  - merged_page: "028"
+    source_file: 20260801171433.pdf
+    source_page: 24
+    archive_original_page: "107"
+    scan_id: str-107
+    rotation_applied: 0
+    content_type: letter
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Handwritten wartime letter on tan paper; header date 13.VII.44 and «Действующая армия»; salutation to parents and sister; body plus…"
+  - merged_page: "029"
+    source_file: 20260801171433.pdf
+    source_page: 25
+    archive_original_page: "108"
+    scan_id: str-108
+    rotation_applied: 0
+    content_type: award_certificate
+    transcription_status: second_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Printed USSR certificate «Удостоверение» for medal «За оборону Сталинграда» with handwritten rank/name fill-in, decree line 22 December…"
+  - merged_page: "030"
+    source_file: 20260801171433.pdf
+    source_page: 26
+    archive_original_page: "109"
+    scan_id: str-109
+    rotation_applied: 0
+    content_type: manuscript
+    transcription_status: second_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Handwritten memoir page on lined notebook paper (blue ink); opens with personal heading block then continuous narrative. Content…"
+  - merged_page: "031"
+    source_file: 20260801171433.pdf
+    source_page: 27
+    archive_original_page: "110"
+    scan_id: str-110
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright scan of blue ballpoint manuscript on white graph-paper notebook page; continuous memoir text filling nearly the full leaf.…"
+  - merged_page: "032"
+    source_file: 20260801171433.pdf
+    source_page: 28
+    archive_original_page: "111"
+    scan_id: str-111
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright blue-ink manuscript on graph paper; sequential continuation. Names neighbor Natasha Sorokina (entrance 10; later candidate of…"
+  - merged_page: "033"
+    source_file: 20260801171433.pdf
+    source_page: 29
+    archive_original_page: "112"
+    scan_id: str-112
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright blue-ink graph-paper memoir page. School/music content: girls’ boarding school for teachers; music teacher Rachmaninov (as…"
+  - merged_page: "034"
+    source_file: 20260801171433.pdf
+    source_page: 30
+    archive_original_page: "113"
+    scan_id: str-113
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright blue-ink graph-paper page. Childhood friends and activities: Inna Grebneva, Marina Takher, Kira Pronyukay; school courtyard…"
+  - merged_page: "035"
+    source_file: 20260801171433.pdf
+    source_page: 31
+    archive_original_page: "114"
+    scan_id: str-114
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright blue-ink graph-paper memoir. Park “Morozovka”; class of 1927–28 birth years; long classmate surname list (e.g. Sidorova,…"
+  - merged_page: "036"
+    source_file: 20260801171433.pdf
+    source_page: 32
+    archive_original_page: "115"
+    scan_id: str-115
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright blue-ink graph-paper page headed in text “Our club”. Club in entrance 3, 1st floor; leader Marta Yakovlevna Ruben; rooms…"
+  - merged_page: "037"
+    source_file: 20260801171433.pdf
+    source_page: 33
+    archive_original_page: "116"
+    scan_id: str-116
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright blue-ink graph-paper memoir. Flowers for club leader; Spanish Civil War-era anecdote (Spanish children in Moscow,…"
+  - merged_page: "038"
+    source_file: 20260801171433.pdf
+    source_page: 34
+    archive_original_page: "117"
+    scan_id: str-117
+    rotation_applied: 0
+    content_type: handwritten_memoir_with_photo
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright mixed page: short blue-ink memoir above and below a mounted black-and-white group school photograph. Caption title “Наш 6 „а“”…"
+  - merged_page: "039"
+    source_file: 20260801171433.pdf
+    source_page: 35
+    archive_original_page: "118"
+    scan_id: str-118
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright blue-ink graph-paper page. Header “7 класс (последний предвоенный). (1940–1941)”. June dacha visit with Inna; Gorky vicinity /…"
+  - merged_page: "040"
+    source_file: 20260801171433.pdf
+    source_page: 36
+    archive_original_page: "119"
+    scan_id: str-119
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright blue-ink graph-paper memoir continuation. Spartak team armbands; PE teacher Otets praised by grandmother Samsonova; winter…"
+  - merged_page: "041"
+    source_file: 20260801171433.pdf
+    source_page: 37
+    archive_original_page: "120"
+    scan_id: str-120
+    rotation_applied: 0
+    content_type: handwritten_notebook
+    transcription_status: not_started
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Lined exercise-book leaf, upright, blue ballpoint/ink filling the full grid. Continuous first-person wartime memoir narrative (radio…"
+  - merged_page: "042"
+    source_file: 20260801171433.pdf
+    source_page: 38
+    archive_original_page: "121"
+    scan_id: str-121
+    rotation_applied: 0
+    content_type: handwritten_notebook
+    transcription_status: not_started
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Same lined notebook stock and blue ink as m-041; upright full-page fill. Continues wartime household/school memoir (sister Valentina;…"
+  - merged_page: "043"
+    source_file: 20260801171433.pdf
+    source_page: 39
+    archive_original_page: "122"
+    scan_id: str-122
+    rotation_applied: 0
+    content_type: handwritten_notebook
+    transcription_status: not_started
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Same lined notebook + blue ink; upright; full page of continuous prose. Narrative block includes New Year 1942, friends, mother arriving…"
+  - merged_page: "044"
+    source_file: 20260801171433.pdf
+    source_page: 40
+    archive_original_page: "123"
+    scan_id: str-123
+    rotation_applied: 0
+    content_type: handwritten_notebook
+    transcription_status: not_started
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Same lined notebook + blue ink; upright dense hand to bottom margin. Travel/evacuation sequence (train, walk, soldiers, airfield near…"
+  - merged_page: "045"
+    source_file: 20260801171433.pdf
+    source_page: 41
+    archive_original_page: "124"
+    scan_id: str-124
+    rotation_applied: 0
+    content_type: handwritten_notebook
+    transcription_status: first_pass
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Same lined notebook + blue ink; upright; full grid used. Village stay with grandmother / uncle Misha, then return toward Moscow.…"
+  - merged_page: "046"
+    source_file: 20260801171433.pdf
+    source_page: 42
+    archive_original_page: "125"
+    scan_id: str-125
+    rotation_applied: 0
+    content_type: handwritten_notebook
+    transcription_status: first_pass
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Same lined notebook + blue ink; upright continuous memoir. Return-to-Moscow block (checkpoint, empty flat, food parcels, neighbors).…"
+  - merged_page: "047"
+    source_file: 20260801171433.pdf
+    source_page: 43
+    archive_original_page: "126"
+    scan_id: str-126
+    rotation_applied: 0
+    content_type: handwritten_notebook
+    transcription_status: not_started
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Same lined notebook + blue ink; upright; full-page school-years narrative (classmates, teachers, extracurriculars). Dense but readable…"
+  - merged_page: "048"
+    source_file: 20260801171433.pdf
+    source_page: 44
+    archive_original_page: "127"
+    scan_id: str-127
+    rotation_applied: 90
+    content_type: handwritten_caption
+    transcription_status: not_started
+    privacy_status: none
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Plain white unlined paper (not the lined notebook stock of m-041–m-047). Short upright blue/black hand block centered upper-right; large…"
+  - merged_page: "049"
+    source_file: 20260801171433.pdf
+    source_page: 45
+    archive_original_page: "128"
+    scan_id: str-128
+    rotation_applied: 0
+    content_type: wartime_letter
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Aged yellowish stationery (not notebook grid); single-fold crease visible; dense dark ink hand filling most of the sheet; upright. Opens…"
+  - merged_page: "050"
+    source_file: 20260801172823.pdf
+    source_page: 1
+    archive_original_page: "129"
+    scan_id: str-129
+    rotation_applied: 0
+    content_type: wartime_letter
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Same aged stationery and dense dark hand as m-049 (continuation leaf); upright; ends with closing/signature and written…"
+  - merged_page: "051"
+    source_file: 20260801172823.pdf
+    source_page: 2
+    archive_original_page: "130"
+    scan_id: str-130
+    rotation_applied: 0
+    content_type: postcard
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Recto of printed New Year postcard on tan/orange stock. Large multi-color printed headline \"С НОВЫМ ГОДОМ!\"; printed \"Таничка!…"
+  - merged_page: "052"
+    source_file: 20260801172823.pdf
+    source_page: 3
+    archive_original_page: "131"
+    scan_id: str-131
+    rotation_applied: 0
+    content_type: letter
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Handwritten personal letter on plain orange/tan paper, no grid. Salutation \"Танюша!\"; body ~12 lines; signature line \"Геннадий\"; closing…"
+  - merged_page: "053"
+    source_file: 20260801172823.pdf
+    source_page: 4
+    archive_original_page: "132"
+    scan_id: str-132
+    rotation_applied: 0
+    content_type: letter
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Handwritten letter on plain orange/tan paper, full page of dark-ink cursive. Header annotation \"Письмо от Геннадия Вохминцева 18-11-43\";…"
+  - merged_page: "054"
+    source_file: 20260801172823.pdf
+    source_page: 5
+    archive_original_page: "133"
+    scan_id: str-133
+    rotation_applied: 0
+    content_type: letter
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Handwritten letter on plain orange/tan paper. Date at top \"29-11-43\"; opens \"Танюша\"; signed \"Геннадий\". Blue circular ink stamp/seal…"
+  - merged_page: "055"
+    source_file: 20260801172823.pdf
+    source_page: 6
+    archive_original_page: "134"
+    scan_id: str-134
+    rotation_applied: 0
+    content_type: notebook_handwriting
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Ruled/grid notebook leaf, dense continuous memoir cursive in dark ink, ~half-to-full page block with blank lower margin. Opens with…"
+  - merged_page: "056"
+    source_file: 20260801172823.pdf
+    source_page: 7
+    archive_original_page: "135"
+    scan_id: str-135
+    rotation_applied: 0
+    content_type: notebook_handwriting
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full grid-notebook page, continuous dense Russian cursive, edge-to-edge with little blank space. Family/theatre/social memories; names…"
+  - merged_page: "057"
+    source_file: 20260801172823.pdf
+    source_page: 8
+    archive_original_page: "136"
+    scan_id: str-136
+    rotation_applied: 0
+    content_type: notebook_handwriting
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full grid-notebook page, continuous dense cursive. Continuation: names Юра Пекишев, Юра Субботин, Саша; wartime years \"1943-44\" and \"I…"
+  - merged_page: "058"
+    source_file: 20260801172823.pdf
+    source_page: 9
+    archive_original_page: "137"
+    scan_id: str-137
+    rotation_applied: 0
+    content_type: notebook_handwriting
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full grid-notebook page, continuous dense cursive. Continuation of friendship narrative (Саша, Юра Субботин, Дина, Ира, Ира Петровская).…"
+  - merged_page: "059"
+    source_file: 20260801172823.pdf
+    source_page: 10
+    archive_original_page: "138"
+    scan_id: str-138
+    rotation_applied: 0
+    content_type: notebook_handwriting
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full grid-notebook page, continuous dense cursive. Continues Саша/institute/apartment social circle; Victory Day walk \"В день Победы\";…"
+  - merged_page: "060"
+    source_file: 20260801172823.pdf
+    source_page: 11
+    archive_original_page: "139"
+    scan_id: str-139
+    rotation_applied: 0
+    content_type: notebook_handwriting
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full grid-notebook page, continuous dense cursive. Party with Зинаида Александровна; students of МХАТ and ЛХАТА; cake \"Наполеон\"; names…"
+  - merged_page: "061"
+    source_file: 20260801172823.pdf
+    source_page: 12
+    archive_original_page: "140"
+    scan_id: str-140
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright full-page black-ink Cyrillic handwriting on notebook graph paper. Continuous memoir narrative (Crimea / 1945–46 context visible…"
+  - merged_page: "062"
+    source_file: 20260801172823.pdf
+    source_page: 13
+    archive_original_page: "141"
+    scan_id: str-141
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright full-page black-ink handwriting on graph paper; continues prior narrative (Crimea travel / Gurzuf / Bakhchisarai / Sudak thread…"
+  - merged_page: "063"
+    source_file: 20260801172823.pdf
+    source_page: 14
+    archive_original_page: "142"
+    scan_id: str-142
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright full-page black-ink handwriting on graph paper; narrative continues (Sevastopol / Simferopol / Crimea stay). No photos or…"
+  - merged_page: "064"
+    source_file: 20260801172823.pdf
+    source_page: 15
+    archive_original_page: "143"
+    scan_id: str-143
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright full-page black-ink handwriting on graph paper; continues memoir (return to Moscow, New Year 1947, family-meeting thread). Small…"
+  - merged_page: "065"
+    source_file: 20260801172823.pdf
+    source_page: 16
+    archive_original_page: "144"
+    scan_id: str-144
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright full-page black-ink handwriting on graph paper; continues prior leaf (wedding / Moscow / birth date 28.VII.1948 visible in…"
+  - merged_page: "066"
+    source_file: 20260801172823.pdf
+    source_page: 17
+    archive_original_page: "145"
+    scan_id: str-145
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright full-page black-ink handwriting on graph paper; continues memoir (exams, arrest of husband, prison visits, northern transfer…"
+  - merged_page: "067"
+    source_file: 20260801172823.pdf
+    source_page: 18
+    archive_original_page: "146"
+    scan_id: str-146
+    rotation_applied: 0
+    content_type: mixed_handwriting_photo
+    transcription_status: first_pass
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright graph-paper leaf. Upper ~half: black-ink handwritten memoir continuing prior text (mother / TV work / classmates), with blue-ink…"
+  - merged_page: "068"
+    source_file: 20260801172823.pdf
+    source_page: 19
+    archive_original_page: "147"
+    scan_id: str-147
+    rotation_applied: 0
+    content_type: photo_collage
+    transcription_status: first_pass
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright graph-paper leaf with four glued B&W photographs and blue-ink captions only (no continuous memoir body). Layout: top-left child…"
+  - merged_page: "069"
+    source_file: 20260801173745.pdf
+    source_page: 1
+    archive_original_page: "148"
+    scan_id: str-148
+    rotation_applied: 0
+    content_type: mixed_handwriting_photo
+    transcription_status: not_started
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright graph-paper leaf. Top: one glued B&W group photo of nine people (mixed standing/seated), blue header \"Мои девочки. Гр. 203. Июнь…"
+  - merged_page: "070"
+    source_file: 20260801173745.pdf
+    source_page: 2
+    archive_original_page: "149"
+    scan_id: str-149
+    rotation_applied: 0
+    content_type: handwritten_memoir
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Upright full-page black-ink handwriting on graph paper; continues m-069 narrative (husband's return, interrogation, Moscow reunion,…"
+  - merged_page: "071"
+    source_file: 20260801173745.pdf
+    source_page: 3
+    archive_original_page: "150"
+    scan_id: str-150
+    rotation_applied: 0
+    content_type: handwritten
+    transcription_status: not_started
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full-page blue-ink memoir on notebook grid. Continuous family narrative (Mitya/school/illness/hospital, work, return to Moscow 1956). No…"
+  - merged_page: "072"
+    source_file: 20260801173745.pdf
+    source_page: 4
+    archive_original_page: "151"
+    scan_id: str-151
+    rotation_applied: 0
+    content_type: mixed
+    transcription_status: not_started
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Three black-and-white photos mounted on grid with blue-ink captions, plus handwritten block below. Captions visible: «Саша Вероника.…"
+  - merged_page: "073"
+    source_file: 20260801173745.pdf
+    source_page: 5
+    archive_original_page: "152"
+    scan_id: str-152
+    rotation_applied: 0
+    content_type: handwritten
+    transcription_status: not_started
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full-page blue-ink memoir on grid. Education path for Mitya (school, institute, math exams, sports camp, marriage plans). No photos. No…"
+  - merged_page: "074"
+    source_file: 20260801173745.pdf
+    source_page: 6
+    archive_original_page: "153"
+    scan_id: str-153
+    rotation_applied: 0
+    content_type: mixed
+    transcription_status: not_started
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Handwritten block upper half; two B&W photos lower half with captions: «Митя с дедом Пешей. Январь 1954 год» (boy with older man in…"
+  - merged_page: "075"
+    source_file: 20260801173745.pdf
+    source_page: 7
+    archive_original_page: "154"
+    scan_id: str-154
+    rotation_applied: 0
+    content_type: mixed
+    transcription_status: not_started
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Three B&W photos with captions and interleaved handwritten memoir. Captions: «Февраль 1948. Митя» (toddler in winter coat); «Митя — на…"
+  - merged_page: "076"
+    source_file: 20260801173745.pdf
+    source_page: 8
+    archive_original_page: "155"
+    scan_id: str-155
+    rotation_applied: 0
+    content_type: mixed
+    transcription_status: not_started
+    privacy_status: high
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Section heading «Серёжа» with full birth date in caption «(род. 16 сентября 1957 г.)»; small formal portrait photo upper right. Dense…"
+  - merged_page: "077"
+    source_file: 20260801173745.pdf
+    source_page: 9
+    archive_original_page: "156"
+    scan_id: str-156
+    rotation_applied: 0
+    content_type: handwritten
+    transcription_status: second_pass
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full-page blue-ink memoir on Seryozha: sea/travel (Crimea, Vilnius, Nakhichevan, Suzdal, Podmoskovye), school, GDR work, football…"
+  - merged_page: "078"
+    source_file: 20260801173745.pdf
+    source_page: 10
+    archive_original_page: "157"
+    scan_id: str-157
+    rotation_applied: 0
+    content_type: photo_collage
+    transcription_status: second_pass
+    privacy_status: high
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Photo-only page (three B&W prints) with short blue-ink captions. Top-left smiling teen «10 класс»; top-right young man «Уже студент»;…"
+  - merged_page: "079"
+    source_file: 20260801173745.pdf
+    source_page: 11
+    archive_original_page: "158"
+    scan_id: str-158
+    rotation_applied: 0
+    content_type: handwritten
+    transcription_status: not_started
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full-page blue-ink anecdotes about Mitya (school birthday, trolleybus incidents on Leningradsky pr., sailing club «Водник» in the 80s).…"
+  - merged_page: "080"
+    source_file: 20260801173745.pdf
+    source_page: 12
+    archive_original_page: "159"
+    scan_id: str-159
+    rotation_applied: 0
+    content_type: mixed
+    transcription_status: not_started
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "One B&W beach photo upper left with caption «\"Родина\". Лето 1963 г. Подвижной парк, на озере \"Олимпике\"» (woman in swimsuit by boat).…"
+  - merged_page: "081"
+    source_file: 20260801173745.pdf
+    source_page: 13
+    archive_original_page: "160"
+    scan_id: str-160
+    rotation_applied: 0
+    content_type: handwritten
+    transcription_status: not_started
+    privacy_status: medium
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Full-page blue-ink memoir: Washington/New York, GDR/Hungary/ Czechoslovakia trips; friends in Luga; family anecdotes with Seryozha and…"
+  - merged_page: "082"
+    source_file: 20260801173745.pdf
+    source_page: 14
+    archive_original_page: "161"
+    scan_id: str-161
+    rotation_applied: 0
+    content_type: photo_collage
+    transcription_status: not_started
+    privacy_status: low
+    duplicate_of: null
+    alternate_scan_of: null
+    notes: "Four B&W family photos on plain/light album-style page (not grid notebook) with blue-ink captions. Top-left «Зима 1950. Мы с Митей»…"

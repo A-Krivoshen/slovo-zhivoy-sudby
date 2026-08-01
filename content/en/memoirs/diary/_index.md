@@ -1,7 +1,7 @@
 ---
 title: "Diary / notebook"
-description: "Transcription of the first batch of scans of Tatyana Timofeevna’s notebook “Our genealogy: the Samsonovs” — in chapters, first person."
-summary: "First batch (~79 pp.) — chapter transcription; the archive will grow"
+description: "Transcription of Tatyana Timofeevna’s notebook “Our genealogy: the Samsonovs” — in chapters, first person; scan batches are published in blocks."
+summary: "Scan batches — chapter transcription; the archive is growing (incl. pp. 080–099)"
 translationKey: "diary"
 ---
 
@@ -28,5 +28,7 @@ Source for each chapter: the manuscript “Our genealogy: the Samsonovs,” the 
 8. [Dacha, rest, anniversaries](/en/memoirs/diary/07-dacha-anniversaries/) — Serebryany Bor, flowers, verses for Tanya and Sasha’s anniversary  
 9. [Father’s character](/en/memoirs/diary/08-father-character/) — principle, gifts, the garden, students, the year 1951  
 10. [Documents in the notebook](/en/memoirs/diary/09-documents-in-notebook/) — portraits, Dzerzhinsky’s certificate, citations, Alexandrovsky Central  
+11. [Notebook continued (pp. 080–089)](/en/memoirs/diary/10-notebook-continued-080-089/) — photos, biographical notes, sister Genya  
+12. [Notebook continued (pp. 090–098)](/en/memoirs/diary/11-notebook-continued-090-099/) — Genya’s fate, brother Tyoma, Sasha’s notes  
 
 See also: [Places](/en/places/family-moscow/) · [T. P. Samsonov](/en/parents/timofey-petrovich-samsonov/) · [Eva Konstantinovna](/en/parents/eva-konstantinovna/) · [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/)

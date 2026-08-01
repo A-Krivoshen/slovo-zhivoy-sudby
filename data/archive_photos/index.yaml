@@ -522,24 +522,38 @@ photos:
   original_page: 99
   merged_page: 20
   object_type: page_scan_overview
+  document_id: doc-b02-medal-zahysnyku-vitichyzny
   master_source: static/photos/dnevnik-tt/str-099.jpg
   canonical_public_path: /photos/dnevnik-tt/str-099.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-099.jpg
-  review_status: published_preexisting
-  privacy_status: unknown
+  person_confirmed:
+  - Самсонов Тимофей Тимофеевич
+  identity_status: document_confirmed
+  not_this_person:
+  - Самсонов Тимофей Петрович
+  review_status: withheld_pending_person_page
+  privacy_status: document_third_party
+  notes: "Ukrainian medal booklet cover; recipient is Uncle Tyoma (confirmed on str-100 form). NOT T.P. Samsonov. Do not publish on samsonov-tp pages or as standalone doc."
 - photo_id: pub-photos__dnevnik-tt__str-100
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
   original_page: 100
   merged_page: 21
   object_type: page_scan_overview
+  document_id: doc-b02-medal-zahysnyku-vitichyzny
   master_source: static/photos/dnevnik-tt/str-100.jpg
   canonical_public_path: /photos/dnevnik-tt/str-100.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-100.jpg
-  review_status: published_preexisting
-  privacy_status: unknown
+  person_confirmed:
+  - Самсонов Тимофей Тимофеевич
+  identity_status: document_confirmed
+  not_this_person:
+  - Самсонов Тимофей Петрович
+  review_status: withheld_pending_person_page
+  privacy_status: document_third_party
+  notes: "Filled certificate «Захиснику Вітчизни» for САМСОНОВ ТИМОФЕЙ ТИМОФЕЕВИЧ. NOT father T.P. Withhold series/number from public. withheld_pending_person_page."
 - photo_id: pub-photos__dnevnik-tt__str-101
   source_batch: manuscript-b02
   source_type: manuscript_page_scan

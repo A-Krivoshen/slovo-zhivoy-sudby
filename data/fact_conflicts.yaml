@@ -50,6 +50,45 @@
       note: diplomatic chart reading on original_page 003 only; not biographical date
 
 # ---------------------------------------------------------------------------
+# Ukrainian medal «Захиснику Вітчизни» (1999) — NOT Timofey Petrovich
+# ---------------------------------------------------------------------------
+- id: ukraine-medal-zahysnyku-vitichyzny-1999
+  document_id: doc-b02-medal-zahysnyku-vitichyzny
+  photo_id:
+    - pub-photos__dnevnik-tt__str-099
+    - pub-photos__dnevnik-tt__str-100
+  scan_id: [str-099, str-100]
+  original_page: [99, 100]
+  batch_id: manuscript-2026-08-01-b02
+  status: resolved
+  resolved_date: "2026-08-01"
+  resolved_by: "filled certificate form (m-021 / original_page 100) + family confirmation"
+  person_confirmed:
+    - Самсонов Тимофей Тимофеевич
+  person_confirmed_role: "дядя Тёма; brother of Tatyana Timofeevna"
+  identity_status: document_confirmed
+  not_this_person:
+    - Самсонов Тимофей Петрович
+  not_this_person_note: "Father (1888–1955); cannot be recipient of a 1999 Ukrainian award"
+  review_status: withheld_pending_person_page
+  rules:
+    - Never attribute this medal to Samsonov Timofey Petrovich.
+    - Do not add to T.P. biography, photo album, documents section, people/tags of T.P. pages.
+    - Do not publish as standalone document until a confirmed person page for Uncle Tyoma exists.
+    - Keep PDF page scans and original_page numbering; do not invent Uncle Tyoma bio from this form alone.
+    - Do not publish certificate series/number (МН 178440) on the public site.
+  public_wording_ru: >
+    Удостоверение к медали Украины «Захиснику Вітчизни». Получатель —
+    Самсонов Тимофей Тимофеевич. Документ относится к дяде Тёме, а не к
+    Самсонову Тимофею Петровичу. (Публикация как самостоятельный материал
+    отложена: withheld_pending_person_page.)
+  public_wording_en: >
+    Certificate for the Ukrainian medal “Захиснику Вітчизни”. The recipient is
+    Timofey Timofeevich Samsonov. This document belongs to Uncle Tyoma, not to
+    Timofey Petrovich Samsonov. (Standalone publication withheld pending a
+    person page.)
+
+# ---------------------------------------------------------------------------
 # Other open items (not about Tatyana’s civil dates)
 # ---------------------------------------------------------------------------
 - id: rest-home-name-051-vs-064

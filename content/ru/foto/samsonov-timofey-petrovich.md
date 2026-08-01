@@ -86,7 +86,7 @@ cover:
 
 ### 12 — Кривошеина Т. Т., преподаватель
 
-{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="**Файл:** `12-krivoshina-tt-lecturer.jpg`. Подпись на бланке: «Ст. преподаватель Кривошеина Т. Т. / Ин-т стали и сплавов» — **Московский институт стали и сплавов (МИСиС)**." >}}
+{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="**Файл:** `12-krivoshina-tt-lecturer.jpg`. Подпись на бланке: «Ст. преподаватель Кривошеина Т. Т. / Ин-т стали и сплавов» — **Институт стали и сплавов**." >}}
 
 ---
 

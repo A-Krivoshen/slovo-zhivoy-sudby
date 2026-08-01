@@ -35,7 +35,7 @@ From her **daughter’s diary**: Moscow, 2nd Brestskaya, Cheka typist, meeting T
 
 ## Daughter in the same set
 
-{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="T. T. Krivosheina, senior lecturer, MISiS (Moscow Institute of Steel and Alloys)." >}}
+{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="T. T. Krivosheina, senior lecturer, Institute of Steel and Alloys." >}}
 
 ## Husband’s family (Krivosheins)
 

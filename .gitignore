@@ -1,4 +1,4 @@
-public/
+/public/
 resources/
 .hugo_build.lock
 .DS_Store
@@ -19,3 +19,7 @@ inbox/notes/**
 tmp_photo_review/
 
 __pycache__/
+
+# keep public entity registry tracked
+!data/archive/public/
+!data/archive/public/**

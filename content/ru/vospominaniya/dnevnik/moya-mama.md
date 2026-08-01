@@ -10,13 +10,16 @@ categories: ["Воспоминания"]
 people: ["Кривошеина Татьяна Тимофеевна", "Ева Константиновна", "Самсонов Тимофей Петрович"]
 ShowToc: true
 cover:
-  image: "/photos/dnevnik-tt/str-002.jpg"
+  image: "/photos/eva-konstantinovna/eva-portrait.jpg"
+  alt: "Ева Константиновна — «Моя мама»"
   relative: false
 ---
 
 *Текст по рукописи Татьяны Тимофеевны (тетрадь «Наша родословная: Самсоновы»). Сохраняем её голос; мелкие неясности в скобках.*
 
-{{< figure src="/photos/dnevnik-tt/str-002.jpg" caption="«Моя мама» — фото и подпись: Самсонова (Морозова) Ева Константиновна." >}}
+{{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Ева Константиновна Самсонова (Морозова). Из тетради дочери, подпись: «Моя мама»." >}}
+
+{{< figure src="/photos/dnevnik-tt/str-002.jpg" caption="Страница тетради целиком (выровнена)." >}}
 
 {{< figure src="/photos/dnevnik-tt/str-007.jpg" caption="Начало рассказа о маме в тетради." >}}
 

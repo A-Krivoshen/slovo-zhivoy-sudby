@@ -10,13 +10,16 @@ categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina", "Eva Konstantinovna", "Timofey Petrovich Samsonov"]
 ShowToc: true
 cover:
-  image: "/photos/dnevnik-tt/str-002.jpg"
+  image: "/photos/eva-konstantinovna/eva-portrait.jpg"
+  alt: "Eva Konstantinovna — “My mother”"
   relative: false
 ---
 
 *From Tatyana Timofeevna’s manuscript. Her voice; minor uncertainties in brackets.*
 
-{{< figure src="/photos/dnevnik-tt/str-002.jpg" caption="“My mother” — photo and label: Samsonova (Morozova) Eva Konstantinovna." >}}
+{{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Eva Konstantinovna Samsonova (née Morozova). From her daughter’s notebook, caption: “My mother.”" >}}
+
+{{< figure src="/photos/dnevnik-tt/str-002.jpg" caption="Full notebook page (upright)." >}}
 
 {{< figure src="/photos/dnevnik-tt/str-007.jpg" caption="Start of the mother’s story in the notebook." >}}
 

@@ -685,3 +685,27 @@ body.list:has(.home-hero) .main > .page-header {
   }
 }
 
+
+/* Archive editorial notes */
+.archive-note,
+.archive-source {
+  margin: 1.25rem 0;
+  padding: 0.75rem 1rem;
+  border-left: 3px solid #8a7a5c;
+  background: rgba(138, 122, 92, 0.08);
+  font-size: 0.95em;
+}
+.archive-note--uncertain { border-left-color: #a67c00; }
+.archive-note--privacy { border-left-color: #6b5b7a; }
+.archive-note--status { border-left-color: #4a6b5c; }
+.archive-note__label,
+.archive-source__label {
+  font-weight: 600;
+  margin: 0 0 0.35rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  opacity: 0.85;
+}
+.archive-note__body p:last-child,
+.archive-source p:last-child { margin-bottom: 0; }

@@ -150,3 +150,11 @@ Control PDF **не** подтверждает точность всей расш
 ## Машинный артефакт сверки (локально)
 
 `inbox/scans/memoirs/work/compare/PAGE_MAP.json` — JSON той же карты (gitignored media workspace).
+
+
+## Physical leaves (additional)
+
+| physical_leaf_id | original_page | alternate_scan | note |
+|------------------|--------------:|---------------:|------|
+| genealogy-krivoshein-01 | 005 | 006 | Two scans of one Krivoshein genealogical chart leaf; keep both archival numbers |
+| diary-accident-ludovkin | 058 | 060 | 060 is a cropped/partial re-scan of the same entry as 058 |

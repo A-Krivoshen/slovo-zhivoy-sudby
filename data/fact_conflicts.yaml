@@ -1,0 +1,47 @@
+# Unresolved factual conflicts for the public family archive.
+# Do not resolve by guesswork. Public wording must state uncertainty.
+
+- id: tatyana-birth-year
+  person: Кривошеина Татьяна Тимофеевна
+  person_en: Tatyana Timofeevna Krivosheina
+  variants:
+    - value: "1924 (April)"
+      source: family knowledge / previous biographical page o-tatyane-timofeevne
+      confidence: family_memory
+    - value: "21/IV–1926"
+      source: manuscript “Наша родословная. Самсоновы”, original_page 003 (genealogical chart)
+      confidence: manuscript_chart
+    - value: "lived to 95 years"
+      source: family summary on homepage and about page
+      confidence: family_memory
+      note: Age alone must not be used to pick a birth year.
+  status: unresolved
+  public_wording_ru: >
+    В источниках встречаются разные сведения о годе рождения
+    (в т.ч. апрель 1924 в семейной памяти и 21/IV–1926 в родословной схеме
+    рукописи, original_page 003). Требуется документальное уточнение.
+  public_wording_en: >
+    Sources disagree on the year of birth (including April 1924 in family
+    memory and 21/IV–1926 on the manuscript genealogical chart,
+    original_page 003). Documentary confirmation is required.
+  rules:
+    - Do not state 1924 as settled fact.
+    - Do not state 1926 as settled fact outside diplomatic transcription of page 003.
+    - Do not compute the year from age alone.
+    - Keep diplomatic transcription of original_page 003 unchanged as manuscript text.
+
+- id: rest-home-name-051-vs-064
+  person: null
+  topic: Childhood rest-home name
+  variants:
+    - value: "Васильки"
+      source: manuscript original_page 051 (visually verified 2026-08-01)
+    - value: "Валуево"
+      source: current first-pass transcription of original_page 064 (not re-verified in this audit)
+  status: unresolved
+  public_wording_ru: >
+    На original_page 051 читается «Васильки»; на original_page 064 в первичной
+    расшифровке — «Валуево». Требуется постраничная сверка 064.
+  public_wording_en: >
+    original_page 051 reads “Vasilki”; the first-pass text of original_page 064
+    has “Valuyevo”. Page 064 needs visual re-check.

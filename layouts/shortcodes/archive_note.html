@@ -1,0 +1,20 @@
+{{- $type := .Get "type" | default "note" -}}
+{{- $class := printf "archive-note archive-note--%s" $type -}}
+<aside class="{{ $class }}" role="note">
+  <p class="archive-note__label">
+    {{- if eq $type "uncertain" -}}
+      {{- if eq site.Language.Lang "en" -}}Uncertain reading{{- else -}}Неясное чтение{{- end -}}
+    {{- else if eq $type "privacy" -}}
+      {{- if eq site.Language.Lang "en" -}}Privacy{{- else -}}Конфиденциальность{{- end -}}
+    {{- else if eq $type "source" -}}
+      {{- if eq site.Language.Lang "en" -}}Source{{- else -}}Источник{{- end -}}
+    {{- else if eq $type "status" -}}
+      {{- if eq site.Language.Lang "en" -}}Status{{- else -}}Статус проверки{{- end -}}
+    {{- else -}}
+      {{- if eq site.Language.Lang "en" -}}Editor’s note{{- else -}}Примечание редакции{{- end -}}
+    {{- end -}}
+  </p>
+  <div class="archive-note__body">
+{{ .Inner | markdownify }}
+  </div>
+</aside>

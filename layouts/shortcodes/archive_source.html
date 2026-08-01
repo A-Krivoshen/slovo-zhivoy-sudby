@@ -1,0 +1,14 @@
+{{- $title := .Get "title" | default "Наша родословная. Самсоновы" -}}
+{{- $pages := .Get "pages" -}}
+{{- $kind := .Get "kind" | default "manuscript" -}}
+<aside class="archive-source" role="note">
+  <p class="archive-source__label">{{- if eq site.Language.Lang "en" -}}Source{{- else -}}Источник{{- end -}}</p>
+  <p>
+    {{- if eq site.Language.Lang "en" -}}
+      Manuscript “{{ $title }}”{{ with $pages }}, original_page {{ . }}{{ end }}.
+    {{- else -}}
+      Рукопись «{{ $title }}»{{ with $pages }}, original_page {{ . }}{{ end }}.
+    {{- end -}}
+    {{ with .Inner }} {{ . | markdownify }}{{ end }}
+  </p>
+</aside>

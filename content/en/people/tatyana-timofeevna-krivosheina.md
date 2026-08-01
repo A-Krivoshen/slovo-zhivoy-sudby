@@ -6,9 +6,14 @@ description: "Tatyana Timofeevna Krivosheina (1926–2021) — author of the not
 summary: "1926–2021. Notebook author; daughter of T. P. Samsonov and Eva Konstantinovna."
 translationKey: "person-tatyana-timofeevna-krivosheina"
 entity_id: "person/tatyana-timofeevna-krivosheina"
+schema_type: "Person"
+birth_date: "1926-09-02"
+death_date: "2021-09-24"
+alternateName: ["Tatyana Timofeevna", "T. T. Krivosheina", "Кривошеина Татьяна Тимофеевна"]
+keywords: ["Tatyana Timofeevna Krivosheina", "memoirs", "family archive", "Samsonov", "Word of a Living Fate"]
 tags: ["people", "Krivosheina", "notebook"]
 categories: ["People"]
-people: ["Tatyana Timofeevna Krivosheina"]
+people: ["Tatyana Timofeevna Krivosheina", "Aleksandr Dmitrievich Krivoshein"]
 ShowToc: true
 cover:
   image: "/photos/tatyana-tt/2019-home-last-year.jpg"

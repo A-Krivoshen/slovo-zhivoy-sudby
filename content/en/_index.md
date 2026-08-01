@@ -1,6 +1,7 @@
 ---
 title: "Word of a Living Fate"
-description: "A family archive about the life of Tatyana Timofeevna Krivosheina (2 September 1926 — 24 September 2021) — memoirs, parents, photos, documents."
+description: "Family archive: memoirs of Tatyana Timofeevna Krivosheina (1926–2021), husband Aleksandr Dmitrievich (Sasha), Samsonov parents, letters, photos, and family timeline."
+keywords: ["Tatyana Timofeevna Krivosheina", "Aleksandr Dmitrievich Krivoshein", "Sasha", "family archive", "memoirs", "Samsonov"]
 translationKey: "home"
 ---
 
@@ -10,7 +11,8 @@ translationKey: "home"
     <h1 class="home-hero-title">Word of a Living Fate</h1>
     <p class="home-hero-lead">
       The life of <strong>Tatyana Timofeevna Krivosheina</strong> —
-      her handwritten notebook, the Samsonov parents, Moscow, and family memory.
+      her handwritten notebook, husband <a href="/en/people/aleksandr-krivoshein/"><strong>Aleksandr Dmitrievich (Sasha)</strong></a>,
+      the Samsonov parents, Moscow, and family memory.
     </p>
     <p class="home-hero-meta">2 September 1926 — 24 September 2021 · manuscript “Our genealogy: the Samsonovs”</p>
   </div>

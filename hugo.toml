@@ -50,7 +50,7 @@ timeZone = 'Europe/Moscow'
   [languages.ru.params]
     description = 'Мемуары, семейный архив и исторические факты о жизни Кривошеиной Татьяны Тимофеевны, её родителей и рода'
     author = 'Семья Кривошеиных'
-    keywords = ['Кривошеина Татьяна Тимофеевна', 'мемуары', 'семейный архив', 'Слово Живой Судьбы', 'история семьи']
+    keywords = ['Кривошеина Татьяна Тимофеевна', 'Кривошеин Александр Дмитриевич', 'Саша', 'мемуары', 'семейный архив', 'Слово Живой Судьбы', 'история семьи', 'Самсонов', 'письма с фронта', 'тетрадь']
     DateFormat = '2.01.2006'
     # light = default attribute; real choice is time-of-day unless user toggles (see layouts/baseof.html)
     defaultTheme = 'light'
@@ -179,7 +179,7 @@ timeZone = 'Europe/Moscow'
   [languages.en.params]
     description = 'Memoirs, family archive and historical notes about the life of Tatyana Timofeevna Krivosheina, her parents, and family history'
     author = 'The Krivoshein Family'
-    keywords = ['Tatyana Timofeevna Krivosheina', 'memoirs', 'family archive', 'Word of a Living Fate', 'family history']
+    keywords = ['Tatyana Timofeevna Krivosheina', 'Aleksandr Dmitrievich Krivoshein', 'Sasha', 'memoirs', 'family archive', 'Word of a Living Fate', 'family history', 'Samsonov', 'letters from the front', 'notebook']
     DateFormat = '2 Jan 2006'
     defaultTheme = 'light'
     disableThemeToggle = false

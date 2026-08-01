@@ -1,0 +1,95 @@
+{{- /*
+  Site-wide structured data for SEO + AI agents:
+  - WebSite + SearchAction (always)
+  - Organization (always)
+  - CollectionPage for home / section indexes
+  Built as a single dict → jsonify (no double-encoding).
+*/ -}}
+{{- $lang := "ru" -}}
+{{- with site.Language }}{{ with .Lang }}{{ $lang = . }}{{ end }}{{ end -}}
+{{- $home := site.Home.Permalink -}}
+{{- $title := site.Title -}}
+{{- $desc := site.Params.description | default "" | plainify | truncate 280 -}}
+{{- $searchTpl := printf "%ssearch/?q={search_term_string}" $home -}}
+{{- with site.GetPage "/search" -}}
+  {{- $searchTpl = printf "%s?q={search_term_string}" .Permalink -}}
+{{- end -}}
+{{- $websiteID := printf "%s#website" $home -}}
+{{- $orgID := printf "%s#organization" $home -}}
+
+{{- $searchAction := dict
+  "@type" "SearchAction"
+  "target" (dict
+    "@type" "EntryPoint"
+    "urlTemplate" $searchTpl
+  )
+  "query-input" "required name=search_term_string"
+-}}
+
+{{- $website := dict
+  "@type" "WebSite"
+  "@id" $websiteID
+  "url" $home
+  "name" $title
+  "description" $desc
+  "inLanguage" (slice "ru" "en")
+  "publisher" (dict "@id" $orgID)
+  "potentialAction" $searchAction
+-}}
+
+{{- $org := dict
+  "@type" "Organization"
+  "@id" $orgID
+  "name" $title
+  "alternateName" (slice "СЖС" "SZHS" "Word of a Living Fate")
+  "url" $home
+  "logo" (dict
+    "@type" "ImageObject"
+    "url" ("apple-touch-icon.png" | absURL)
+  )
+  "description" $desc
+-}}
+
+{{- $graph := slice $website $org -}}
+
+{{- if .IsHome -}}
+  {{- $personName := "Кривошеина Татьяна Тимофеевна" -}}
+  {{- if eq $lang "en" }}{{ $personName = "Tatyana Timofeevna Krivosheina" }}{{ end -}}
+  {{- $homePage := dict
+    "@type" "CollectionPage"
+    "@id" (printf "%s#homepage" $home)
+    "url" $home
+    "name" $title
+    "description" $desc
+    "isPartOf" (dict "@id" $websiteID)
+    "about" (dict
+      "@type" "Person"
+      "name" $personName
+      "birthDate" "1926-09-02"
+      "deathDate" "2021-09-24"
+    )
+    "inLanguage" $lang
+  -}}
+  {{- $graph = $graph | append $homePage -}}
+{{- else if .IsSection -}}
+  {{- $secDesc := $desc -}}
+  {{- with .Description }}{{ $secDesc = . | plainify | truncate 280 }}{{ end -}}
+  {{- $secPage := dict
+    "@type" "CollectionPage"
+    "@id" (printf "%s#section" .Permalink)
+    "url" .Permalink
+    "name" (.Title | plainify)
+    "description" $secDesc
+    "isPartOf" (dict "@id" $websiteID)
+    "inLanguage" $lang
+  -}}
+  {{- $graph = $graph | append $secPage -}}
+{{- end -}}
+
+{{- $ld := dict
+  "@context" "https://schema.org"
+  "@graph" $graph
+-}}
+<script type="application/ld+json">
+{{ $ld | jsonify | safeJS }}
+</script>

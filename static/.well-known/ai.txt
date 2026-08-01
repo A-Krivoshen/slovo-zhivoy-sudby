@@ -1,0 +1,9 @@
+# Pointer: full AI agent instructions live at /ai.txt and /llms.txt
+# Site: https://сжс.рф/
+See-Also: /ai.txt
+See-Also: /llms.txt
+See-Also: /sitemap.xml
+See-Also: /index.json
+Canonical-Host: сжс.рф
+Language: ru, en
+Type: family-archive / memoirs / historical-documents

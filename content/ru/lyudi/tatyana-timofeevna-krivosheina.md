@@ -6,9 +6,14 @@ description: "Кривошеина Татьяна Тимофеевна (1926–2
 summary: "1926–2021. Автор рукописи, дочь Самсоновых; письма, фото и главы тетради."
 translationKey: "person-tatyana-timofeevna-krivosheina"
 entity_id: "person/tatyana-timofeevna-krivosheina"
+schema_type: "Person"
+birth_date: "1926-09-02"
+death_date: "2021-09-24"
+alternateName: ["Татьяна Тимофеевна", "Т. Т. Кривошеина", "Tatyana Timofeevna Krivosheina"]
+keywords: ["Кривошеина Татьяна Тимофеевна", "мемуары", "семейный архив", "Самсоновы", "Слово Живой Судьбы"]
 tags: ["люди", "Татьяна Тимофеевна", "архив"]
 categories: ["Люди"]
-people: ["Кривошеина Татьяна Тимофеевна"]
+people: ["Кривошеина Татьяна Тимофеевна", "Кривошеин Александр Дмитриевич"]
 ShowToc: true
 weight: 10
 cover:

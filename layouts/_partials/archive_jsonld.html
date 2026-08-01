@@ -76,8 +76,23 @@
 {{- if eq $schemaType "Person" -}}
   {{- with $page.Params.birth_date }}{{ $ld = merge $ld (dict "birthDate" (printf "%v" .)) }}{{ end -}}
   {{- with $page.Params.birthDate }}{{ $ld = merge $ld (dict "birthDate" (printf "%v" .)) }}{{ end -}}
+  {{- with $page.Params.birth_year }}{{ if not (index $ld "birthDate") }}{{ $ld = merge $ld (dict "birthDate" (printf "%v" .)) }}{{ end }}{{ end -}}
   {{- with $page.Params.death_date }}{{ $ld = merge $ld (dict "deathDate" (printf "%v" .)) }}{{ end -}}
   {{- with $page.Params.deathDate }}{{ $ld = merge $ld (dict "deathDate" (printf "%v" .)) }}{{ end -}}
+  {{- with $page.Params.death_year }}{{ if not (index $ld "deathDate") }}{{ $ld = merge $ld (dict "deathDate" (printf "%v" .)) }}{{ end }}{{ end -}}
+  {{- /* alternateName: Саша / Sasha and other aliases for AI + SEO */ -}}
+  {{- $alts := slice -}}
+  {{- with $page.Params.alternateName }}
+    {{- if reflect.IsSlice . }}{{ range . }}{{ $alts = $alts | append (printf "%v" .) }}{{ end }}
+    {{- else }}{{ $alts = $alts | append (printf "%v" .) }}{{ end }}
+  {{- end -}}
+  {{- with $page.Params.aliases_public }}
+    {{- if reflect.IsSlice . }}{{ range . }}{{ $alts = $alts | append (printf "%v" .) }}{{ end }}{{ end }}
+  {{- end -}}
+  {{- if gt (len $alts) 0 -}}
+    {{- $ld = merge $ld (dict "alternateName" $alts) -}}
+  {{- end -}}
+  {{- with $page.Params.jobTitle }}{{ $ld = merge $ld (dict "jobTitle" (printf "%v" .)) }}{{ end -}}
 {{- else if eq $schemaType "Event" -}}
   {{- with $page.Params.start_date }}{{ $ld = merge $ld (dict "startDate" (printf "%v" .)) }}{{ end -}}
   {{- with $page.Params.startDate }}{{ $ld = merge $ld (dict "startDate" (printf "%v" .)) }}{{ end -}}

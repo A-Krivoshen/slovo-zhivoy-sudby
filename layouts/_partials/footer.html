@@ -23,6 +23,14 @@
         <a href="https://krivoshein.site" rel="noopener" target="_blank">Кривошеин Алексей</a>
         {{- end -}}
     </span>
+    <span class="footer-meta-links" aria-label="{{ if eq site.Language.Lang "en" }}Machine-readable{{ else }}Машинные карты{{ end }}">
+        {{- print " · " -}}
+        <a href="{{ "sitemap.xml" | absURL }}">Sitemap</a>
+        {{- print " · " -}}
+        <a href="{{ "llms.txt" | absURL }}">llms.txt</a>
+        {{- print " · " -}}
+        <a href="{{ "ai.txt" | absURL }}">ai.txt</a>
+    </span>
 </footer>
 {{- end }}
 

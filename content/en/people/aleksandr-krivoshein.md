@@ -6,13 +6,23 @@ description: "Husband of Tatyana Timofeevna — Aleksandr Dmitrievich Krivoshein
 summary: "Tatyana Timofeevna’s husband (Sasha). 1926–1988. Links to Crimea, family, father-in-law."
 translationKey: "person-aleksandr-krivoshein"
 entity_id: "person/aleksandr-krivoshein"
-tags: ["people", "Krivoshein", "family"]
+schema_type: "Person"
+birth_year: 1926
+death_year: 1988
+alternateName: ["Sasha", "A. D. Krivoshein", "Саша", "Aleksandr D. Krivoshein"]
+keywords: ["Aleksandr Dmitrievich Krivoshein", "Sasha", "husband of Tatyana Timofeevna", "family archive"]
+tags: ["people", "Krivoshein", "family", "Sasha"]
 categories: ["People"]
 people: ["Aleksandr Dmitrievich Krivoshein", "Tatyana Timofeevna Krivosheina", "Dmitry Aleksandrovich Krivoshein"]
 ShowToc: true
 source_type: "mixed"
 privacy_reviewed: true
 editorial_status: "publishable"
+cover:
+  image: "/photos/archive-b02/b02-mp072-ph01.jpg"
+  alt: "Sasha (A. D. Krivoshein) — “Sasha returned. Summer 1954”"
+  relative: false
+  caption: "“Sasha returned. Summer 1954.” Sasha = A. D. Krivoshein, husband of T. T."
 ---
 ## Photographs
 

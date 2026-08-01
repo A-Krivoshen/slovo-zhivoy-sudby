@@ -1,93 +1,108 @@
-# llms.txt — experimental machine-readable navigation
-#
-# Status: EXPERIMENTAL. Optional hint for AI/LLM crawlers and tools.
-# This file is NOT a ranking factor, not an SEO claim, and not a sitemap
-# substitute. Humans should use the site UI and sitemap.xml.
-# Scope: public canonical paths only. No private, draft, or withheld material.
-# Site: https://сжс.рф/  (Word of a Living Fate / Слово Живой Судьбы)
+# llms.txt — machine-readable navigation for AI agents
+# Status: public, experimental, not a ranking claim. Prefer /sitemap.xml for full URL set.
+# Site: https://сжс.рф/  ·  EN: https://сжс.рф/en/
+# Companion: https://сжс.рф/ai.txt  ·  search index: https://сжс.рф/index.json
 
-# EN — short description
-> Family archive preserving memoirs, photographs, and documents about
-> Tatyana Timofeevna Krivosheina, her parents, and kin. Bilingual RU/EN.
-> Sources over speculation; uncertainty is marked; living people are
-> protected (see publishing principles and privacy).
+> Family archive: memoirs, photographs, and documents about Tatyana Timofeevna
+> Krivosheina (1926–2021), her parents (Samsonov), husband Aleksandr Dmitrievich
+> Krivoshein («Sasha», 1926–1988), kin, wartime letters, places and events.
+> Bilingual RU/EN. Sources over speculation; living people protected.
 
-# RU — краткое описание
-> Семейный архив: мемуары, фотографии и документы о Кривошеиной
-> Татьяне Тимофеевне, её родителях и роде. RU/EN. Источники важнее
-> догадок; неуверенность помечается; живые люди защищены
-> (принципы публикации и конфиденциальность).
+> Семейный архив: мемуары, фото и документы о Кривошеиной Татьяне Тимофеевне
+> (1926–2021), родителях Самсоновых, муже Кривошеине Александре Дмитриевиче
+> («Саша», 1926–1988), роде, фронтовых письмах, местах и событиях. RU/EN.
+
+## Identity canon (critical)
+
+- Tatyana Timofeevna Krivosheina — notebook author; center of the archive
+  RU: https://сжс.рф/lyudi/tatyana-timofeevna-krivosheina/
+  EN: https://сжс.рф/en/people/tatyana-timofeevna-krivosheina/
+- Husband «Саша» / Sasha = Aleksandr Dmitrievich Krivoshein (1926–1988)
+  RU: https://сжс.рф/lyudi/aleksandr-krivoshein/
+  EN: https://сжс.рф/en/people/aleksandr-krivoshein/
+- Father-in-law Dmitry Aleksandrovich Krivoshein (1905–1979) — different person
+  RU: https://сжс.рф/roditeli/krivoshein-dmitriy-aleksandrovich/
+- Brother Tyoma / Timosha = Timofey Timofeevich Samsonov (not father Timofey Petrovich)
+  RU: https://сжс.рф/lyudi/timofey-timofeevich-samsonov/
+- Front letter 107 «Саша целует» (1944) is NOT the husband
 
 ## Core (RU)
 
-- [Главная](https://сжс.рф/): портал архива
-- [О проекте](https://сжс.рф/o-proekte/): зачем существует сайт
-- [Принципы публикации](https://сжс.рф/printsipy-publikacii/): источники, неуверенность, приватность
-- [Конфиденциальность](https://сжс.рф/konfidencialnost/): данные посетителей и живых родственников
-- [Поиск](https://сжс.рф/search/): полнотекстовый поиск
+- [Главная](https://сжс.рф/): portal
+- [О проекте](https://сжс.рф/o-proekte/)
+- [Принципы публикации](https://сжс.рф/printsipy-publikacii/)
+- [Конфиденциальность](https://сжс.рф/konfidencialnost/)
+- [Поиск](https://сжс.рф/search/)
 
-## Memoirs & parents (RU)
+## People & parents (RU)
 
-- [Воспоминания](https://сжс.рф/vospominaniya/)
-- [Дневник / тетрадь](https://сжс.рф/vospominaniya/dnevnik/)
-- [О тетради](https://сжс.рф/vospominaniya/dnevnik/o-tetradi/)
+- [Люди](https://сжс.рф/lyudi/)
+- [Татьяна Тимофеевна](https://сжс.рф/lyudi/tatyana-timofeevna-krivosheina/)
+- [А. Д. Кривошеин (Саша)](https://сжс.рф/lyudi/aleksandr-krivoshein/)
+- [Т. Т. Самсонов (Тёма)](https://сжс.рф/lyudi/timofey-timofeevich-samsonov/)
 - [Родители](https://сжс.рф/roditeli/)
 - [Самсонов Т. П.](https://сжс.рф/roditeli/samsonov-timofey-petrovich/)
 - [Ева Константиновна](https://сжс.рф/roditeli/eva-konstantinovna/)
 - [Кривошеин Д. А.](https://сжс.рф/roditeli/krivoshein-dmitriy-aleksandrovich/)
-- [Отец и мать](https://сжс.рф/roditeli/otets-i-mat/)
 
-## Documents, photos, places (RU)
+## Memoirs (RU)
+
+- [Воспоминания](https://сжс.рф/vospominaniya/)
+- [Дневник / тетрадь](https://сжс.рф/vospominaniya/dnevnik/)
+- [О Татьяне Тимофеевне](https://сжс.рф/vospominaniya/o-tatyane-timofeevne/)
+- [Юность и Саша](https://сжс.рф/vospominaniya/dnevnik/16-yunost-i-sasha/)
+- [Крым и начало семьи](https://сжс.рф/vospominaniya/dnevnik/17-krym-sevastopol-semya/)
+- [Семья и дети](https://сжс.рф/vospominaniya/dnevnik/19-semya-i-deti/)
+
+## Events, timeline, places (RU)
+
+- [События](https://сжс.рф/sobytiya/)
+- [Знакомство с Сашей](https://сжс.рф/sobytiya/znakomstvo-s-sashey/)
+- [Начало семьи](https://сжс.рф/sobytiya/nachalo-semi/)
+- [Поездки в Крым](https://сжс.рф/sobytiya/krym-poezdki/)
+- [Хронология](https://сжс.рф/hronologiya/)
+- [Места](https://сжс.рф/mesta/)
+- [Крым семейный](https://сжс.рф/mesta/crimea-family/)
+- [Москва семейная](https://сжс.рф/mesta/moskva-semeynaya/)
+
+## Documents & photos (RU)
 
 - [Документы](https://сжс.рф/dokumenty/)
 - [Письма с фронта](https://сжс.рф/dokumenty/pisma-s-fronta/)
 - [Фото](https://сжс.рф/foto/)
-- [Места](https://сжс.рф/mesta/)
-- [Москва семейная](https://сжс.рф/mesta/moskva-semeynaya/)
+- [Семейный альбом продолжения](https://сжс.рф/foto/tetrad-semya-prodolzhenie/)
 - [История](https://сжс.рф/istoriya/)
-- [Архивы](https://сжс.рф/archives/)
 
 ## Core (EN)
 
-- [Home](https://сжс.рф/en/): archive portal
+- [Home](https://сжс.рф/en/)
 - [About](https://сжс.рф/en/about/)
 - [Publishing principles](https://сжс.рф/en/publishing-principles/)
 - [Privacy](https://сжс.рф/en/privacy/)
 - [Search](https://сжс.рф/en/search/)
-
-## Memoirs & parents (EN)
-
-- [Memoirs](https://сжс.рф/en/memoirs/)
-- [Diary / notebook](https://сжс.рф/en/memoirs/diary/)
-- [About the notebook](https://сжс.рф/en/memoirs/diary/about-the-notebook/)
-- [Parents](https://сжс.рф/en/parents/)
-- [Timofey P. Samsonov](https://сжс.рф/en/parents/timofey-petrovich-samsonov/)
-- [Eva Konstantinovna](https://сжс.рф/en/parents/eva-konstantinovna/)
-- [Dmitry A. Krivoshein](https://сжс.рф/en/parents/dmitry-aleksandrovich-krivoshein/)
-- [Father and mother](https://сжс.рф/en/parents/father-and-mother/)
-
-## Documents, photos, places (EN)
-
-- [Documents](https://сжс.рф/en/documents/)
+- [People](https://сжс.рф/en/people/)
+- [Tatyana Timofeevna](https://сжс.рф/en/people/tatyana-timofeevna-krivosheina/)
+- [A. D. Krivoshein (Sasha)](https://сжс.рф/en/people/aleksandr-krivoshein/)
+- [Memoirs / diary](https://сжс.рф/en/memoirs/diary/)
+- [Events](https://сжс.рф/en/events/)
+- [Meeting Sasha](https://сжс.рф/en/events/meeting-sasha/)
+- [Timeline](https://сжс.рф/en/timeline/)
 - [Letters from the front](https://сжс.рф/en/documents/letters-from-the-front/)
 - [Photos](https://сжс.рф/en/photos/)
-- [Places](https://сжс.рф/en/places/)
-- [Family Moscow](https://сжс.рф/en/places/family-moscow/)
-- [History](https://сжс.рф/en/history/)
-- [Archives](https://сжс.рф/en/archives/)
 
-## Machine discovery (public only)
+## Machine discovery
 
-- [Sitemap](https://сжс.рф/sitemap.xml)
+- [Sitemap](https://сжс.рф/sitemap.xml) — full URL + image extension + hreflang
 - [robots.txt](https://сжс.рф/robots.txt)
+- [ai.txt](https://сжс.рф/ai.txt) — agent instructions + identity canon
 - [RSS](https://сжс.рф/index.xml)
+- [Search JSON](https://сжс.рф/index.json)
 
-## Out of scope (do not treat as public graph targets)
+## Out of scope
 
-- Private family materials and internal review notes
-- Withheld notebook pages 099–100 (privacy)
-- Unlinked manuscript scans 155 / 157 (privacy)
-- Draft English diary chapters not published in the build
+- Private family materials; internal review notes
+- Withheld notebook pages 099–100; scans 155 / 157
+- Draft EN diary chapters not in production build
 - Legacy noindex hub URLs
 
-# End experimental llms.txt
+# End llms.txt

@@ -30,10 +30,12 @@
 {{- else }}
 <body id="top">
 {{- end }}
+    <a class="skip-link" href="#main-content">{{ if eq site.Language.Lang "en" }}Skip to content{{ else }}К содержанию{{ end }}</a>
     {{ partialCached "header.html" . .Page -}}
-    <main class="main">
+    <main class="main" id="main-content" tabindex="-1">
         {{- block "main" . }}{{ end }}
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
 </body>
 </html>
+

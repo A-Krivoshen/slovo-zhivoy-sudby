@@ -1,17 +1,64 @@
+# сжс.рф / Слово Живой Судьбы — public family archive
 User-agent: *
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
 Allow: /
-# Knowledge-graph entity sections (must remain crawlable when published)
+# Entity hubs (knowledge graph)
 Allow: /lyudi/
 Allow: /sobytiya/
 Allow: /hronologiya/
+Allow: /mesta/
+Allow: /dokumenty/
+Allow: /foto/
+Allow: /vospominaniya/
+Allow: /roditeli/
 Allow: /en/people/
 Allow: /en/events/
 Allow: /en/timeline/
+Allow: /en/places/
+Allow: /en/documents/
+Allow: /en/photos/
+Allow: /en/memoirs/
+Allow: /en/parents/
+# Machine maps
+Allow: /llms.txt
+Allow: /ai.txt
+Allow: /index.json
+Allow: /sitemap.xml
+Allow: /.well-known/
 {{- else }}
 Disallow: /
 {{- end }}
 
+# AI / research crawlers — same public surface (no private paths published)
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Anthropic-AI
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: cohere-ai
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: meta-externalagent
+Allow: /
+
+Host: {{ strings.TrimSuffix "/" site.BaseURL }}
 Sitemap: {{ "sitemap.xml" | absURL }}
-# Experimental AI crawl map (when built with home LLMs output):
+# AI agent map (human-readable + machine):
 # {{ "llms.txt" | absURL }}
+# {{ "ai.txt" | absURL }}

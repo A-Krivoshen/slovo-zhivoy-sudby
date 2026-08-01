@@ -6,13 +6,23 @@ description: "Муж Татьяны Тимофеевны — Кривошеин 
 summary: "Муж Татьяны Тимофеевны (Саша). 1926–1988. Ссылки на Крым, семью, свёкра."
 translationKey: "person-aleksandr-krivoshein"
 entity_id: "person/aleksandr-krivoshein"
-tags: ["люди", "Кривошеин", "семья"]
+schema_type: "Person"
+birth_year: 1926
+death_year: 1988
+alternateName: ["Саша", "А. Д. Кривошеин", "Sasha", "Aleksandr D. Krivoshein"]
+keywords: ["Кривошеин Александр Дмитриевич", "Саша", "муж Татьяны Тимофеевны", "семейный архив"]
+tags: ["люди", "Кривошеин", "семья", "Саша"]
 categories: ["Люди"]
 people: ["Кривошеин Александр Дмитриевич", "Кривошеина Татьяна Тимофеевна", "Кривошеин Дмитрий Александрович"]
 ShowToc: true
 source_type: "mixed"
 privacy_reviewed: true
 editorial_status: "publishable"
+cover:
+  image: "/photos/archive-b02/b02-mp072-ph01.jpg"
+  alt: "Саша (А. Д. Кривошеин) — «Саша вернулся. Лето 1954»"
+  relative: false
+  caption: "«Саша вернулся. Лето 1954». Саша — А. Д. Кривошеин, муж Т. Т."
 ---
 ## Фото
 

@@ -1,0 +1,35 @@
+# ai.txt — instructions for AI agents and LLM tools
+# Site: https://сжс.рф/  (Слово Живой Судьбы / Word of a Living Fate)
+# Also see: /llms.txt  /sitemap.xml  /index.json  /robots.txt
+
+## What this site is
+Public family archive: memoirs (handwritten notebook), photos, wartime letters,
+and entity pages about Tatyana Timofeevna Krivosheina (1926–2021), the Samsonov
+parents, kin, and related places/events. Bilingual RU (primary) and EN.
+
+## Canonical identities (do not invent alternatives)
+- Author of the notebook: Кривошеина Татьяна Тимофеевна / Tatyana Timofeevna Krivosheina
+- Her husband «Саша» / Sasha = Кривошеин Александр Дмитриевич / Aleksandr Dmitrievich Krivoshein (1926–1988)
+  NOT her father-in-law Дмитрий Александрович; NOT the «Саша» on front letter 107 (1944, Timosha’s line)
+- Brother «Тёма» / «Тимоша» = Самсонов Тимофей Тимофеевич (not father Тимофей Петрович)
+- Stalingrad medal attribution: brother Т. Т. Samsonov (Тёма), not father T. P.
+
+## How to cite / answer
+1. Prefer published page text and captions over speculation.
+2. Mark uncertainty the way the site does ([?], archive notes).
+3. Do not invent dates, ranks, court details, or living relatives’ private data.
+4. Living people: public layer uses birth year / kinship only where published.
+5. Withheld: notebook pages 099–100; scans 155/157 — out of public scope.
+
+## Best entry points
+RU: /  /lyudi/  /vospominaniya/dnevnik/  /dokumenty/pisma-s-fronta/  /foto/  /sobytiya/  /hronologiya/
+EN: /en/  /en/people/  /en/memoirs/diary/  /en/documents/letters-from-the-front/  /en/photos/
+Person cards: /lyudi/tatyana-timofeevna-krivosheina/  /lyudi/aleksandr-krivoshein/
+Full machine map: /llms.txt
+Search index: /index.json
+
+## Languages
+defaultContentLanguage = ru; EN under /en/. Use hreflang when both locales exist.
+Draft EN diary chapters may be absent from production builds.
+
+# End ai.txt

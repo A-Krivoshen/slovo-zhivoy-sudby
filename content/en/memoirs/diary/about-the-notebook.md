@@ -4,7 +4,7 @@ date: 2026-08-01
 weight: 5
 draft: false
 description: "How Tatyana Timofeevna’s manuscript “Our genealogy: the Samsonovs” is organized."
-summary: "First batch (~79 pp.) of first-person family chronicle — transcription by chapter."
+summary: "First portion (~79 pp.) of a first-person family chronicle — transcription by chapter."
 translationKey: "diary-about-notebook"
 tags: ["diary", "notebook", "manuscript"]
 categories: ["Memoirs"]
@@ -15,7 +15,7 @@ cover:
   relative: false
 ---
 
-{{< figure src="/photos/dnevnik-tt/str-001.jpg" caption="Cover: “Our genealogy: the Samsonovs.”" >}}
+{{< figure src="/photos/dnevnik-tt/str-001.jpg" caption="Cover: “Our genealogy: the Samsonovs.”." >}}
 
 ## What it is
 
@@ -30,9 +30,9 @@ Inside:
 
 ## How to read on the site
 
-A **first-pass machine-assisted transcription** of the initial batch (**79** archival scans) is published and split into chapters — see the [diary contents](/en/memoirs/diary/). The archive is **not** closed: more scans are expected, and transcription may be refined against the originals.
+An **initial transcription** of the first portion (**79** notebook pages) is published and split into chapters — see the [diary contents](/en/memoirs/diary/). The archive is **not** closed: more pages are expected, and the transcription may be refined against the originals.
 
-What you mostly see here is an **exact transcription** (author’s sequence and sense, not a literary rewrite). Where possible, the **original scan** of the page is shown alongside. A separate “easy-reading” version is added only where needed and never replaces the transcription.
+What you mostly see here is an **exact transcription** (author’s sequence and sense, not a literary rewrite). Where possible, a **photograph of the page** is shown alongside. A separate “easy-reading” version is added only where needed and never replaces the transcription.
 
 Marks:
 
@@ -42,7 +42,7 @@ Marks:
 
 Dates sometimes disagree inside the notebook — check against documents. Genealogical charts are a source, not infallible: disagreements with the memoir text are not hidden.
 
-Source: manuscript “Our genealogy: the Samsonovs” (notebook page scans).
+Source: manuscript “Our genealogy: the Samsonovs” (photographs of the notebook pages).
 
 ## Where to start
 
@@ -53,6 +53,10 @@ Source: manuscript “Our genealogy: the Samsonovs” (notebook page scans).
 - [Father’s character](/en/memoirs/diary/08-father-character/)  
 
 Chapter list — in the [contents](/en/memoirs/diary/).
+
+---
+
+*[Notebook contents](/en/memoirs/diary/) · [Cover and family charts](/en/memoirs/diary/00-cover-and-charts/) →*
 
 ---
 

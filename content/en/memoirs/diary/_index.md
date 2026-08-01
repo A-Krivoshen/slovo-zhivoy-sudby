@@ -1,16 +1,18 @@
 ---
 title: "Diary / notebook"
-description: "Transcription of Tatyana Timofeevna’s notebook “Our genealogy: the Samsonovs” — in chapters, first person; scan batches are published in blocks."
-summary: "Scan batches — chapter transcription; the archive is growing (incl. pp. 080–099)"
+description: "Transcription of Tatyana Timofeevna’s notebook “Our genealogy: the Samsonovs” — in chapters, first person; new pages are published as they are prepared."
+summary: "Chapter transcription of the notebook; the archive is growing (incl. pp. 080–161)"
 translationKey: "diary"
 ---
 
 Squared notebook: **“Our genealogy: the Samsonovs.”**  
 Written by **Tatyana Timofeevna** — in the first person.
 
-A **first-pass transcription** of the notebook (first about **79** pages, then a continuation from a new scan batch). The text is being checked page by page; uncertain readings are marked explicitly (`[?]`, `[illegible]`). This does **not** mean every page has been fully proofread by hand.
+An **initial transcription** of the notebook (first about **79** pages, then a continuation from further family photographs of the manuscript). The text is being checked page by page; uncertain readings are marked explicitly (`[?]`, `[illegible]`). This does **not** mean every page has been fully proofread by hand.
 
-Source for each chapter: the manuscript “Our genealogy: the Samsonovs,” the corresponding scan pages.
+Source for each chapter: the manuscript “Our genealogy: the Samsonovs.”
+
+The text was prepared from family photographs of the notebook. Unclear passages are marked in square brackets, and the transcription may be refined as the manuscript is reviewed.
 
 ## Introduction
 
@@ -30,5 +32,13 @@ Source for each chapter: the manuscript “Our genealogy: the Samsonovs,” the 
 10. [Documents in the notebook](/en/memoirs/diary/09-documents-in-notebook/) — portraits, Dzerzhinsky’s certificate, citations, Alexandrovsky Central  
 11. [Notebook continued (pp. 080–089)](/en/memoirs/diary/10-notebook-continued-080-089/) — photos, biographical notes, sister Genya  
 12. [Notebook continued (pp. 090–098)](/en/memoirs/diary/11-notebook-continued-090-099/) — Genya’s fate, brother Tyoma, Sasha’s notes  
+
+13. [Brother at the front (pp. 101–108)](/en/memoirs/diary/12-brother-front-letters-101-108/) — letters, exam photo, Stalingrad medal  
+14. [School, friends, the club (pp. 109–119)](/en/memoirs/diary/13-school-friends-109-119/) — childhood, school, pre-war form  
+15. [War: evacuation and return (pp. 120–127)](/en/memoirs/diary/14-war-evacuation-120-127/) — 1941–1942  
+16. [Wartime letters (pp. 128–133)](/en/memoirs/diary/15-wartime-letters-128-133/) — correspondence, postcard  
+17. [Friends, theatre, Victory Day (pp. 134–139)](/en/memoirs/diary/16-friends-victory-134-139/) — postwar circle  
+18. [Crimea, marriage, hard years (pp. 140–149)](/en/memoirs/diary/17-crimea-family-140-149/) — family, photographs  
+19. [The sons: Mitya and Seryozha (pp. 150–161)](/en/memoirs/diary/18-sons-150-161/) — children, journeys, snapshots  
 
 See also: [Places](/en/places/family-moscow/) · [T. P. Samsonov](/en/parents/timofey-petrovich-samsonov/) · [Eva Konstantinovna](/en/parents/eva-konstantinovna/) · [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/)

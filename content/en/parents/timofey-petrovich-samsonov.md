@@ -20,7 +20,7 @@ cover:
 This page is built from a **family album** of photographs and documents (margin notes, certificates, a newspaper clipping).  
 Uncertain or incomplete readings are marked as such.
 
-{{< figure src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" caption="Young Timofey Petrovich. Studio Kapustinsky / Sheremetev, Moscow. Daughter’s note: “my dad,” “Samsonov Timofey Petrovich.”" >}}
+{{< figure src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" caption="Young Timofey Petrovich. Studio Kapustinsky / Sheremetev, Moscow. Daughter’s note: “my dad,” “Samsonov Timofey Petrovich.”." >}}
 
 ## Timeline (from the archive)
 
@@ -62,7 +62,7 @@ Partial reading of the verses (to be completed from a sharper scan):
 
 ## 1910. Alexandrovsky Central
 
-{{< figure src="/photos/samsonov-tp/09-alexandrovsky-central-1910.jpg" caption="Alexandrovsky Central (Siberia). Album note: “Father was imprisoned here in the summer of 1910.”" >}}
+{{< figure src="/photos/samsonov-tp/09-alexandrovsky-central-1910.jpg" caption="Alexandrovsky Central (Siberia). Album note: “Father was imprisoned here in the summer of 1910.”." >}}
 
 ## 1917. Britain and expulsion
 

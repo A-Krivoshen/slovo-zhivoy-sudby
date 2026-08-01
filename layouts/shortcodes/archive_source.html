@@ -1,13 +1,18 @@
+{{- /*
+  Visitor-facing manuscript source line.
+  Never emit field names like original_page.
+  RU: Рукописная тетрадь «…», стр. N–M.
+  EN: Handwritten notebook "…", pages N–M.
+*/ -}}
 {{- $title := .Get "title" | default "Наша родословная. Самсоновы" -}}
 {{- $pages := .Get "pages" -}}
-{{- $kind := .Get "kind" | default "manuscript" -}}
 <aside class="archive-source" role="note">
   <p class="archive-source__label">{{- if eq site.Language.Lang "en" -}}Source{{- else -}}Источник{{- end -}}</p>
   <p>
     {{- if eq site.Language.Lang "en" -}}
-      Manuscript “{{ $title }}”{{ with $pages }}, original_page {{ . }}{{ end }}.
+      Handwritten notebook "{{ $title }}"{{ with $pages }}, pages {{ . }}{{ end }}.
     {{- else -}}
-      Рукопись «{{ $title }}»{{ with $pages }}, original_page {{ . }}{{ end }}.
+      Рукописная тетрадь «{{ $title }}»{{ with $pages }}, стр. {{ . }}{{ end }}.
     {{- end -}}
     {{ with .Inner }} {{ . | markdownify }}{{ end }}
   </p>

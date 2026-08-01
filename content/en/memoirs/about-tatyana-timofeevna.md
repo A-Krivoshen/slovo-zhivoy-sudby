@@ -63,8 +63,8 @@ Per family captions and portrait — teaching work at the **Institute of Steel a
 
 ## The notebook
 
-She left the handwritten notebook **[“Our genealogy: the Samsonovs”](/en/memoirs/diary/)** — first batch: **79** archival scans.  
-The site publishes a **first-pass machine-assisted transcription**, checked page by page over time; unclear passages are marked.
+She left the handwritten notebook **[“Our genealogy: the Samsonovs”](/en/memoirs/diary/)** — first portion: **79** notebook pages.  
+The site publishes an **initial transcription**, checked page by page over time; unclear passages are marked.
 
 ## Later years
 
@@ -82,7 +82,7 @@ The 2019 photograph is a respectful home portrait.
 | Daughter of T. P. Samsonov and Eva Konstantinovna | manuscript; charts | high |
 | Author of the first-person notebook | manuscript | high |
 | Lecturer (Institute of Steel and Alloys) | family portrait/caption | medium–high |
-| Husband — A. D. Krivoshein | chart original_page 004–005 | high |
+| Husband — A. D. Krivoshein | chart p. 004–005 | high |
 | **Birth 2 September 1926** | official family documents | **established** |
 | **Death 24 September 2021** | official family documents; plaque | **established** |
 

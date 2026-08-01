@@ -40,7 +40,7 @@ Near-duplicate frames were merged; the selected digital copies are shown below.
 
 {{< figure src="/photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg" caption="“F. E. Dzerzhinsky, Belenky, Papa” — papa on the right." >}}
 
-{{< figure src="/photos/samsonov-tp/09-alexandrovsky-central-1910.jpg" caption="Alexandrovsky Central, Siberia — “Father imprisoned here, summer 1910.”" >}}
+{{< figure src="/photos/samsonov-tp/09-alexandrovsky-central-1910.jpg" caption="Alexandrovsky Central, Siberia — “Father imprisoned here, summer 1910.”." >}}
 
 ## 4. Document photographs
 

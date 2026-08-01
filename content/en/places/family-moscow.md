@@ -40,7 +40,7 @@ Walks in the garden; father sometimes took them into the Kremlin — “he had a
 
 {{< osm_map lat="55.75240" lon="37.60868" zoom="16" title="Alexandrovsky Garden" caption="Childhood walks." >}}
 
-{{< osm_map lat="55.75162" lon="37.61812" zoom="15" title="Moscow Kremlin" caption="“Father took us to the Kremlin.”" >}}
+{{< osm_map lat="55.75162" lon="37.61812" zoom="15" title="Moscow Kremlin" caption="“Father took us to the Kremlin.”." >}}
 
 ## 5. The “little dead end” by the Pushkin Museum
 

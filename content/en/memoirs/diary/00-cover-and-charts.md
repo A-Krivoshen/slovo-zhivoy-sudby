@@ -22,7 +22,7 @@ source_type: "manuscript"
 privacy_reviewed: true
 ---
 
-*From Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` = unclear passages. Scan page numbers are given in the comments.*
+*From Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` = unclear passages. Page numbers (p. N) are given in the comments.*
 
 <!-- p. 001 -->
 
@@ -223,13 +223,11 @@ b. 1936
 
 <!-- p. 006 -->
 
-**[alternate_scan of original_page 005 — physical_leaf_id: genealogy-krivoshein-01]**
-
 {{< archive_note type="source" >}}
-original_page **006** is a second scan of the same physical **Krivosheins** chart leaf as **005**. Archival number 006 is kept; a full second transcription is not repeated.
+A second scan of the same Krivoshein family chart leaf; a full second transcription is not repeated.
 {{< /archive_note >}}
 
-*(Content matches the chart on original_page 005. Photos: woman with curly hair; three male portraits.)*
+*(Content matches the chart on p. 005. Photos: woman with curly hair; three male portraits.)*
 
 - **Krivoshein Dmitry Alexandrovich** (1905–1979), Tambov; Lyubertsy Cemetery  
 - **Krivosheina (Petrova) Nina Vasilievna** (1907–1991), Tambov; Lyubertsy  

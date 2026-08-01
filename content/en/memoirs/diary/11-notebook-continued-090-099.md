@@ -4,7 +4,7 @@ date: 2026-08-01
 weight: 120
 ShowReadingTime: false
 draft: false
-description: "Notebook pages 090–098: end of the letter to her sister, Genya’s fate, family photos, brother Tyoma, Sasha’s notes."
+description: "End of a letter to her sister, Genya’s fate, family photos, and the story of brother Tyoma (pp. 090–098)."
 summary: "Pp. 090–098 — sister Genya, brother Tyoma, Sasha’s notes."
 translationKey: "diary-11-prodolzhenie-090-099"
 tags: ["diary", "notebook"]
@@ -22,23 +22,17 @@ source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
+Continuation of Tatyana Timofeevna’s handwritten notebook: the end of a letter to her sister, memories of Genya, family photographs, and the story of her brother Tyoma.
 
-{{< archive_note type="status" >}}
-**Pages 090–098** of the notebook. First-pass transcription; uncertain places are marked `[?]` / `[illegible]`.  
-The document on pp. 099–100 (a Ukrainian medal) does **not** belong to Father and is **not** published here — see the note at the end of the chapter.
-{{< /archive_note >}}
+*From the handwritten notebook “Our genealogy: the Samsonovs.”*
 
-{{< archive_source title="Our genealogy: the Samsonovs" pages="090–098" >}}
-Continuation after p. 089: end of the letter insert, sister Genya’s story, family photos, brother’s biography, Sasha’s pasted notes.
-{{< /archive_source >}}
-
-*Tatyana Timofeevna’s voice. On p. 093 the brother is named **Samsonov Timofey Timofeevich (Tyoma)**; later the manuscript often uses **Zhenya** for the same brother — kept as written.*
+*On p. 093 the brother is named Timofey Timofeevich (Tyoma); later the manuscript often calls him Zhenya.*
 
 ---
 
 <!-- p. 090 -->
 
-{{< figure src="/photos/dnevnik-tt/str-090.jpg" caption="original_page 090: continuation of the letter insert to her sister. Source: manuscript." >}}
+{{< figure src="/photos/dnevnik-tt/str-090.jpg" caption="Continuation of the letter insert to her sister." >}}
 
 **[insert / separate leaf; right edge cut / glare]**
 
@@ -61,7 +55,7 @@ verses are proof of that[?]
 
 <!-- p. 091 -->
 
-{{< figure src="/photos/dnevnik-tt/str-091.jpg" caption="original_page 091: fate of sister Zhenya, 1939–1941." >}}
+{{< figure src="/photos/dnevnik-tt/str-091.jpg" caption="Fate of sister Zhenya, 1939–1941." >}}
 
 And she invited Zhenya to stay with her. Zhenya left.  
 Mama was very worried, but we did not  
@@ -125,7 +119,7 @@ she said: “Here is sister[?] Samsonova[?].”
 
 <!-- p. 092 -->
 
-{{< figure src="/photos/dnevnik-tt/str-092.jpg" caption="original_page 092: Zhenya and Tyoma; the Samsonov family, 1925." >}}
+{{< figure src="/photos/dnevnik-tt/str-092.jpg" caption="Zhenya and Tyoma; the Samsonov family, 1925." >}}
 
 **[photo, top left]** Two children in sailor suits.
 
@@ -165,7 +159,7 @@ I was not yet there.
 
 <!-- p. 093 -->
 
-{{< figure src="/photos/dnevnik-tt/str-093.jpg" caption="original_page 093: “My brother” — Samsonov Timofey Timofeevich." >}}
+{{< figure src="/photos/dnevnik-tt/str-093.jpg" caption="“My brother” — Samsonov Timofey Timofeevich." >}}
 
 **My brother.**
 
@@ -231,7 +225,7 @@ the station “Okrug” opened near us.
 
 <!-- p. 094 -->
 
-{{< figure src="/photos/dnevnik-tt/str-094.jpg" caption="original_page 094: brother — dacha, school, friends." >}}
+{{< figure src="/photos/dnevnik-tt/str-094.jpg" caption="Brother — dacha, school, friends." >}}
 
 (who had saved [him?] from the water). Zhenya spends  
 all his days there, swimming[?], [on duty?], and they  
@@ -295,7 +289,7 @@ They were very good[?] little sailors[?], because
 
 <!-- p. 095 -->
 
-{{< figure src="/photos/dnevnik-tt/str-095.jpg" caption="original_page 095: 1941; the front; return from the war." >}}
+{{< figure src="/photos/dnevnik-tt/str-095.jpg" caption="1941; the front; return from the war." >}}
 
 Lyova had an uncle who was a sailor. The boys flared[?]  
 their trousers and put in gores so that  
@@ -360,7 +354,7 @@ water), [rubbed?] him with linen. They took him into
 
 <!-- p. 096 -->
 
-{{< figure src="/photos/dnevnik-tt/str-096.jpg" caption="original_page 096: Katyushas, Berlin, marriage, character." >}}
+{{< figure src="/photos/dnevnik-tt/str-096.jpg" caption="Katyushas, Berlin, marriage, character." >}}
 
 went. But at home he was not very [well], and then  
 in January he got up from his bed. His rela-  
@@ -425,7 +419,7 @@ We have everything.” Such is his character.
 
 <!-- p. 097 -->
 
-{{< figure src="/photos/dnevnik-tt/str-097.jpg" caption="original_page 097: after the war — Vorobyovo, books, retirement." >}}
+{{< figure src="/photos/dnevnik-tt/str-097.jpg" caption="After the war — Vorobyovo, books, retirement." >}}
 
 After his return he went to study at  
 a school of surveyors and became a surveyor.  
@@ -483,7 +477,7 @@ binds books that need
 
 <!-- p. 098 -->
 
-{{< figure src="/photos/dnevnik-tt/str-098.jpg" caption="original_page 098: greetings from Sasha." >}}
+{{< figure src="/photos/dnevnik-tt/str-098.jpg" caption="Greetings from Sasha." >}}
 
 **[pasted note, top — black ink]**
 
@@ -518,15 +512,4 @@ he wrote this to me. I love him too.
 
 ---
 
-<!-- pp. 099–100: document withheld (not T. P. Samsonov) -->
-
-{{< archive_note type="status" >}}
-**About pp. 099–100 (not shown in this chapter).**  
-The notebook holds a certificate for the Ukrainian medal “Захиснику Вітчизни” (1999).  
-On the form the recipient is **Samsonov Timofey Timofeevich** — **Uncle Tyoma**, brother of Tatyana Timofeevna, **not** father Samsonov Timofey Petrovich (1888–1955).  
-Until there is a dedicated page for Uncle Tyoma, we do **not** publish that document here and do **not** attach it to the father’s biography. Notebook page numbers are unchanged.
-{{< /archive_note >}}
-
----
-
-*← [Notebook continued (pp. 080–089)](/en/memoirs/diary/10-notebook-continued-080-089/) · [Notebook contents](/en/memoirs/diary/)*
+*← [Notebook continued (pp. 080–089)](/en/memoirs/diary/10-notebook-continued-080-089/) · [Notebook contents](/en/memoirs/diary/) · [Brother at the front (pp. 101–108)](/en/memoirs/diary/12-brother-front-letters-101-108/) →*

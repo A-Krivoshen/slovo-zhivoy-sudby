@@ -26,7 +26,7 @@ privacy_reviewed: true
 
 <!-- p. 058 -->
 
-*(squared notebook leaf; original_page 058; scan orientation corrected; on the right — show-through of a neighboring entry)*
+*(notebook leaf; show-through of a neighboring entry on the right)*
 
 **Meeting with the film director Ludovkin[?].**
 *(the handwriting is read stably as “Ludovkin”; the first letter could theoretically be “P” — do not merge with other people without confirmation)*
@@ -65,7 +65,7 @@ my dacha was known only to his
 wife and the investigative authorities, with  
 whom it was agreed that
 
-[continuation of the quotation — PAGE 059]
+[continuation of the quotation — p. 059]
 
 ---
 
@@ -94,7 +94,7 @@ continued this tradition.
 
 <!-- p. 059 -->
 
-*(almost empty leaf; original_page 059; scan orientation corrected; end of the quotation from PAGE 058)*
+*(almost empty leaf; end of the previous quotation)*
 
 …Ludovkin[?] will not be  
 subjected to any interrogation. The investigation  
@@ -148,7 +148,7 @@ Ludovkin[?].
 […] investigative authorities, with  
 […] it was agreed that
 
-*(cropped/repeat frame of the same entry as PAGE 058; no new stable facts beyond 058–059. The offline-batch readings “Jindřich” / “Iudushka” are rejected as not confirmed by the image.)*
+*(repeat frame of the same entry; no new facts)*
 
 ---
 
@@ -357,9 +357,7 @@ still keep up friendly
 relations although we live in the same house.
 
 {{< archive_note type="uncertain" >}}
-**original_page 064:** the manuscript reads **“Valuyevo”** (rest home; meeting Natasha).  
-On **original_page 051** — **“Vasilki”** (also a rest home; the same Natasha / entrance 10).  
-These are **different spellings in the manuscript** on different pages; do not merge them into one place without a document or a side-by-side re-check of both scans.
+One page reads “Valuyevo,” another “Vasilki” (both rest homes; not merged).
 {{< /archive_note >}}
 
 There was a rink there and I very much wanted  
@@ -543,10 +541,7 @@ Samsonov [T. P.?] [Zab.?] “Wonders” [Uk.?], 1919 — [accents?]
 
 <!-- p. 067 -->
 
-*[скан — scan inverted 180°.  
-(possible duplicate of a spread/scan in the source PDF;  
-or the same page recorded twice in the batch).  
-Below — full text from the readable copy.]*
+*(Leaf shown in readable orientation; text continues below.)*
 
 of students. I remembered some of them:  
 “Hey, sailors, on!..” Or [they sang?]:  
@@ -614,8 +609,7 @@ cuttings from the newspapers on this subject,
 <!-- p. 068 -->
 
 {{< archive_note type="source" >}}
-**original_page 068** — the same physical leaf as **067**, rotated 180° (removed as a duplicate in the control PDF).  
-The text matches original_page **067**; a separate story is **not** published.
+The following leaf is a repeat scan of the same page; a separate story is not published.
 {{< /archive_note >}}
 
 ---
@@ -809,7 +803,7 @@ throw a spadeful of earth onto F. E.’s coffin I
 wept.” Papa sincerely loved this man.  
 (see the interesting recollections in Father’s notebook
 
-*The sentence breaks off at the lower edge of original_page 071. No continuation was found in the available pages of the first batch.*
+*The sentence breaks off at the lower edge of the page. No continuation was found in the available leaves.*
 
 ---
 

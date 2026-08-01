@@ -22,21 +22,21 @@ source_type: "manuscript"
 privacy_reviewed: true
 ---
 
-*Text from Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` — illegible places. Scan pages are indicated in comments.*
+*Text from Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` — illegible places. Page numbers (p. N) are given in the comments.*
 
 <!-- p. 028 -->
 <!-- p. 029 -->
 <!-- p. 030 -->
 
 {{< archive_note type="source" >}}
-**original_page 028–030** — the full diplomatic transcription is published in [Father, the Cheka, and verses](/en/memoirs/diary/05-father-cheka-verses/). Those pages are **not** repeated here. Chapter 06 continues the document line from original_page **041** (and related clippings).
+Pages on the Cheka and verses are in [Father, the Cheka, and verses](/en/memoirs/diary/05-father-cheka-verses/). This chapter continues with documents and congresses.
 {{< /archive_note >}}
 
 <!-- p. 039 -->
 <!-- p. 040 -->
 
 {{< archive_note type="source" >}}
-**original_page 039–040** — primary transcription in [Childhood in Moscow](/en/memoirs/diary/03-childhood-moscow/). Full text is not repeated here.
+Childhood pages are in [Childhood in Moscow](/en/memoirs/diary/03-childhood-moscow/). Full text is not repeated here.
 {{< /archive_note >}}
 
 <!-- p. 041 -->
@@ -105,7 +105,7 @@ various flowers: mignonette, daisies,
 carnations, marigolds, snapdragons, spitsy[?],  
 fragrant tobacco, sweet peas,
 
-*The sentence breaks off at the end of the original page (the flower-bed list is not recovered further in the available batch).*
+*The sentence breaks off at the end of the page; the rest of the flower-bed list was not recovered.*
 
 ---
 
@@ -210,7 +210,7 @@ No. 398.
 | 664 | Ryvkin O. L. | CCC | IX/1917 |
 | 665 | Ryskulov T. R. | Council of People’s Commissars of the RSFSR | [?] |
 
-*Note: fine print; some endings and dates worn; marked `[?]` — doubtful readings. Samsonov T. P. does not appear on this page (Nos. 600–665; by the extract on PAGE 042 his No. 685 is further down the list).*
+*Note: fine print; some endings and dates worn; marked `[?]` — doubtful readings. Samsonov T. P. does not appear on this page (Nos. 600–665; by the extract on p. 042 his No. 685 is further down the list).*
 
 ---
 
@@ -281,7 +281,7 @@ No. 398.
 
 *(bottom right:)* 89*
 
-*Note: Samsonov T. P. does not appear on this page (Nos. 502–553); continued on PAGE 045.*
+*Note: Samsonov T. P. does not appear on this page (Nos. 502–553); continued on p. 045.*
 
 ---
 
@@ -431,7 +431,7 @@ No. 398.
 | 626 | Tarasov A. A. | Ob–Irtysh | 1919 |
 | 627 | Tarutinsky A. V. | Belorussia | 1918 |
 
-*(to the left of line 570 Samsonov T. P. — mark “V” / check; matches No. 570 on PAGE 042)*
+*(to the left of line 570 Samsonov T. P. — mark “V” / check; matches No. 570 on p. 042)*
 
 *Note: lines 568–570: on the scan two Samsonov I. Ya. and Samsonov T. P.; possible column slips in dates for neighboring lines — check against the original.*
 
@@ -513,7 +513,7 @@ No. 398.
 | 691 | Chernov M. A. | Komazot of the STO | 1920 |
 | 692 | Cherny A. D. | Western | 1927 |
 
-*Note: fine print; some surnames/abbreviations doubtful (`[?]`). By the extract on PAGE 042 No. 685 at the 16th Congress is Samsonov; here in another list under No. 685 is Tskhakaya M. G.*
+*Note: fine print; some surnames/abbreviations doubtful (`[?]`). By the extract on p. 042 No. 685 at the 16th Congress is Samsonov; here in another list under No. 685 is Tskhakaya M. G.*
 
 ---
 

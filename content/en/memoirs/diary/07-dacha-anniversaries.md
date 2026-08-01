@@ -22,11 +22,11 @@ source_type: "manuscript"
 privacy_reviewed: true
 ---
 
-*Text from Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` — illegible places. Scan pages are indicated in comments.*
+*Text from Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` — illegible places. Page numbers (p. N) are given in the comments.*
 
 <!-- p. 051 -->
 
-*(handwritten page number: −2−; original_page 051)*
+*(notebook page)*
 
 Once I was with Mama at the rest home  
 “Vasilki.” There I became acquainted  
@@ -69,7 +69,7 @@ ship we preserved.
 
 <!-- p. 052 -->
 
-*(handwritten number: −3−; original_page 052)*
+*(notebook page)*
 
 To the dacha we went to Serebryany Bor.  
 The dacha was official. We lived,  
@@ -111,7 +111,7 @@ and shouts to us: “I see, I see!”
 
 <!-- p. 053 -->
 
-*(handwritten number: −4−; original_page 053)*
+*(notebook page)*
 
 And what flowers Papa raised,  
 carnations everywhere, and what else —  
@@ -157,7 +157,7 @@ to us, ate there at our place.
 
 <!-- p. 054 -->
 
-*(handwritten number: −5−; original_page 054; the page is only partly filled)*
+*(page only partly filled)*
 
 But when in autumn it was time to leave  
 for the city, he would go off with hanging head.  
@@ -179,7 +179,7 @@ fine friend!
 
 <!-- p. 055 -->
 
-*(verses on a separate leaf; original_page 055; scan orientation corrected)*
+*(verses on a separate leaf)*
 
 Yura’s poem, composed for [the anniversary day?].
 
@@ -224,7 +224,7 @@ From harsh earthquakes
 
 <!-- p. 056 -->
 
-*(original_page 056; scan orientation corrected; continuation of Yura’s verse)*
+*(continuation of Yura’s verse)*
 
 5) Tatyana and Inna sang songs  
 A boy walked like Vanka-Vstanka[?]  
@@ -259,7 +259,7 @@ They have grown much younger,
 
 <!-- p. 057 -->
 
-*(squared notebook leaf; original_page 057; Father’s meetings with cultural figures)*
+*(Father’s meetings with cultural figures)*
 
 Some actors would come, I think  
 even Mili[?] Cherkas[?]. At that time in  

@@ -30,7 +30,7 @@ privacy_reviewed: true
 
 ### Elements of the page
 
-1. **Upper left** — photocopy / imprint of a certificate (the same as more fully on PAGE 075):
+1. **Upper left** — photocopy / imprint of a certificate (the same as more fully on p. 075):
 
 ```
 CERTIFICATE
@@ -43,7 +43,7 @@ chairman of the All-Russian Extraordinary Commission:
 [signature] F. Dzerzhinsky
 ```
 
-2. **Upper right** — portrait of F. E. Dzerzhinsky (photo); next to it partly visible printed biographical text about Samsonov (full text — on PAGE 079).
+2. **Upper right** — portrait of F. E. Dzerzhinsky (photo); next to it partly visible printed biographical text about Samsonov (full text — on p. 079).
 
 3. **Center** — handwritten insert:
 
@@ -88,7 +88,7 @@ in the Apparatus of the CC.’”
 **Type:** photograph (no handwritten text on the face).
 
 Black-and-white portrait of a bald middle-aged/older man in a dark suit, white shirt and dark necktie; on the lapel — a badge (order/breast badge, round). Light background.  
-*[Verso of this photograph — PAGE 074. By the album’s context and the inscription on the verso — T. P. Samsonov; the image agrees with Father’s portrait on other pages.]*
+*[Verso of this photograph — p. 074. By the album’s context and the inscription on the verso — T. P. Samsonov; the image agrees with Father’s portrait on other pages.]*
 
 ---
 
@@ -96,7 +96,7 @@ Black-and-white portrait of a bald middle-aged/older man in a dark suit, white s
 
 <!-- p. 074 -->
 
-**Type:** verso of the photograph (PAGE 073). Manuscript in red ink + pencil notes.  
+**Type:** verso of the photograph (p. 073). Manuscript in red ink + pencil notes.  
 Text on the verso oriented diagonally/at an angle to the edges of the card.
 
 ### Red ink (dedication)
@@ -411,7 +411,7 @@ The photo is pasted onto paper with a serrated (scalloped) upper edge.
 **Type:** photographs; **no handwritten text**.
 
 Two adjacent black-and-white shots (a spread / two frames) of prison or government blocks behind brick/stone walls; chimneys, roofs, long walls.  
-*[By the context of PAGE 077 — continuation of views of the prison in Liverpool (or of the same complex); there is no separate caption on this page.]*
+*[By the context of p. 077 — continuation of views of the prison in Liverpool (or of the same complex); there is no separate caption on this page.]*
 
 The lower part of the sheet is empty.
 
@@ -425,7 +425,7 @@ The lower part of the sheet is empty.
 
 ### Upper left
 
-Again an imprint of the **Certificate** of 16.I.1919 (revolver “Colt” No. 75350, signature of F. Dzerzhinsky) — the same document as on PAGE 072 / 075.
+Again an imprint of the **Certificate** of 16.I.1919 (revolver “Colt” No. 75350, signature of F. Dzerzhinsky) — the same document as on p. 072 / 075.
 
 ### Upper right
 
@@ -477,7 +477,7 @@ In the center: F. E. Dzerzhinsky, Menzhinsky
 | **V. I. Lenin** | Meetings with Father; speeches; first personal meeting winter 1920–21; second — March 1921, Comintern Congress, Kremlin |
 | **I. V. Stalin** | Glazov, end 1918 / early 1919 (with Dzerzhinsky); Kislovodsk 1923 (treatment; proposal to become secretary in the Apparatus of the CC — Father declined, remained with Dzerzhinsky); 1927, House of Unions — remark about a “firm manager” |
 | **F. E. Dzerzhinsky** | Glazov 1918/19; gave Father his personal revolver “Colt” No. 75350 (cert. 16.I.1919); joint work until death 1926; funeral (Father threw a spadeful of earth); Father’s article 1929; group photo of the Collegium of the Cheka |
-| **Menzhinsky** | Mentioned on the group photo of the Collegium of the Cheka (“in the center: … Menzhinsky”); possible signature on the GPU card (PAGE 075) — uncertain |
+| **Menzhinsky** | Mentioned on the group photo of the Collegium of the Cheka (“in the center: … Menzhinsky”); possible signature on the GPU card (p. 075) — uncertain |
 | **Marchlewski** | Mentioned in Samsonov’s article (episode of Dzerzhinsky’s underground in Warsaw) |
 
 <details>

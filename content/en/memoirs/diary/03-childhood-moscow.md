@@ -25,7 +25,7 @@ source_type: "manuscript"
 privacy_reviewed: true
 ---
 
-*From Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` = unclear passages. Scan page numbers are given in the comments.*
+*From Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` = unclear passages. Page numbers (p. N) are given in the comments.*
 
 {{< osm_map lat="55.75265" lon="37.60782" zoom="16" title="Vozdvizhenka" caption="Area of the family flat." >}}
 
@@ -34,7 +34,7 @@ privacy_reviewed: true
 <!-- p. 013 -->
 
 {{< archive_note type="source" >}}
-**original_page 012–013** — primary full transcription: [Father, marriage and children](/en/memoirs/diary/02-father-marriage-children/). This chapter continues from original_page **033** (childhood / Moscow).
+Pages on the early home and marriage are in [Father, marriage and children](/en/memoirs/diary/02-father-marriage-children/). Below: childhood in Moscow.
 {{< /archive_note >}}
 
 <!-- p. 033 -->
@@ -472,7 +472,7 @@ Papa’s[?] writing desk; we had
 our own [places] at the table; each had  
 his own place: Papa — in the center, Mama —
 
-*The sentence breaks off on original_page 040. No continuation was found in the available pages of the first batch.*
+*The sentence breaks off. No continuation was found in the available leaves.*
 
 ---
 
@@ -641,12 +641,12 @@ Only one remained — Inna.
 ---
 
 <details>
-<summary>Reference index for this chapter (not part of the manuscript)</summary>
+<summary>Reference notes for this chapter</summary>
 
-## Extracted facts (from these pages only)
+## Names and places mentioned
 
 ### People
-- **Narrator** — Tatyana (as a child; writes “about your grandma” on PAGE 050 — address to a descendant).
+- **Narrator** — Tatyana (as a child; writes “about your grandma” on p. 050 — address to a descendant).
 - **Papa** — **Samsonov T. P.** (Timofey Petrovich): worked a great deal; head of a department of the CC of the VKP(b), Party membership from **1919**; played billiards well; loved the flower garden/kitchen garden; director of **Metrostroy** (in the text — “in Metrostroy… he was the director”); took his daughter to Kislovodsk and Leningrad; read Lermontov to her; held meetings in the hotel room.
 - **Mama** — Papa’s arrival at 5 in the evening; told about the crows at the dacha; with Papa loved cats; looked for homes for kittens.
 - **Brother** — sat to Mama’s right at table; slept in a large dark room; crawled with the narrator to the cucumbers.
@@ -677,8 +677,8 @@ Only one remained — Inna.
 | 16th Congress of the VKP(b) | **1930**, delegate with consultative vote, No. **685** |
 | 17th conf. of the VKP(b) | **1932**, No. **398** |
 | 17th Congress of the VKP(b) | **1934**, delegate with consultative vote, No. **570** |
-| 15th Congress of the VKP(b) (print) | in list No. **601**: Samsonov T. P., head of a department of the CC of the VKP(b), Party membership **1919** (PAGE 045) |
-| 17th Congress, consultative vote (print) | No. **570**: the same (PAGE 046; check mark) |
+| 15th Congress of the VKP(b) (print) | in list No. **601**: Samsonov T. P., head of a department of the CC of the VKP(b), Party membership **1919** (p. 045) |
+| 17th Congress, consultative vote (print) | No. **570**: the same (p. 046; check mark) |
 
 ### Everyday life / objects
 - Papa’s routine: home at 5, an hour’s rest, work again; returned when the children were already asleep.
@@ -695,12 +695,12 @@ Only one remained — Inna.
 ### Uncertainties (do not invent)
 - Residents’ surnames: Lavrukhina / Paerkhina[?]; “ovarka Venka”; “the Lilyakins” in the margin.
 - “spitsy” in the list of flowers.
-- “house[?]” in the wording about the house management (PAGE 050).
+- “house[?]” in the wording about the house management (p. 050).
 - Director’s surname: Gudkin / Goodwin / Gutkin[?].
 - Some minor surnames and dates in the printed tables (marked `[?]`).
-- Exact correspondence of No. 685 (16th Congress, PAGE 042) to pages 043–047: on 043 the list breaks off at 665; on 047 under No. 685 — **Tskhakaya** (another list/edition).
+- Exact correspondence of No. 685 (16th Congress, p. 042) to pages 043–047: on 043 the list breaks off at 665; on 047 under No. 685 — **Tskhakaya** (another list/edition).
 
-## Extracted facts (earlier pages of this chapter)
+## Names and places (earlier pages)
 
 ### Persons
 | Who | How named | What is said |

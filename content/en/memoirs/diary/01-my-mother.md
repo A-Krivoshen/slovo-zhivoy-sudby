@@ -25,9 +25,9 @@ source_type: "manuscript"
 privacy_reviewed: true
 ---
 
-*From Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` = unclear passages. Scan page numbers are given in the comments.*
+*From Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` = unclear passages. Page numbers (p. N) are given in the comments.*
 
-{{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Eva Konstantinovna — “My mother.”" >}}
+{{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Eva Konstantinovna — “My mother.”." >}}
 
 {{< osm_map lat="55.77637" lon="37.58170" zoom="14" title="Belorussky Station" caption="Mama’s road to work." >}}
 

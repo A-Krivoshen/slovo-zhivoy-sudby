@@ -4,8 +4,8 @@ date: 2026-08-01
 weight: 110
 ShowReadingTime: false
 draft: false
-description: "First verified slice of the new scan batch: original_page 080–089 (photos, biographical notes, sister Genya)."
-summary: "New batch: 080–089 — continuation of “Our genealogy: the Samsonovs.”"
+description: "Photographs, biographical notes about Father, and the story of sister Genya (pp. 080–089)."
+summary: "Pp. 080–089 — notebook continued: Father, sister Genya."
 translationKey: "diary-10-prodolzhenie-080-089"
 tags: ["diary", "notebook"]
 categories: ["Memoirs"]
@@ -22,20 +22,13 @@ source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
+Continuation of Tatyana Timofeevna’s handwritten notebook: photographs, biographical notes about Father, and the story of her sister Genya.
 
-{{< archive_note type="status" >}}
-**Pages 080–089** of the notebook. First-pass transcription: still being checked against the scans; uncertain places are marked `[?]` / `[illegible]`. This is **not** the full new scan batch — this block only.
-{{< /archive_note >}}
-
-{{< archive_source title="Our genealogy: the Samsonovs" pages="080–089" >}}
-Continuation after p. 079; no overlap with the end of the first scan batch was found.
-{{< /archive_source >}}
-
-*Tatyana Timofeevna’s voice.*
+*From the handwritten notebook “Our genealogy: the Samsonovs.”*
 
 <!-- p. 080 -->
 
-{{< figure src="/photos/dnevnik-tt/str-080.jpg" caption="original_page 080: photo collage; author’s captions. Source: manuscript." >}}
+{{< figure src="/photos/dnevnik-tt/str-080.jpg" caption="Photo collage; author’s captions." >}}
 
 **[photo, top]** Three men in winter clothes by a building.
 
@@ -57,7 +50,7 @@ Papa is carrying [?]
 
 <!-- p. 081 -->
 
-{{< figure src="/photos/dnevnik-tt/str-081.jpg" caption="original_page 081: Father’s meetings; Alexandrovsky Central." >}}
+{{< figure src="/photos/dnevnik-tt/str-081.jpg" caption="Father’s meetings; Alexandrovsky Central." >}}
 
 Father met many figures  
 of that era: including Molotov V. M., Voroshilov K. E.,  
@@ -87,7 +80,7 @@ Alexandrovsky Central (Siberia)
 
 <!-- p. 082 -->
 
-{{< figure src="/photos/dnevnik-tt/str-082.jpg" caption="original_page 082: 1941, evacuation." >}}
+{{< figure src="/photos/dnevnik-tt/str-082.jpg" caption="1941, evacuation." >}}
 
 1941. At that time, [people?] came to us  
 [?] with their little children. They  
@@ -150,7 +143,7 @@ somewhere else still [?]”.
 
 <!-- p. 083 -->
 
-{{< figure src="/photos/dnevnik-tt/str-083.jpg" caption="original_page 083: 1948–1955, Father’s illness and death." >}}
+{{< figure src="/photos/dnevnik-tt/str-083.jpg" caption="1948–1955, Father’s illness and death." >}}
 
 1948–1950. Arrests began again ([?]  
 doctors, the Leningrad affair, etc. See our  
@@ -213,13 +206,13 @@ Mama, [?] in the flat and [?]
 [?] [?] [?] [?] [?] [?]  
 [?] [?] [?] [?] [?] [?]
 
-*The sentence breaks off on original_page 083. No continuous completion of this line was found in the available block of this chapter.*
+*The text breaks off on this page; other notebook entries follow.*
 
 ---
 
 <!-- p. 084 -->
 
-{{< figure src="/photos/dnevnik-tt/str-084.jpg" caption="original_page 084: Father’s grave; visitors from the KGB." >}}
+{{< figure src="/photos/dnevnik-tt/str-084.jpg" caption="Father’s grave; visitors from the KGB." >}}
 
 So he never fulfilled his promise  
 to write “Notes of a Chekist” and the history  
@@ -267,7 +260,7 @@ Caption:
 
 <!-- p. 085 -->
 
-{{< figure src="/photos/dnevnik-tt/str-085.jpg" caption="original_page 085: posts and biography of T. P. Samsonov (list)." >}}
+{{< figure src="/photos/dnevnik-tt/str-085.jpg" caption="Posts and biography of T. P. Samsonov (list)." >}}
 
 Father  
 1. Member of the Chelyabinsk Soviet (1918), commissar of labour  
@@ -308,7 +301,7 @@ Moscow, 1927.
 
 <!-- p. 086 -->
 
-{{< figure src="/photos/dnevnik-tt/str-086.jpg" caption="original_page 086: Mama and Papa visiting Gvostukha." >}}
+{{< figure src="/photos/dnevnik-tt/str-086.jpg" caption="Mama and Papa visiting Gvostukha." >}}
 
 Mama and Papa visiting Gvostukha.
 
@@ -325,7 +318,7 @@ And in this picture Mama —
 
 <!-- p. 087 -->
 
-{{< figure src="/photos/dnevnik-tt/str-087.jpg" caption="original_page 087: sister and brother; Genya’s letter-verses, 1936." >}}
+{{< figure src="/photos/dnevnik-tt/str-087.jpg" caption="Sister and brother; Genya’s letter-verses, 1936." >}}
 
 **Sister and brother**  
 **My sister**
@@ -389,7 +382,7 @@ Genya’s mother, Father’s first wife, left for
 
 <!-- p. 088 -->
 
-{{< figure src="/photos/dnevnik-tt/str-088.jpg" caption="original_page 088: about sister Genya, illness, work." >}}
+{{< figure src="/photos/dnevnik-tt/str-088.jpg" caption="About sister Genya, illness, work." >}}
 
 [?]  
 she was about 21–22; she thought about  
@@ -448,7 +441,7 @@ was a short calm. [?] [?]
 
 <!-- p. 089 -->
 
-{{< figure src="/photos/dnevnik-tt/str-089.jpg" caption="original_page 089: letter-verses to sister (continuation / insert)." >}}
+{{< figure src="/photos/dnevnik-tt/str-089.jpg" caption="Letter-verses to sister (continuation / insert)." >}}
 
 **[insert / letter on a separate leaf; edges cropped]**
 
@@ -504,10 +497,6 @@ Dear and beloved little sister of mine!
 *(edges of the leaf cut; some lines unreadable)*
 
 ---
-
-{{< archive_note type="status" >}}
-First-pass transcription; handwriting checks continue.
-{{< /archive_note >}}
 
 ---
 

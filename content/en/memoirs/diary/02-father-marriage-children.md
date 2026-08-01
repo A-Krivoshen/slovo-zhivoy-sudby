@@ -22,11 +22,11 @@ source_type: "manuscript"
 privacy_reviewed: true
 ---
 
-*From Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` = unclear passages. Scan page numbers are given in the comments.*
+*From Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` = unclear passages. Page numbers (p. N) are given in the comments.*
 
 <!-- p. 011 -->
 
-*Start of original_page 011 (after the join with the end of “My mother”):*  
+*After the chapter “My mother”:*  
 Mama used to tell how at first they were given a flat on Brestskaya — a large, grand apartment. They spent the night there, and in the morning Father was told they had no business being there and were offered a place in the 1st House of Soviets (the Metropol Hotel, cabin 405 or 407).
 
 It was Father’s second marriage, and from the first marriage there remained a two-year-old daughter, Lelya. Her mother left her with Father. Father worked a great deal, and a nanny looked after the little girl. Mama was very afraid of how the girl would receive her. When Mama entered the room, Lelya was sitting on a bed covered with a red blanket; she looked and looked, and then said: “Mama.” That was how they met. So we children did not know that Lelya was Mama’s[?] half-sister.

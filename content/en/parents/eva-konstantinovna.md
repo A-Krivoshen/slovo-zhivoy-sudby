@@ -15,7 +15,7 @@ cover:
   relative: false
 ---
 
-{{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Eva Konstantinovna. Caption on the print: “My mother.”" >}}
+{{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Eva Konstantinovna. Caption on the print: “My mother.”." >}}
 
 **Samsonova (née Morozova) Eva / Evdokia Konstantinovna** (1900–1981) is the mother of **Tatyana Timofeevna**.
 
@@ -31,4 +31,4 @@ In brief:
 - wife of **T. P. Samsonov**;  
 - buried at **Novodevichy**.
 
-{{< figure src="/photos/dnevnik-tt/str-002.jpg" caption="Notebook page (upright): portrait glued in, red caption “My mother” — Samsonova (Morozova) Eva Konstantinovna." >}}
+{{< figure src="/photos/dnevnik-tt/str-002.jpg" caption="Notebook page: portrait glued in, red caption “My mother” — Samsonova (Morozova) Eva Konstantinovna." >}}

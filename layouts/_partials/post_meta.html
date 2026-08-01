@@ -1,19 +1,24 @@
-{{- /* Archive-friendly meta: for manuscript pages show source pages & status, not blog date as "event date". */ -}}
+{{- /*
+  Visitor meta only. Never render:
+  transcription_status (first_pass, …), last_verified / «сверка», batch_id / batch codes.
+  Manuscript: human page range from source_pages_original + optional published date.
+*/ -}}
 {{- $scratch := newScratch -}}
 
 {{- if eq (.Param "source_type") "manuscript" -}}
   {{- with .Param "source_pages_original" -}}
-    {{- $scratch.Add "meta" (slice (printf "<span title='Archival source pages'>original_page %s</span>" .)) -}}
+    {{- if eq site.Language.Lang "en" -}}
+      {{- $scratch.Add "meta" (slice (printf "<span title='Notebook pages'>Notebook pp. %s</span>" .)) -}}
+    {{- else -}}
+      {{- $scratch.Add "meta" (slice (printf "<span title='Страницы тетради'>Стр. %s</span>" .)) -}}
+    {{- end -}}
   {{- end -}}
-  {{- with .Param "transcription_status" -}}
-    {{- $scratch.Add "meta" (slice (printf "<span title='Transcription status'>%s</span>" .)) -}}
-  {{- end -}}
-  {{- with .Param "last_verified" -}}
-    {{- $scratch.Add "meta" (slice (printf "<span title='Last verification date (publication check, not event date)'>сверка: %s</span>" .)) -}}
-  {{- end -}}
-  {{- /* Optional short published-on if date present — labeled as publication */ -}}
   {{- if and (not .Date.IsZero) (not (.Param "hidePublishDate")) -}}
-    {{- $scratch.Add "meta" (slice (printf "<span title='%s'>опубликовано: %s</span>" (.Date) (.Date | time.Format (default ":date_long" site.Params.DateFormat)))) -}}
+    {{- if eq site.Language.Lang "en" -}}
+      {{- $scratch.Add "meta" (slice (printf "<span title='%s'>Published %s</span>" (.Date) (.Date | time.Format (default ":date_long" site.Params.DateFormat)))) -}}
+    {{- else -}}
+      {{- $scratch.Add "meta" (slice (printf "<span title='%s'>опубликовано: %s</span>" (.Date) (.Date | time.Format (default ":date_long" site.Params.DateFormat)))) -}}
+    {{- end -}}
   {{- end -}}
 {{- else -}}
   {{- if not .Date.IsZero -}}

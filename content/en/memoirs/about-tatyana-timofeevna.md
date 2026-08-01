@@ -60,9 +60,9 @@ Children and grandchildren appear on the [notebook charts](/en/memoirs/diary/00-
 
 ## Work
 
-{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="T. T. Krivosheina — senior lecturer, Institute of Steel and Alloys. Family archive." >}}
+{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="T. T. Krivosheina — senior lecturer, Moscow Institute of Steel and Alloys (MISiS). Family archive." >}}
 
-Per family captions and portrait — teaching work at the **Institute of Steel and Alloys**. Career detail is added only with checkable sources.
+Per family captions and portrait — teaching work at the **Moscow Institute of Steel and Alloys (MISiS)**. Career detail is added only with checkable sources.
 
 ## The notebook
 
@@ -84,7 +84,7 @@ The 2019 photograph is a respectful home portrait, without medical commentary.
 |------|--------|------------|
 | Daughter of T. P. Samsonov and Eva Konstantinovna | manuscript; charts | high |
 | Author of the first-person notebook | manuscript | high |
-| Lecturer (Institute of Steel and Alloys) | family portrait/caption | medium–high |
+| Lecturer (MISiS — Moscow Institute of Steel and Alloys) | family portrait/caption | medium–high |
 | Husband — A. D. Krivoshein | chart original_page 004–005 | high |
 | **Year of birth 1926** | plaque; chart 003 | **high** |
 | **Death 24.09.2021** | plaque | **high** |

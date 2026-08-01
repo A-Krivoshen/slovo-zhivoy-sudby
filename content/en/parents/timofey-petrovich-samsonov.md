@@ -88,7 +88,7 @@ Partial reading of the verses (to be completed from a sharper scan):
 
 ## Daughter — the next generation
 
-{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="T. T. Krivosheina — senior lecturer, Institute of Steel and Alloys. From the same family set." >}}
+{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="T. T. Krivosheina — senior lecturer, Moscow Institute of Steel and Alloys (MISiS). From the same family set." >}}
 
 The patronymic **Timofeevna** ties her life to his. Her teaching career is a separate chapter of the archive; this portrait already records her professional standing.
 

@@ -35,7 +35,7 @@ cover:
 
 ## Дочь в том же комплекте
 
-{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="Кривошеина Т. Т., ст. преподаватель, Институт стали и сплавов." >}}
+{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="Кривошеина Т. Т., ст. преподаватель, МИСиС (Московский институт стали и сплавов)." >}}
 
 ## Род мужа (Кривошеины)
 

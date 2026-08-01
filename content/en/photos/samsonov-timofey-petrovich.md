@@ -56,6 +56,6 @@ Near-duplicate frames from Google Photos were merged; files live in `static/phot
 
 ## 5. Daughter
 
-{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="**File:** `12-krivoshina-tt-lecturer.jpg`. Senior lecturer T. T. Krivosheina, Institute of Steel and Alloys." >}}
+{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="**File:** `12-krivoshina-tt-lecturer.jpg`. Senior lecturer T. T. Krivosheina, MISiS (Moscow Institute of Steel and Alloys)." >}}
 
 Source album: [Google Photos](https://photos.app.goo.gl/E3SsB3cWCRgeeE4r7). Working scans: `inbox/scans/photos/parents-samsonovy/`.

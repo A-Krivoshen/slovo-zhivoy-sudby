@@ -62,7 +62,8 @@ timeZone = 'Europe/Moscow'
     tocopen = false
     ShowFullTextinRSS = false
     ShowTranslationButton = true
-    mainSections = ['vospominaniya', 'roditeli', 'istoriya']
+    # Empty: home is a curated portal, not a post dump
+    mainSections = []
 
     [languages.ru.params.assets]
       favicon = 'favicon.ico'
@@ -78,13 +79,7 @@ timeZone = 'Europe/Moscow'
       icon = '/apple-touch-icon.png'
       iconHeight = 26
 
-    [languages.ru.params.homeInfoParams]
-      Title = 'Слово Живой Судьбы'
-      Content = '''
-Семейный архив о жизни **Кривошеиной Татьяны Тимофеевны** — воспоминания, история её родителей, фотографии, документы и исторический контекст.
-
-Здесь сохраняются живые истории, которые не должны исчезнуть.
-'''
+    # homeInfoParams disabled — hero lives in content/ru/_index.md
 
     [languages.ru.params.fuseOpts]
       isCaseSensitive = false
@@ -175,7 +170,7 @@ timeZone = 'Europe/Moscow'
     tocopen = false
     ShowFullTextinRSS = false
     ShowTranslationButton = true
-    mainSections = ['memoirs', 'parents', 'history']
+    mainSections = []
 
     [languages.en.params.assets]
       favicon = 'favicon.ico'
@@ -191,13 +186,7 @@ timeZone = 'Europe/Moscow'
       icon = '/apple-touch-icon.png'
       iconHeight = 26
 
-    [languages.en.params.homeInfoParams]
-      Title = 'Word of a Living Fate'
-      Content = '''
-A family archive about the life of **Tatyana Timofeevna Krivosheina** — memoirs, her parents’ story, photographs, documents, and historical context.
-
-Living stories preserved so they are not lost.
-'''
+    # homeInfoParams disabled — hero lives in content/en/_index.md
 
     [languages.en.params.fuseOpts]
       isCaseSensitive = false

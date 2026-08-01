@@ -443,6 +443,172 @@ html[lang="en"] .logo a {
   border-radius: var(--radius);
 }
 
+/* ---- Home portal (calm, not a post dump) ---- */
+.home-hero {
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: 1.75rem 2rem;
+  align-items: end;
+  margin: 0.5rem 0 2rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 3px double var(--accent-line);
+}
+
+.home-hero-kicker {
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--secondary);
+  margin: 0 0 0.5rem;
+}
+
+.home-hero-title {
+  font-family: Georgia, "Times New Roman", "Noto Serif", serif;
+  font-size: clamp(1.85rem, 4.5vw, 2.55rem);
+  line-height: 1.15;
+  margin: 0 0 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.home-hero-lead {
+  font-size: 1.08rem;
+  line-height: 1.55;
+  margin: 0 0 0.75rem;
+  color: var(--content);
+  max-width: 28rem;
+}
+
+.home-hero-meta {
+  font-size: 0.88rem;
+  color: var(--secondary);
+  margin: 0;
+  font-style: italic;
+}
+
+.home-hero-photo {
+  margin: 0;
+  justify-self: end;
+  max-width: 220px;
+  width: 100%;
+}
+
+.home-hero-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid var(--photo-frame);
+  box-shadow:
+    0 0 0 3px var(--theme),
+    0 0 0 4px var(--photo-frame);
+  /* override generic post-content figure filter if any */
+  background: #111;
+}
+
+.home-hero-photo figcaption {
+  margin-top: 0.45rem;
+  font-size: 0.8rem;
+  color: var(--secondary);
+  font-style: italic;
+  text-align: center;
+  border: none;
+  padding: 0;
+  max-width: none;
+}
+
+.home-nav {
+  margin: 0 0 1.75rem;
+}
+
+.home-nav-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+}
+
+.home-nav-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 1rem 1.1rem 1.05rem;
+  border: 1px solid var(--border);
+  background: var(--entry);
+  text-decoration: none !important;
+  color: inherit;
+  min-height: 6.5rem;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.home-nav-card:hover {
+  border-color: var(--accent-line);
+  background: var(--theme);
+}
+
+.home-nav-icon {
+  font-size: 0.95rem;
+  color: var(--star);
+  line-height: 1;
+  margin-bottom: 0.15rem;
+}
+
+.home-nav-label {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.12rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.home-nav-desc {
+  font-size: 0.88rem;
+  line-height: 1.4;
+  color: var(--secondary);
+}
+
+.home-footnote {
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: var(--secondary);
+  margin: 0 0 2rem;
+  padding-top: 0.25rem;
+  border-top: 1px solid var(--border);
+  padding-top: 1rem;
+}
+
+.home-footnote a {
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+/* Hide accidental empty list chrome on home */
+body.list:has(.home-hero) .main > .page-header {
+  display: none;
+}
+
+@media (max-width: 720px) {
+  .home-hero {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    text-align: left;
+  }
+
+  .home-hero-photo {
+    justify-self: center;
+    max-width: 180px;
+    order: -1;
+  }
+
+  .home-nav-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .home-nav-card {
+    min-height: 0;
+  }
+}
+
 /* ---- OSM maps: archival mono look ---- */
 .osm-map-frame {
   margin: 1.4rem 0 1.75rem;

@@ -32,6 +32,8 @@ source_pages: "128-129"
 
 In the notebook the letter is introduced by Tatyana Timofeevna’s note: [p. 127 — “Also a letter from the front…”](/en/memoirs/diary/14-war-evacuation-120-127/) — about a wounded comrade who visited them when the regiment was reforming after Stalingrad (1943, 9th grade).
 
+Author: **Misha Friolenko**. This is **not** brother **Tyoma** (Timofey Timofeevich).
+
 ## Reading
 
 Hello, Tanya!  

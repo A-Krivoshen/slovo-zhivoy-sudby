@@ -3,7 +3,7 @@ title: "School and war: evacuation (pp. 120–127)"
 date: 2026-08-01
 weight: 150
 ShowReadingTime: false
-draft: false
+draft: true
 description: "1941–1942: evacuation, life with relatives, return to Moscow, school."
 summary: "Evacuation, return, and school in wartime."
 translationKey: "diary-14-voyna-120-127"
@@ -14,7 +14,7 @@ ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "120-127"
 transcription_status: "first_pass"
-translation_status: "pending"
+translation_status: "incomplete"
 editorial_status: "working"
 last_verified: "2026-08-01"
 source_type: "manuscript"

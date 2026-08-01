@@ -3,7 +3,7 @@ title: "Tanya: childhood and school; school and war (pp. 109–119)"
 date: 2026-08-01
 weight: 140
 ShowReadingTime: false
-draft: false
+draft: true
 description: "Childhood and school (pp. 109–117); the last pre-war form and the outbreak of war (pp. 118–119)."
 summary: "Pp. 109–119 — childhood, school, start of the war."
 translationKey: "diary-13-shkola-109-119"
@@ -14,7 +14,7 @@ ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "109-119"
 transcription_status: "first_pass"
-translation_status: "pending"
+translation_status: "incomplete"
 editorial_status: "working"
 last_verified: "2026-08-01"
 source_type: "manuscript"

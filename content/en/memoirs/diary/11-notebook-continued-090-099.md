@@ -14,7 +14,7 @@ ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "090-098"
 transcription_status: "first_pass"
-translation_status: "synchronized"
+translation_status: "complete"
 editorial_status: "working"
 last_verified: "2026-08-01"
 uncertainty_count: 40

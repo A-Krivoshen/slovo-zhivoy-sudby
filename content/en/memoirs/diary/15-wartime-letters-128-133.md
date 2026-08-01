@@ -3,7 +3,7 @@ title: "Friends’ front-line letters (pp. 128–133)"
 date: 2026-08-01
 weight: 160
 ShowReadingTime: false
-draft: false
+draft: true
 description: "Letters and a postcard from wartime friends addressed to Tanya."
 summary: "Pp. 128–133 — friends’ front-line letters."
 translationKey: "diary-15-pisma-128-133"
@@ -14,7 +14,7 @@ ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "128-133"
 transcription_status: "first_pass"
-translation_status: "pending"
+translation_status: "incomplete"
 editorial_status: "working"
 last_verified: "2026-08-01"
 source_type: "manuscript"

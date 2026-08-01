@@ -3,7 +3,7 @@ title: "Uncle Tyoma: documents and Stalingrad (pp. 101–108)"
 date: 2026-08-01
 weight: 130
 ShowReadingTime: false
-draft: false
+draft: true
 description: "Documents of brother Timofey Timofeevich: exam photo, front-line letters, and the medal “For the Defence of Stalingrad.”"
 summary: "Pp. 101–108 — uncle Tyoma’s documents and Stalingrad."
 translationKey: "diary-12-brat-front-101-108"
@@ -14,7 +14,7 @@ ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "101-108"
 transcription_status: "first_pass"
-translation_status: "pending"
+translation_status: "incomplete"
 editorial_status: "working"
 last_verified: "2026-08-01"
 source_type: "manuscript"

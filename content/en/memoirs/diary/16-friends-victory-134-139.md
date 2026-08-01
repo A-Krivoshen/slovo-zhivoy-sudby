@@ -3,7 +3,7 @@ title: "Youth and meeting Sasha (pp. 134–139)"
 date: 2026-08-01
 weight: 170
 ShowReadingTime: false
-draft: false
+draft: true
 description: "Youth: friends, theatre, walks with Sasha, Victory Day."
 summary: "Youth and meeting Sasha."
 translationKey: "diary-16-druzya-134-139"
@@ -14,7 +14,7 @@ ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "134-139"
 transcription_status: "first_pass"
-translation_status: "pending"
+translation_status: "incomplete"
 editorial_status: "working"
 last_verified: "2026-08-01"
 source_type: "manuscript"

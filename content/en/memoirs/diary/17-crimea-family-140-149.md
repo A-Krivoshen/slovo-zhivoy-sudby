@@ -3,7 +3,7 @@ title: "Crimea, family, study (pp. 140–149)"
 date: 2026-08-01
 weight: 180
 ShowReadingTime: false
-draft: false
+draft: true
 description: "Crimea and Sevastopol, wedding and Mitya’s birth (140–144); study, work, and Sasha’s arrest (145–148); return and family (149)."
 summary: "Crimea, the start of a family, study, trials."
 translationKey: "diary-17-krym-140-149"
@@ -14,7 +14,7 @@ ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "140-149"
 transcription_status: "first_pass"
-translation_status: "pending"
+translation_status: "incomplete"
 editorial_status: "working"
 last_verified: "2026-08-01"
 source_type: "manuscript"

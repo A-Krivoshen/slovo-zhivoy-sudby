@@ -24,7 +24,7 @@ source_pages: "104"
 |---|---|
 | **Date** | **28.VII.44** (top left; month is Roman **VII**, July — not VI) |
 | **To** | “dear parents”; top right “г. Самсонов” |
-| **Author** | closing on the scan reads **Дмитрий** (distinct from the clear “Тимоша” closings on pp. 105–107) |
+| **Author** | **Dmitry** (signature on the leaf). **Surname and exact family relationship are not yet established.** Do not identify with other Dmitrys or with **Timosha** (letters 105–107). |
 | **Condition** | **damaged**: folds, creases, frayed right edge; some lines unreadable |
 
 Do **not** attribute to [Timofey Petrovich Samsonov](/en/parents/timofey-petrovich-samsonov/) (father). See also [T. T. Samsonov](/en/people/timofey-timofeevich-samsonov/) — we do **not** force “Dmitry” = brother Timosha.

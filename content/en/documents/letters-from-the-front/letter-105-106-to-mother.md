@@ -33,6 +33,8 @@ source_pages: "105-106"
 
 **Not** father [Timofey Petrovich Samsonov](/en/parents/timofey-petrovich-samsonov/).
 
+The signature form is **Timosha**, as in the source. It is **not** automatically equated with the nickname **Tyoma** without a separate family decision; the brother is **Timofey Timofeevich** only where the notebook context makes that clear.
+
 ## Reading
 
 **14.VI.43.** Army in the field.

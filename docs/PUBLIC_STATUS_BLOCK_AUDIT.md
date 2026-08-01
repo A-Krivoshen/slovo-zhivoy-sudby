@@ -1,42 +1,48 @@
-# Public status-block audit (2026-08-01)
+# Public status-block and kitchen jargon audit
 
-## Goal
+**Date:** 2026-08-01  
+**Branch:** `task/public-content-cleanup-final-2026-08`  
+**Base HEAD:** `4888350` then cleanup commit on top
 
-Remove visitor-facing verification / pipeline status from HTML. Keep internal fields in front matter and `data/`.
+## Classification rules
 
-## Classification of matches
+| Class | Meaning |
+|-------|---------|
+| `internal_front_matter_keep` | e.g. `transcription_status`, `batch_id` in YAML — not rendered |
+| `internal_docs_keep` | `data/*`, `docs/*` manifests |
+| `public_remove` | visitor HTML / captions / body labels |
+| `source_text_keep` | author voice, `[?]`, names |
 
-| Pattern | Class | Action |
-|---------|-------|--------|
-| `archive_note type="status"` in chapters | public_remove | **Deleted** (8 blocks) |
-| Front matter `transcription_status`, `batch_id`, `editorial_status` | internal_front_matter_keep | Kept (not rendered) |
-| `data/*.yaml` medal / batch IDs | internal_docs_keep | Kept |
-| `docs/*` audits | internal_docs_keep | Kept |
-| Manuscript `[?]` markers | source_text_keep | Kept (reader-facing uncertainty) |
-| Brother name Tyoma/Zhenya note | source_text_keep | Kept (helps reading) |
-| Medal withhold long note on ch.11 | public_remove | **Deleted** (internal registry only) |
-| `caption="original_page NNN:…"` | public_remove | **Humanized** |
-| `archive_source` … original_page | public_remove | Shortcode now says «стр. / pages» |
-| post_meta `first_pass` / `original_page` | public_remove | Meta shows «Стр. N–M · опубликовано» only |
+## Public removals completed
 
-## B02 chapters after cleanup
+1. All `archive_note type="status"` blocks (0 remaining in content).
+2. Shortcode `archive_note`: no visitor label «Статус проверки».
+3. Shortcode `archive_source`: human «стр.» / «pages», not `original_page`.
+4. `post_meta`: notebook pages + published date only (no first_pass).
+5. Medal 099–100: no public withhold block; internal registry kept.
+6. Captions: no `original_page NNN:` prefix.
+7. EN B02 chapters: removed «Diplomatic reading … (first pass)» → «Text of the notebook page (Russian)».
+8. Index RU/EN: one human note about scans and brackets.
 
-### RU/EN 10 (080–089)
-- Human intro; no status box
-- Captions without `original_page`
-- Front matter statuses remain internal
+## Control (public HTML after build)
 
-### RU/EN 11 (090–098)
-- Human intro about Genya / Tyoma
-- **No** public medal/withhold block
-- Medal still in `data/archive_photos/index.yaml` + fact_conflicts + manuscript batch yaml
+Target counts **0** for:
 
-## Index one-liner (allowed once)
+- Статус проверки, first_pass, pass2, merged_page, manuscript-2026
+- original_page, withheld, review_status, scan_id, photo_id, document_id
+- batch_id, offline-batch, inbox/, static/photos/
+- Diplomatic reading, first pass, Захиснику (on TP pages)
 
-RU diary `_index.md`: family-scans note without codes.  
-EN diary `_index.md`: same.
+## Allowed public wording
 
-## Shortcode changes
+- Index: family scans / square brackets note (once)
+- «стр. N» / «p. N» as human page markers where needed
+- Brother name Tyoma/Zhenya explanation
+- `[?]` / `[неразборчиво]` / `[illegible]`
 
-- `archive_note`: status type no longer labels «Статус проверки» (and no status usages left in content)
-- `archive_source`: «Рукописная тетрадь …, стр. …» / “Handwritten notebook …, pages …”
+## Medal (internal)
+
+- `data/archive_photos/index.yaml`, `data/fact_conflicts.yaml`, `data/manuscript_batches/2026-08-01.yaml`
+- person_confirmed: Самсонов Тимофей Тимофеевич
+- not_this_person: Самсонов Тимофей Петрович
+- review_status: withheld_pending_person_page

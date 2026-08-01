@@ -31,7 +31,7 @@ A narrative about friends, meetings, the theatre, and Victory Day — continuati
 
 {{< figure src="/photos/dnevnik-tt/str-134.jpg" caption="Notebook page: friends and the postwar years." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 В гости к нам пришли Дуся Яншина
 (сестра М.М. Яншина), Зинаида Александровна и Геннадий. Это было прекрасно!
@@ -51,7 +51,7 @@ A narrative about friends, meetings, the theatre, and Victory Day — continuati
 
 {{< figure src="/photos/dnevnik-tt/str-135.jpg" caption="Notebook page: friends and the postwar years." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Главные были люди: Александра Павловна
 (мама) и Дуся (Евдокия Михайловна, сестра).
@@ -114,7 +114,7 @@ A narrative about friends, meetings, the theatre, and Victory Day — continuati
 
 {{< figure src="/photos/dnevnik-tt/str-136.jpg" caption="Notebook page: friends and the postwar years." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Потом они (Юра Пекишев, Юра Субботин, Саша Кравченко) поступили на
 военно-техническое отделение ин-та
@@ -171,7 +171,7 @@ A narrative about friends, meetings, the theatre, and Victory Day — continuati
 
 {{< figure src="/photos/dnevnik-tt/str-137.jpg" caption="Notebook page: friends and the postwar years." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Итак было сделано. Она пошла на свидание с Сашей, а я [что?] не находила себе места.
 Я и почувствовала, что он мне не безразличен. Я хорошо себя знаю, зачем я сделала это,
@@ -229,7 +229,7 @@ A narrative about friends, meetings, the theatre, and Victory Day — continuati
 
 {{< figure src="/photos/dnevnik-tt/str-138.jpg" caption="Notebook page: friends and the postwar years." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Правда, у меня была маленькая брошь.
 Мы прошли в комнату, закрыв дверь.
@@ -287,7 +287,7 @@ A narrative about friends, meetings, the theatre, and Victory Day — continuati
 
 {{< figure src="/photos/dnevnik-tt/str-139.jpg" caption="Notebook page: friends and the postwar years." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 И вот приехали мы с Зин. Алекс. Комната была
 большая. В это время в здесь работали на

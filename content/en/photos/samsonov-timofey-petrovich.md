@@ -16,7 +16,7 @@ cover:
 ---
 
 Full biography: [Timofey Petrovich Samsonov](/en/parents/timofey-petrovich-samsonov/).  
-Near-duplicate frames were merged; the selected digital copies are shown below.
+Selected photographs from the family archive.
 
 ## 1. Portraits
 

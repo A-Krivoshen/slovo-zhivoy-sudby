@@ -8,11 +8,9 @@ translationKey: "diary"
 Squared notebook: **“Our genealogy: the Samsonovs.”**  
 Written by **Tatyana Timofeevna** — in the first person.
 
-An **initial transcription** of the notebook (first about **79** pages, then a continuation from further family photographs of the manuscript). The text is being checked page by page; uncertain readings are marked explicitly (`[?]`, `[illegible]`). This does **not** mean every page has been fully proofread by hand.
-
 Source for each chapter: the manuscript “Our genealogy: the Samsonovs.”
 
-The text was prepared from family photographs of the notebook. Unclear passages are marked in square brackets, and the transcription may be refined as the manuscript is reviewed.
+The text was prepared from family scans. Unclear passages are marked in square brackets, and the transcription may be refined as the manuscript is reviewed.
 
 ## Introduction
 

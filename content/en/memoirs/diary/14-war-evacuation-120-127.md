@@ -31,7 +31,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 {{< figure src="/photos/dnevnik-tt/str-120.jpg" caption="Notebook page, war years." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 3-го июля по радио выступил Сталин.
 Мы с девочками отправились в соседнее с тетей, чтобы тоже оказать помощь[?]. Нам дали участок с огурцами и сказали: «Помоги!» Мы стали полоть, а грядки были длиннющие, конца краю не видно. Солнечно немцки[?], но мы не сдавались. К
@@ -82,7 +82,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 {{< figure src="/photos/dnevnik-tt/str-121.jpg" caption="Notebook page, war years." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 С Николаем приехала его сестра Валентина,
 очаровательная личность. Потом в октябре умерла
@@ -144,7 +144,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 {{< figure src="/photos/dnevnik-tt/str-122.jpg" caption="Notebook page, war years." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Встретила свою подругу Ирину Гребневу,
 но она жила далеко от меня, на
@@ -206,7 +206,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 {{< figure src="/photos/dnevnik-tt/str-123.jpg" caption="Notebook page, war years." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Здесь впервые я услышала, как люди матерились. Одна женщина, которая меня оскалила[?],
 говорила мне, чтобы я не обижалась и
@@ -268,7 +268,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 {{< figure src="/photos/dnevnik-tt/str-124.jpg" caption="Notebook page, war years." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 мамой и бабушкой приехали бы на
 лошади и забрали их.
@@ -330,7 +330,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 {{< figure src="/photos/dnevnik-tt/str-125.jpg" caption="Notebook page, war years." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 ме, что у нее сохранился документ,
 подтверждающий, что она имеет отношение
@@ -392,7 +392,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 {{< figure src="/photos/dnevnik-tt/str-126.jpg" caption="Notebook page, war years." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 приспособилась к таким занятиям.
 Там я познакомилась с братьями
@@ -439,7 +439,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 {{< figure src="/photos/dnevnik-tt/str-127.jpg" caption="A short caption on a separate leaf." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 Тоже письмо с фронта.
 Это письмо от раненного

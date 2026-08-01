@@ -31,7 +31,7 @@ Documents and letters of brother **Timofey Timofeevich (Tyoma)** from the war ye
 
 {{< figure src="/photos/dnevnik-tt/str-101.jpg" caption="Civil-defense exam." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 Экзамен по гражд.
 обороне.
@@ -42,7 +42,7 @@ Documents and letters of brother **Timofey Timofeevich (Tyoma)** from the war ye
 
 {{< figure src="/photos/dnevnik-tt/str-102.jpg" caption="The same photograph (alternate frame)." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 Экзамен по гражд.
 обороне.
@@ -53,7 +53,7 @@ Documents and letters of brother **Timofey Timofeevich (Tyoma)** from the war ye
 
 {{< figure src="/photos/dnevnik-tt/str-103.jpg" caption="Letter from the front, 11 May 1943." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 Действующая
 армия
@@ -90,7 +90,7 @@ Documents and letters of brother **Timofey Timofeevich (Tyoma)** from the war ye
 
 {{< figure src="/photos/dnevnik-tt/str-104.jpg" caption="Letter from the front, 28 June 1944." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 28.VI.44     Здравствуйте дорогие  г. Самсонов
              родители
@@ -123,7 +123,7 @@ Documents and letters of brother **Timofey Timofeevich (Tyoma)** from the war ye
 
 {{< figure src="/photos/dnevnik-tt/str-105.jpg" caption="Letter from the front, 14 June 1943." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 14.VI.43.                    Действующая
                              армия.
@@ -155,7 +155,7 @@ Documents and letters of brother **Timofey Timofeevich (Tyoma)** from the war ye
 
 {{< figure src="/photos/dnevnik-tt/str-106.jpg" caption="Reverse of a letter: address and field post." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 Так вот, что касается меня
 не приходится, тем более, если
@@ -183,7 +183,7 @@ Documents and letters of brother **Timofey Timofeevich (Tyoma)** from the war ye
 
 {{< figure src="/photos/dnevnik-tt/str-107.jpg" caption="Letter from the front, 13 July 1944." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 13.VII.44.                          Действующая
                                     армия.
@@ -223,7 +223,7 @@ Documents and letters of brother **Timofey Timofeevich (Tyoma)** from the war ye
 
 {{< figure src="/photos/dnevnik-tt/str-108.jpg" caption="Certificate for the medal “For the Defence of Stalingrad.”" >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 За нашу Советскую Родину
 

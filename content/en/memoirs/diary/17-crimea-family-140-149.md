@@ -31,7 +31,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 {{< figure src="/photos/dnevnik-tt/str-140.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Она была хороша. Покуривала, что в то
 время считалось ужасным, и косиночки выше колен. Когда ребята увидели её, они ухаживали и решили
@@ -89,7 +89,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 {{< figure src="/photos/dnevnik-tt/str-141.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 а потом переехали в Гурзуф, где был
 2-х этажный особняк, окруженный хорошим
@@ -151,7 +151,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 {{< figure src="/photos/dnevnik-tt/str-142.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 дегустации мы пошли купаться.
 Это было что-то "нечто".
@@ -211,7 +211,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 {{< figure src="/photos/dnevnik-tt/str-143.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Соседями Кривошеиных был Командующий Таврическим военным округом М. М. Попов. Он жил со
 своей молодой женой Серафимой и маленьким
@@ -274,7 +274,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 {{< figure src="/photos/dnevnik-tt/str-144.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Мои родители были согласны, его родители
 соглашались тоже. Но какой свадьбы?
@@ -336,7 +336,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 {{< figure src="/photos/dnevnik-tt/str-145.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 курсе, а Саша уже работал в Стальпроекте.
 Так и шла наша жизнь. В июне месяце
@@ -396,7 +396,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 {{< figure src="/photos/dnevnik-tt/str-146.jpg" caption="Text and photographs." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Все. Ал. предложили стать директором
 совхоза «Люберецкие поля орошения», они
@@ -433,7 +433,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 {{< figure src="/photos/dnevnik-tt/str-147.jpg" caption="Family photographs with captions." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 Это Паша. 1930 г
 
@@ -453,7 +453,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 {{< figure src="/photos/dnevnik-tt/str-148.jpg" caption="Group 203, June; story continues." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Наш выпуск. Гр. 203. Июнь 1949г.
 
@@ -501,7 +501,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 {{< figure src="/photos/dnevnik-tt/str-149.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 семью туда, но без выезда. Он не согласился.
 А потом его перевели в Актюбинск, а потом

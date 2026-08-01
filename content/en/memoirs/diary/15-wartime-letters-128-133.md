@@ -31,7 +31,7 @@ Separate letters and a postcard inserted in the notebook: wartime voices address
 
 {{< figure src="/photos/dnevnik-tt/str-128.jpg" caption="A wartime letter." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Здравствуй, Таня!
 Я получил от тебя письмо. По размерам и содержанию оно очень маленькое и краткое, собственно ты ничего не написала, я не знаю почему и может быть
@@ -67,7 +67,7 @@ Separate letters and a postcard inserted in the notebook: wartime voices address
 
 {{< figure src="/photos/dnevnik-tt/str-129.jpg" caption="Continuation of the letter." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 ведь весна - по существу, есть символ молодости,
 счастья, веселья. Что может быть приятней как в один
@@ -104,7 +104,7 @@ Separate letters and a postcard inserted in the notebook: wartime voices address
 
 {{< figure src="/photos/dnevnik-tt/str-130.jpg" caption="New Year postcard." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 Levelezö-Lap — Postkarte — Correspondenzkarte
 Cartolina postale — Carte postale — Briefkaart
@@ -149,7 +149,7 @@ Union postale universelle — Weltpostverein — Union postale universelle
 
 {{< figure src="/photos/dnevnik-tt/str-131.jpg" caption="Letter: “Tanyusha!”" >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 Танюша!
 
@@ -174,7 +174,7 @@ Union postale universelle — Weltpostverein — Union postale universelle
 
 {{< figure src="/photos/dnevnik-tt/str-132.jpg" caption="Letter from Gennady Vokhmintsev, 18 Nov 1943." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 Письмо от Геннадия
 Вохминцева                    18-11-43.
@@ -210,7 +210,7 @@ Union postale universelle — Weltpostverein — Union postale universelle
 
 {{< figure src="/photos/dnevnik-tt/str-133.jpg" caption="Letter from Gennady, 29 Nov 1943." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 29-11-43.
 

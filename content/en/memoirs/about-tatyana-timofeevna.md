@@ -64,7 +64,7 @@ Per family captions and portrait — teaching work at the **Institute of Steel a
 ## The notebook
 
 She left the handwritten notebook **[“Our genealogy: the Samsonovs”](/en/memoirs/diary/)** — first portion: **79** notebook pages.  
-The site publishes an **initial transcription**, checked page by page over time; unclear passages are marked.
+The site publishes a **transcription** of the notebook; unclear passages are marked, and the text may be refined over time.
 
 ## Later years
 

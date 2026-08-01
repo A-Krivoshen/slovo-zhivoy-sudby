@@ -31,7 +31,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 {{< figure src="/photos/dnevnik-tt/str-109.jpg" caption="Opening of an autobiographical entry." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Таня
 Самсонова (Кривошеина) Татьяна Тимофеевна
@@ -86,7 +86,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 {{< figure src="/photos/dnevnik-tt/str-110.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 поводу – не помню. Ко мне подошла сзади
 Лавка и начала лизать мне волосы, а
@@ -153,7 +153,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 {{< figure src="/photos/dnevnik-tt/str-111.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 с Наташей Сорокиной. Она тоже жила в
 10 подъезде на 7 этаже. Мы с ней подружились.
@@ -217,7 +217,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 {{< figure src="/photos/dnevnik-tt/str-112.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 был пансион для девочек, где готовили домашних учительниц. В этом пансионе
 в молодые годы музыку преподавал сам
@@ -277,7 +277,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 {{< figure src="/photos/dnevnik-tt/str-113.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Объясняя правила грамматики ( правописание
 суффиксов прилаг. "ан", "ян") она подходила к
@@ -340,7 +340,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 {{< figure src="/photos/dnevnik-tt/str-114.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 в парке "Морозовка", это не у Горького
 и покупали себе мороженое. Выбирали
@@ -398,7 +398,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 {{< figure src="/photos/dnevnik-tt/str-115.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 во дворе: из одного двора в другой.
 
@@ -460,7 +460,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 {{< figure src="/photos/dnevnik-tt/str-116.jpg" caption="Notebook page." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Наташенька, купили цветы и отправились
 к нему домой. Позвонили в дверь, нам
@@ -519,7 +519,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 {{< figure src="/photos/dnevnik-tt/str-117.jpg" caption="Class 6 “A” — school photograph." >}}
 
-*[Russian text of the document / letter:]*
+*[Text of the letter or document (Russian):]*
 
 собрание и решили разделить наш класс,
 слив его с 6„б". В конце уч. года так было
@@ -563,7 +563,7 @@ III ряд
 
 {{< figure src="/photos/dnevnik-tt/str-118.jpg" caption="7th form, last pre-war year (1940–1941)." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 7 класс (последний предвоенный). (1940-1941)
 
@@ -624,7 +624,7 @@ III ряд
 
 {{< figure src="/photos/dnevnik-tt/str-119.jpg" caption="Spartak, PE, continuation." >}}
 
-*[Diplomatic reading of the Russian manuscript (first pass):]*
+*[Text of the notebook page (Russian):]*
 
 Он достал нам там спартаковскую форму и
 мы с гордостью носили эти красные кубарики.

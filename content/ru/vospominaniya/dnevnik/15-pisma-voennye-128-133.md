@@ -43,6 +43,8 @@ batch_id: "manuscript-2026-08-01-b02"
 
 ## Новогодняя открытка
 
+Отдельная страница: [Новогодняя открытка (лист 130)](/dokumenty/pisma-s-fronta/otkrytka-130-novyj-god/).
+
 {{< figure src="/photos/dnevnik-tt/str-130.jpg" caption="Новогодняя открытка." >}}
 
 ### Чтение
@@ -65,4 +67,4 @@ batch_id: "manuscript-2026-08-01-b02"
 
 ---
 
-*← [Школа и война: эвакуация](/vospominaniya/dnevnik/14-voyna-evakuaciya-120-127/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Юность и знакомство с Сашей](/vospominaniya/dnevnik/16-druzya-pobeda-134-139/) →*
+*← [Школа и война](/vospominaniya/dnevnik/14-shkola-i-voyna/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Юность и знакомство с Сашей](/vospominaniya/dnevnik/16-yunost-i-sasha/) →*

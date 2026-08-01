@@ -2,3 +2,14 @@ public/
 resources/
 .hugo_build.lock
 .DS_Store
+
+# Inbox: keep folder layout in git, keep raw media local
+inbox/scans/**/*
+!inbox/scans/**/
+!inbox/scans/**/README.md
+inbox/transcripts/**
+!inbox/transcripts/README.md
+inbox/notes/**
+!inbox/notes/README.md
+*.heic
+*.HEIC

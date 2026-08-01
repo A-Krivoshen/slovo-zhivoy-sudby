@@ -34,6 +34,18 @@ hugo new content/en/memoirs/name.md --kind memoir
 | `/dokumenty/` | `/en/documents/` | Документы |
 | `/search/` | `/en/search/` | Поиск (Fuse.js) |
 
+## Inbox (сырьё для разбора)
+
+Рабочая папка **для семьи и разбора с ИИ**, не для сайта:
+
+- `inbox/scans/memoirs/` — фото рукописных мемуаров  
+- `inbox/scans/photos/` — семейные фото на разбор  
+- `inbox/scans/documents/` — документы  
+- `inbox/transcripts/` — расшифровки до публикации  
+- `inbox/notes/` — заметки и вопросы  
+
+Сами фото в git **не коммитятся** (см. `.gitignore`). Подробности: [`inbox/README.md`](inbox/README.md).
+
 ## Деплой
 
 GitHub Actions → GitHub Pages при push в `main`.

@@ -92,4 +92,4 @@ batch_id: "manuscript-2026-08-01-b02"
 
 ---
 
-*← [Сестра Геня и брат Тёма](/vospominaniya/dnevnik/11-prodolzhenie-090-099/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Таня: детство и школа](/vospominaniya/dnevnik/13-shkola-druzya-109-119/) →*
+*← [Сестра Геня и брат Тёма](/vospominaniya/dnevnik/11-prodolzhenie-090-099/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Таня: детство и школа](/vospominaniya/dnevnik/13-tanya-detstvo-i-shkola/) →*

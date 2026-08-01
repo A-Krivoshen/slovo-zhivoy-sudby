@@ -1,0 +1,51 @@
+baseURL = 'https://a-krivoshen.github.io/slovo-zhivoy-sudby/'
+languageCode = 'ru'
+title = 'Слово Живой Судьбы'
+theme = 'PaperMod'
+
+[params]
+  description = 'Мемуары и семейный архив'
+  author = 'Слово Живой Судьбы'
+  defaultTheme = 'auto'
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = false
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Главная"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "vospominaniya"
+    name = "Воспоминания"
+    url = "/vospominaniya/"
+    weight = 20
+  [[menu.main]]
+    identifier = "foto"
+    name = "Фото"
+    url = "/foto/"
+    weight = 30
+  [[menu.main]]
+    identifier = "dokumenty"
+    name = "Документы"
+    url = "/dokumenty/"
+    weight = 40
+  [[menu.main]]
+    identifier = "o-proekte"
+    name = "О проекте"
+    url = "/o-proekte/"
+    weight = 50

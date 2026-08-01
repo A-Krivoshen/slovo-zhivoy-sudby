@@ -43,6 +43,7 @@ timeZone = 'Europe/Moscow'
     author = 'Семья Кривошеиных'
     keywords = ['Кривошеина Татьяна Тимофеевна', 'мемуары', 'семейный архив', 'Слово Живой Судьбы', 'история семьи']
     DateFormat = '2.01.2006'
+    # light = default attribute; real choice is time-of-day unless user toggles (see layouts/baseof.html)
     defaultTheme = 'light'
     disableThemeToggle = false
     ShowReadingTime = true

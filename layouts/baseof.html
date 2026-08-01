@@ -1,0 +1,39 @@
+{{- if lt hugo.Version "0.146.0" }}
+{{- errorf "=> hugo v0.146.0 or greater is required for hugo-PaperMod to build " }}
+{{- end -}}
+
+<!DOCTYPE html>
+{{- /* Initial attribute is a fallback; blocking script below sets light/dark by clock or user pref. */ -}}
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="light">
+
+<head>
+{{- /* Apply theme before CSS paint: manual pref wins; else day light / night dark (local time). */ -}}
+<script>
+(function () {
+    var pref = localStorage.getItem("pref-theme");
+    var theme;
+    if (pref === "dark" || pref === "light") {
+        theme = pref;
+    } else {
+        var h = new Date().getHours();
+        /* Day 07:00–20:59 light; night 21:00–06:59 dark (visitor local clock). */
+        theme = (h >= 7 && h < 21) ? "light" : "dark";
+    }
+    document.documentElement.dataset.theme = theme;
+})();
+</script>
+    {{- partial "head.html" . }}
+</head>
+
+{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) }}
+<body class="list" id="top">
+{{- else }}
+<body id="top">
+{{- end }}
+    {{ partialCached "header.html" . .Page -}}
+    <main class="main">
+        {{- block "main" . }}{{ end }}
+    </main>
+    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+</body>
+</html>

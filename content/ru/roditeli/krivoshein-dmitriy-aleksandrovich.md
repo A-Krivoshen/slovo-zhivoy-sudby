@@ -67,4 +67,4 @@ cover:
 
 ---
 
-См. также: [Родословная из тетради](/vospominaniya/dnevnik/rodoslovnaya/) · [О Татьяне Тимофеевне](/vospominaniya/o-tatyane-timofeevne/)
+См. также: [Родословная из тетради](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/) · [О Татьяне Тимофеевне](/vospominaniya/o-tatyane-timofeevne/)

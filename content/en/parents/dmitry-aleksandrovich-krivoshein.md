@@ -67,4 +67,4 @@ Family and public sources state that the son was **rehabilitated** in 1954 and r
 
 ---
 
-See also: [Genealogy from the notebook](/en/memoirs/diary/genealogy/) · [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/)
+See also: [Genealogy from the notebook](/en/memoirs/diary/00-cover-and-charts/) · [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/)

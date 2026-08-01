@@ -63,4 +63,4 @@ Map point: modern Mihăileni (Moldova); may need document checks.
 
 ---
 
-More in text: [My mother](/en/memoirs/diary/my-mother/) · [Childhood](/en/memoirs/diary/childhood-in-moscow/) · [Genealogy](/en/memoirs/diary/genealogy/)
+More in text: [My mother](/en/memoirs/diary/01-my-mother/) · [Childhood](/en/memoirs/diary/03-childhood-moscow/) · [Genealogy](/en/memoirs/diary/00-cover-and-charts/)

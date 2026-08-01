@@ -31,7 +31,7 @@ In short: a revolutionary-era life (Siberia 1910, Britain 1917, Cheka and Dzerzh
 **[Eva (Evdokia) Konstantinovna Samsonova (née Morozova)](/en/parents/eva-konstantinovna/)** (1900–1981).
 
 From her **daughter’s diary**: Moscow, 2nd Brestskaya, Cheka typist, meeting T. P. Samsonov.  
-→ [My mother](/en/memoirs/diary/my-mother/)
+→ [My mother](/en/memoirs/diary/01-my-mother/)
 
 ## Daughter in the same set
 

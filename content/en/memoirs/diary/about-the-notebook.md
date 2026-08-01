@@ -2,8 +2,8 @@
 title: "About the notebook"
 date: 2026-08-01
 draft: false
-description: "How Tatyana Timofeevna’s manuscript notebook “Our genealogy: the Samsonovs” is organized."
-summary: "79 pages of first-person family chronicle."
+description: "How Tatyana Timofeevna’s manuscript “Our genealogy: the Samsonovs” is organized."
+summary: "79 pages of first-person family chronicle — full text by chapter."
 translationKey: "diary-about-notebook"
 tags: ["diary", "notebook", "manuscript"]
 categories: ["Memoirs"]
@@ -18,23 +18,26 @@ cover:
 
 ## What it is
 
-A family notebook kept by **Tatyana Timofeevna Krivosheina**.  
-She writes **in the first person**: “my mother,” “my father,” “we were taken for walks.”
+A family notebook on squared paper.  
+**Tatyana Timofeevna Krivosheina** writes **in her own name**: “my mother,” “my father,” “we were taken for walks.”
 
 Inside:
 
 1. **Genealogical charts** with pasted photographs.  
-2. **Continuous narrative** — her mother’s life, childhood, Moscow, wartime inserts.
+2. **Continuous narrative** — mother’s life, childhood, Moscow, war, father’s character.  
+3. **Inserts** — documents, newspapers, verses, lists.
 
-## How we publish
+## How to read on the site
 
-- Scans were deskewed / rotated (many pages were upside-down).  
-- The site gets **carefully read chapters**, not invention.  
-- Unclear handwriting is marked or held for later.  
-- Selected pages appear as document photos.
+The full scan (**79 pages**) is **transcribed** and split into chapters — see the [diary contents](/en/memoirs/diary/).  
+Where handwriting is unclear — `[?]`. Dates sometimes disagree inside the notebook — check against documents.
 
-## Chapters so far
+## Where to start
 
-- [My mother](/en/memoirs/diary/my-mother/)  
-- [Childhood in Moscow](/en/memoirs/diary/childhood-in-moscow/)  
-- [Genealogy (summary)](/en/memoirs/diary/genealogy/)
+- [Cover and family charts](/en/memoirs/diary/00-cover-and-charts/)  
+- [My mother](/en/memoirs/diary/01-my-mother/)  
+- [Childhood in Moscow](/en/memoirs/diary/03-childhood-moscow/)  
+- [War, 1941](/en/memoirs/diary/04-war-1941/)  
+- [Father’s character](/en/memoirs/diary/08-father-character/)  
+
+Full chapter list — in the [contents](/en/memoirs/diary/).

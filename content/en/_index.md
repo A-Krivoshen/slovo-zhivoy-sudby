@@ -26,7 +26,7 @@ translationKey: "home"
   Gathered by her grandson
   <a href="https://krivoshein.site" rel="noopener" target="_blank">Alexey Krivoshein</a>.
   Start with
-  <a href="/en/memoirs/diary/my-mother/">“My mother”</a>
+  <a href="/en/memoirs/diary/01-my-mother/">“My mother”</a>
   or the
   <a href="/en/memoirs/about-tatyana-timofeevna/">archive overview</a>.
 </p>

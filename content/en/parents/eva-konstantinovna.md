@@ -21,7 +21,7 @@ cover:
 
 Main facts come from her **daughter’s first-person notebook** (“Our genealogy: the Samsonovs”).
 
-→ Full narrative: **[My mother](/en/memoirs/diary/my-mother/)**
+→ Full narrative: **[My mother](/en/memoirs/diary/01-my-mother/)**
 
 In brief:
 

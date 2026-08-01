@@ -26,7 +26,7 @@ translationKey: "home"
   Материалы собраны внуком —
   <a href="https://krivoshein.site" rel="noopener" target="_blank">Алексеем Кривошеиным</a>.
   Читать с начала:
-  <a href="/vospominaniya/dnevnik/moya-mama/">«Моя мама»</a>
+  <a href="/vospominaniya/dnevnik/01-moya-mama/">«Моя мама»</a>
   или
   <a href="/vospominaniya/o-tatyane-timofeevne/">об архиве</a>.
 </p>

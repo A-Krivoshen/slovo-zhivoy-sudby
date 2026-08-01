@@ -63,4 +63,4 @@ ShowToc: true
 
 ---
 
-Подробнее в тексте: [Моя мама](/vospominaniya/dnevnik/moya-mama/) · [Детство](/vospominaniya/dnevnik/detstvo-v-moskve/) · [Родословная](/vospominaniya/dnevnik/rodoslovnaya/)
+Подробнее в тексте: [Моя мама](/vospominaniya/dnevnik/01-moya-mama/) · [Детство](/vospominaniya/dnevnik/03-detstvo-moskva/) · [Родословная](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/)

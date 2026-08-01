@@ -1,0 +1,46 @@
+# Rebuild pure-SVG README assets on every push to main.
+# Source of truth: scripts/generate_readme_assets.py
+name: Regenerate README SVGs
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-assets
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    # Avoid loop: skip commits made by this workflow
+    if: github.event.head_commit.author.name != 'github-actions[bot]'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate SVG assets
+        run: python3 scripts/generate_readme_assets.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/readme
+          if git diff --staged --quiet; then
+            echo "No README asset changes."
+          else
+            git commit -m "chore: regenerate README SVG assets [skip ci]"
+            git push
+          fi

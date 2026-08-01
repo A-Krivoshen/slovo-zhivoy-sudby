@@ -22,6 +22,8 @@ defaults:
 
 jobs:
   build:
+    # Skip pure README-asset bot commits (message ends with [skip ci])
+    if: ${{ !contains(github.event.head_commit.message || '', '[skip ci]') }}
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.164.0

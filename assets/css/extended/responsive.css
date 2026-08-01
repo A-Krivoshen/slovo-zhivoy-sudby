@@ -1,0 +1,427 @@
+/* ==========================================================================
+   Responsive / multi-device layer — phones, tablets, desktops
+   iOS Safari, Chrome/Android, Samsung Internet, desktop browsers
+   ========================================================================== */
+
+/* Viewport-friendly base */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-padding-top: calc(var(--header-height, 64px) + 0.5rem);
+}
+
+body {
+  overflow-x: clip;
+  max-width: 100vw;
+}
+
+/* Safe areas (notch / home indicator) */
+.header,
+.footer,
+.main {
+  padding-left: max(var(--gap, 1rem), env(safe-area-inset-left, 0px));
+  padding-right: max(var(--gap, 1rem), env(safe-area-inset-right, 0px));
+}
+
+.footer {
+  padding-bottom: max(1rem, env(safe-area-inset-bottom, 0px));
+}
+
+/* Images never blow the viewport */
+.post-content img,
+.md-content img,
+.entry-cover img,
+.home-hero-photo img,
+figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Tables: scroll inside container, not the page */
+.post-content table,
+.md-content table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+}
+
+.post-content pre,
+.md-content pre {
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Touch targets ≥ ~44px on interactive controls */
+.theme-toggle,
+.lang-menu a,
+.menu a,
+.top-link,
+.szhs-lightbox__close,
+.szhs-lightbox__nav {
+  min-height: 2.5rem;
+  min-width: 2.5rem;
+}
+
+.menu a {
+  min-height: 2.35rem;
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+  padding-inline: 0.35rem;
+}
+
+/* Search: prevent iOS zoom on focus (font-size ≥ 16px) */
+#searchbox input,
+input[type="search"],
+input[type="text"] {
+  font-size: 16px;
+  max-width: 100%;
+}
+
+/* Menu icons for new sections */
+.menu a[href*="/lyudi"]::before,
+.menu a[href*="/people"]::before {
+  -webkit-mask-image: url("/icons/columns.svg");
+  mask-image: url("/icons/columns.svg");
+}
+
+.menu a[href*="/sobytiya"]::before,
+.menu a[href*="/events"]::before {
+  -webkit-mask-image: url("/icons/scroll.svg");
+  mask-image: url("/icons/scroll.svg");
+}
+
+.menu a[href*="/hronologiya"]::before,
+.menu a[href*="/timeline"]::before {
+  -webkit-mask-image: url("/icons/book.svg");
+  mask-image: url("/icons/book.svg");
+}
+
+.menu a[href*="/mesta"]::before,
+.menu a[href*="/places"]::before {
+  -webkit-mask-image: url("/icons/star.svg");
+  mask-image: url("/icons/star.svg");
+}
+
+/* Related materials grid on wide screens */
+@media (min-width: 900px) {
+  .related-list__item > a {
+    padding: 0.65rem 0.25rem;
+  }
+}
+
+/* ---- Ultra-narrow (Galaxy Fold cover, tiny legacy) ---- */
+@media (max-width: 320px) {
+  :root {
+    --gap: 10px;
+  }
+
+  .logo a {
+    font-size: clamp(0.85rem, 5vw, 1rem);
+    line-height: 1.15;
+  }
+
+  .menu a {
+    font-size: 0.74rem;
+    padding: 0.3rem 0.5rem;
+    min-height: 2.1rem;
+  }
+
+  .menu a::before {
+    width: 0.65rem;
+    height: 0.65rem;
+    margin-inline-end: 0.2rem;
+  }
+
+  .post-title,
+  .page-header h1 {
+    font-size: clamp(1.2rem, 7.5vw, 1.55rem);
+  }
+
+  .home-hero-photo {
+    max-width: 130px;
+  }
+}
+
+/* ---- Phones (portrait) ---- */
+@media (max-width: 480px) {
+  :root {
+    --gap: 14px;
+    --main-width: 100%;
+  }
+
+  body {
+    font-size: 16.5px;
+  }
+
+  .main {
+    padding-top: 0.75rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .header-nav {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.35rem;
+  }
+
+  .logo {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .logo a {
+    font-size: clamp(0.95rem, 4.2vw, 1.15rem);
+    max-width: calc(100% - 5.5rem);
+  }
+
+  /* Dense but tappable chip menu */
+  .menu {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 0.35rem 0.4rem;
+    column-gap: 0.4rem;
+    row-gap: 0.35rem;
+  }
+
+  .menu a {
+    font-size: 0.8rem;
+    letter-spacing: 0;
+    white-space: nowrap;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.35rem 0.65rem;
+    min-height: 2.25rem;
+    background: var(--entry);
+  }
+
+  .menu a::before {
+    width: 0.75rem;
+    height: 0.75rem;
+  }
+
+  .menu .active {
+    border-color: var(--accent-line);
+    font-weight: 700;
+  }
+
+  .post-title,
+  .page-header h1 {
+    font-size: clamp(1.4rem, 7vw, 1.85rem);
+    line-height: 1.22;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+
+  .post-description {
+    font-size: 0.95rem;
+  }
+
+  .post-content h2 {
+    font-size: 1.25rem;
+  }
+
+  .post-content h3 {
+    font-size: 1.08rem;
+  }
+
+  .post-meta {
+    font-size: 0.82rem;
+    line-height: 1.45;
+    flex-wrap: wrap;
+  }
+
+  .entry-cover {
+    margin-inline: 0;
+  }
+
+  .entry-cover img {
+    width: 100%;
+  }
+
+  .entry-cover figcaption {
+    font-size: 0.85rem;
+    overflow-wrap: anywhere;
+  }
+
+  /* Breadcrumbs wrap */
+  .breadcrumbs {
+    font-size: 0.8rem;
+    line-height: 1.4;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  .home-hero {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .home-hero-photo {
+    max-width: 160px;
+    justify-self: center;
+    order: -1;
+  }
+
+  .home-nav-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .home-nav-card {
+    min-height: 0;
+    padding: 0.85rem 0.95rem;
+  }
+
+  .related-list__type {
+    font-size: 0.62rem;
+  }
+
+  .related-list__item {
+    overflow-wrap: anywhere;
+  }
+
+  .top-link {
+    right: max(0.75rem, env(safe-area-inset-right));
+    bottom: max(4.5rem, calc(env(safe-area-inset-bottom) + 3.5rem));
+  }
+
+  /* Floor ads leave room */
+  body {
+    padding-bottom: env(safe-area-inset-bottom, 0);
+  }
+
+  /* Embedded media */
+  .post-content iframe,
+  .post-content video,
+  .md-content iframe,
+  .md-content video {
+    max-width: 100%;
+  }
+}
+
+/* ---- Large phones / small phablets ---- */
+@media (min-width: 481px) and (max-width: 719px) {
+  .menu {
+    width: 100%;
+    justify-content: flex-start;
+    gap: 0.25rem 0.55rem;
+  }
+
+  .menu a {
+    font-size: 0.84rem;
+  }
+
+  .home-nav-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* ---- Tablets ---- */
+@media (min-width: 720px) and (max-width: 1023px) {
+  :root {
+    --main-width: 680px;
+    --gap: 20px;
+  }
+
+  .menu {
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    max-width: 100%;
+  }
+
+  .menu a {
+    font-size: 0.88rem;
+  }
+
+  .home-nav-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .home-hero {
+    grid-template-columns: 1.1fr 0.9fr;
+  }
+}
+
+/* ---- Desktop ---- */
+@media (min-width: 1024px) {
+  .home-nav-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .menu a {
+    font-size: 0.92rem;
+  }
+}
+
+/* ---- Wide desktop ---- */
+@media (min-width: 1400px) {
+  :root {
+    --main-width: 800px;
+  }
+}
+
+/* ---- Landscape phones ---- */
+@media (max-height: 480px) and (orientation: landscape) {
+  .szhs-lightbox__img {
+    max-height: 78vh;
+  }
+
+  .header-nav {
+    padding-top: 0.2rem;
+    padding-bottom: 0.3rem;
+  }
+}
+
+/* ---- Reduced motion ---- */
+@media (prefers-reduced-motion: reduce) {
+  .szhs-lightbox,
+  .post-entry,
+  .home-nav-card {
+    transition: none !important;
+  }
+}
+
+/* ---- High contrast / forced colors (Windows) ---- */
+@media (forced-colors: active) {
+  .menu a {
+    border: 1px solid CanvasText;
+  }
+
+  .szhs-lightbox {
+    background: Canvas;
+  }
+}
+
+/* ---- Print ---- */
+@media print {
+  .header,
+  .footer,
+  .top-link,
+  .szhs-lightbox,
+  .theme-toggle,
+  .menu,
+  .related-materials {
+    /* keep related for archive print; hide chrome */
+  }
+
+  .header-nav .menu,
+  .theme-toggle,
+  .top-link,
+  .szhs-lightbox {
+    display: none !important;
+  }
+
+  .post-content img {
+    max-width: 100%;
+    break-inside: avoid;
+  }
+
+  a[href]::after {
+    content: none !important;
+  }
+}

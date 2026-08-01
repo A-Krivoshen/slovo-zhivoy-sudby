@@ -23,3 +23,5 @@ __pycache__/
 # keep public entity registry tracked
 !data/archive/public/
 !data/archive/public/**
+node_modules/
+work/

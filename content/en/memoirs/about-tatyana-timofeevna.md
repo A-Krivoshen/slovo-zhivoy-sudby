@@ -20,6 +20,11 @@ cover:
 
 This site is dedicated to **Tatyana Timofeevna Krivosheina** — her life, character, path, and the memory she left for her family.
 
+{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="T. T. Krivosheina — senior lecturer, Institute of Steel and Alloys. Family archive." >}}
+
+Her father is **[Timofey Petrovich Samsonov](/en/parents/timofey-petrovich-samsonov/)** (1888–1955); her mother is **Eva Konstantinovna** (materials still being gathered).  
+In her father’s album she labeled photos (“my dad”) and wrote verses about him.
+
 Here we will collect:
 
 - her own recollections and retellings;

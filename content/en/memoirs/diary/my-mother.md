@@ -53,6 +53,11 @@ First **Centropechat**, then the **Cheka** as a typist in the **secret departmen
 
 Hard years: little bread; cutlets from potato peels; cold winters, no trams. Mother **ran to work from Belorussky station to the Lubyanka**; sometimes hauled frozen potatoes home on a sled.
 
+{{< osm_map lat="55.77637" lon="37.58170" zoom="14" title="Belorussky station" caption="From here mother walked (ran) to the Lubyanka." >}}
+
+{{< osm_map lat="55.75926" lon="37.62625" zoom="14" title="Lubyanka" caption="Cheka secret department; meeting T. P. Samsonov." >}}
+
+
 {{< figure src="/photos/dnevnik-tt/str-010.jpg" caption="Page on hunger, the Lubyanka, and meeting father." >}}
 
 ## Meeting father

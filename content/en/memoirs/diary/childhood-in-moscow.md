@@ -25,6 +25,9 @@ Later the building was called the **4th House of Soviets** (also home to **M. I.
 
 Flat on the **4th floor**, windows onto Vozdvizhenka. **Five rooms**: nursery, grandmother’s room, bedroom, study, dining room; a large kitchen with a tiled wood stove — **no gas**.
 
+{{< osm_map lat="55.75265" lon="37.60782" zoom="16" title="Vozdvizhenka" caption="Area of the family flat (4th House of Soviets)." >}}
+
+
 ## Walks
 
 Walks in the **Alexandrovsky Garden**.  

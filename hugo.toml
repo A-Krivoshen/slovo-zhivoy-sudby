@@ -116,6 +116,11 @@ timeZone = 'Europe/Moscow'
     url = '/istoriya/'
     weight = 40
   [[languages.ru.menu.main]]
+    identifier = 'mesta'
+    name = 'Места'
+    url = '/mesta/'
+    weight = 45
+  [[languages.ru.menu.main]]
     identifier = 'foto'
     name = 'Фото'
     url = '/foto/'
@@ -223,6 +228,11 @@ Living stories preserved so they are not lost.
     name = 'History'
     url = '/en/history/'
     weight = 40
+  [[languages.en.menu.main]]
+    identifier = 'places'
+    name = 'Places'
+    url = '/en/places/'
+    weight = 45
   [[languages.en.menu.main]]
     identifier = 'photos'
     name = 'Photos'

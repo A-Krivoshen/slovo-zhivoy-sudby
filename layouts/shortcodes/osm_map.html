@@ -1,0 +1,39 @@
+{{- /*
+  Archival OSM embed (grayscale via CSS).
+  Usage: {{< osm_map lat="55.75" lon="37.62" zoom="15" title="Лубянка" link="https://..." >}}
+*/ -}}
+{{- $lat := .Get "lat" -}}
+{{- $lon := .Get "lon" -}}
+{{- $zoom := .Get "zoom" | default "15" -}}
+{{- $title := .Get "title" | default "" -}}
+{{- $caption := .Get "caption" | default $title -}}
+{{- $link := .Get "link" | default (printf "https://www.openstreetmap.org/?mlat=%s&mlon=%s#map=%s/%s/%s" $lat $lon $zoom $lat $lon) -}}
+{{- /* bbox roughly from zoom */ -}}
+{{- $delta := 0.012 -}}
+{{- if eq $zoom "14" }}{{ $delta = 0.02 }}{{ end -}}
+{{- if eq $zoom "16" }}{{ $delta = 0.006 }}{{ end -}}
+{{- if eq $zoom "13" }}{{ $delta = 0.04 }}{{ end -}}
+{{- $latF := float $lat -}}
+{{- $lonF := float $lon -}}
+{{- $south := sub $latF $delta -}}
+{{- $north := add $latF $delta -}}
+{{- $west := sub $lonF $delta -}}
+{{- $east := add $lonF $delta -}}
+{{- $bbox := printf "%f%%2C%f%%2C%f%%2C%f" $west $south $east $north -}}
+{{- $src := printf "https://www.openstreetmap.org/export/embed.html?bbox=%s&layer=mapnik&marker=%s%%2C%s" $bbox $lat $lon -}}
+<figure class="osm-map-frame">
+  {{- with $title }}<div class="osm-map-title">{{ . }}</div>{{ end }}
+  <div class="osm-map-wrap">
+    <iframe
+      title="{{ $title | default "Карта" }}"
+      src="{{ $src | safeURL }}"
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  {{- with $caption }}
+  <figcaption>
+    {{ . }}
+    · <a href="{{ $link }}" target="_blank" rel="noopener">OpenStreetMap</a>
+  </figcaption>
+  {{- end }}
+</figure>

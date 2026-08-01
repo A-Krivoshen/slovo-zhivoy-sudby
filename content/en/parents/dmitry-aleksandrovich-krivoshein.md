@@ -9,7 +9,13 @@ tags: ["Krivoshein", "parents", "state", "state farms"]
 categories: ["Parents"]
 people: ["Dmitry Aleksandrovich Krivoshein", "Tatyana Timofeevna Krivosheina", "Aleksandr Dmitrievich Krivoshein"]
 ShowToc: true
+cover:
+  image: "/photos/krivoshein-da/dmitry-portrait.jpg"
+  alt: "Dmitry Aleksandrovich Krivoshein"
+  relative: false
 ---
+
+{{< figure src="/photos/krivoshein-da/dmitry-portrait.jpg" caption="Dmitry Aleksandrovich Krivoshein. Photo: [Wikipedia / Wikimedia Commons](https://ru.wikipedia.org/wiki/Файл:Кривошеин_Дмитрий_Александрович.jpg)." >}}
 
 **Dmitry Aleksandrovich Krivoshein** (1905, Kirsanov, Tambov province — 1979, Moscow) was a Soviet state official and agronomist; **father of** Tatyana Timofeevna’s husband, **Aleksandr Dmitrievich Krivoshein**.
 

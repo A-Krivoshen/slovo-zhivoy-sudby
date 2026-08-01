@@ -15,67 +15,67 @@ ShowToc: true
 
 <!-- p. 058 -->
 
-*(squared notebook leaf; main text — left/principal column; on the right — show-through/fragments of a neighboring entry)*
+*(squared notebook leaf; original_page 058; raw pages/058.jpg upside-down 180°; on the right — show-through of a neighboring entry)*
 
-**Meeting with the film director Pudovkin[?].**
-*(on the page the name reads close to “Pudovkin” / “Ludovkin” — the first letter is doubtful)*
+**Meeting with the film director Ludovkin[?].**
+*(the handwriting is read stably as “Ludovkin”; the first letter could theoretically be “P” — do not merge with other people without confirmation)*
 
 “I dwell on him only because  
-in his fate I took the most  
-[?] part. It concerns the death  
-of the director Zarkhi. In connection with the anniversary  
-of Soviet cinema the Government  
-awarded Pudovkin[?] a car.  
+in his fate I took the most[?] / more[?]  
+part. It concerns the death  
+of the director Zarkhi. In connection with the jubilee  
+of Soviet cinema the Government a-  
+warded Ludovkin[?] a car.  
 He learned to drive, and  
 on one Sunday together  
 with Zarkhi drove along the Yaroslavl  
-highway to Pushkino. Short of Obla-  
-kino[?], Pudovkin[?] began to overtake a  
+highway to Pushkino. Not reaching Ob[’?]yan-  
+kino[?], Ludovkin[?] began to overtake a  
 lorry. The shoulder was  
-very high. Pudovkin[?] left the  
-asphalt and was overtaking the lorry along  
-the shoulder. Having overtaken, Pudovkin[?] wanted  
-to pull onto the asphalt, but did  
-it so unskillfully that his  
+very high. Ludovkin[?] left the  
+asphalt and overtook the lorry on  
+the shoulder. Having overtaken, Ludovkin[?] wanted  
+to drive back onto the asphalt, but did  
+so so unskillfully that his  
 car overturned; Zarkhi fell  
 under the front wheels, was  
-badly injured and within 2 hours he  
-died. The catastrophe so under-  
-mined[?] Pudovkin[?] that  
-he began to talk very confusedly.  
+badly hurt and within 2 hours he  
+died. The catastrophe undercut  
+Ludovkin[?] so that  
+he began to talk wildly.  
 There was fear that he would go mad.  
 In order not to lose a talented  
-director, I took Pudovkin[?] to  
-my dacha in Serebryany Bor  
+director, I took Ludovkin[?] to  
+my dacha, at Serebryany Bor  
 and kept him there about 3  
-weeks until he began to come  
+weeks, until he began to come  
 to himself. That he was at  
-our dacha was known only to his  
-wife and the investigating authorities, with  
-whom it had been agreed that
+my dacha was known only to his  
+wife and the investigative authorities, with  
+whom it was agreed that
 
 [continuation of the quotation — PAGE 059]
 
 ---
 
-*(further on the same page — a separate plot about mushrooms with Father; possibly the same leaf / lower part)*
+*(further on the same page — a separate episode about mushrooms with Father; possibly the same leaf / lower part)*
 
-Papa taught me to find my bearings  
-in the forest. He would say: “Watch the sun.  
-You enter the forest and look from which side[?]  
+Papa taught me to find my way  
+in the wood. He would say: “Watch the sun.  
+You enter the wood and look in which of[?]  
 the sun shines on you.” So I a little  
-learned to find my bearings in the forest.  
+learned to find my way in the wood.  
 Having gathered mushrooms and returned home  
 Papa said: “We sort the mushrooms:  
 which to dry, which to fry.”  
-And everyone sat around the table and  
+And all sat round the table and  
 cleaned mushrooms. And to Papa first Mama  
-[served/? / cleaned/?] the mushrooms. Even in the last  
+[served? / cleaned?] the mushrooms. Even in the last  
 year before his illness Father often went  
-for mushrooms. And afterward we all  
+for mushrooms. And then we all  
 continued this tradition.
 
-*(on the right of the leaf — fragments/show-through, partly readable: mentions of a director, a writer, a screenplay, mushrooms; coherent continuous text cannot be restored without invention)*
+*(on the right of the leaf — fragments/show-through, partly readable: mentions of a director, a writer, a scenario, mushrooms; continuous connected text is not restored without invention)*
 
 ---
 
@@ -83,13 +83,13 @@ continued this tradition.
 
 <!-- p. 059 -->
 
-*(almost empty leaf; end of the quotation from PAGE 058)*
+*(almost empty leaf; original_page 059; raw pages/059.jpg upside-down 180°; end of the quotation from PAGE 058)*
 
-…Pudovkin[?] will not be  
+…Ludovkin[?] will not be  
 subjected to any interrogation. The investigation  
 established that the accident  
 occurred exclusively through the fault  
-of Pudovkin[?].”
+of Ludovkin[?].”
 
 (From Father’s recollections.  
 See his notebook).
@@ -100,132 +100,48 @@ See his notebook).
 
 <!-- p. 060 -->
 
-*(scan: a narrow strip of text, orientation on pages/060.jpg ~90°; content overlaps with PAGE 058 — meeting with Ludovkin / mushrooms / Serebryany Bor. Possibly a verso, a repeated frame, or an adjacent fragment of the same entry. Read incompletely.)*
+*(original_page 060; a narrow strip / cropped frame; pages/060.jpg and work/p-60.jpg need a 180° turn to read. Content is the same text as on 058: “Meeting with the film director Ludovkin[?]” and the continuation about the accident / dacha. This is not a separate plot and not another director.)*
 
-[… heading/beginning, when aligned:]  
 Meeting with the film director  
-Pudovkin[?].
+Ludovkin[?].
 
-[…]  
-[…] to my dacha in Serebryany Bor  
-and kept him there about 3  
-weeks until he began to come  
-to himself. That he was at  
-our dacha was known only to his  
-wife and the investigating authorities, with  
-whom […]
+[…] only because,  
+[…] took […]  
+[…] about the death  
+[…] Zarkhi. In connection with the jubilee  
+[…] the Government a-  
+[…] a car.  
+[…] the car, and  
+[…] Sunday together  
+[…] along the Yaroslavl  
+[…] Pushkino. Not reaching Ob[’?]yan-  
+[…] Ludovkin[?] began to overtake a  
+[…] The shoulder was  
+[…] Ludovkin[?] left the  
+[…] the lorry on  
+[…] Ludovkin[?] wanted  
+[…] unskillfully that his  
+[…] overturned. Zarkhi fell  
+[…] wheels, was  
+[…] within 2 hours  
+[…] The catastrophe undercut  
+[…] Ludovkin[?] so that  
+[…] talk wildly,  
+[…] that he would go mad.  
+[…] talented  
+[…] Ludovkin[?] to  
+[…] at Serebryany Bor  
+[…] about 3  
+[…] until he began to come  
+[…] That he was  
+[…] known only to his  
+[…] investigative authorities, with  
+[…] it was agreed that
 
-[…]  
-Papa taught me to find my bearings  
-in the forest […]  
-[…] for mushrooms […]  
-[…] with youth[?], […]
-
-*(full line-by-line transcription of this frame is hindered by cropping and orientation; in substance it duplicates/continues PAGE 058. No new reliably readable facts beyond 058–059 have been isolated.)*
-
----
-
-# Facts extracted
-
-Only what follows directly from the text of 051–060. Doubtful readings marked `[?]`.
-
-## People
-
-| Name / designation | What is said in the text |
-|---|---|
-| **Tatyana Timofeevna** (narrator) | In the 1st person; went to school already literate; with her brother at the dacha; friends with Natasha; learned to find bearings in the forest with Papa |
-| **Mama** (Eva / Evdokiya Konstantinovna — see also the verses) | Took her to the rest home “Vasilki”; at the 1976 anniversary; together with Nexø’s wife bought presents for the children; first [served?] mushrooms to Papa |
-| **Papa / Father** (Samsonov Timofey Petrovich — by the notebook’s context) | Worked a great deal, children saw him rarely, on weekends; himself tended the vegetable and flower gardens at the dacha; loved to dig in the earth; acquaintances lived on the 2nd floor at the dacha; met actors, writers, directors; was connected with “Mosfilm”[?] / cinema; negotiated with Nexø; invited Nexø home; took Ludovkin to the dacha after the accident; taught his daughter to find bearings in the forest; went for mushrooms even in the last year before illness; left a notebook of recollections |
-| **Grandmother** | At the dacha stood on the porch, shouted to the children “I see, I see” |
-| **The narrator’s brother** | Together “cast a covetous eye” on the cucumbers; went to the beds |
-| **Natasha Kornevtseva[?]** | Friend from the rest home “Vasilki”; lived in entrance 10; parents acquainted; a year older than the narrator; studied in the class above; friendship preserved |
-| **Zinaida Nikolaevna** | Teacher / “something like a governess” for Natasha; taught the girls to read, write, history; took them to the theatre |
-| **Natasha’s papa** | Fed them dinner, put the girls down to rest on the sofa |
-| **Lada** | Dog — Irish setter, bright red; very kind; friendly with the narrator; once pulled her hair (narrator ~5) |
-| **Yard dogs / mongrels** | Came to the dacha in summer; in winter with the watchman; went with the children to the river, did not like to bathe |
-| **Yura** | Author of the poem for Tanya and Sasha’s anniversary, 11 Sept. 1976; wrote while everyone made merry |
-| **Tanya and Sasha** | Jubilarians 11.09.1976; “a family one for the two of them”; “Ours was 50” (50 years — anniversary of family/marriage [?]) |
-| **Roman** | At the anniversary hugged/kissed Tasya[?] |
-| **Tasya[?]** | Mentioned in the verse (with Roman) |
-| **Eva Konstantinovna** | At the anniversary: “all except Eva Konstantinovna” (in the verse) |
-| **Tatyana and Inna** | Sang songs at the anniversary (verse) |
-| **Nadezhda** | At the anniversary (verse; line not fully clear) |
-| **Vitya[?]** | At the anniversary (verse; line not fully clear) |
-| **Mili[?] Cherka[s/?]** | Actor[?], came; connected with the film *The Last Gypsy Camp* |
-| **Pudovkin[?]** (on the page also read as “Ludovkin”) | Film director; gave Father a book with an autograph; awarded a car for the anniversary of Soviet cinema; accident with Zarkhi; recovered/rested ~3 weeks at Father’s dacha in Serebryany Bor; fault for the accident found to be his; not subjected to interrogation (by agreement) |
-| **Zarkhi** | Director; rode with Pudovkin[?]; fell under the wheels; badly injured; died in ~2 hours |
-| **Pudovkin’s[?] wife** | Knew he was at Father’s dacha |
-| **Martin Andersen Nexø** | Danish writer; negotiations over a screenplay; did not speak Russian; visited with his family; stayed at the *Savoy* on Rozhdestvenka; gave a book with an autograph |
-| **Nexø’s wife** | As a guest; together with Mama bought presents for the children |
-| **Peter** | Nexø’s son, ~8; would not let go of a toy (horned bison[?]) |
-| **Nexø’s daughter** | ~12 |
-| **Jean-Richard Bloch** | French writer; screenplay for the film studio; idea about the struggle in France |
-| **Henri Barbusse** | French writer; many times in Moscow for cinema; screenplay *On the Leipzig Trial of G. M. Dimitrov*; episodes with Barbusse himself |
-
-## Places
-
-| Place | Context |
-|---|---|
-| Rest home “Vasilki” | Acquaintance with Natasha |
-| Entrance 10 | Both the narrator and Natasha lived there |
-| **Serebryany Bor** | Official dacha; Ludovkin at Father’s; mushrooms |
-| Dacha No. 2, “1st edge” | Address/position of the plot |
-| Moskva River, pine wood | Surroundings of the dacha |
-| Ash avenue, two-story house | At the dacha; 1st floor — family, 2nd — Father’s acquaintances |
-| River (at the dacha) | Walks with mongrels |
-| Hotel *Savoy*, Rozhdestvenka | Nexø in Moscow |
-| Yaroslavl highway → Pushkino | Trip of Ludovkin and Zarkhi |
-| Oblakino[?] | Landmark of the accident site |
-| “Mosfilm”[?] / film studio | Father’s meetings, screenplays |
-| Cherbor[?] / [?] Bor | Filming of *The Last Gypsy Camp* |
-
-## Dates and numbers
-
-| What | Value |
-|---|---|
-| Narrator’s age in the Lada episode | ~5 years |
-| Natasha older by | 1 year |
-| Life at the dacha | ~13–14 years |
-| Tanya and Sasha’s anniversary | **11 September 1976** |
-| “Ours was 50” | 50 (years of marriage/family — by the verse’s context) |
-| Nexø’s children | Peter ~8, daughter ~12 |
-| Nexø’s children stayed another | 2 days |
-| Ludovkin at Father’s dacha | ~3 weeks |
-| Zarkhi died | ~2 hours after the accident |
-| Apple trees at the dacha | 4 |
-| Cats | once got 3 |
-
-## Objects / plants / animals at the dacha
-
-- Vegetable garden: carrots, cucumbers, marrows, beetroot, turnips, tomatoes, potatoes  
-- Berries/trees: currants, raspberries, cherries, 4 apple trees  
-- Flowers: lilac, peonies, carnations, lilies[?], petunias, climbing sweet pea  
-- Animals: cats, dogs, rabbits; setter Lada; summer mongrels  
-- Books with autographs (the family still has them): Pudovkin’s[?], Nexø’s  
-
-## Plots (briefly)
-
-1. **Childhood friendship** with Natasha Kornevtseva[?], lessons with Zinaida Nikolaevna, escape from the sofa in spring.  
-2. **Official dacha** in Serebryany Bor: Father’s vegetable garden, cucumber prank, Grandmother “I see, I see.”  
-3. **Animals**: Lada (setter), 3 cats, mongrels; in autumn the dog would leave head hanging; ~13–14 years at the dacha; in the last year he did not come.  
-4. **Anniversary 11.09.1976** — Yura’s verses to Tanya and Sasha (“50”).  
-5. **Father and culture**: actors, Nexø, Jean-Richard Bloch, Barbusse / Dimitrov, Pudovkin[?] and Zarkhi’s death, shelter at the dacha, quotation from Father’s notebook.  
-6. **Mushroom tradition** with Father (sun in the forest, sorting, continued afterward).
-
-## Reading notes
-
-- Scans **051–054** and **060** lie on their side; **056** (pages) is upside down; for **055–059** (work) orientation is generally readable.  
-- Names **Pudovkin/Ludovkin**, **Kornevtseva**, part of the verse lines (5–8) and a number of single-word places — with `[?]`.  
-- **PAGE 060** is close in content to **058**; gives no reliable *new* facts.  
-- Internal numbers **−2− … −5−** on 051–054 are the author’s pagination, not file numbers.
+*(cropped/repeat frame of the same entry as PAGE 058; no new stable facts beyond 058–059. The offline-batch readings “Jindřich” / “Iudushka” are rejected as not confirmed by the image.)*
 
 ---
 
-*End of batch_51_60.*
-
-<!-- source: batch_61_70.md -->
-
----
 
 <!-- p. 061 -->
 

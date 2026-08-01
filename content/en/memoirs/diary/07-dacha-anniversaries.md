@@ -15,21 +15,22 @@ ShowToc: true
 
 <!-- p. 051 -->
 
-*(handwritten page number: −2−; text on the scan rotated ~90°)*
+*(handwritten page number: −2−; original_page 051)*
 
 Once I was with Mama at the rest home  
 “Vasilki.” There I became acquainted  
-with Natasha Kornevtseva[?], with whom  
+with Natasha Kornevtseva[?] / Kortestseva[?], with whom  
 we became friends; she was also in entrance  
 10. Our parents were also  
 acquainted. We often played together:  
 now at their place, now at ours. And then they  
 began to teach us. A very kind,  
-cultured, pleasant[?]  
+cultured, amusing  
 woman studied with us. Her name was Zinaida Nikolaevna.  
 Apparently she was a schoolteacher.  
 She taught us to read and write,  
 told us something about history,  
+reading us much that was interesting,  
 took us to the theatre. So that when  
 I went to school I was already literate.  
 With Natasha she was something like  
@@ -57,41 +58,41 @@ ship we preserved.
 
 <!-- p. 052 -->
 
-*(handwritten number: −3−; text on the scan rotated ~90°)*
+*(handwritten number: −3−; original_page 052)*
 
 To the dacha we went to Serebryany Bor.  
 The dacha was official. We lived,  
-as people used to say, on the 1st edge  
-of dacha No. 2. A beautiful place, real[?]  
+as people used to say, on the 1st prosek  
+dacha No. 2. A place of indescribable  
 beauty: a pine wood, the Moskva River.  
-Our plot was large; we  
-even enclosed[?] our part with fences.  
+Our plot was large, but  
+[not all of it was worked? / even the land … — illegible].  
 From the gate ran a long avenue of  
-ash trees. The house too was large,  
+lilac. The house too was large,  
 two-story. We occupied the 1st floor,  
-and upstairs someone of Papa’s  
-acquaintances always lived. Part of the plot  
+and upstairs always someone of Papa’s  
+acquaintances. Part of the plot  
 was given over to a vegetable garden and flower garden.  
-Papa always did this himself:  
-dug, made beds, planted. He very much  
-loved to dig in the earth, and when  
+Papa himself did this work.  
+He dug, made beds, planted. He very much  
+loved to dig in the earth and when  
 he had time (and there was always  
 little of it, busy with work) he pottered  
 in the garden. We grew carrots, cucumbers,  
 marrows, beetroot, turnips, tomatoes and  
 even potatoes. There were bushes of cur-  
 rants, raspberries, there were cherries,  
-there were 4 apple trees, lilac, peonies.  
+there were 4 apple trees, black[currant?], wood-sorrel[?].  
 When the cucumbers began to grow,  
 my brother and I cast  
 a covetous eye on them. The cucumbers were small —  
-tiny, nothing much to eat, but  
+tiny, one must not eat them there, but  
 we very much wanted to try, though  
 it was forbidden to us. And so  
-once we decided to go  
+we organize raids with him, crawling  
 to the beds, thinking no one  
 saw us. But Grandmother was standing on the porch  
-and shouts to us: “I see, I see.”
+and shouts to us: “I see, I see!”
 
 ---
 
@@ -99,15 +100,15 @@ and shouts to us: “I see, I see.”
 
 <!-- p. 053 -->
 
-*(handwritten number: −4−; text on the scan rotated ~90°)*
+*(handwritten number: −4−; original_page 053)*
 
 And what flowers Papa raised,  
-carnations everywhere, with them lilies[?],  
+carnations everywhere, and what else —  
 so it was no wonder. And petunias, and  
 climbing[?] sweet pea, and  
 the scent in the garden was magical.  
-(In our time one doesn’t see  
-these flowers)
+(That — in[?] our time one doesn’t see  
+these flowers.)
 
 We always kept animals:  
 cats, dogs, even rabbits.  
@@ -115,27 +116,28 @@ We had a dog, an Irish setter,
 bright red. She was named  
 “Lada.” She was very friendly with  
 me (she was a very kind creature)  
-and I remember how once we sat on  
-a bench[?] (I was about 5), and next to my  
-Lada. And suddenly she began to  
-eat my hair, so that she nearly  
-pulled it out. Then we had to take her off  
+and I remember — any[?] of my pranks.  
+I remember once I am sitting on the steps  
+(I was about 5), and next to my  
+Lada. And suddenly she began to lick  
+my hair, so much that I even forgot  
+to get up. Then we had to wash it  
 for a long time.
 
 And we always had cats.  
 Once we even got 3 cats,  
-so that they would not quarrel[?]. Otherwise  
+so that they would not quarrel. Otherwise  
 every evening there was a quarrel: with whom  
 the cat would sleep.  
 In summer at the dacha all sorts of ordinary  
 mongrels of different  
-colors would come to us. In winter they lived[?] with the watchman,  
+colors would come to us. In winter they lived with the watchman,  
 and with spring they came to us.  
-Very clever; they all went together with  
-us, even to the river, but they did not like  
+Very clever; they all went everywhere with  
+us, even to the little river, but they did not like  
 to bathe: they go into the water up to the belly  
-and go no farther. As soon as you  
-whistle[?] at them, [they’re here/?]. All summer they came  
+and go no farther. As soon as anyone  
+called them[?]. All summer they came  
 to us, ate there at our place.
 
 ---
@@ -144,16 +146,16 @@ to us, ate there at our place.
 
 <!-- p. 054 -->
 
-*(handwritten number: −5−; text on the scan rotated ~90°; the page is only partly filled)*
+*(handwritten number: −5−; original_page 054; the page is only partly filled)*
 
 But when in autumn it was time to leave  
-for the city, he would go off, head hanging.  
-And however we called, however we shouted,  
+for the city, he would go off with hanging head.  
+And however we called, however we shouted, however we called,  
 he would go down the avenue to the gate, without even  
-looking back. We remember him as funny[?].  
-Much time passed. We lived  
+looking back. I remember I remembered him  
+so firmly for a long time. We spent  
 at this dacha some 13–14 years. And  
-afterward he was with us. Only in the last  
+afterward they were with us. Only in the last  
 year he did not come.  
 Dear, good, our kind dog.  
 How much joy he gave us, and  
@@ -166,40 +168,44 @@ fine friend!
 
 <!-- p. 055 -->
 
-*(verses; paper of a different kind from 051–054; notes at the top)*
+*(verses on a separate leaf; original_page 055; raw pages/055.jpg upside-down 180°)*
 
-A poem by Yura, composed for [our anniversary/?]  
-When everyone was making merry, Yura sat down and wrote.  
-Our  
-was 50.
+Yura’s poem, composed for [the anniversary day?].
+
+*(in the left margin:)*  
+When every-  
+one was  
+merry,  
+Yura sat  
+and wrote.  
+We  
+were 50.
 
 To dear Tanya and Sasha  
-on their anniversary day, 11 Sept. 1976
+on the anniversary day, 11 Sept. 1976
 
 1) Tanya and Sasha have an anniversary  
-Already a family one for the two of them  
-And I cannot without artifice  
-Fail to compose a clumsy verse.
+Already an event[?] is afoot  
+And I cannot without tricks  
+Not compose a clumsy verse.
 
-2) When at last we arrived  
-Embraces simply deafened us  
+2) When we at last arrived  
+Embraces simply stunned  
 While I was hugging Tanya  
 Roman was kissing Tasya[?].
 
 3) We entered the room and  
-here  
-One chews, another sings  
+lo  
+One chews, the other sings  
 All except Eva Konstantinovna  
-Appeared — all the merriment[?]  
-[and?] character[?]:
+Appeared for the merriment  
+characteristic[?].
 
 4) A slightly spoiled  
 anniversary  
-Barely begun already gave  
-From hard earthquakes  
-[… bottom of the page cut off / continues on PAGE 056]
-
-*In the left margin (vertically):* When everyone was making merry, Yura sat down and wrote. / Our / was 50.
+Had barely begun already gave  
+From harsh earthquakes  
+[… bottom of the page cut / continued on PAGE 056]
 
 ---
 
@@ -207,33 +213,34 @@ From hard earthquakes
 
 <!-- p. 056 -->
 
-5. Tatyana and Inna sang songs  
-Dear choruses like a waltz[?] with trills[?]  
-Nadezhda looked[?] [dimly/? / neya[?]…]  
-And Vitya[?] [slobbered/? / something illegible] a mouth[?] [harmonica/?].
+*(original_page 056; raw pages/056.jpg upside-down 180°; continuation of Yura’s verse)*
 
-6) Prettier[?] than the others the handsome[?]  
-[Vympel/? / Ilyich/?],  
-He amused us singing along[?],  
+5) Tatyana and Inna sang songs  
+A boy walked like Vanka-Vstanka[?]  
+Nadezhda quite cut loose[?]  
+And Volodya[?] smoked a straw[?].
+
+6) Led[?] the others a handsome man[?]  
+Mikhail[?],  
+He amused us in his own way[?],  
 Now watched over the song,  
-Now recalled something frivolous,
+Now recalled the frivolous,
 
-7) And in general everything was wonderful  
-Everything tasty for us dear only[?]  
-[several words crossed out]  
-And time simply  
-[crossed out]  
-You can’t make out: from where[?]  
-you can’t make out where it is from, or  
-the door?
+7) And on the whole everything was wonderful  
+Everything tasty never now[?] for us  
+[struck through: And all] And at times simply  
+astonishing!  
+[struck-through line]  
+you can’t make out what she  
+door?
 
-8) Here always Tanya  
-and Sasha for us  
-They as if converse[?] with us  
-Our[?] [crowd/?] [with/?] our love[?]  
-They have grown much younger[?],
+8) Here we always have Tatyana  
+and Sasha  
+From us as if carefree[?]  
+[To us? / Or?] strange[?] is their love of ours  
+They have grown much younger,
 
-*(end of the visible text of the poem on this sheet)*
+*(end of the visible text of the poem on this leaf)*
 
 ---
 
@@ -241,63 +248,63 @@ They have grown much younger[?],
 
 <!-- p. 057 -->
 
-*(squared notebook leaf; Father’s meetings with figures of culture)*
+*(squared notebook leaf; original_page 057; Father’s meetings with cultural figures)*
 
-Some actors used to come, I think  
-even Mili[?] Cherka[s/?]. At that time in  
-[Cherbor/? / Cherbor/?] Bor they were shooting the film *The Last  
-Gypsy Camp*, in which he[?] played the lead.  
-Pudovkin[? / on the page also: Ludovkin] gave Father his book with  
-an autograph, (we still have it)  
-Being director of “Mosfilm”[?]  
+Some actors would come, I think  
+even Mili[?] Cherkas[?]. At that time in  
+Serebr. Bor they were shooting the film “The Last  
+Camp,” where it[?] played the lead.  
+Ludovkin[?] gave Father his book with  
+an autograph (we still have it)  
+As director of “Mezhrabpomfilm”  
 Papa met many interesting  
 people.
 
 **Martin Andersen Nexø** — Danish writer
 
 Father conducted negotiations with him about  
-writing a screenplay. Talks with Nexø were made  
-difficult by the fact that he did not speak Russian,  
-and Papa — Danish. Negotiations had to be  
-conducted through an interpreter. Conversation with Nexø  
+writing a scenario. Talks with Nexø were hin-  
+dered by the fact that he did not speak Russian,  
+and Papa — Danish. They had to conduct the nego-  
+tiations through an interpreter. Conversation with Nexø  
 was a true pleasure. They  
-grew close, and one day Father invited  
-him with his family to visit us. Two  
+grew close and one day Father invited  
+him with his family to our house as guests. Two  
 children (Peter — about 8 and a daughter — about 12),  
-his wife and he himself. It was during the October  
-holidays. The Nexøs were then living at the hotel  
-*Savoy* on Rozhdestvenka. There was dinner,  
+his wife and he himself. These were the October  
+holidays. Nexø were then living at the hotel  
+“Savoy” on Rozhdestvenka. There was a dinner,  
 and then the children went off to play.  
-The Nexø children liked it so much at our place  
+Nexø’s children liked it so much at our place  
 that they stayed with us another  
-2 days. Mama and his wife bought them  
-presents: toys, and among them was  
-a horned[?] bison[?]; this toy Peter  
+2 days. Mama and the wife bought them  
+presents: toys and among them was  
+a horned[?] kisun[?]; that toy Peter  
 would not let out of his hands. And then Mama  
-took them to the *Savoy*. When coming  
-to Moscow the Nexøs always visited Father  
-at work. On one of their visits he  
+took them back to the “Savoy.” Coming  
+to Moscow Nexø always visited Father  
+at work. On one of his visits he  
 gave Father his book with an autograph  
 (we still have it).
 
 **Jean-Richard Bloch** — French writer
 
 Father’s meetings with him took place  
-at “Mosfilm”[?] (the film studio). A screenplay  
-was ordered from him. Jean-Richard Bloch  
-willingly took on the work. One would have liked the  
-screenplay to be on a French roman[?]  
-libretto which he proposed; it was  
-exceptionally interesting. The idea of the screenplay  
-concerned[?] the struggle in France.
+at “Mezhrabpomfilm” (the film studio). They com-  
+missioned a scenario from him. Jean-Richard Bloch  
+willingly took the job. He wanted[?] that  
+the scenario be on a French roman[?]  
+libretto which he presented; it was  
+exceptionally interesting. The idea of the scenario  
+— the class struggle in France.
 
 **Henri Barbusse** — French writer.
 
-Meetings too were connected with the writing  
-of a screenplay. On these matters he many  
+The meetings were also connected with the wri-  
+ting of a scenario. On these affairs he many  
 times was in Moscow at the film studio.  
-For him the screenplay *On the Leipzig Trial  
-of G. M. Dimitrov* painted[?] several  
+For the scenario “On the Leipzig trial  
+of G. M. Dimitrov” they painted in several  
 episodes with the participation of Barbusse himself.
 
 ---

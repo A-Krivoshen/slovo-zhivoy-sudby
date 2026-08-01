@@ -9,6 +9,15 @@ tags: ["diary", "notebook"]
 categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]
 ShowToc: true
+source_title: "Our genealogy: the Samsonovs"
+source_pages_original: "051-057"
+transcription_status: "partially_verified"
+translation_status: "synchronized"
+editorial_status: "working"
+last_verified: "2026-08-01"
+uncertainty_count: 29
+source_type: "manuscript"
+privacy_reviewed: true
 ---
 
 *Text from Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` — illegible places. Scan pages are indicated in comments.*
@@ -168,7 +177,7 @@ fine friend!
 
 <!-- p. 055 -->
 
-*(verses on a separate leaf; original_page 055; raw pages/055.jpg upside-down 180°)*
+*(verses on a separate leaf; original_page 055; raw скан upside-down 180°)*
 
 Yura’s poem, composed for [the anniversary day?].
 
@@ -213,7 +222,7 @@ From harsh earthquakes
 
 <!-- p. 056 -->
 
-*(original_page 056; raw pages/056.jpg upside-down 180°; continuation of Yura’s verse)*
+*(original_page 056; raw скан upside-down 180°; continuation of Yura’s verse)*
 
 5) Tatyana and Inna sang songs  
 A boy walked like Vanka-Vstanka[?]  

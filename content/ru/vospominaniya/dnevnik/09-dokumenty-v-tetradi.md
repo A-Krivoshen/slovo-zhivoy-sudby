@@ -12,6 +12,15 @@ ShowToc: true
 cover:
   image: "/photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg"
   relative: false
+source_title: "Наша родословная. Самсоновы"
+source_pages_original: "072-079"
+transcription_status: "first_pass"
+translation_status: "synchronized"
+editorial_status: "working"
+last_verified: "2026-08-01"
+uncertainty_count: 6
+source_type: "manuscript"
+privacy_reviewed: true
 ---
 
 *Текст по рукописной тетради Татьяны Тимофеевны «Наша родословная: Самсоновы». Голос — от первого лица. `[?]` — неразборчивые места. Страницы скана указаны в комментариях.*
@@ -462,9 +471,6 @@ cover:
 
 ---
 
-# Facts extracted
-
-Только то, что прямо следует из этих страниц (без внешних домыслов).
 
 ## Лица
 

@@ -9,6 +9,15 @@ tags: ["diary", "notebook"]
 categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]
 ShowToc: true
+source_title: "Our genealogy: the Samsonovs"
+source_pages_original: "072-079"
+transcription_status: "first_pass"
+translation_status: "synchronized"
+editorial_status: "working"
+last_verified: "2026-08-01"
+uncertainty_count: 6
+source_type: "manuscript"
+privacy_reviewed: true
 ---
 
 *From Tatyana Timofeevna’s notebook “Our genealogy: the Samsonovs”. First person. [?] = unclear.*
@@ -456,9 +465,6 @@ In the center: F. E. Dzerzhinsky, Menzhinsky
 
 ---
 
-# Facts extracted
-
-Only what follows directly from these pages (without external conjecture).
 
 ## Persons
 

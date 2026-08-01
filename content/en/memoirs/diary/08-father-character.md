@@ -9,13 +9,22 @@ tags: ["diary", "notebook"]
 categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]
 ShowToc: true
+source_title: "Our genealogy: the Samsonovs"
+source_pages_original: "058-071"
+transcription_status: "partially_verified"
+translation_status: "synchronized"
+editorial_status: "working"
+last_verified: "2026-08-01"
+uncertainty_count: 164
+source_type: "manuscript"
+privacy_reviewed: true
 ---
 
 *From Tatyana Timofeevna’s notebook “Our genealogy: the Samsonovs”. First person. [?] = unclear.*
 
 <!-- p. 058 -->
 
-*(squared notebook leaf; original_page 058; raw pages/058.jpg upside-down 180°; on the right — show-through of a neighboring entry)*
+*(squared notebook leaf; original_page 058; raw скан upside-down 180°; on the right — show-through of a neighboring entry)*
 
 **Meeting with the film director Ludovkin[?].**
 *(the handwriting is read stably as “Ludovkin”; the first letter could theoretically be “P” — do not merge with other people without confirmation)*
@@ -83,7 +92,7 @@ continued this tradition.
 
 <!-- p. 059 -->
 
-*(almost empty leaf; original_page 059; raw pages/059.jpg upside-down 180°; end of the quotation from PAGE 058)*
+*(almost empty leaf; original_page 059; raw скан upside-down 180°; end of the quotation from PAGE 058)*
 
 …Ludovkin[?] will not be  
 subjected to any interrogation. The investigation  
@@ -100,7 +109,6 @@ See his notebook).
 
 <!-- p. 060 -->
 
-*(original_page 060; a narrow strip / cropped frame; pages/060.jpg and work/p-60.jpg need a 180° turn to read. Content is the same text as on 058: “Meeting with the film director Ludovkin[?]” and the continuation about the accident / dacha. This is not a separate plot and not another director.)*
 
 Meeting with the film director  
 Ludovkin[?].
@@ -527,7 +535,7 @@ Samsonov [T. P.?] [Zab.?] “Wonders” [Uk.?], 1919 — [accents?]
 
 <!-- p. 067 -->
 
-*[pages/067.jpg — scan inverted 180°.  
+*[скан — scan inverted 180°.  
 (possible duplicate of a spread/scan in the source PDF;  
 or the same page recorded twice in the batch).  
 Below — full text from the readable copy.]*
@@ -782,93 +790,6 @@ a great deal. I found it interesting with him.
 
 ---
 
-## FACTS EXTRACTED
-
-Facts only from the text of these pages; without conjecture.
-
-### People
-- **Romain Rolland** — French writer; appeared in the film *On the Leninist Process*; wife — Russian; conversations through her; meetings with Father connected with screenplays.
-- **Henri Barbusse** — mentioned for comparison of manner (seriousness).
-- **Ilya Ehrenburg** — came to Father at “Mezhrabpomfilm” (Likhov Lane, house 6) about filming; a picture from his screenplay did not come about.
-- **M. Gorky** — the meeting with him is described in detail by Father in his recollections.
-- **Father** (Samsonov Timofey Petrovich — by marginalia and the notebook’s context): loved mushrooms and orientation in the forest; was Administrator of the CC; had 2 assigned cars; driver Novikov; business trip to Leningrad with Tyoma; trips to the Crimea/Foros; sang (voice, ear); wrote verses and a novel “Razm[?]stvo” (unpublished); director of the publishing house of the Academy of Sciences; director of the film studio “Mezhrabpomfilm” (connection with the Comintern); worked at the Institute of Marxism-Leninism (of Marx and Engels); last place — Ispolkom[?]izdat; close associate of F. E. Dzerzhinsky; met V. I. Lenin; in 1938 removed from work for several months; then Shcherbakov (Moscow Committee) appointed him director of [?]processing industry; deprived of some privileges (canteen, polyclinic); not arrested in 1937–38; confessed to his wife many years later that he called “to find out” so that the surname would be removed from lists.
-- **Mama** (Eva/Evdokiya Konstantinovna): did not use the official car openly; ran the household together with Grandmother; was ill (hospital, sanatorium); loved to sing; told of the night call from Alliluyeva and of a car at night in Serebryany Bor.
-- **Grandmother** — ran the household, cooked jam, gave fruit in the evening, baked pies on Sundays.
-- **Tyoma / Temka** — the author’s brother; trip with Father to Leningrad (teenager); Crimea; “the nuns are jumping” at the monastery cliff; sent [somewhere] outfitted — things stolen on the train, issued “jubilee” trousers; broke [hand/finger?] on the swing, cast.
-- **Author (Tatyana)** — learned to find bearings in the forest; learned to skate; broke her nose in childhood (~6 years), operation by Prof. Rauer at the Kremlin Hospital (Granovsky St. / Vozdvizhenka); in 5th grade forged Mama’s signature in the diary for conduct “mediocre”; outwardly resembles Father; occupied herself with Father and her elder son.
-- **Vanya Rozental** — taught the author to skate; in 1937 was a people’s [trader? / connected with foreign trade?]; character: honest, decent, modest, strict, sense of humor.
-- **Natasha [Kortishcheva? / Kortysheva?]** — acquaintance at the rest home “Valuevo”; friendship continues, live in the same house.
-- **Em. Yaroslavsky** — met at the rest home “Nagornoye.”
-- **[Bogreyevsky?]** — there too.
-- **Novikov** — driver; family one summer lived at their dacha; offered to drive Mama.
-- **the Pavlinovskys, Pastukhov, Metelin, Verik[?]** — lived on the 2nd floor / with them.
-- **Professor Rauer** — did the nose operation on the author.
-- **Alliluyeva** — Stalin’s wife; night call from the “Kremlin Hospital” to Father (organization in connection with pregnancy).
-- **Tukhachevsky, [Yakir?]** — “treason” in the newspaper, 1937–38.
-- **Shcherbakov** — [secretary?] of the Moscow Committee; appointed Father director of [?]processing industry after removal.
-- **Boris [Sanilov?], Metelin** — Father’s comrades still from exile times; arrested.
-- **Pavlinovsky, Ivan [Beryozin?], Mirov, Belinsky** — comrades from the front / Cheka; arrested.
-- **F. E. Dzerzhinsky** — Father among his close associates.
-- **V. I. Lenin** — Father met him; told about it at a school gathering in the days of Lenin’s memory.
-- **the Gorelye** — dacha [near?] Foros.
-- **Elizaveta** — name of Father’s mother (by his words).
-- **Author’s elder son** — spent much time with his grandfather (the author’s father).
-
-### Places
-- “Mezhrabpomfilm,” Likhov Lane, house 6.
-- Near Moscow; rest home “Nagornoye” (mushrooms, rest).
-- Leningrad (Father’s business trip with Tyoma).
-- Crimea, Foros; Baydar Gates; [Foros?] monastery on a steep cliff; park, pools; Sevastopol, Panorama of the Defense (before the war).
-- Kursky Station (meeting Tyoma).
-- Kremlin Hospital / polyclinic on Granovsky St. and Vozdvizhenka.
-- Rest home “Valuevo.”
-- Bessarabia (now Moldavia), village of Mikhaylyony — Ukrainian village; Father left ~1908–10; after the revolution went to Romania.
-- Serebryany Bor (Mama’s story, 1937–38).
-- Lake Khasan (conflict with the Japanese; newspaper cuttings).
-- Moscow — flats in the entrance sealed (1937–38).
-
-### Dates / periods
-- ~1908–10 — Father left his native parts.
-- 1919 — marginalia: “Wonders” Uk.; [accents?].
-- 10.XI.1930 — marginalia, VKP(b).
-- 1937 — Rozental (people’s [trade.?]); repressions; Tukhachevsky.
-- 1937–1938 — heading of the section on repressions.
-- 1938 — Father removed from work (several months), then new appointment through Shcherbakov.
-- Nose operation on the author — ~6 years.
-- 5th grade — story of the mark “mediocre” and forged signature.
-- Trips to Foros — before the war.
-- “Jubilee” trousers for Tyoma — in the year of the anniversary of [a construction project?].
-
-### Organizations / posts
-- Administrator of the CC (Father); 2 cars.
-- Cheka; OGPU; CC; Comintern (in the context of Father’s biography).
-- Mezhrabpomfilm; publishing house of the Academy of Sciences; Institute of Marxism-Leninism; Ispolkom[?]izdat.
-- Moscow Committee (Shcherbakov).
-
-### Daily life / episodes
-- Mushroom gathering; sorting (salting / frying); tradition continued by the children.
-- Orientation in the forest by the sun.
-- Father’s refusal of a gift (caviar, red fish from the North).
-- Product orders from the OGPU and the CC — only one tin may be taken.
-- Modest table: cheese/sausage/candies for holidays; jam and fruit from Grandmother; Sunday pies (Papa’s favorites — with potato).
-- Mama did not ride to the dacha in the official car to the house — left at the bus stop.
-- Swing in the garden; Tyoma’s injury.
-- Night call from Alliluyeva; organization “as required.”
-- Father’s songs: Port Arthur; the Tsar’s manifesto (19 February); student unrest / Cossacks; “Witte rules… I, bloody Nicholas”; Ukrainian (“The Dnieper roars and groans…”).
-- Flowers on windows and balconies; tomatoes on the balcony.
-- Father’s novel unpublished; verses preserved.
-
-### Uncertainties / for checking
-- Exact surname of the family from “Valuevo” (Kortishchevs / Kortyshevs?).
-- “Bogreyevsky” / other surname with Yaroslavsky.
-- Full post/place of 1938 after Shcherbakov.
-- Surnames of arrested comrades (Sanilov/Sanilin; Beryozin/Beryozov).
-- Title of Father’s novel “Razm[?]stvo.”
-- Part of the Crimean details (aquarium/crabs; Gorelye dacha).
-- Duplicate original_page **068** = **067** rotated 180° (control PDF, 78 pages, 2026-08-01). No other page was skipped; archival markers 067–068 kept on the site. See `docs/manuscript-page-map.md`.
-- Marginalia on inserts (062, 066): archival notes on Samsonov T. P., 1919, 10.XI.1930.
-
-<!-- source: batch_71_79.md -->
 
 ---
 

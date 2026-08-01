@@ -29,7 +29,7 @@ Inside:
 
 ## How to read on the site
 
-The **first major scan batch** (**79 pages**) is transcribed and split into chapters — see the [diary contents](/en/memoirs/diary/). The archive is **not** closed: more scans are expected, and transcription may be refined against the originals.
+A **first-pass machine-assisted transcription** of the initial batch (**79** archival scans) is published and split into chapters — see the [diary contents](/en/memoirs/diary/). The archive is **not** closed: more scans are expected, and transcription may be refined against the originals.
 
 What you mostly see here is an **exact transcription** (author’s sequence and sense, not a literary rewrite). Where possible, the **original scan** of the page is shown alongside. A separate “easy-reading” version is added only where needed and never replaces the transcription.
 

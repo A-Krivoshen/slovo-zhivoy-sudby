@@ -12,6 +12,15 @@ ShowToc: true
 cover:
   image: "/photos/eva-konstantinovna/eva-portrait.jpg"
   relative: false
+source_title: "Our genealogy: the Samsonovs"
+source_pages_original: "007-010"
+transcription_status: "first_pass"
+translation_status: "synchronized"
+editorial_status: "working"
+last_verified: "2026-08-01"
+uncertainty_count: 5
+source_type: "manuscript"
+privacy_reviewed: true
 ---
 
 *From Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` = unclear passages. Scan page numbers are given in the comments.*

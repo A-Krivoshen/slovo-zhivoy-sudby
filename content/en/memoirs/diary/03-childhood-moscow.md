@@ -12,6 +12,15 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-012.jpg"
   relative: false
+source_title: "Our genealogy: the Samsonovs"
+source_pages_original: "012-013,033-040,048-050"
+transcription_status: "first_pass"
+translation_status: "synchronized"
+editorial_status: "working"
+last_verified: "2026-08-01"
+uncertainty_count: 46
+source_type: "manuscript"
+privacy_reviewed: true
 ---
 
 *From Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` = unclear passages. Scan page numbers are given in the comments.*
@@ -20,49 +29,11 @@ cover:
 
 
 <!-- p. 012 -->
-
-first to a house on Maly Vlasyevsky Lane (Arbat), and then to a house on Vozdvizhenka. Later it was called the 4th House of Soviets (M. I. Kalinin’s reception office was there as well). Our flat was on the 4th floor; the window looked out onto Vozdvizhenka. It consisted of 5 rooms: the nursery, Grandmother’s room, the bedroom, the study, and the dining room. And there was also a large kitchen with 2 windows and a back stairs. And in the kitchen there was also a large stove faced with tiles. It was heated with firewood; there was no gas then.
-
-We were taken for walks in the Alexandrovsky Garden, and sometimes Father took us into the Kremlin (he had access there). Sometimes on winter evenings after work Mama took us sledging in the lane behind the Pushkin Museum. We called it “the little cul-de-sac.” There were no cars; the sledge ran well, and it was very good for all of us together.
-
-We came home, drank tea, and Mama would say to me: “Call the children to tea.” I would run down the corridor shouting: “Children, tea!”  
-Mama very much wanted the girls to learn music, and she took a piano on hire purchase (in those days you could buy a piano by making monthly payments). And at Father’s work they were organizing a club, and the instructor
-
----
-
----
-
 <!-- p. 013 -->
 
-On the sheet: top and bottom — notebook text; in the middle — a pasted/inserted leaf (“How we lived”).*
-
-### Notebook (top)
-
-was. And he gave that piano to the club. Mama was very distressed; they did not even return the money she had already paid.  
-Mama wanted to write her memoirs, but she never managed to. Here is her beginning. And nothing more.
-
-### Insert (leaf, mother’s manuscript / beginning of memoirs)
-
-**How we lived.**  
-**I.**
-
-At the very start of Vozdvizhenka, below Kalinin Prospect, stands a small but handsome five-storey house. In this house. (In the house with which my whole life is bound, [struck out: of a mother / daughter / motherhood?], and that only until 1926.)
-
-× × ×
-
-On the site of the new Lenin Library building, on the site away from the Rumyantsev Museum, old spreading limes grew. From six in the morning the boys went to poison[?]; the ringing[?] of them could be heard all hours[?]. At that time my daughter was four years old. She was a plump, lively little girl with large blue eyes. With a blue[?] ribbon[?] tied[?] around her neck, and a big red bow usually fluttering, and she often ran into[?] the boisterous sturdy lads[?].
-
-On 3 November they fall seriously ill[?]; the daughter [ink corrections: daughter / children] (also a complication) came down with tonsillitis, and here something happened to her to which this chapter will be devoted.
-
-### Notebook (bottom)
-
-In 1928 Mama joins the ranks of the VKP(b)  
-In 1931 our family moves to a new house, the one on Serafimovich Street. House No. 2  
-Entrance 12, flat 223, 4th floor
-
----
-
----
+{{< archive_note type="source" >}}
+**original_page 012–013** — primary full transcription: [Father, marriage and children](/en/memoirs/diary/02-father-marriage-children/). This chapter continues from original_page **033** (childhood / Moscow).
+{{< /archive_note >}}
 
 <!-- p. 033 -->
 
@@ -566,7 +537,6 @@ his own place: Papa — in the center, Mama —
 - Full top of rubbed-out paragraphs on **036** and **038**.
 - Correspondence of the age “sister — 10” with other genealogy sources — **only as recorded here**.
 
-<!-- source: batch_41_50.md -->
 
 ---
 
@@ -798,4 +768,3 @@ Only one remained — Inna.
 - Some minor surnames and dates in the printed tables (marked `[?]`).
 - Exact correspondence of No. 685 (16th Congress, PAGE 042) to pages 043–047: on 043 the list breaks off at 665; on 047 under No. 685 — **Tskhakaya** (another list/edition).
 
-<!-- source: batch_51_60.md -->

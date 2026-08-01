@@ -9,6 +9,15 @@ tags: ["diary", "notebook"]
 categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]
 ShowToc: true
+source_title: "Our genealogy: the Samsonovs"
+source_pages_original: "025-032"
+transcription_status: "first_pass"
+translation_status: "synchronized"
+editorial_status: "working"
+last_verified: "2026-08-01"
+uncertainty_count: 12
+source_type: "manuscript"
+privacy_reviewed: true
 ---
 
 *From Tatyana Timofeevna’s notebook “Our genealogy: the Samsonovs”. First person. [?] = unclear.*
@@ -141,7 +150,6 @@ in the collection *F. E. Dzerzhinsky in the Cheka*
 
 <!-- p. 028 -->
 
-**Orientation:** normal (`rot=0`). Section about Papa; newspaper clipping with portrait.
 
 ### Handwritten heading
 
@@ -288,7 +296,6 @@ sk.
 
 <!-- p. 029 -->
 
-**Orientation:** normal. Continuation of the newspaper article (3 columns; bottom/edges of the clipping partly cut off/worn).
 
 **[column 1]**  
 Later, during one of the party  
@@ -585,7 +592,6 @@ viet [power…]
 
 <!-- p. 030 -->
 
-**Orientation:** normal. End of the article, certificate, museum photo, handwritten notes.
 
 ### Printed text (continuation of the article, 2 columns)
 
@@ -741,58 +747,6 @@ museum dedicated to his memory was opened. I am writing a review
 
 ---
 
-## FACTS EXTRACTED (pp. 021–030)
-
-Only what follows directly from these pages (without guesses from other batches of the notebook).
-
-### Persons
-| Who | What is said on these pages |
-|---|---|
-| **Eva (Evdokiya) Konstantinovna** (the author’s mama) | Addressee of a letter; in retirement — deputy secretary of the party organization, agitator; spoke in military units and before students; medals for labor/Victory; died **17 May 1981, ~10:00**, at the **Central Clinical Hospital**; buried at **Novodevichy** with her husband; worked as a typist in the **Cheka / Cheka–OGPU**; ~19–20 years old — “headstrong”; episodes with F. E. Dzerzhinsky; recollections printed in the coll. *F. E. Dzerzhinsky in the Cheka* (*Pogranichnik* No. 14, 1967) |
-| **Timofey Petrovich Samsonov (Babiy)** | The author’s father; b. **9 (21) May 1888**, village of **Mikhayleny**, Khotyn u., Bessarabia; d. **28 October 1955**; verses to Mama (incl. **13.IV.41**, signed **T. S.**); revolutionary, chekist, Honorary Chekist (certificate signed by Dzerzhinsky); Lenin’s security at Kostino 17.I–1.III.1922 |
-| **T. T. Krivosheina** (the notebook’s voice) | Daughter; cared for Mama; colleagues visited Mama; “Sergey and I” were at the museum in Mikhayleny |
-| **F. E. Dzerzhinsky** | Chairman of the Cheka/GPU; personal episodes with Mama; gave Samsonov a “Colt”; signed the Honorary Chekist certificate |
-| **Zinurov[?] Sergey Zagilyevich[?]** | Colonel, head of the political department (in a photo with Mama) |
-| **Kudaev V. V.** | Private; Mama presented him with a Komsomol membership card |
-| **Isaulova** | Instructor for Komsomol work; author of a pasted-in letter |
-| **Sergey** | Was with the author at Father’s museum in Mikhayleny |
-| **I. Bobeyko** | Author of the article in *Sovetskaya Moldaviya*, 21.05.1988 |
-| **G. I. Kotovsky** | Meeting with T. P. Samsonov in Khotyn prison |
-| **V. I. Lenin, N. K. Krupskaya, M. I. Ulyanova** | Security/stay at Kostino, 1922 |
-
-### Dates and places
-- Mama’s medals: “For valiant labor…”, “30 years of victory in the Great Patriotic War”
-- **17.05.1981** — Mama’s death (Central Clinical Hospital); funeral at **Novodevichy**
-- **13.IV.41, Moscow** — Father’s verses “To Eva!”
-- **1923** — typists’ duty with the Presidium of the Cheka–OGPU (episode 3)
-- **1967** — publication of Mama’s recollections (*Pogranichnik* No. 14)
-- **21.05.1988** — article “Through the Storm of Time” in *Sovetskaya Moldaviya*
-- **1888–1988** — centenary; museum and bust in **Mikhayleny** (school given his name)
-- Khotyn, Kamenets-Podolsk, Siberia/Bodaybo, Vladivostok, Liverpool, Arkhangelsk, the Urals, Chelyabinsk, Irkutsk, Perm, Moscow, Gorki, Kostino
-
-### Documents / artifacts on the pages
-1. Letter from Isaulova to Eva Konstantinovna + description of two photos  
-2. Two photos: conversation with the head of the political department; presentation of a Komsomol card  
-3. Verses by T. S. to Mother (13.IV.41)  
-4. Newspaper article for the 100th anniversary of T. P. Samsonov  
-5. Honorary Chekist certificate (Collegium of the GPU / Dzerzhinsky’s signature)  
-6. Photo of the museum in Mikhayleny; entry in the visitors’ book  
-
-### Notes on scan orientation
-| page | pages/*.jpg | work/p-*.jpg |
-|---|---|---|
-| 021 | 180° | OK |
-| 022 | 180° | OK |
-| 023 | OK | OK |
-| 024 | 180° | OK |
-| 025 | 180° | OK |
-| 026 | OK | **wrongly 180°** (upside down) |
-| 027 | 180° | OK |
-| 028 | OK | OK |
-| 029 | OK | OK |
-| 030 | OK | OK |
-
-<!-- source: batch_31_40.md -->
 
 ---
 

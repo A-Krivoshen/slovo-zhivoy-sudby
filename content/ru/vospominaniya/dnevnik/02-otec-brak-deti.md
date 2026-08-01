@@ -9,6 +9,15 @@ tags: ["дневник", "тетрадь"]
 categories: ["Воспоминания"]
 people: ["Кривошеина Татьяна Тимофеевна"]
 ShowToc: true
+source_title: "Наша родословная. Самсоновы"
+source_pages_original: "011-014"
+transcription_status: "first_pass"
+translation_status: "synchronized"
+editorial_status: "working"
+last_verified: "2026-08-01"
+uncertainty_count: 14
+source_type: "manuscript"
+privacy_reviewed: true
 ---
 
 *Текст по рукописной тетради Татьяны Тимофеевны «Наша родословная: Самсоновы». Голос — от первого лица. `[?]` — неразборчивые места. Страницы скана указаны в комментариях.*

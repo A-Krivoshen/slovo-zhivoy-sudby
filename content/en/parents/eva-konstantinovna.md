@@ -13,6 +13,7 @@ cover:
   image: "/photos/eva-konstantinovna/eva-portrait.jpg"
   alt: "Eva Konstantinovna Samsonova (née Morozova) — portrait from her daughter’s notebook"
   relative: false
+  caption: "Eva Konstantinovna — portrait from the family archive."
 ---
 
 {{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Eva Konstantinovna. Caption on the print: “My mother.”." >}}

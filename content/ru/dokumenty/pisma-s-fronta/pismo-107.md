@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-107.jpg"
   relative: false
+  alt: "Письмо «Тимоша» родителям и Тане, 13.07.1944."
+  caption: "Письмо «Тимоша» родителям и Тане, 13.07.1944."
 source_pages: "107"
 ---
 

@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-089.jpg"
   relative: false
+  alt: "Вставка: письмо к сестре (края обрезаны)."
+  caption: "Вставка: письмо к сестре (края обрезаны)."
 source_pages: "089-090"
 ---
 

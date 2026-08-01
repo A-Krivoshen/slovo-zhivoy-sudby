@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-012.jpg"
   relative: false
+  alt: "Notebook page: childhood in Moscow."
+  caption: "Notebook page: childhood in Moscow."
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "012-013,033-040,048-050"
 transcription_status: "first_pass"

@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-104.jpg"
   relative: false
+  alt: "Письмо с фронта, 28.07.1944 (подпись «Дмитрий», повреждённый лист)."
+  caption: "Письмо с фронта, 28.07.1944 (подпись «Дмитрий», повреждённый лист)."
 source_pages: "104"
 ---
 

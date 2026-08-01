@@ -15,6 +15,7 @@ cover:
   image: "/photos/archive-b02/b02-mp013-ph03.jpg"
   alt: "The Samsonov family, November 1925"
   relative: false
+  caption: "Family photo album (continuation). Family archive scan."
 ---
 
 Photographs pasted into the continuation of the notebook “Our genealogy: the Samsonovs.” Where a separate print could be cut out, we show that image; a full page scan is used only when the crop is not ready yet.

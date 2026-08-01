@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg"
   relative: false
+  alt: "Удостоверение «Кольт», 1919."
+  caption: "Удостоверение «Кольт», 1919."
 source_title: "Наша родословная. Самсоновы"
 source_pages_original: "072-079"
 transcription_status: "first_pass"

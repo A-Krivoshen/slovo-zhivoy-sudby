@@ -14,6 +14,7 @@ cover:
   image: "/photos/eva-konstantinovna/eva-portrait.jpg"
   alt: "Eva Konstantinovna — portrait from the daughter’s notebook"
   relative: false
+  caption: "Eva Konstantinovna — portrait from the family archive."
 ---
 
 # Eva Konstantinovna Samsonova

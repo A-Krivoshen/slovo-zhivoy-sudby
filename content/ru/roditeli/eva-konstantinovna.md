@@ -13,6 +13,7 @@ cover:
   image: "/photos/eva-konstantinovna/eva-portrait.jpg"
   alt: "Ева Константиновна Самсонова (Морозова) — портрет из тетради дочери"
   relative: false
+  caption: "Ева Константиновна — портрет из семейного архива."
 ---
 
 {{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Ева Константиновна. Подпись на снимке в тетради: «Моя мама»." >}}

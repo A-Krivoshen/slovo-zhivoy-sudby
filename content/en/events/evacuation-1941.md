@@ -39,7 +39,7 @@ ShowToc: true
 
 ## Photographs
 
-{{< figure src="/photos/dnevnik-tt/str-015.jpg" caption="Страница тетради о войне 1941 (семейный скан)." >}}
+{{< figure src="/photos/dnevnik-tt/str-015.jpg" caption="Notebook page on the war of 1941 — evacuation (family scan)." >}}
 
 ## Sources
 

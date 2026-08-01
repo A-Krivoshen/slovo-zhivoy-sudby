@@ -41,7 +41,7 @@ ShowToc: true
 
 ## Фото
 
-{{< figure src="/photos/dnevnik-tt/str-015.jpg" caption="Страница тетради о войне 1941 (семейный скан)." >}}
+{{< figure src="/photos/dnevnik-tt/str-015.jpg" caption="Тетрадь: рассказ о войне 1941 года — эвакуация (семейный скан)." >}}
 
 ## Источники
 

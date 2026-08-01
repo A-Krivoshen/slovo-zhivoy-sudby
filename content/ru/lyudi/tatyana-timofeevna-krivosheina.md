@@ -15,6 +15,7 @@ cover:
   image: "/photos/tatyana-tt/2019-home-last-year.jpg"
   alt: "Татьяна Тимофеевна дома, 2019"
   relative: false
+  caption: "Кривошеина Татьяна Тимофеевна. Семейный архив."
 ---
 
 ## Краткая справка

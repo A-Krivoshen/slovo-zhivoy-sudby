@@ -12,6 +12,8 @@ ShowToc: true
 cover:
   image: "/photos/samsonov-tp/11-expulsion-uk-1917.jpg"
   relative: false
+  alt: "Документ о высылке из Великобритании, 1917."
+  caption: "Документ о высылке из Великобритании, 1917."
 ---
 
 {{< figure src="/photos/samsonov-tp/11-expulsion-uk-1917.jpg" caption="Expulsion Order. Семейный архив." >}}

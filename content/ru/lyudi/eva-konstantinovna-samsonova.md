@@ -15,6 +15,7 @@ cover:
   image: "/photos/eva-konstantinovna/eva-portrait.jpg"
   alt: "Ева Константиновна — портрет из тетради"
   relative: false
+  caption: "Ева Константиновна — портрет из семейного архива."
 ---
 
 ## Краткая справка

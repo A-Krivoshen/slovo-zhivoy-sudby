@@ -12,6 +12,8 @@ ShowToc: true
 cover:
   image: "/photos/samsonov-tp/05-studio-moscow-oval.jpg"
   relative: false
+  alt: "Timofey Petrovich Samsonov — studio portrait."
+  caption: "Timofey Petrovich Samsonov — studio portrait."
 ---
 
 ## Father — Timofey Petrovich Samsonov (1888–1955)

@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-133.jpg"
   relative: false
+  alt: "Letter from Gennady, 29 Nov 1943."
+  caption: "Letter from Gennady, 29 Nov 1943."
 source_pages: "133"
 ---
 

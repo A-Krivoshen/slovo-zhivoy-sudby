@@ -13,6 +13,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-001.jpg"
   relative: false
+  alt: "Cover of the notebook “Our genealogy: the Samsonovs”."
+  caption: "Cover of the notebook “Our genealogy: the Samsonovs”."
 ---
 
 {{< figure src="/photos/dnevnik-tt/str-001.jpg" caption="Cover: “Our genealogy: the Samsonovs.”." >}}

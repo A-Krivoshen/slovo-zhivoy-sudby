@@ -14,6 +14,7 @@ cover:
   image: "/photos/samsonov-tp/05-studio-moscow-oval.jpg"
   alt: "Timofey Petrovich Samsonov — young studio portrait"
   relative: false
+  caption: "Timofey Petrovich Samsonov — studio portrait."
 ---
 
 # Timofey Petrovich Samsonov

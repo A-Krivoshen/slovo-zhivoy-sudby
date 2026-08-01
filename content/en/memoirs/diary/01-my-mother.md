@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/eva-konstantinovna/eva-portrait.jpg"
   relative: false
+  alt: "Eva Konstantinovna — portrait from the family archive."
+  caption: "Eva Konstantinovna — portrait from the family archive."
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "007-010"
 transcription_status: "first_pass"

@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-012.jpg"
   relative: false
+  alt: "Страница тетради: детство в Москве."
+  caption: "Страница тетради: детство в Москве."
 source_title: "Наша родословная. Самсоновы"
 source_pages_original: "012-013,033-040,048-050"
 transcription_status: "first_pass"

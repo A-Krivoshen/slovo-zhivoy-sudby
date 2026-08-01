@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-128.jpg"
   relative: false
+  alt: "Letter from Misha Friolenko to Tanya, 20 Apr 1943 (page 1)."
+  caption: "Letter from Misha Friolenko to Tanya, 20 Apr 1943 (page 1)."
 source_pages: "128-129"
 ---
 

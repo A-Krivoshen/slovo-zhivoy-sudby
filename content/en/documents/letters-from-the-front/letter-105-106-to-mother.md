@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-105.jpg"
   relative: false
+  alt: "Letter from Timosha to mother, 14 June 1943."
+  caption: "Letter from Timosha to mother, 14 June 1943."
 source_pages: "105-106"
 ---
 

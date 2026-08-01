@@ -19,6 +19,7 @@ cover:
   alt: "Tatyana Timofeevna at home, 2019"
   relative: false
   hidden: false
+  caption: "About Tatyana Timofeevna. Family archive scan."
 ---
 
 ## Central figure of the archive

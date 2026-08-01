@@ -17,6 +17,7 @@ cover:
   image: "/photos/archive-b02/b02-mp013-ph01.jpg"
   alt: "Zhenya and Tyoma Samsonov as children in sailor suits"
   relative: false
+  caption: "Evgenia (Genya) Timofeevna Samsonova. Family archive scan."
 ---
 ## Photographs
 

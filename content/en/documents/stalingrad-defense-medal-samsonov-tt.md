@@ -13,6 +13,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-108.jpg"
   relative: false
+  alt: "Certificate for the medal “For the Defence of Stalingrad” — T. T. Samsonov."
+  caption: "Certificate for the medal “For the Defence of Stalingrad” — T. T. Samsonov."
 ---
 
 {{< figure src="/photos/dnevnik-tt/str-108.jpg" caption="Certificate for the medal “For the Defence of Stalingrad.” Family archive (notebook, p. 108)." >}}

@@ -14,6 +14,7 @@ cover:
   image: "/photos/tatyana-tt/2019-home-last-year.jpg"
   alt: "Tatyana Timofeevna Krivosheina at home, 15 April 2019"
   relative: false
+  caption: "Tatyana Timofeevna at home, 2019. Family archive scan."
 ---
 
 Person page in the archive: [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/).  

@@ -15,6 +15,7 @@ cover:
   image: "/photos/samsonov-tp/05-studio-moscow-oval.jpg"
   alt: "Самсонов Тимофей Петрович — студийный портрет"
   relative: false
+  caption: "Самсонов Тимофей Петрович — студийный портрет."
 ---
 
 ## Краткая справка

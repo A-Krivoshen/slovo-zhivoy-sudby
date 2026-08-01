@@ -15,6 +15,7 @@ cover:
   image: "/photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg"
   alt: "Дзержинский, Беленький и Самсонов Т. П."
   relative: false
+  caption: "Фотоальбом: Самсонов Т. П.. Семейный архив."
 ---
 
 Страница человека в архиве: [Самсонов Тимофей Петрович](/lyudi/timofey-petrovich-samsonov/).  

@@ -13,6 +13,7 @@ cover:
   image: "/photos/krivoshein-da/dmitry-portrait.jpg"
   alt: "Dmitry Aleksandrovich Krivoshein"
   relative: false
+  caption: "Dmitry Aleksandrovich Krivoshein. Family archive scan."
 ---
 
 {{< figure src="/photos/krivoshein-da/dmitry-portrait.jpg" caption="Dmitry Aleksandrovich Krivoshein. Photo: [Wikipedia / Wikimedia Commons](https://ru.wikipedia.org/wiki/Файл:Кривошеин_Дмитрий_Александрович.jpg)." >}}

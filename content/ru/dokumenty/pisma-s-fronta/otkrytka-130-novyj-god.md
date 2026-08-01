@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-130.jpg"
   relative: false
+  alt: "Новогодняя открытка к Тане."
+  caption: "Новогодняя открытка к Тане."
 source_pages: "130"
 ---
 

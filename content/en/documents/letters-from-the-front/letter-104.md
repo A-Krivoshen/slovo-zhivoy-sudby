@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-104.jpg"
   relative: false
+  alt: "Front letter, 28 July 1944 (signed “Dmitry”, damaged)."
+  caption: "Front letter, 28 July 1944 (signed “Dmitry”, damaged)."
 source_pages: "104"
 ---
 

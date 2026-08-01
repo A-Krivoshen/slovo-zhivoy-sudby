@@ -12,6 +12,8 @@ ShowToc: true
 cover:
   image: "/photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg"
   relative: false
+  alt: "Pravda on Dzerzhinsky, 1929."
+  caption: "Pravda on Dzerzhinsky, 1929."
 ---
 
 {{< figure src="/photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg" caption="*Pravda*, 20 July 1929 — date from the handwritten album note." >}}

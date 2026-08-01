@@ -12,6 +12,8 @@ ShowToc: true
 cover:
   image: "/photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg"
   relative: false
+  alt: "Удостоверение «Кольт», 1919."
+  caption: "Удостоверение «Кольт», 1919."
 ---
 
 {{< figure src="/photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg" caption="Удостоверение от 16 января 1919 г." >}}

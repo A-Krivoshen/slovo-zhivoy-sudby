@@ -12,6 +12,8 @@ ShowToc: true
 cover:
   image: "/photos/samsonov-tp/05-studio-moscow-oval.jpg"
   relative: false
+  alt: "Самсонов Тимофей Петрович — студийный портрет."
+  caption: "Самсонов Тимофей Петрович — студийный портрет."
 ---
 
 ## Отец — Самсонов Тимофей Петрович (1888–1955)

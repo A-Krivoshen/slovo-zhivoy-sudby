@@ -13,6 +13,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-001.jpg"
   relative: false
+  alt: "Обложка тетради «Наша родословная: Самсоновы»."
+  caption: "Обложка тетради «Наша родословная: Самсоновы»."
 ---
 
 {{< figure src="/photos/dnevnik-tt/str-001.jpg" caption="Обложка: «Наша родословная: Самсоновы»." >}}

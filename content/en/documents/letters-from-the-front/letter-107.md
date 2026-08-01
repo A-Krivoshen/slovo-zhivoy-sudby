@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-107.jpg"
   relative: false
+  alt: "Letter from Timosha to parents and Tanya, 13 July 1944."
+  caption: "Letter from Timosha to parents and Tanya, 13 July 1944."
 source_pages: "107"
 ---
 

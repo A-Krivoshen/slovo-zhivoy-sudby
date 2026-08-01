@@ -12,6 +12,8 @@ ShowToc: true
 cover:
   image: "/photos/samsonov-tp/14-gpu-badge.jpg"
   relative: false
+  alt: "Знак ГПУ — Самсонов Т. П."
+  caption: "Знак ГПУ — Самсонов Т. П."
 ---
 
 {{< figure src="/photos/samsonov-tp/14-gpu-badge.jpg" caption="Бланк от Коллегии ГПУ." >}}

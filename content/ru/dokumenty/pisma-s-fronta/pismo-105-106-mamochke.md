@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-105.jpg"
   relative: false
+  alt: "Письмо «Тимоша» маме, 14.06.1943."
+  caption: "Письмо «Тимоша» маме, 14.06.1943."
 source_pages: "105-106"
 ---
 

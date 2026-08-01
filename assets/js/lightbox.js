@@ -30,12 +30,14 @@
   }
 
   function captionFor(img) {
+    var dc = img.getAttribute("data-caption");
+    if (dc && dc.trim()) return dc.trim();
     var fig = img.closest("figure");
     if (fig) {
       var cap = fig.querySelector("figcaption");
       if (cap) return cap.textContent.trim();
     }
-    return img.getAttribute("alt") || "";
+    return (img.getAttribute("alt") || "").trim();
   }
 
   function collectGallery(fromImg) {

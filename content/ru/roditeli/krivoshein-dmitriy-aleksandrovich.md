@@ -13,6 +13,7 @@ cover:
   image: "/photos/krivoshein-da/dmitry-portrait.jpg"
   alt: "Кривошеин Дмитрий Александрович"
   relative: false
+  caption: "Кривошеин Дмитрий Александрович. Семейный архив."
 ---
 
 {{< figure src="/photos/krivoshein-da/dmitry-portrait.jpg" caption="Дмитрий Александрович Кривошеин. Фото: [Википедия / Wikimedia Commons](https://ru.wikipedia.org/wiki/Файл:Кривошеин_Дмитрий_Александрович.jpg)." >}}

@@ -15,6 +15,7 @@ cover:
   image: "/photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg"
   alt: "Dzerzhinsky, Belenky and T. P. Samsonov"
   relative: false
+  caption: "Photo album: T. P. Samsonov. Family archive scan."
 ---
 
 Person page in the archive: [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/).  

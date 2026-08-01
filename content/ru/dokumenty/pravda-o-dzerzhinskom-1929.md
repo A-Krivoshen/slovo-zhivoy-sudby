@@ -12,6 +12,8 @@ ShowToc: true
 cover:
   image: "/photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg"
   relative: false
+  alt: "«Правда» о Дзержинском, 1929."
+  caption: "«Правда» о Дзержинском, 1929."
 ---
 
 {{< figure src="/photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg" caption="«Правда», 20 июля 1929 года — дата по рукописной альбомной помете." >}}

@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-128.jpg"
   relative: false
+  alt: "Письмо Миши Фриоленко к Тане, 20.04.1943 (1-я страница)."
+  caption: "Письмо Миши Фриоленко к Тане, 20.04.1943 (1-я страница)."
 source_pages: "128-129"
 ---
 

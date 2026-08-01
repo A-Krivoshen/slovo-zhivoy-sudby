@@ -14,6 +14,7 @@ cover:
   image: "/photos/tatyana-tt/2019-home-last-year.jpg"
   alt: "Кривошеина Татьяна Тимофеевна дома, 15 апреля 2019 года"
   relative: false
+  caption: "Татьяна Тимофеевна дома, 2019. Семейный архив."
 ---
 
 Страница человека в архиве: [Кривошеина Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/).  

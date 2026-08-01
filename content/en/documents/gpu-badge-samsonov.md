@@ -12,6 +12,8 @@ ShowToc: true
 cover:
   image: "/photos/samsonov-tp/14-gpu-badge.jpg"
   relative: false
+  alt: "GPU badge — T. P. Samsonov."
+  caption: "GPU badge — T. P. Samsonov."
 ---
 
 {{< figure src="/photos/samsonov-tp/14-gpu-badge.jpg" caption="GPU collegium form." >}}

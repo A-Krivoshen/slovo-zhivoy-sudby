@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-131.jpg"
   relative: false
+  alt: "Letter “Tanyusha!” — Gennady."
+  caption: "Letter “Tanyusha!” — Gennady."
 source_pages: "131"
 ---
 

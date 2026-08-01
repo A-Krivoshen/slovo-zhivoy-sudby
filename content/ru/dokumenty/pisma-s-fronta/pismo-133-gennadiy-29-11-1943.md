@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-133.jpg"
   relative: false
+  alt: "Письмо Геннадия, 29.11.1943."
+  caption: "Письмо Геннадия, 29.11.1943."
 source_pages: "133"
 ---
 

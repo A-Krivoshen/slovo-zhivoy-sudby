@@ -12,6 +12,8 @@ ShowToc: true
 cover:
   image: "/photos/samsonov-tp/10-order-red-banner.jpg"
   relative: false
+  alt: "Order of the Red Banner certificate — T. P. Samsonov."
+  caption: "Order of the Red Banner certificate — T. P. Samsonov."
 ---
 
 {{< figure src="/photos/samsonov-tp/10-order-red-banner.jpg" caption="Order of the Red Banner diploma. Family archive." >}}

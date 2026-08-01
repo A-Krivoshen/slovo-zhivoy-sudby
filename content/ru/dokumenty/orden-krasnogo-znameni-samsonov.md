@@ -12,6 +12,8 @@ ShowToc: true
 cover:
   image: "/photos/samsonov-tp/10-order-red-banner.jpg"
   relative: false
+  alt: "Грамота ордена Красного Знамени — Самсонов Т. П."
+  caption: "Грамота ордена Красного Знамени — Самсонов Т. П."
 ---
 
 {{< figure src="/photos/samsonov-tp/10-order-red-banner.jpg" caption="Грамота ордена «Красное Знамя». Семейный архив." >}}

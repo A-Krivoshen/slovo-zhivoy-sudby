@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-131.jpg"
   relative: false
+  alt: "Письмо «Танюша!» — Геннадий."
+  caption: "Письмо «Танюша!» — Геннадий."
 source_pages: "131"
 ---
 

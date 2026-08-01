@@ -14,6 +14,8 @@ ShowToc: true
 cover:
   image: "/photos/dnevnik-tt/str-132.jpg"
   relative: false
+  alt: "Письмо Геннадия из госпиталя, 18.11.1943."
+  caption: "Письмо Геннадия из госпиталя, 18.11.1943."
 source_pages: "132"
 ---
 

@@ -14,6 +14,7 @@ cover:
   alt: "Timofey Petrovich Samsonov — young studio portrait, Moscow"
   relative: false
   hidden: false
+  caption: "Timofey Petrovich Samsonov — studio portrait."
 ---
 
 **Timofey Petrovich Samsonov** (1888–1955) is the father of **Tatyana Timofeevna Krivosheina**.  

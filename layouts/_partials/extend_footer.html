@@ -1,3 +1,9 @@
+{{- /* Site-wide photo lightbox (all content images) */ -}}
+{{- with resources.Get "js/lightbox.js" }}
+  {{- $lb := . | minify | fingerprint }}
+  <script defer src="{{ $lb.RelPermalink }}" integrity="{{ $lb.Data.Integrity }}" crossorigin="anonymous"></script>
+{{- end }}
+
 {{- /* Yandex.RTB floor ads — production only; loader is in extend_head */ -}}
 {{- if hugo.IsProduction }}
 <!-- Yandex.RTB R-A-19686092-2 -->

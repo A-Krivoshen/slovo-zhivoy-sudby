@@ -12,7 +12,7 @@ translationKey: "home"
       Жизнь <strong>Кривошеиной Татьяны Тимофеевны</strong> —
       её дневник, родители Самсоновы, Москва и память рода.
     </p>
-    <p class="home-hero-meta">Семейный архив · рукопись «Наша родословная: Самсоновы»</p>
+    <p class="home-hero-meta">1926–2021 · рукопись «Наша родословная: Самсоновы»</p>
   </div>
   <figure class="home-hero-photo">
     <img src="/photos/tatyana-tt/2019-home-last-year.jpg" alt="Татьяна Тимофеевна дома, 2019" width="400" height="711" loading="eager">

@@ -1,35 +1,92 @@
-# Unresolved factual conflicts for the public family archive.
-# Do not resolve by guesswork. Public wording must state uncertainty.
+# Factual conflicts and resolved items for the public family archive.
+# Do not invent missing details. Keep diplomatic manuscript readings unchanged.
 
+# ---------------------------------------------------------------------------
+# A. Year of birth — RESOLVED
+# ---------------------------------------------------------------------------
 - id: tatyana-birth-year
   person: Кривошеина Татьяна Тимофеевна
   person_en: Tatyana Timofeevna Krivosheina
+  status: resolved
+  resolved_value: "1926"
+  resolved_date: "2026-08-01"
   variants:
-    - value: "1924 (April)"
-      source: family knowledge / previous biographical page o-tatyane-timofeevne
-      confidence: family_memory
-    - value: "21/IV–1926"
+    - value: "1926"
+      source: memorial plaque on burial place (family photo, 02.09.1926 — 24.09.2021)
+      confidence: high
+      role: confirming
+    - value: "1926 (21/IV–1926 on chart)"
       source: manuscript “Наша родословная. Самсоновы”, original_page 003 (genealogical chart)
-      confidence: manuscript_chart
-    - value: "lived to 95 years"
-      source: family summary on homepage and about page
-      confidence: family_memory
-      note: Age alone must not be used to pick a birth year.
-  status: unresolved
+      confidence: high
+      role: confirming_year
+    - value: "1924 (April)"
+      source: earlier family memory / previous biographical page wording
+      confidence: superseded
+      role: former_unconfirmed
+      note: Not treated as equal to established sources after plaque evidence.
   public_wording_ru: >
-    В источниках встречаются разные сведения о годе рождения
-    (в т.ч. апрель 1924 в семейной памяти и 21/IV–1926 в родословной схеме
-    рукописи, original_page 003). Требуется документальное уточнение.
+    Год рождения — 1926 (подтверждён памятной табличкой на месте захоронения
+    и согласуется с родословной схемой рукописи, original_page 003).
+    Семейное воспоминание об апреле 1924 года — прежняя неподтверждённая запись.
   public_wording_en: >
-    Sources disagree on the year of birth (including April 1924 in family
-    memory and 21/IV–1926 on the manuscript genealogical chart,
-    original_page 003). Documentary confirmation is required.
+    Year of birth: 1926 (confirmed by the memorial plaque at the burial place
+    and consistent with the manuscript chart, original_page 003).
+    The earlier family recollection of April 1924 is a former unconfirmed note.
   rules:
-    - Do not state 1924 as settled fact.
-    - Do not state 1926 as settled fact outside diplomatic transcription of page 003.
-    - Do not compute the year from age alone.
-    - Keep diplomatic transcription of original_page 003 unchanged as manuscript text.
+    - Year 1926 may be stated as established on public pages.
+    - Do not revive 1924 as an equal competing “established” year.
+    - Keep diplomatic transcription of original_page 003 unchanged.
 
+# ---------------------------------------------------------------------------
+# B. Exact date of birth (day/month) — UNRESOLVED
+# ---------------------------------------------------------------------------
+- id: tatyana-birth-day-month
+  person: Кривошеина Татьяна Тимофеевна
+  person_en: Tatyana Timofeevna Krivosheina
+  status: unresolved
+  variants:
+    - value: "02.09.1926"
+      source: memorial plaque on burial place (family photo)
+      confidence: high_for_plaque_text
+    - value: "21/IV–1926"
+      source: manuscript genealogical chart, original_page 003
+      confidence: high_for_manuscript_reading
+  related_context:
+    - value: "September 1926"
+      source: manuscript narrative original_page 011–012 area (chapter 02: «в 1926, в сентябре родилась дочь Татьяна»)
+      note: Supports the month September in the memoir text; does not replace a civil registry check.
+  public_wording_ru: >
+    Год рождения — 1926. На памятной табличке указано 2 сентября 1926 года;
+    в родословной схеме рукописи — 21 апреля 1926 года. Точная дата требует
+    сверки с официальным документом.
+  public_wording_en: >
+    Year of birth: 1926. The memorial plaque gives 2 September 1926, while the
+    manuscript genealogical chart gives 21 April 1926. The exact date requires
+    confirmation from an official record.
+  rules:
+    - Do not auto-pick day/month between plaque and chart.
+    - Do not alter the diplomatic line «21/IV–1926» on original_page 003.
+
+# ---------------------------------------------------------------------------
+# C. Date of death — ESTABLISHED from plaque
+# ---------------------------------------------------------------------------
+- id: tatyana-death-date
+  person: Кривошеина Татьяна Тимофеевна
+  person_en: Tatyana Timofeevna Krivosheina
+  status: resolved
+  resolved_value: "24.09.2021"
+  variants:
+    - value: "24.09.2021"
+      source: memorial plaque on burial place (family photo)
+      confidence: high
+  public_wording_ru: >
+    Дата смерти — 24 сентября 2021 года (по памятной табличке на месте захоронения).
+  public_wording_en: >
+    Date of death: 24 September 2021 (from the memorial plaque at the burial place).
+
+# ---------------------------------------------------------------------------
+# Other open items
+# ---------------------------------------------------------------------------
 - id: rest-home-name-051-vs-064
   person: null
   topic: Childhood rest-home name

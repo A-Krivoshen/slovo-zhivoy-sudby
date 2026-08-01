@@ -25,13 +25,15 @@
       role: former_unconfirmed
       note: Not treated as equal to established sources after plaque evidence.
   public_wording_ru: >
-    Год рождения — 1926 (подтверждён памятной табличкой на месте захоронения
-    и согласуется с родословной схемой рукописи, original_page 003).
-    Семейное воспоминание об апреле 1924 года — прежняя неподтверждённая запись.
+    Год рождения — 1926 (подтверждён двумя независимыми семейными источниками:
+    памятной табличкой на месте захоронения и родословной схемой рукописи,
+    original_page 003). Семейное воспоминание об апреле 1924 года — прежняя
+    неподтверждённая запись; в публичной биографии не используется.
   public_wording_en: >
-    Year of birth: 1926 (confirmed by the memorial plaque at the burial place
-    and consistent with the manuscript chart, original_page 003).
-    The earlier family recollection of April 1924 is a former unconfirmed note.
+    Year of birth: 1926 (confirmed by two independent family sources: the
+    memorial plaque at the burial place and the manuscript genealogical chart,
+    original_page 003). The earlier family recollection of April 1924 is a
+    former unconfirmed note and is not used in the public biography.
   rules:
     - Year 1926 may be stated as established on public pages.
     - Do not revive 1924 as an equal competing “established” year.

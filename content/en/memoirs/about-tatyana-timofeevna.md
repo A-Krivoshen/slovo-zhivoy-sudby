@@ -23,9 +23,9 @@ cover:
 
 ## Central figure of the archive
 
-This site is a **family archive** about **Tatyana Timofeevna Krivosheina** (**1926–2021**): her voice in the notebook, the Samsonov parents, the home, and the memory of the family.
+**Tatyana Timofeevna Krivosheina, 1926–2021. She died on 24 September 2021 at the age of 95.**
 
-She **lived 95 years**. She died on **24 September 2021**.
+This site is a **family archive** about her life: her voice in the notebook, the Samsonov parents, the home, and the memory of the family.
 
 {{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="Tatyana Timofeevna at home, 2019. An archival family photograph of later years: on the table — a magnifying glass, notebooks and books." >}}
 

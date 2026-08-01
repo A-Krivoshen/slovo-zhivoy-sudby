@@ -93,7 +93,8 @@ Additional leaf mapping:
 
 - Genealogy **original_page 004**: full DOB for living descendants (day/month/year).  
 - Phone notes on page 002 already redacted in image; text still says `[скрыто]/[redacted]` (mixed RU/EN).  
-- Photo caption 2019: medical detail about bandaged legs.  
+- Photo caption 2019: fixed 2026-08-01 — no “last year of life”; death 24.09.2021 from plaque.  
+ 
 - Age “95 years” implies a birth year — must not be used to settle conflict.  
 
 ## Workflow residue (pre-cleanup count)

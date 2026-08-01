@@ -1,35 +1,47 @@
 title: Unified archive photo index (B01 + B02 + existing public)
 generated: '2026-08-01'
-status: partial_inventory
-schema_note: Index may reference batch manifests for full crop metadata. Not every
-  auto candidate is listed — only public files + verified crops.
+status: partial_verified_crops
 batches:
   manuscript-b01:
-    pdf: nasha_rodoslovnaya_samsonovy_corrected.pdf
-    sha256: 99d859f158eaece09502b25e0082a9d8ca1294441312fb6978b64fac311a75c9
-    pages: 78
+    verified_prints: 12
+    web_published: 12
     auto_candidates: 199
-    pages_with_candidates: 41
-    visually_verified_prints: 1
+    visual_pages_with_prints_approx: c-002,022,030,031,033,039,071-078 (partial)
     manifest: data/archive_photos/batch-b01.yaml
   manuscript-b02:
-    pdf: samsonovy_new_scans_2026-08-01_corrected.pdf
-    sha256: 66f69122cc6e0adac3083fb1c3b2833db8a85c9d5952c692f125188f114d424d
-    pages: 82
+    verified_prints: 36
+    web_published: 20
+    withheld_privacy: 11
+    pages_with_photos_visual:
+    - 1
+    - 2
+    - 5
+    - 7
+    - 13
+    - 14
+    - 22
+    - 23
+    - 38
+    - 67
+    - 68
+    - 69
+    - 72
+    - 74
+    - 75
+    - 76
+    - 78
+    - 80
+    - 82
     auto_candidates: 168
-    pages_with_candidates: 52
-    visually_verified_prints: 7
     manifest: data/archive_photos/batch-2026-08-01-b02.yaml
     original_page_080_161: PRELIMINARY
 totals:
-  index_entries: 126
-  public_static_files_catalogued: 123
-  auto_candidates_b01: 199
-  auto_candidates_b02: 168
-  verified_print_crops: 8
-  duplicate_groups_confirmed: 3
+  index_entries: 166
+  verified_print_crops_b01_b02: 48
+  web_print_urls_new: 32
+  withheld_privacy: 11
   urls_replaced: 0
-  urls_kept_stable: all preexisting public paths
+  duplicate_groups_confirmed: 3
 duplicate_groups:
 - duplicate_group: dzerzhinsky-trio-winter
   status: visually_confirmed_related
@@ -86,3427 +98,2114 @@ photos:
 - photo_id: pub-photos__archive-b02__b02-mp001-ph01
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
-  source_pdf: null
   original_page: 80
-  corrected_page: null
   merged_page: 1
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/archive-b02/b02-mp001-ph01.jpg
   object_type: print_crop
   master_source: static/photos/archive-b02/b02-mp001-ph01.jpg
-  alternate_sources: []
-  duplicate_group: dzerzhinsky-trio-winter
+  canonical_public_path: /photos/archive-b02/b02-mp001-ph01.jpg
   existing_public_paths:
   - /photos/archive-b02/b02-mp001-ph01.jpg
-  canonical_public_path: /photos/archive-b02/b02-mp001-ph01.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
+  review_status: published_preexisting
   privacy_status: unknown
-  review_status: visually_verified
-  provenance_confidence: high
-  notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
 - photo_id: pub-photos__archive-b02__b02-mp001-ph02
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
-  source_pdf: null
   original_page: 80
-  corrected_page: null
   merged_page: 1
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/archive-b02/b02-mp001-ph02.jpg
   object_type: print_crop
   master_source: static/photos/archive-b02/b02-mp001-ph02.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/archive-b02/b02-mp001-ph02.jpg
   existing_public_paths:
   - /photos/archive-b02/b02-mp001-ph02.jpg
-  canonical_public_path: /photos/archive-b02/b02-mp001-ph02.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
+  review_status: published_preexisting
   privacy_status: unknown
-  review_status: visually_verified
-  provenance_confidence: high
-  notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
 - photo_id: pub-photos__archive-b02__b02-mp002-ph01
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
-  source_pdf: null
   original_page: 81
-  corrected_page: null
   merged_page: 2
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/archive-b02/b02-mp002-ph01.jpg
   object_type: print_crop
   master_source: static/photos/archive-b02/b02-mp002-ph01.jpg
-  alternate_sources: []
-  duplicate_group: alexandrovsky-central-1910
+  canonical_public_path: /photos/archive-b02/b02-mp002-ph01.jpg
   existing_public_paths:
   - /photos/archive-b02/b02-mp002-ph01.jpg
-  canonical_public_path: /photos/archive-b02/b02-mp002-ph01.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
+  review_status: published_preexisting
   privacy_status: unknown
-  review_status: visually_verified
-  provenance_confidence: high
-  notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
 - photo_id: pub-photos__archive-b02__b02-mp007-ph01
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
-  source_pdf: null
   original_page: 86
-  corrected_page: null
   merged_page: 7
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/archive-b02/b02-mp007-ph01.jpg
   object_type: print_crop
   master_source: static/photos/archive-b02/b02-mp007-ph01.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/archive-b02/b02-mp007-ph01.jpg
   existing_public_paths:
   - /photos/archive-b02/b02-mp007-ph01.jpg
-  canonical_public_path: /photos/archive-b02/b02-mp007-ph01.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
+  review_status: published_preexisting
   privacy_status: unknown
-  review_status: visually_verified
-  provenance_confidence: high
-  notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
 - photo_id: pub-photos__archive-b02__b02-mp007-ph02
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
-  source_pdf: null
   original_page: 86
-  corrected_page: null
   merged_page: 7
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/archive-b02/b02-mp007-ph02.jpg
   object_type: print_crop
   master_source: static/photos/archive-b02/b02-mp007-ph02.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/archive-b02/b02-mp007-ph02.jpg
   existing_public_paths:
   - /photos/archive-b02/b02-mp007-ph02.jpg
-  canonical_public_path: /photos/archive-b02/b02-mp007-ph02.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
+  review_status: published_preexisting
   privacy_status: unknown
-  review_status: visually_verified
-  provenance_confidence: high
-  notes: Verified crop from B02 extraction pipeline; see batch-2026-08-01-b02.yaml
 - photo_id: pub-photos__dnevnik-tt__str-001
   source_batch: manuscript-b01
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 1
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-001.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-001.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-001.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-001.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-001.jpg
-  ru_pages:
-  - content/en/memoirs/diary/about-the-notebook.md
-  - content/en/memoirs/diary/about-the-notebook.md
-  - content/ru/vospominaniya/dnevnik/o-tetradi.md
-  - content/ru/vospominaniya/dnevnik/o-tetradi.md
-  en_pages:
-  - content/en/memoirs/diary/about-the-notebook.md
-  - content/en/memoirs/diary/about-the-notebook.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Published diary page scan; canonical original_page numbering. Not a single-print
-    crop.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-002
   source_batch: manuscript-b01
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 2
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-002.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-002.jpg
-  alternate_sources: []
-  duplicate_group: eva-portrait-polka-dots
+  canonical_public_path: /photos/dnevnik-tt/str-002.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-002.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-002.jpg
-  ru_pages:
-  - content/en/parents/eva-konstantinovna.md
-  - content/ru/roditeli/eva-konstantinovna.md
-  en_pages:
-  - content/en/parents/eva-konstantinovna.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Published diary page scan; canonical original_page numbering. Not a single-print
-    crop.
+  privacy_status: unknown
+  duplicate_group: eva-portrait-polka-dots
 - photo_id: pub-photos__dnevnik-tt__str-003
   source_batch: manuscript-b01
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 3
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-003.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-003.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-003.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-003.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-003.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Published diary page scan; canonical original_page numbering. Not a single-print
-    crop.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-007
   source_batch: manuscript-b01
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 7
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-007.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-007.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-007.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-007.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-007.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Published diary page scan; canonical original_page numbering. Not a single-print
-    crop.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-009
   source_batch: manuscript-b01
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 9
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-009.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-009.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-009.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-009.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-009.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Published diary page scan; canonical original_page numbering. Not a single-print
-    crop.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-010
   source_batch: manuscript-b01
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 10
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-010.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-010.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-010.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-010.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-010.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Published diary page scan; canonical original_page numbering. Not a single-print
-    crop.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-012
   source_batch: manuscript-b01
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 12
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-012.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-012.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-012.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-012.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-012.jpg
-  ru_pages:
-  - content/en/memoirs/diary/03-childhood-moscow.md
-  - content/ru/vospominaniya/dnevnik/03-detstvo-moskva.md
-  en_pages:
-  - content/en/memoirs/diary/03-childhood-moscow.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Published diary page scan; canonical original_page numbering. Not a single-print
-    crop.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-015
   source_batch: manuscript-b01
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 15
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-015.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-015.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-015.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-015.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-015.jpg
-  ru_pages:
-  - content/en/memoirs/diary/04-war-1941.md
-  - content/en/memoirs/diary/04-war-1941.md
-  - content/ru/vospominaniya/dnevnik/04-voyna-1941.md
-  - content/ru/vospominaniya/dnevnik/04-voyna-1941.md
-  en_pages:
-  - content/en/memoirs/diary/04-war-1941.md
-  - content/en/memoirs/diary/04-war-1941.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Published diary page scan; canonical original_page numbering. Not a single-print
-    crop.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-022
   source_batch: manuscript-b01
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 22
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-022.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-022.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-022.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-022.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-022.jpg
-  ru_pages:
-  - content/en/memoirs/diary/04-war-1941.md
-  - content/ru/vospominaniya/dnevnik/04-voyna-1941.md
-  en_pages:
-  - content/en/memoirs/diary/04-war-1941.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Published diary page scan; canonical original_page numbering. Not a single-print
-    crop.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-023
   source_batch: manuscript-b01
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 23
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-023.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-023.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-023.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-023.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-023.jpg
-  ru_pages:
-  - content/en/memoirs/diary/04-war-1941.md
-  - content/ru/vospominaniya/dnevnik/04-voyna-1941.md
-  en_pages:
-  - content/en/memoirs/diary/04-war-1941.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Published diary page scan; canonical original_page numbering. Not a single-print
-    crop.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-024
   source_batch: manuscript-b01
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 24
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-024.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-024.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-024.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-024.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-024.jpg
-  ru_pages:
-  - content/en/memoirs/diary/04-war-1941.md
-  - content/ru/vospominaniya/dnevnik/04-voyna-1941.md
-  en_pages:
-  - content/en/memoirs/diary/04-war-1941.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Published diary page scan; canonical original_page numbering. Not a single-print
-    crop.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-080
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 80
-  corrected_page: null
   merged_page: 1
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-080.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-080.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-080.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-080.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-080.jpg
-  ru_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
-  en_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-081
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 81
-  corrected_page: null
   merged_page: 2
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-081.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-081.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-081.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-081.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-081.jpg
-  ru_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
-  en_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-082
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 82
-  corrected_page: null
   merged_page: 3
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-082.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-082.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-082.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-082.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-082.jpg
-  ru_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
-  en_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-083
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 83
-  corrected_page: null
   merged_page: 4
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-083.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-083.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-083.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-083.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-083.jpg
-  ru_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
-  en_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-084
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 84
-  corrected_page: null
   merged_page: 5
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-084.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-084.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-084.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-084.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-084.jpg
-  ru_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
-  en_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-085
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 85
-  corrected_page: null
   merged_page: 6
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-085.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-085.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-085.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-085.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-085.jpg
-  ru_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
-  en_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-086
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 86
-  corrected_page: null
   merged_page: 7
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-086.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-086.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-086.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-086.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-086.jpg
-  ru_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
-  en_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-087
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 87
-  corrected_page: null
   merged_page: 8
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-087.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-087.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-087.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-087.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-087.jpg
-  ru_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
-  en_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-088
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 88
-  corrected_page: null
   merged_page: 9
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-088.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-088.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-088.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-088.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-088.jpg
-  ru_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
-  en_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-089
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 89
-  corrected_page: null
   merged_page: 10
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-089.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-089.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-089.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-089.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-089.jpg
-  ru_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  - content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
-  en_pages:
-  - content/en/memoirs/diary/10-notebook-continued-080-089.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-090
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 90
-  corrected_page: null
   merged_page: 11
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-090.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-090.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-090.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-090.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-090.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-091
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 91
-  corrected_page: null
   merged_page: 12
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-091.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-091.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-091.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-091.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-091.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-092
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 92
-  corrected_page: null
   merged_page: 13
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-092.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-092.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-092.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-092.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-092.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-093
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 93
-  corrected_page: null
   merged_page: 14
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-093.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-093.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-093.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-093.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-093.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-094
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 94
-  corrected_page: null
   merged_page: 15
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-094.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-094.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-094.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-094.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-094.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-095
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 95
-  corrected_page: null
   merged_page: 16
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-095.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-095.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-095.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-095.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-095.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-096
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 96
-  corrected_page: null
   merged_page: 17
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-096.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-096.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-096.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-096.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-096.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-097
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 97
-  corrected_page: null
   merged_page: 18
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-097.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-097.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-097.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-097.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-097.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-098
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 98
-  corrected_page: null
   merged_page: 19
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-098.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-098.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-098.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-098.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-098.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-099
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 99
-  corrected_page: null
   merged_page: 20
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-099.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-099.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-099.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-099.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-099.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-100
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 100
-  corrected_page: null
   merged_page: 21
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-100.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-100.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-100.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-100.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-100.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-101
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 101
-  corrected_page: null
   merged_page: 22
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-101.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-101.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-101.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-101.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-101.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-102
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 102
-  corrected_page: null
   merged_page: 23
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-102.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-102.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-102.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-102.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-102.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-103
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 103
-  corrected_page: null
   merged_page: 24
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-103.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-103.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-103.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-103.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-103.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-104
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 104
-  corrected_page: null
   merged_page: 25
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-104.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-104.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-104.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-104.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-104.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-105
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 105
-  corrected_page: null
   merged_page: 26
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-105.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-105.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-105.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-105.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-105.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-106
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 106
-  corrected_page: null
   merged_page: 27
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-106.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-106.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-106.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-106.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-106.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-107
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 107
-  corrected_page: null
   merged_page: 28
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-107.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-107.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-107.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-107.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-107.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-108
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 108
-  corrected_page: null
   merged_page: 29
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-108.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-108.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-108.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-108.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-108.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-109
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 109
-  corrected_page: null
   merged_page: 30
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-109.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-109.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-109.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-109.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-109.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-110
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 110
-  corrected_page: null
   merged_page: 31
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-110.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-110.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-110.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-110.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-110.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-111
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 111
-  corrected_page: null
   merged_page: 32
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-111.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-111.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-111.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-111.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-111.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-112
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 112
-  corrected_page: null
   merged_page: 33
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-112.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-112.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-112.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-112.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-112.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-113
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 113
-  corrected_page: null
   merged_page: 34
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-113.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-113.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-113.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-113.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-113.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-114
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 114
-  corrected_page: null
   merged_page: 35
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-114.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-114.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-114.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-114.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-114.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-115
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 115
-  corrected_page: null
   merged_page: 36
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-115.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-115.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-115.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-115.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-115.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-116
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 116
-  corrected_page: null
   merged_page: 37
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-116.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-116.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-116.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-116.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-116.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-117
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 117
-  corrected_page: null
   merged_page: 38
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-117.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-117.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-117.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-117.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-117.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-118
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 118
-  corrected_page: null
   merged_page: 39
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-118.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-118.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-118.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-118.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-118.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-119
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 119
-  corrected_page: null
   merged_page: 40
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-119.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-119.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-119.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-119.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-119.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-120
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 120
-  corrected_page: null
   merged_page: 41
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-120.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-120.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-120.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-120.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-120.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-121
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 121
-  corrected_page: null
   merged_page: 42
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-121.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-121.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-121.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-121.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-121.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-122
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 122
-  corrected_page: null
   merged_page: 43
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-122.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-122.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-122.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-122.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-122.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-123
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 123
-  corrected_page: null
   merged_page: 44
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-123.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-123.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-123.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-123.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-123.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-124
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 124
-  corrected_page: null
   merged_page: 45
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-124.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-124.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-124.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-124.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-124.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-125
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 125
-  corrected_page: null
   merged_page: 46
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-125.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-125.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-125.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-125.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-125.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-126
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 126
-  corrected_page: null
   merged_page: 47
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-126.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-126.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-126.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-126.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-126.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-127
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 127
-  corrected_page: null
   merged_page: 48
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-127.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-127.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-127.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-127.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-127.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-128
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 128
-  corrected_page: null
   merged_page: 49
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-128.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-128.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-128.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-128.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-128.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-129
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 129
-  corrected_page: null
   merged_page: 50
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-129.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-129.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-129.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-129.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-129.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-130
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 130
-  corrected_page: null
   merged_page: 51
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-130.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-130.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-130.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-130.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-130.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-131
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 131
-  corrected_page: null
   merged_page: 52
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-131.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-131.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-131.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-131.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-131.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-132
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 132
-  corrected_page: null
   merged_page: 53
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-132.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-132.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-132.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-132.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-132.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-133
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 133
-  corrected_page: null
   merged_page: 54
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-133.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-133.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-133.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-133.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-133.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-134
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 134
-  corrected_page: null
   merged_page: 55
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-134.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-134.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-134.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-134.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-134.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-135
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 135
-  corrected_page: null
   merged_page: 56
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-135.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-135.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-135.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-135.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-135.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-136
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 136
-  corrected_page: null
   merged_page: 57
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-136.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-136.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-136.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-136.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-136.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-137
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 137
-  corrected_page: null
   merged_page: 58
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-137.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-137.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-137.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-137.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-137.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-138
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 138
-  corrected_page: null
   merged_page: 59
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-138.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-138.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-138.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-138.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-138.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-139
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 139
-  corrected_page: null
   merged_page: 60
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-139.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-139.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-139.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-139.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-139.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-140
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 140
-  corrected_page: null
   merged_page: 61
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-140.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-140.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-140.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-140.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-140.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-141
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 141
-  corrected_page: null
   merged_page: 62
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-141.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-141.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-141.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-141.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-141.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-142
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 142
-  corrected_page: null
   merged_page: 63
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-142.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-142.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-142.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-142.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-142.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-143
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 143
-  corrected_page: null
   merged_page: 64
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-143.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-143.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-143.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-143.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-143.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-144
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 144
-  corrected_page: null
   merged_page: 65
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-144.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-144.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-144.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-144.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-144.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-145
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 145
-  corrected_page: null
   merged_page: 66
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-145.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-145.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-145.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-145.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-145.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-146
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 146
-  corrected_page: null
   merged_page: 67
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-146.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-146.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-146.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-146.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-146.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-147
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 147
-  corrected_page: null
   merged_page: 68
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-147.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-147.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-147.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-147.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-147.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-148
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 148
-  corrected_page: null
   merged_page: 69
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-148.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-148.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-148.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-148.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-148.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-149
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 149
-  corrected_page: null
   merged_page: 70
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-149.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-149.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-149.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-149.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-149.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-150
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 150
-  corrected_page: null
   merged_page: 71
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-150.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-150.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-150.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-150.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-150.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-151
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 151
-  corrected_page: null
   merged_page: 72
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-151.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-151.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-151.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-151.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-151.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-152
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 152
-  corrected_page: null
   merged_page: 73
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-152.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-152.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-152.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-152.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-152.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-153
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 153
-  corrected_page: null
   merged_page: 74
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-153.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-153.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-153.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-153.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-153.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-154
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 154
-  corrected_page: null
   merged_page: 75
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-154.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-154.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-154.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-154.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-154.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-155
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 155
-  corrected_page: null
   merged_page: 76
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-155.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-155.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-155.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-155.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-155.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-156
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 156
-  corrected_page: null
   merged_page: 77
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-156.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-156.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-156.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-156.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-156.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-157
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 157
-  corrected_page: null
   merged_page: 78
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-157.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-157.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-157.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-157.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-157.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-158
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 158
-  corrected_page: null
   merged_page: 79
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-158.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-158.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-158.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-158.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-158.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-159
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 159
-  corrected_page: null
   merged_page: 80
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-159.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-159.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-159.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-159.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-159.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-160
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 160
-  corrected_page: null
   merged_page: 81
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-160.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-160.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-160.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-160.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-160.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__dnevnik-tt__str-161
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
-  source_pdf: null
   original_page: 161
-  corrected_page: null
   merged_page: 82
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/dnevnik-tt/str-161.jpg
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-161.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/dnevnik-tt/str-161.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-161.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-161.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction QA.
+  privacy_status: unknown
 - photo_id: pub-photos__eva-konstantinovna__eva-portrait
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/eva-konstantinovna/eva-portrait.jpg
   object_type: published_portrait
   master_source: static/photos/eva-konstantinovna/eva-portrait.jpg
-  alternate_sources: []
-  duplicate_group: eva-portrait-polka-dots
+  canonical_public_path: /photos/eva-konstantinovna/eva-portrait.jpg
   existing_public_paths:
   - /photos/eva-konstantinovna/eva-portrait.jpg
-  canonical_public_path: /photos/eva-konstantinovna/eva-portrait.jpg
-  ru_pages:
-  - content/en/parents/eva-konstantinovna.md
-  - content/en/parents/eva-konstantinovna.md
-  - content/en/memoirs/diary/01-my-mother.md
-  - content/en/memoirs/diary/01-my-mother.md
-  - content/ru/roditeli/eva-konstantinovna.md
-  - content/ru/roditeli/eva-konstantinovna.md
-  - content/ru/vospominaniya/dnevnik/01-moya-mama.md
-  - content/ru/vospominaniya/dnevnik/01-moya-mama.md
-  en_pages:
-  - content/en/parents/eva-konstantinovna.md
-  - content/en/parents/eva-konstantinovna.md
-  - content/en/memoirs/diary/01-my-mother.md
-  - content/en/memoirs/diary/01-my-mother.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Portrait page; may match notebook paste-in on op002 — verify visually, do
-    not assume.
+  privacy_status: unknown
+  duplicate_group: eva-portrait-polka-dots
 - photo_id: pub-photos__krivoshein-da__dmitry-portrait
   source_batch: null
   source_type: external-public-source
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/krivoshein-da/dmitry-portrait.jpg
   object_type: published_portrait
   master_source: static/photos/krivoshein-da/dmitry-portrait.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/krivoshein-da/dmitry-portrait.jpg
   existing_public_paths:
   - /photos/krivoshein-da/dmitry-portrait.jpg
-  canonical_public_path: /photos/krivoshein-da/dmitry-portrait.jpg
-  ru_pages:
-  - content/en/parents/dmitry-aleksandrovich-krivoshein.md
-  - content/en/parents/dmitry-aleksandrovich-krivoshein.md
-  - content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
-  - content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
-  en_pages:
-  - content/en/parents/dmitry-aleksandrovich-krivoshein.md
-  - content/en/parents/dmitry-aleksandrovich-krivoshein.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Wikipedia/Wikimedia Commons per content caption.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__01-cabinet-desk
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/01-cabinet-desk.jpg
   object_type: published_portrait_or_document
   master_source: static/photos/samsonov-tp/01-cabinet-desk.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/01-cabinet-desk.jpg
   existing_public_paths:
   - /photos/samsonov-tp/01-cabinet-desk.jpg
-  canonical_public_path: /photos/samsonov-tp/01-cabinet-desk.jpg
-  ru_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  en_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__02-young-cap
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/02-young-cap.jpg
   object_type: published_portrait_or_document
   master_source: static/photos/samsonov-tp/02-young-cap.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/02-young-cap.jpg
   existing_public_paths:
   - /photos/samsonov-tp/02-young-cap.jpg
-  canonical_public_path: /photos/samsonov-tp/02-young-cap.jpg
-  ru_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  en_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__03-late-years
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/03-late-years.jpg
   object_type: published_portrait_or_document
   master_source: static/photos/samsonov-tp/03-late-years.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/03-late-years.jpg
   existing_public_paths:
   - /photos/samsonov-tp/03-late-years.jpg
-  canonical_public_path: /photos/samsonov-tp/03-late-years.jpg
-  ru_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  en_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__04-official-bashkir
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/04-official-bashkir.jpg
   object_type: published_portrait_or_document
   master_source: static/photos/samsonov-tp/04-official-bashkir.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/04-official-bashkir.jpg
   existing_public_paths:
   - /photos/samsonov-tp/04-official-bashkir.jpg
-  canonical_public_path: /photos/samsonov-tp/04-official-bashkir.jpg
-  ru_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  en_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__05-studio-moscow-oval
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/05-studio-moscow-oval.jpg
   object_type: published_portrait_or_document
   master_source: static/photos/samsonov-tp/05-studio-moscow-oval.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/05-studio-moscow-oval.jpg
   existing_public_paths:
   - /photos/samsonov-tp/05-studio-moscow-oval.jpg
-  canonical_public_path: /photos/samsonov-tp/05-studio-moscow-oval.jpg
-  ru_pages:
-  - content/en/parents/father-and-mother.md
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/otets-i-mat.md
-  en_pages:
-  - content/en/parents/father-and-mother.md
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__06-dzerzhinsky-and-wife
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/06-dzerzhinsky-and-wife.jpg
   object_type: published_portrait_or_document
   master_source: static/photos/samsonov-tp/06-dzerzhinsky-and-wife.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/06-dzerzhinsky-and-wife.jpg
   existing_public_paths:
   - /photos/samsonov-tp/06-dzerzhinsky-and-wife.jpg
-  canonical_public_path: /photos/samsonov-tp/06-dzerzhinsky-and-wife.jpg
-  ru_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  en_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__07-bust-1888-1955
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/07-bust-1888-1955.jpg
   object_type: published_portrait_or_document
   master_source: static/photos/samsonov-tp/07-bust-1888-1955.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/07-bust-1888-1955.jpg
   existing_public_paths:
   - /photos/samsonov-tp/07-bust-1888-1955.jpg
-  canonical_public_path: /photos/samsonov-tp/07-bust-1888-1955.jpg
-  ru_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  en_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__08-dzerzhinsky-belenky-papa
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg
   object_type: published_portrait_or_document
   master_source: static/photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg
-  alternate_sources: []
-  duplicate_group: dzerzhinsky-trio-winter
+  canonical_public_path: /photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg
   existing_public_paths:
   - /photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg
-  canonical_public_path: /photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg
-  ru_pages:
-  - content/en/parents/father-and-mother.md
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/otets-i-mat.md
-  en_pages:
-  - content/en/parents/father-and-mother.md
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
-    Likely same print subject as some notebook photos (check duplicates).
+  privacy_status: unknown
+  duplicate_group: dzerzhinsky-trio-winter
 - photo_id: pub-photos__samsonov-tp__09-alexandrovsky-central-1910
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/09-alexandrovsky-central-1910.jpg
   object_type: published_portrait_or_document
   master_source: static/photos/samsonov-tp/09-alexandrovsky-central-1910.jpg
-  alternate_sources: []
-  duplicate_group: alexandrovsky-central-1910
+  canonical_public_path: /photos/samsonov-tp/09-alexandrovsky-central-1910.jpg
   existing_public_paths:
   - /photos/samsonov-tp/09-alexandrovsky-central-1910.jpg
-  canonical_public_path: /photos/samsonov-tp/09-alexandrovsky-central-1910.jpg
-  ru_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  en_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
-    Likely same print subject as some notebook photos (check duplicates).
+  privacy_status: unknown
+  duplicate_group: alexandrovsky-central-1910
 - photo_id: pub-photos__samsonov-tp__10-order-red-banner
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/10-order-red-banner.jpg
   object_type: document_scan
   master_source: static/photos/samsonov-tp/10-order-red-banner.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/10-order-red-banner.jpg
   existing_public_paths:
   - /photos/samsonov-tp/10-order-red-banner.jpg
-  canonical_public_path: /photos/samsonov-tp/10-order-red-banner.jpg
-  ru_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/en/documents/order-of-the-red-banner-samsonov.md
-  - content/en/documents/order-of-the-red-banner-samsonov.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/dokumenty/orden-krasnogo-znameni-samsonov.md
-  - content/ru/dokumenty/orden-krasnogo-znameni-samsonov.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  en_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/en/documents/order-of-the-red-banner-samsonov.md
-  - content/en/documents/order-of-the-red-banner-samsonov.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__11-expulsion-uk-1917
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/11-expulsion-uk-1917.jpg
   object_type: document_scan
   master_source: static/photos/samsonov-tp/11-expulsion-uk-1917.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/11-expulsion-uk-1917.jpg
   existing_public_paths:
   - /photos/samsonov-tp/11-expulsion-uk-1917.jpg
-  canonical_public_path: /photos/samsonov-tp/11-expulsion-uk-1917.jpg
-  ru_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/en/documents/expulsion-uk-1917.md
-  - content/en/documents/expulsion-uk-1917.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/dokumenty/vysylka-velikobritaniya-1917.md
-  - content/ru/dokumenty/vysylka-velikobritaniya-1917.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  en_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/en/documents/expulsion-uk-1917.md
-  - content/en/documents/expulsion-uk-1917.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__12-krivoshina-tt-lecturer
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg
   object_type: published_portrait_or_document
   master_source: static/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg
   existing_public_paths:
   - /photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg
-  canonical_public_path: /photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg
-  ru_pages:
-  - content/en/memoirs/about-tatyana-timofeevna.md
-  - content/en/parents/father-and-mother.md
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/ru/vospominaniya/o-tatyane-timofeevne.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  - content/ru/roditeli/otets-i-mat.md
-  en_pages:
-  - content/en/memoirs/about-tatyana-timofeevna.md
-  - content/en/parents/father-and-mother.md
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__13-colt-from-dzerzhinsky-1919
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg
   object_type: document_scan
   master_source: static/photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg
   existing_public_paths:
   - /photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg
-  canonical_public_path: /photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg
-  ru_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/en/documents/colt-certificate-1919.md
-  - content/en/documents/colt-certificate-1919.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/dokumenty/udostoverenie-kolt-1919.md
-  - content/ru/dokumenty/udostoverenie-kolt-1919.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  - content/ru/vospominaniya/dnevnik/09-dokumenty-v-tetradi.md
-  en_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/en/documents/colt-certificate-1919.md
-  - content/en/documents/colt-certificate-1919.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__14-gpu-badge
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/14-gpu-badge.jpg
   object_type: document_scan
   master_source: static/photos/samsonov-tp/14-gpu-badge.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/14-gpu-badge.jpg
   existing_public_paths:
   - /photos/samsonov-tp/14-gpu-badge.jpg
-  canonical_public_path: /photos/samsonov-tp/14-gpu-badge.jpg
-  ru_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/en/documents/gpu-badge-samsonov.md
-  - content/en/documents/gpu-badge-samsonov.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/dokumenty/znak-gpu-samsonov.md
-  - content/ru/dokumenty/znak-gpu-samsonov.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  en_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/en/documents/gpu-badge-samsonov.md
-  - content/en/documents/gpu-badge-samsonov.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__samsonov-tp__15-pravda-dzerzhinsky-1929
   source_batch: null
   source_type: separate-family-album
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg
   object_type: document_scan
   master_source: static/photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg
   existing_public_paths:
   - /photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg
-  canonical_public_path: /photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg
-  ru_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/en/documents/pravda-on-dzerzhinsky-1929.md
-  - content/en/documents/pravda-on-dzerzhinsky-1929.md
-  - content/ru/foto/samsonov-timofey-petrovich.md
-  - content/ru/dokumenty/pravda-o-dzerzhinskom-1929.md
-  - content/ru/dokumenty/pravda-o-dzerzhinskom-1929.md
-  - content/ru/roditeli/samsonov-timofey-petrovich.md
-  en_pages:
-  - content/en/parents/timofey-petrovich-samsonov.md
-  - content/en/photos/samsonov-timofey-petrovich.md
-  - content/en/documents/pravda-on-dzerzhinsky-1929.md
-  - content/en/documents/pravda-on-dzerzhinsky-1929.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: unknown
   review_status: published_preexisting
-  provenance_confidence: medium
-  notes: Published under samsonov-tp; content notes family album / Google Photos dedupe.
-    May also appear as print inside notebook B01/B02 — cross-check via pHash only
-    as hint, do not assign original_page without visual proof on manuscript page.
+  privacy_status: unknown
 - photo_id: pub-photos__tatyana-tt__2019-home-last-year
   source_batch: null
   source_type: user-photo
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/tatyana-tt/2019-home-last-year.jpg
   object_type: contemporary_family_photo
   master_source: static/photos/tatyana-tt/2019-home-last-year.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/tatyana-tt/2019-home-last-year.jpg
   existing_public_paths:
   - /photos/tatyana-tt/2019-home-last-year.jpg
-  canonical_public_path: /photos/tatyana-tt/2019-home-last-year.jpg
-  ru_pages:
-  - content/en/_index.md
-  - content/ru/_index.md
-  - content/en/memoirs/about-tatyana-timofeevna.md
-  - content/en/memoirs/about-tatyana-timofeevna.md
-  - content/en/photos/tatyana-timofeevna-2019.md
-  - content/en/photos/tatyana-timofeevna-2019.md
-  - content/ru/vospominaniya/o-tatyane-timofeevne.md
-  - content/ru/vospominaniya/o-tatyane-timofeevne.md
-  - content/ru/foto/tatyana-timofeevna-2019.md
-  - content/ru/foto/tatyana-timofeevna-2019.md
-  en_pages:
-  - content/en/_index.md
-  - content/en/memoirs/about-tatyana-timofeevna.md
-  - content/en/memoirs/about-tatyana-timofeevna.md
-  - content/en/photos/tatyana-timofeevna-2019.md
-  - content/en/photos/tatyana-timofeevna-2019.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: living_people_review
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Family photo 2019; not from manuscript PDF.
+  privacy_status: living_people_review
 - photo_id: pub-photos__tatyana-tt__grave-plaque-2021
   source_batch: null
   source_type: user-photo
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/tatyana-tt/grave-plaque-2021.jpg
   object_type: grave_plaque_photo
   master_source: static/photos/tatyana-tt/grave-plaque-2021.jpg
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/tatyana-tt/grave-plaque-2021.jpg
   existing_public_paths:
   - /photos/tatyana-tt/grave-plaque-2021.jpg
-  canonical_public_path: /photos/tatyana-tt/grave-plaque-2021.jpg
-  ru_pages:
-  - content/en/memoirs/about-tatyana-timofeevna.md
-  - content/ru/vospominaniya/o-tatyane-timofeevne.md
-  en_pages:
-  - content/en/memoirs/about-tatyana-timofeevna.md
-  caption_status: see_content
-  identity_status: unknown
-  privacy_status: living_people_review
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Grave plaque photo; not from manuscript PDF.
+  privacy_status: living_people_review
 - photo_id: pub-photos__tatyana-tt__grave-plaque-2021
   source_batch: null
   source_type: user-photo
-  source_pdf: null
   original_page: null
-  corrected_page: null
   merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - /photos/tatyana-tt/grave-plaque-2021.webp
   object_type: grave_plaque_photo
   master_source: static/photos/tatyana-tt/grave-plaque-2021.webp
-  alternate_sources: []
-  duplicate_group: null
+  canonical_public_path: /photos/tatyana-tt/grave-plaque-2021.webp
   existing_public_paths:
   - /photos/tatyana-tt/grave-plaque-2021.webp
-  canonical_public_path: /photos/tatyana-tt/grave-plaque-2021.webp
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: living_people_review
   review_status: published_preexisting
-  provenance_confidence: high
-  notes: Grave plaque photo; not from manuscript PDF.
+  privacy_status: living_people_review
 - photo_id: b01-c002-ph01
   source_batch: manuscript-b01
   source_type: manuscript_print_crop
-  source_pdf: inbox/scans/memoirs/_raw/nasha_rodoslovnaya_samsonovy_corrected.pdf
   original_page: 2
   corrected_page: 2
-  merged_page: null
-  physical_leaf_id: null
-  source_scan_ids:
-  - c-002
   object_type: portrait_photo
   master_source: inbox/scans/memoirs/batch_b01/crops/master/b01-c002-ph01-master.png
-  alternate_sources: &id001
+  canonical_public_path: /photos/archive-b01/b01-c002-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b01/b01-c002-ph01.jpg
   - /photos/eva-konstantinovna/eva-portrait.jpg
   - /photos/dnevnik-tt/str-002.jpg
-  duplicate_group: eva-portrait-polka-dots
-  existing_public_paths: *id001
-  canonical_public_path: /photos/eva-konstantinovna/eva-portrait.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: raw_present
-  identity_status: author_caption_confirmed
-  privacy_status: public_historical
   review_status: visually_verified
+  privacy_status: public_historical
   batch_manifest: data/archive_photos/batch-b01.yaml
-  new_web_path: /photos/archive-b01/b01-c002-ph01.jpg
+  duplicate_group: eva-portrait-polka-dots
+- photo_id: b01-c022-ph03
+  source_batch: manuscript-b01
+  source_type: manuscript_print_crop
+  original_page: 22
+  corrected_page: 22
+  object_type: archival_photo
+  master_source: inbox/scans/memoirs/batch_b01/crops/master/b01-c022-ph03-master.png
+  canonical_public_path: /photos/archive-b01/b01-c022-ph03.jpg
+  existing_public_paths:
+  - /photos/archive-b01/b01-c022-ph03.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-b01.yaml
+  duplicate_group: null
+- photo_id: b01-c022-ph04
+  source_batch: manuscript-b01
+  source_type: manuscript_print_crop
+  original_page: 22
+  corrected_page: 22
+  object_type: archival_photo
+  master_source: inbox/scans/memoirs/batch_b01/crops/master/b01-c022-ph04-master.png
+  canonical_public_path: /photos/archive-b01/b01-c022-ph04.jpg
+  existing_public_paths:
+  - /photos/archive-b01/b01-c022-ph04.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-b01.yaml
+  duplicate_group: null
+- photo_id: b01-c031-ph01
+  source_batch: manuscript-b01
+  source_type: manuscript_print_crop
+  original_page: 31
+  corrected_page: 31
+  object_type: archival_photo
+  master_source: inbox/scans/memoirs/batch_b01/crops/master/b01-c031-ph01-master.png
+  canonical_public_path: /photos/archive-b01/b01-c031-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b01/b01-c031-ph01.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-b01.yaml
+  duplicate_group: null
+- photo_id: b01-c033-ph03
+  source_batch: manuscript-b01
+  source_type: manuscript_print_crop
+  original_page: 33
+  corrected_page: 33
+  object_type: archival_photo
+  master_source: inbox/scans/memoirs/batch_b01/crops/master/b01-c033-ph03-master.png
+  canonical_public_path: /photos/archive-b01/b01-c033-ph03.jpg
+  existing_public_paths:
+  - /photos/archive-b01/b01-c033-ph03.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-b01.yaml
+  duplicate_group: null
+- photo_id: b01-c039-ph01
+  source_batch: manuscript-b01
+  source_type: manuscript_print_crop
+  original_page: 39
+  corrected_page: 39
+  object_type: archival_photo
+  master_source: inbox/scans/memoirs/batch_b01/crops/master/b01-c039-ph01-master.png
+  canonical_public_path: /photos/archive-b01/b01-c039-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b01/b01-c039-ph01.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-b01.yaml
+  duplicate_group: null
+- photo_id: b01-c039-ph02
+  source_batch: manuscript-b01
+  source_type: manuscript_print_crop
+  original_page: 39
+  corrected_page: 39
+  object_type: archival_photo
+  master_source: inbox/scans/memoirs/batch_b01/crops/master/b01-c039-ph02-master.png
+  canonical_public_path: /photos/archive-b01/b01-c039-ph02.jpg
+  existing_public_paths:
+  - /photos/archive-b01/b01-c039-ph02.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-b01.yaml
+  duplicate_group: null
+- photo_id: b01-c072-ph01
+  source_batch: manuscript-b01
+  source_type: manuscript_print_crop
+  original_page: 73
+  corrected_page: 72
+  object_type: archival_photo
+  master_source: inbox/scans/memoirs/batch_b01/crops/master/b01-c072-ph01-master.png
+  canonical_public_path: /photos/archive-b01/b01-c072-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b01/b01-c072-ph01.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-b01.yaml
+  duplicate_group: null
+- photo_id: b01-c076-ph02
+  source_batch: manuscript-b01
+  source_type: manuscript_print_crop
+  original_page: 77
+  corrected_page: 76
+  object_type: archival_photo
+  master_source: inbox/scans/memoirs/batch_b01/crops/master/b01-c076-ph02-master.png
+  canonical_public_path: /photos/archive-b01/b01-c076-ph02.jpg
+  existing_public_paths:
+  - /photos/archive-b01/b01-c076-ph02.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-b01.yaml
+  duplicate_group: null
+- photo_id: b01-c077-ph01
+  source_batch: manuscript-b01
+  source_type: manuscript_print_crop
+  original_page: 78
+  corrected_page: 77
+  object_type: archival_photo
+  master_source: inbox/scans/memoirs/batch_b01/crops/master/b01-c077-ph01-master.png
+  canonical_public_path: /photos/archive-b01/b01-c077-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b01/b01-c077-ph01.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-b01.yaml
+  duplicate_group: null
+- photo_id: b01-c078-ph02
+  source_batch: manuscript-b01
+  source_type: manuscript_print_crop
+  original_page: 79
+  corrected_page: 78
+  object_type: archival_photo
+  master_source: inbox/scans/memoirs/batch_b01/crops/master/b01-c078-ph02-master.png
+  canonical_public_path: /photos/archive-b01/b01-c078-ph02.jpg
+  existing_public_paths:
+  - /photos/archive-b01/b01-c078-ph02.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-b01.yaml
+  duplicate_group: null
+- photo_id: b01-c078-ph03
+  source_batch: manuscript-b01
+  source_type: manuscript_print_crop
+  original_page: 79
+  corrected_page: 78
+  object_type: archival_photo
+  master_source: inbox/scans/memoirs/batch_b01/crops/master/b01-c078-ph03-master.png
+  canonical_public_path: /photos/archive-b01/b01-c078-ph03.jpg
+  existing_public_paths:
+  - /photos/archive-b01/b01-c078-ph03.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-b01.yaml
+  duplicate_group: null
 - photo_id: b02-mp001-ph01
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
-  source_pdf: inbox/scans/memoirs/_raw/samsonovy_new_scans_2026-08-01_corrected.pdf
   original_page: 80
-  corrected_page: null
   merged_page: 1
-  physical_leaf_id: null
-  source_scan_ids:
-  - m-001
   object_type: group_photo
-  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp001-ph01-master.png
-  alternate_sources:
-  - /photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg
-  duplicate_group: dzerzhinsky-trio-winter
-  existing_public_paths:
-  - /photos/archive-b02/b02-mp001-ph01.jpg
-  canonical_public_path: /photos/archive-b02/b02-mp001-ph01.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: raw_present
-  identity_status: author_caption_confirmed
-  privacy_status: public_historical
+  master_source: null
+  canonical_public_path: null
+  existing_public_paths: []
   review_status: visually_verified
+  privacy_status: public_historical
   batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
-  notes: original_page preliminary if 080+
+  duplicate_group: dzerzhinsky-trio-winter
+  notes: original_page preliminary if >=080
 - photo_id: b02-mp001-ph02
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
-  source_pdf: inbox/scans/memoirs/_raw/samsonovy_new_scans_2026-08-01_corrected.pdf
   original_page: 80
-  corrected_page: null
   merged_page: 1
-  physical_leaf_id: null
-  source_scan_ids:
-  - m-001
   object_type: group_photo
-  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp001-ph02-master.png
-  alternate_sources: []
-  duplicate_group: null
-  existing_public_paths:
-  - /photos/archive-b02/b02-mp001-ph02.jpg
-  canonical_public_path: /photos/archive-b02/b02-mp001-ph02.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: raw_present
-  identity_status: author_caption_confirmed
-  privacy_status: public_historical
+  master_source: null
+  canonical_public_path: null
+  existing_public_paths: []
   review_status: visually_verified
+  privacy_status: public_historical
   batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
-  notes: original_page preliminary if 080+
+  duplicate_group: null
+  notes: original_page preliminary if >=080
 - photo_id: b02-mp002-ph01
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
-  source_pdf: inbox/scans/memoirs/_raw/samsonovy_new_scans_2026-08-01_corrected.pdf
   original_page: 81
-  corrected_page: null
   merged_page: 2
-  physical_leaf_id: null
-  source_scan_ids:
-  - m-002
   object_type: archival_photo
-  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp002-ph01-master.png
-  alternate_sources:
-  - /photos/samsonov-tp/09-alexandrovsky-central-1910.jpg
-  duplicate_group: alexandrovsky-central-1910
-  existing_public_paths:
-  - /photos/archive-b02/b02-mp002-ph01.jpg
-  canonical_public_path: /photos/archive-b02/b02-mp002-ph01.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: raw_present
-  identity_status: author_caption_confirmed
-  privacy_status: public_historical
+  master_source: null
+  canonical_public_path: null
+  existing_public_paths: []
   review_status: manually_adjusted
+  privacy_status: public_historical
   batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
-  notes: original_page preliminary if 080+
+  duplicate_group: alexandrovsky-central-1910
+  notes: original_page preliminary if >=080
 - photo_id: b02-mp005-ph01
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
-  source_pdf: inbox/scans/memoirs/_raw/samsonovy_new_scans_2026-08-01_corrected.pdf
   original_page: 84
-  corrected_page: null
   merged_page: 5
-  physical_leaf_id: null
-  source_scan_ids:
-  - m-005
   object_type: group_photo
-  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp005-ph01-master.png
-  alternate_sources: []
-  duplicate_group: null
-  existing_public_paths: []
+  master_source: null
   canonical_public_path: null
-  ru_pages: []
-  en_pages: []
-  caption_status: raw_present
-  identity_status: unknown
-  privacy_status: living_people_review
+  existing_public_paths: []
   review_status: visually_verified
+  privacy_status: living_people_review
   batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
-  notes: original_page preliminary if 080+
+  duplicate_group: null
+  notes: original_page preliminary if >=080
 - photo_id: b02-mp005-ph02
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
-  source_pdf: inbox/scans/memoirs/_raw/samsonovy_new_scans_2026-08-01_corrected.pdf
   original_page: 84
-  corrected_page: null
   merged_page: 5
-  physical_leaf_id: null
-  source_scan_ids:
-  - m-005
   object_type: group_photo
-  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp005-ph02-master.png
-  alternate_sources: []
-  duplicate_group: null
-  existing_public_paths: []
+  master_source: null
   canonical_public_path: null
-  ru_pages: []
-  en_pages: []
-  caption_status: none
-  identity_status: unknown
-  privacy_status: living_people_review
+  existing_public_paths: []
   review_status: visually_verified
+  privacy_status: living_people_review
   batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
-  notes: original_page preliminary if 080+
+  duplicate_group: null
+  notes: original_page preliminary if >=080
 - photo_id: b02-mp007-ph01
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
-  source_pdf: inbox/scans/memoirs/_raw/samsonovy_new_scans_2026-08-01_corrected.pdf
   original_page: 86
-  corrected_page: null
   merged_page: 7
-  physical_leaf_id: null
-  source_scan_ids:
-  - m-007
   object_type: group_photo
-  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp007-ph01-master.png
-  alternate_sources: []
-  duplicate_group: null
-  existing_public_paths:
-  - /photos/archive-b02/b02-mp007-ph01.jpg
-  canonical_public_path: /photos/archive-b02/b02-mp007-ph01.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: raw_present
-  identity_status: author_caption_confirmed
-  privacy_status: public_historical
+  master_source: null
+  canonical_public_path: null
+  existing_public_paths: []
   review_status: manually_adjusted
+  privacy_status: public_historical
   batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
-  notes: original_page preliminary if 080+
+  duplicate_group: null
+  notes: original_page preliminary if >=080
 - photo_id: b02-mp007-ph02
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
-  source_pdf: inbox/scans/memoirs/_raw/samsonovy_new_scans_2026-08-01_corrected.pdf
   original_page: 86
-  corrected_page: null
   merged_page: 7
-  physical_leaf_id: null
-  source_scan_ids:
-  - m-007
   object_type: group_photo
-  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp007-ph02-master.png
-  alternate_sources: []
-  duplicate_group: null
-  existing_public_paths:
-  - /photos/archive-b02/b02-mp007-ph02.jpg
-  canonical_public_path: /photos/archive-b02/b02-mp007-ph02.jpg
-  ru_pages: []
-  en_pages: []
-  caption_status: raw_present
-  identity_status: author_caption_confirmed
-  privacy_status: public_historical
+  master_source: null
+  canonical_public_path: null
+  existing_public_paths: []
   review_status: manually_adjusted
+  privacy_status: public_historical
   batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
-  notes: original_page preliminary if 080+
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp013-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 92
+  merged_page: 13
+  object_type: portrait_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp013-ph01-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp013-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp013-ph01.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp013-ph02
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 92
+  merged_page: 13
+  object_type: portrait_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp013-ph02-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp013-ph02.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp013-ph02.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp013-ph03
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 92
+  merged_page: 13
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp013-ph03-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp013-ph03.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp013-ph03.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp014-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 93
+  merged_page: 14
+  object_type: portrait_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp014-ph01-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp014-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp014-ph01.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp022-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 101
+  merged_page: 22
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp022-ph01-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp022-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp022-ph01.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp023-ph03
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 102
+  merged_page: 23
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp023-ph03-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp023-ph03.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp023-ph03.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp038-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 117
+  merged_page: 38
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp038-ph01-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp038-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp038-ph01.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp067-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 146
+  merged_page: 67
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp067-ph01-master.png
+  canonical_public_path: null
+  existing_public_paths: []
+  review_status: manually_adjusted
+  privacy_status: living_people_review
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp068-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 147
+  merged_page: 68
+  object_type: portrait
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp068-ph01-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp068-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp068-ph01.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp068-ph02
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 147
+  merged_page: 68
+  object_type: portrait
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp068-ph02-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp068-ph02.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp068-ph02.jpg
+  review_status: manually_adjusted
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp068-ph04
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 147
+  merged_page: 68
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp068-ph04-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp068-ph04.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp068-ph04.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp068-ph03
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 147
+  merged_page: 68
+  object_type: portrait
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp068-ph03-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp068-ph03.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp068-ph03.jpg
+  review_status: manually_adjusted
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp069-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 148
+  merged_page: 69
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp069-ph01-master.png
+  canonical_public_path: null
+  existing_public_paths: []
+  review_status: visually_verified
+  privacy_status: living_people_review
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp072-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 151
+  merged_page: 72
+  object_type: full_figure_outdoor
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp072-ph01-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp072-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp072-ph01.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp072-ph02
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 151
+  merged_page: 72
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp072-ph02-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp072-ph02.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp072-ph02.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp072-ph03
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 151
+  merged_page: 72
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp072-ph03-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp072-ph03.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp072-ph03.jpg
+  review_status: manually_adjusted
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp074-ph02
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 153
+  merged_page: 74
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp074-ph02-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp074-ph02.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp074-ph02.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp074-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 153
+  merged_page: 74
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp074-ph01-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp074-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp074-ph01.jpg
+  review_status: visually_verified
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp075-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 154
+  merged_page: 75
+  object_type: portrait
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp075-ph01-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp075-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp075-ph01.jpg
+  review_status: manually_adjusted
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp075-ph02
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 154
+  merged_page: 75
+  object_type: portrait
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp075-ph02-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp075-ph02.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp075-ph02.jpg
+  review_status: manually_adjusted
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp075-ph03
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 154
+  merged_page: 75
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp075-ph03-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp075-ph03.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp075-ph03.jpg
+  review_status: manually_adjusted
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp076-ph03
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 155
+  merged_page: 76
+  object_type: portrait
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp076-ph03-master.png
+  canonical_public_path: null
+  existing_public_paths: []
+  review_status: visually_verified
+  privacy_status: living_people_review
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp078-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 157
+  merged_page: 78
+  object_type: portrait
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp078-ph01-master.png
+  canonical_public_path: null
+  existing_public_paths: []
+  review_status: visually_verified
+  privacy_status: living_people_review
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp078-ph02
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 157
+  merged_page: 78
+  object_type: portrait
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp078-ph02-master.png
+  canonical_public_path: null
+  existing_public_paths: []
+  review_status: visually_verified
+  privacy_status: living_people_review
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp078-ph04
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 157
+  merged_page: 78
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp078-ph04-master.png
+  canonical_public_path: null
+  existing_public_paths: []
+  review_status: visually_verified
+  privacy_status: living_people_review
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp080-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 159
+  merged_page: 80
+  object_type: full_figure_outdoor
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp080-ph01-master.png
+  canonical_public_path: /photos/archive-b02/b02-mp080-ph01.jpg
+  existing_public_paths:
+  - /photos/archive-b02/b02-mp080-ph01.jpg
+  review_status: manually_adjusted
+  privacy_status: public_historical
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp082-ph02
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 161
+  merged_page: 82
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp082-ph02-master.png
+  canonical_public_path: null
+  existing_public_paths: []
+  review_status: manually_adjusted
+  privacy_status: living_people_review
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp082-ph03
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 161
+  merged_page: 82
+  object_type: group_photo
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp082-ph03-master.png
+  canonical_public_path: null
+  existing_public_paths: []
+  review_status: manually_adjusted
+  privacy_status: living_people_review
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080
+- photo_id: b02-mp082-ph01
+  source_batch: manuscript-b02
+  source_type: manuscript_print_crop
+  original_page: 161
+  merged_page: 82
+  object_type: full_figure_outdoor
+  master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp082-ph01-master.png
+  canonical_public_path: null
+  existing_public_paths: []
+  review_status: visually_verified
+  privacy_status: living_people_review
+  batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
+  duplicate_group: null
+  notes: original_page preliminary if >=080

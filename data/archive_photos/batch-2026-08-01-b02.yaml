@@ -1,15 +1,9 @@
-batch_id: manuscript-2026-08-01-b02
+batch_id: manuscript-b02
 source_pdf: inbox/scans/memoirs/_raw/samsonovy_new_scans_2026-08-01_corrected.pdf
 sha256: 66f69122cc6e0adac3083fb1c3b2833db8a85c9d5952c692f125188f114d424d
-extraction: pdfimages -j native JPEG 2480×3507 @ 300 DPI
-note: 'PARTIAL: only first visually verified photos. Full batch inventory has auto
-  candidates pending review. Masters/crops under inbox (gitignored).'
-totals:
-  pages_in_batch: 82
-  auto_candidates: 168
-  visually_verified_or_adjusted: 7
-  web_published_this_commit: 5
-  withheld_privacy: 2
+stage: visual_review_plus_layout_heuristics
+note: Includes layout-heuristic crops marked manually_adjusted — spot-check edges
+  before treat as final archive masters.
 photos:
 - photo_id: b02-mp001-ph01
   batch_id: manuscript-2026-08-01-b02
@@ -53,9 +47,6 @@ photos:
   review_notes: Physical print edges visible; safe pad 3% from auto. Captions outside
     print to the right.
   detection: auto_v3 + visual verify
-  published_path_ru: /photos/archive-b02/b02-mp001-ph01.jpg
-  web_width: 1547
-  web_height: 1478
 - photo_id: b02-mp001-ph02
   batch_id: manuscript-2026-08-01-b02
   merged_page: 1
@@ -101,9 +92,6 @@ photos:
   review_status: visually_verified
   review_notes: Crowd funeral scene; full print kept; signage СЫР visible in print.
   detection: auto_v3 + visual verify
-  published_path_ru: /photos/archive-b02/b02-mp001-ph02.jpg
-  web_width: 1373
-  web_height: 1600
 - photo_id: b02-mp002-ph01
   batch_id: manuscript-2026-08-01-b02
   merged_page: 2
@@ -126,7 +114,7 @@ photos:
     w: 2480
     h: 3507
   page_rotation: 0
-  local_photo_rotation: 0
+  local_photo_rotation: 180
   rotation_confidence: high
   caption_raw: Александровский Централ … 1910 [по подписи на странице]
   caption_normalized_ru: Александровский централ, 1910 (подпись в тексте страницы).
@@ -142,11 +130,9 @@ photos:
   privacy_status: public_historical
   review_status: manually_adjusted
   review_notes: Tightened to print; caption under photo in context only. local rot
-    0 after bbox fix.
+    0 after bbox fix. Viewing crop rotated 180°; archival master keeps album mount
+    orientation.
   detection: manual_bbox
-  published_path_ru: /photos/archive-b02/b02-mp002-ph01.jpg
-  web_width: 1600
-  web_height: 936
 - photo_id: b02-mp005-ph01
   batch_id: manuscript-2026-08-01-b02
   merged_page: 5
@@ -255,9 +241,6 @@ photos:
   review_status: manually_adjusted
   review_notes: Manual split refined; no neighbor bleed.
   detection: manual
-  published_path_ru: /photos/archive-b02/b02-mp007-ph01.jpg
-  web_width: 1134
-  web_height: 1000
 - photo_id: b02-mp007-ph02
   batch_id: manuscript-2026-08-01-b02
   merged_page: 7
@@ -296,6 +279,764 @@ photos:
   review_status: manually_adjusted
   review_notes: Manual split refined; left edge not cutting adjacent print.
   detection: manual
-  published_path_ru: /photos/archive-b02/b02-mp007-ph02.jpg
-  web_width: 933
-  web_height: 1066
+- photo_id: b02-mp013-ph01
+  batch_id: manuscript-b02
+  merged_page: 13
+  archive_original_page: 92
+  photo_index_on_page: 1
+  object_type: portrait_photo
+  bbox_px:
+    x: 24
+    y: 35
+    w: 967
+    h: 1543
+  context_bbox_px:
+    x: 0
+    y: 0
+    w: 1165
+    h: 1823
+  page_dimensions_px:
+    w: 2480
+    h: 3507
+  caption_raw: Женя и Лёля Самсоновы. / Мой брат и сестра (Лёля и Женя). Меня ещё
+    тогда не было.
+  caption_relation: above_and_below_print
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: Studio-style of two children in sailor outfits on carved chair.
+  detection: visual_review_bbox_frac
+  published_path_ru: /photos/archive-b02/b02-mp013-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp013-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp013-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp013-ph01-context.jpg
+- photo_id: b02-mp013-ph02
+  batch_id: manuscript-b02
+  merged_page: 13
+  archive_original_page: 92
+  photo_index_on_page: 2
+  object_type: portrait_photo
+  bbox_px:
+    x: 992
+    y: 0
+    w: 1190
+    h: 1683
+  context_bbox_px:
+    x: 943
+    y: 0
+    w: 1388
+    h: 1963
+  page_dimensions_px:
+    w: 2480
+    h: 3507
+  caption_raw: 1934 год. / Мне 11 лет.
+  caption_relation: above_and_below_print
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: 'Single head-and-shoulders portrait of youth. Auto ph02 cuts below
+    chin; ph03 is lower strip of same print. Merge into one bbox with margin around
+    full print edge.
+
+    '
+  detection: visual_review_bbox_frac
+  published_path_ru: /photos/archive-b02/b02-mp013-ph02.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp013-ph02-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp013-ph02-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp013-ph02-context.jpg
+- photo_id: b02-mp013-ph03
+  batch_id: manuscript-b02
+  merged_page: 13
+  archive_original_page: 92
+  photo_index_on_page: 3
+  object_type: group_photo
+  bbox_px:
+    x: 223
+    y: 1928
+    w: 1785
+    h: 1087
+  context_bbox_px:
+    x: 174
+    y: 1823
+    w: 1983
+    h: 1367
+  page_dimensions_px:
+    w: 2480
+    h: 3507
+  caption_raw: 'Ноябрь 1925 год. / Семья Самсоновых. / Бабушка Вера Осиповна Соловьева
+    / Женя / Мама (ей 25 лет) / Лёля / Папа (ему 37 лет) / Меня ещё не было.
+
+    '
+  caption_relation: above_and_below_print
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: Family group of five; keep full rectangular print.
+  detection: visual_review_bbox_frac
+  published_path_ru: /photos/archive-b02/b02-mp013-ph03.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp013-ph03-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp013-ph03-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp013-ph03-context.jpg
+- photo_id: b02-mp014-ph01
+  batch_id: manuscript-b02
+  merged_page: 14
+  archive_original_page: 93
+  photo_index_on_page: 1
+  object_type: portrait_photo
+  bbox_px:
+    x: 1339
+    y: 70
+    w: 1041
+    h: 1227
+  context_bbox_px:
+    x: 1290
+    y: 0
+    w: 1190
+    h: 1507
+  page_dimensions_px:
+    w: 2480
+    h: 3507
+  caption_raw: После войны.
+  caption_relation: below_print
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: 'Standing man in military uniform (shoulder boards, decorations).
+    Auto ph02 covers full print with small left margin into page grid; acceptable.
+    Prefer not to tighten into uniform edge.
+
+    '
+  detection: visual_review_bbox_frac
+  published_path_ru: /photos/archive-b02/b02-mp014-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp014-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp014-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp014-ph01-context.jpg
+- photo_id: b02-mp022-ph01
+  batch_id: manuscript-b02
+  merged_page: 22
+  archive_original_page: 101
+  photo_index_on_page: 1
+  object_type: group_photo
+  bbox_px:
+    x: 0
+    y: 0
+    w: 1619
+    h: 2279
+  caption_raw: null
+  people_from_caption: null
+  identity_status: unknown
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: Bbox covers print including handwritten caption margin; tight enough
+    for Stage B accept pending manual pad.
+  detection: visual_accept_auto_bbox
+  published_path_ru: /photos/archive-b02/b02-mp022-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp022-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp022-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp022-ph01-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp023-ph03
+  batch_id: manuscript-b02
+  merged_page: 23
+  archive_original_page: 102
+  photo_index_on_page: 1
+  object_type: group_photo
+  bbox_px:
+    x: 0
+    y: 309
+    w: 2284
+    h: 1268
+  caption_raw: null
+  people_from_caption: null
+  identity_status: unknown
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: Primary print bbox; slightly clips top edge vs full print+caption
+    — use with context crop for caption.
+  detection: visual_accept_auto_bbox
+  published_path_ru: /photos/archive-b02/b02-mp023-ph03.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp023-ph03-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp023-ph03-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp023-ph03-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp038-ph01
+  batch_id: manuscript-b02
+  merged_page: 38
+  archive_original_page: 117
+  photo_index_on_page: 1
+  object_type: group_photo
+  bbox_px:
+    x: 222
+    y: 418
+    w: 2071
+    h: 1655
+  caption_raw: null
+  people_from_caption: null
+  identity_status: unknown
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: 'Bbox covers print and slightly includes title «Наш 6 „а“» above;
+    name-key block below is mostly outside. Accept; optional tighten to print edges
+    and keep title/key in context crop.
+
+    '
+  detection: visual_accept_auto_bbox
+  published_path_ru: /photos/archive-b02/b02-mp038-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp038-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp038-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp038-ph01-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp067-ph01
+  batch_id: manuscript-b02
+  merged_page: 67
+  archive_original_page: 146
+  photo_index_on_page: 1
+  object_type: group_photo
+  bbox_px:
+    x: 132
+    y: 1629
+    w: 2215
+    h: 1791
+  caption_raw: null
+  identity_status: unknown
+  privacy_status: living_people_review
+  review_status: manually_adjusted
+  review_notes: Layout-heuristic crop (lower_half_full_width); needs spot visual QA
+    of edges.
+  detection: layout_roi_v1
+  published_path_ru: null
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp067-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp067-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp067-ph01-context.jpg
+- photo_id: b02-mp068-ph01
+  batch_id: manuscript-b02
+  merged_page: 68
+  archive_original_page: 147
+  photo_index_on_page: 1
+  object_type: portrait
+  bbox_px:
+    x: 119
+    y: 6
+    w: 1077
+    h: 1752
+  caption_raw: Это Паша. 1930г
+  people_from_caption:
+  - Паша
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: ''
+  detection: visual_accept_auto_bbox
+  published_path_ru: /photos/archive-b02/b02-mp068-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp068-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp068-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp068-ph01-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp068-ph02
+  batch_id: manuscript-b02
+  merged_page: 68
+  archive_original_page: 147
+  photo_index_on_page: 2
+  object_type: portrait
+  bbox_px:
+    x: 1284
+    y: 141
+    w: 902
+    h: 1082
+  caption_raw: null
+  identity_status: unknown
+  privacy_status: public_historical
+  review_status: manually_adjusted
+  review_notes: Layout-heuristic crop (top_right); needs spot visual QA of edges.
+  detection: layout_roi_v1
+  published_path_ru: /photos/archive-b02/b02-mp068-ph02.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp068-ph02-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp068-ph02-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp068-ph02-context.jpg
+- photo_id: b02-mp068-ph04
+  batch_id: manuscript-b02
+  merged_page: 68
+  archive_original_page: 147
+  photo_index_on_page: 3
+  object_type: group_photo
+  bbox_px:
+    x: 173
+    y: 1817
+    w: 906
+    h: 1244
+  caption_raw: 'Моя фотография. 1938. Паша и я в нашей старой в кв. 223 12 подъезд.
+
+    '
+  people_from_caption:
+  - Паша
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: ''
+  detection: visual_accept_auto_bbox
+  published_path_ru: /photos/archive-b02/b02-mp068-ph04.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp068-ph04-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp068-ph04-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp068-ph04-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp068-ph03
+  batch_id: manuscript-b02
+  merged_page: 68
+  archive_original_page: 147
+  photo_index_on_page: 3
+  object_type: portrait
+  bbox_px:
+    x: 169
+    y: 1796
+    w: 924
+    h: 1276
+  caption_raw: null
+  identity_status: unknown
+  privacy_status: public_historical
+  review_status: manually_adjusted
+  review_notes: Layout-heuristic crop (bottom_left); needs spot visual QA of edges.
+  detection: layout_roi_v1
+  published_path_ru: /photos/archive-b02/b02-mp068-ph03.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp068-ph03-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp068-ph03-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp068-ph03-context.jpg
+- photo_id: b02-mp069-ph01
+  batch_id: manuscript-b02
+  merged_page: 69
+  archive_original_page: 148
+  photo_index_on_page: 1
+  object_type: group_photo
+  bbox_px:
+    x: 397
+    y: 72
+    w: 1795
+    h: 1296
+  caption_raw: null
+  people_from_caption:
+  - Я
+  - Кира Федорова
+  - Сора Бергская
+  - Люся Палухина
+  - Римма Ионова
+  - Кипар.
+  - Ира Горман
+  - Гарри Михай[лович?] Уайзер.
+  - Лена Егорова
+  - Нина Саулков[а?]
+  identity_status: unknown
+  privacy_status: living_people_review
+  review_status: visually_verified
+  review_notes: Blue × on left figure matches «1. - Я.»; «Уайзер.» also written on
+    print edge.
+  detection: visual_accept_auto_bbox
+  published_path_ru: null
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp069-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp069-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp069-ph01-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp072-ph01
+  batch_id: manuscript-b02
+  merged_page: 72
+  archive_original_page: 151
+  photo_index_on_page: 1
+  object_type: full_figure_outdoor
+  bbox_px:
+    x: 148
+    y: 0
+    w: 1068
+    h: 1512
+  caption_raw: Саша вернулся. Лето 1954. У Петровского леса.
+  people_from_caption:
+  - Саша
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: ''
+  detection: visual_accept_auto_bbox
+  published_path_ru: /photos/archive-b02/b02-mp072-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp072-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp072-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp072-ph01-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp072-ph02
+  batch_id: manuscript-b02
+  merged_page: 72
+  archive_original_page: 151
+  photo_index_on_page: 2
+  object_type: group_photo
+  bbox_px:
+    x: 1229
+    y: 0
+    w: 1091
+    h: 1519
+  caption_raw: Саша вернулся. Лето 1954. У Петровского леса.
+  people_from_caption:
+  - Саша
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: ''
+  detection: visual_accept_auto_bbox
+  published_path_ru: /photos/archive-b02/b02-mp072-ph02.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp072-ph02-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp072-ph02-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp072-ph02-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp072-ph03
+  batch_id: manuscript-b02
+  merged_page: 72
+  archive_original_page: 151
+  photo_index_on_page: 3
+  object_type: group_photo
+  bbox_px:
+    x: 424
+    y: 1762
+    w: 1437
+    h: 716
+  caption_raw: null
+  identity_status: unknown
+  privacy_status: public_historical
+  review_status: manually_adjusted
+  review_notes: Layout-heuristic crop (middle_center); needs spot visual QA of edges.
+  detection: layout_roi_v1
+  published_path_ru: /photos/archive-b02/b02-mp072-ph03.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp072-ph03-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp072-ph03-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp072-ph03-context.jpg
+- photo_id: b02-mp074-ph02
+  batch_id: manuscript-b02
+  merged_page: 74
+  archive_original_page: 153
+  photo_index_on_page: 1
+  object_type: group_photo
+  bbox_px:
+    x: 157
+    y: 2694
+    w: 1145
+    h: 746
+  caption_raw: Митя с дедом Пешей. Январь 1954 год
+  people_from_caption:
+  - Митя
+  - дед Пеша
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: ''
+  detection: visual_accept_auto_bbox
+  published_path_ru: /photos/archive-b02/b02-mp074-ph02.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp074-ph02-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp074-ph02-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp074-ph02-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp074-ph01
+  batch_id: manuscript-b02
+  merged_page: 74
+  archive_original_page: 153
+  photo_index_on_page: 2
+  object_type: group_photo
+  bbox_px:
+    x: 1358
+    y: 2390
+    w: 965
+    h: 1117
+  caption_raw: Бердянск. Азовское море 1965 год.
+  people_from_caption: []
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: ''
+  detection: visual_accept_auto_bbox
+  published_path_ru: /photos/archive-b02/b02-mp074-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp074-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp074-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp074-ph01-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp075-ph01
+  batch_id: manuscript-b02
+  merged_page: 75
+  archive_original_page: 154
+  photo_index_on_page: 1
+  object_type: portrait
+  bbox_px:
+    x: 341
+    y: 141
+    w: 929
+    h: 1093
+  caption_raw: Февраль 1948. Митя.
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: manually_adjusted
+  review_notes: Layout-heuristic crop (top_left); needs spot visual QA of edges.
+  detection: layout_roi_v1
+  published_path_ru: /photos/archive-b02/b02-mp075-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp075-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp075-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp075-ph01-context.jpg
+- photo_id: b02-mp075-ph02
+  batch_id: manuscript-b02
+  merged_page: 75
+  archive_original_page: 154
+  photo_index_on_page: 2
+  object_type: portrait
+  bbox_px:
+    x: 1203
+    y: 127
+    w: 1190
+    h: 1568
+  caption_raw: null
+  identity_status: unknown
+  privacy_status: public_historical
+  review_status: manually_adjusted
+  review_notes: Layout-heuristic crop (top_right); needs spot visual QA of edges.
+  detection: layout_roi_v1
+  published_path_ru: /photos/archive-b02/b02-mp075-ph02.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp075-ph02-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp075-ph02-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp075-ph02-context.jpg
+- photo_id: b02-mp075-ph03
+  batch_id: manuscript-b02
+  merged_page: 75
+  archive_original_page: 154
+  photo_index_on_page: 3
+  object_type: group_photo
+  bbox_px:
+    x: 87
+    y: 1702
+    w: 1190
+    h: 1680
+  caption_raw: null
+  identity_status: unknown
+  privacy_status: public_historical
+  review_status: manually_adjusted
+  review_notes: Layout-heuristic crop (bottom_left); needs spot visual QA of edges.
+  detection: layout_roi_v1
+  published_path_ru: /photos/archive-b02/b02-mp075-ph03.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp075-ph03-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp075-ph03-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp075-ph03-context.jpg
+- photo_id: b02-mp076-ph03
+  batch_id: manuscript-b02
+  merged_page: 76
+  archive_original_page: 155
+  photo_index_on_page: 1
+  object_type: portrait
+  bbox_px:
+    x: 1788
+    y: 186
+    w: 427
+    h: 541
+  caption_raw: (род. 16 сентября 1957 г.).
+  people_from_caption:
+  - Серёжа
+  identity_status: author_caption_confirmed
+  privacy_status: living_people_review
+  review_status: visually_verified
+  review_notes: Formal bust portrait of young man in suit/tie; heading + full DOB
+    beside photo.
+  detection: visual_accept_auto_bbox
+  published_path_ru: null
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp076-ph03-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp076-ph03-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp076-ph03-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp078-ph01
+  batch_id: manuscript-b02
+  merged_page: 78
+  archive_original_page: 157
+  photo_index_on_page: 1
+  object_type: portrait
+  bbox_px:
+    x: 159
+    y: 121
+    w: 683
+    h: 894
+  caption_raw: 10 класс
+  people_from_caption: []
+  identity_status: author_caption_confirmed
+  privacy_status: living_people_review
+  review_status: visually_verified
+  review_notes: ''
+  detection: visual_accept_auto_bbox
+  published_path_ru: null
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp078-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp078-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp078-ph01-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp078-ph02
+  batch_id: manuscript-b02
+  merged_page: 78
+  archive_original_page: 157
+  photo_index_on_page: 2
+  object_type: portrait
+  bbox_px:
+    x: 1073
+    y: 145
+    w: 720
+    h: 1085
+  caption_raw: Уже студент.
+  people_from_caption: []
+  identity_status: author_caption_confirmed
+  privacy_status: living_people_review
+  review_status: visually_verified
+  review_notes: ''
+  detection: visual_accept_auto_bbox
+  published_path_ru: null
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp078-ph02-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp078-ph02-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp078-ph02-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp078-ph04
+  batch_id: manuscript-b02
+  merged_page: 78
+  archive_original_page: 157
+  photo_index_on_page: 3
+  object_type: group_photo
+  bbox_px:
+    x: 380
+    y: 1760
+    w: 1951
+    h: 1313
+  caption_raw: 'Старший и младший (На старой квартире – Ленинск. пр. д. 11 кв. 116)
+
+    '
+  people_from_caption: []
+  identity_status: author_caption_confirmed
+  privacy_status: living_people_review
+  review_status: visually_verified
+  review_notes: ''
+  detection: visual_accept_auto_bbox
+  published_path_ru: null
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp078-ph04-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp078-ph04-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp078-ph04-context.jpg
+  duplicate_of_merged_page: null
+- photo_id: b02-mp080-ph01
+  batch_id: manuscript-b02
+  merged_page: 80
+  archive_original_page: 159
+  photo_index_on_page: 1
+  object_type: full_figure_outdoor
+  bbox_px:
+    x: 91
+    y: 119
+    w: 1441
+    h: 1865
+  caption_raw: «Водник». Лето 1953…
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: manually_adjusted
+  review_notes: Layout-heuristic crop (upper_left); needs spot visual QA of edges.
+  detection: layout_roi_v1
+  published_path_ru: /photos/archive-b02/b02-mp080-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp080-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp080-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp080-ph01-context.jpg
+- photo_id: b02-mp082-ph02
+  batch_id: manuscript-b02
+  merged_page: 82
+  archive_original_page: 161
+  photo_index_on_page: 2
+  object_type: group_photo
+  bbox_px:
+    x: 1205
+    y: 127
+    w: 1135
+    h: 1568
+  caption_raw: null
+  identity_status: unknown
+  privacy_status: living_people_review
+  review_status: manually_adjusted
+  review_notes: Layout-heuristic crop (top_right); needs spot visual QA of edges.
+  detection: layout_roi_v1
+  published_path_ru: null
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp082-ph02-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp082-ph02-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp082-ph02-context.jpg
+- photo_id: b02-mp082-ph03
+  batch_id: manuscript-b02
+  merged_page: 82
+  archive_original_page: 161
+  photo_index_on_page: 3
+  object_type: group_photo
+  bbox_px:
+    x: 87
+    y: 1702
+    w: 1190
+    h: 1680
+  caption_raw: null
+  identity_status: unknown
+  privacy_status: living_people_review
+  review_status: manually_adjusted
+  review_notes: Layout-heuristic crop (bottom_left); needs spot visual QA of edges.
+  detection: layout_roi_v1
+  published_path_ru: null
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp082-ph03-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp082-ph03-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp082-ph03-context.jpg
+- photo_id: b02-mp082-ph01
+  batch_id: manuscript-b02
+  merged_page: 82
+  archive_original_page: 161
+  photo_index_on_page: 4
+  object_type: full_figure_outdoor
+  bbox_px:
+    x: 1317
+    y: 2076
+    w: 667
+    h: 999
+  caption_raw: Люблино. 1953 г. Июль. 50
+  people_from_caption: []
+  identity_status: author_caption_confirmed
+  privacy_status: living_people_review
+  review_status: visually_verified
+  review_notes: ''
+  detection: visual_accept_auto_bbox
+  published_path_ru: null
+  crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp082-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp082-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp082-ph01-context.jpg
+  duplicate_of_merged_page: null
+manual_bbox_queue:
+- id: m-067-true-01
+  layout: lower_half_full_width
+- id: m-068-true2
+  layout: top_right
+- id: m-068-true4
+  layout: bottom_right
+- id: m-068-true-02
+  layout: top_right
+- id: m-068-true-04
+  layout: bottom_right
+- id: m-072-true3
+  layout: middle
+- id: m-072-true-03
+  layout: middle_center
+- id: m-075-true1
+  layout: top_left
+- id: m-075-true2
+  layout: top_right
+- id: m-075-true3
+  layout: bottom_left
+- id: m-075-true-01
+  layout: top_left
+- id: m-075-true-02
+  layout: top_right
+- id: m-075-true-03
+  layout: bottom_left
+- id: m-080-true1
+  layout: upper_left
+- id: m-080-true-01
+  layout: upper_left
+- id: m-082-true1
+  layout: top_left
+- id: m-082-true2
+  layout: top_right
+- id: m-082-true3
+  layout: bottom_left
+- id: m-082-true-01
+  layout: top_left
+- id: m-082-true-02
+  layout: top_right
+- id: m-082-true-03
+  layout: bottom_left
+manual_bbox_count: 21

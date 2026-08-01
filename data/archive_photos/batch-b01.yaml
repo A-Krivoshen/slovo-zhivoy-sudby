@@ -1,7 +1,7 @@
 batch_id: manuscript-b01
 source_pdf: inbox/scans/memoirs/_raw/nasha_rodoslovnaya_samsonovy_corrected.pdf
 sha256: 99d859f158eaece09502b25e0082a9d8ca1294441312fb6978b64fac311a75c9
-stage: first_verified_block
+stage: visual_review_partial_crops
 note: PARTIAL. Auto candidates exist for 41 pages; only visually verified entries
   listed. URL-stable published files not replaced.
 photos:
@@ -49,6 +49,226 @@ photos:
   crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c002-ph01-master.png
   crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c002-ph01-view.jpg
   context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c002-ph01-context.jpg
+- photo_id: b01-c022-ph03
+  batch_id: manuscript-b01
+  corrected_page: 22
+  original_page: 22
+  photo_index_on_page: 3
+  object_type: archival_photo
+  bbox_px:
+    x: 54
+    y: 624
+    w: 2219
+    h: 1486
+  privacy_status: public_historical
+  identity_status: unknown
+  review_status: visually_verified
+  review_notes: Accepted auto candidate from visual_review B01; pad from auto bbox.
+  detection: visual_accept_auto_bbox
+  published_path_new: /photos/archive-b01/b01-c022-ph03.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c022-ph03-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c022-ph03-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c022-ph03-context.jpg
+- photo_id: b01-c022-ph04
+  batch_id: manuscript-b01
+  corrected_page: 22
+  original_page: 22
+  photo_index_on_page: 4
+  object_type: archival_photo
+  bbox_px:
+    x: 203
+    y: 2085
+    w: 1302
+    h: 1191
+  privacy_status: public_historical
+  identity_status: unknown
+  review_status: visually_verified
+  review_notes: Accepted auto candidate from visual_review B01; pad from auto bbox.
+  detection: visual_accept_auto_bbox
+  published_path_new: /photos/archive-b01/b01-c022-ph04.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c022-ph04-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c022-ph04-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c022-ph04-context.jpg
+- photo_id: b01-c031-ph01
+  batch_id: manuscript-b01
+  corrected_page: 31
+  original_page: 31
+  photo_index_on_page: 1
+  object_type: archival_photo
+  bbox_px:
+    x: 0
+    y: 0
+    w: 1230
+    h: 1630
+  privacy_status: public_historical
+  identity_status: unknown
+  review_status: visually_verified
+  review_notes: Accepted auto candidate from visual_review B01; pad from auto bbox.
+  detection: visual_accept_auto_bbox
+  published_path_new: /photos/archive-b01/b01-c031-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c031-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c031-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c031-ph01-context.jpg
+- photo_id: b01-c033-ph03
+  batch_id: manuscript-b01
+  corrected_page: 33
+  original_page: 33
+  photo_index_on_page: 3
+  object_type: archival_photo
+  bbox_px:
+    x: 373
+    y: 624
+    w: 1885
+    h: 1726
+  privacy_status: public_historical
+  identity_status: unknown
+  review_status: visually_verified
+  review_notes: Accepted auto candidate from visual_review B01; pad from auto bbox.
+  detection: visual_accept_auto_bbox
+  published_path_new: /photos/archive-b01/b01-c033-ph03.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c033-ph03-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c033-ph03-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c033-ph03-context.jpg
+- photo_id: b01-c039-ph01
+  batch_id: manuscript-b01
+  corrected_page: 39
+  original_page: 39
+  photo_index_on_page: 1
+  object_type: archival_photo
+  bbox_px:
+    x: 203
+    y: 50
+    w: 1404
+    h: 1099
+  privacy_status: public_historical
+  identity_status: unknown
+  review_status: visually_verified
+  review_notes: Accepted auto candidate from visual_review B01; pad from auto bbox.
+  detection: visual_accept_auto_bbox
+  published_path_new: /photos/archive-b01/b01-c039-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c039-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c039-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c039-ph01-context.jpg
+- photo_id: b01-c039-ph02
+  batch_id: manuscript-b01
+  corrected_page: 39
+  original_page: 39
+  photo_index_on_page: 2
+  object_type: archival_photo
+  bbox_px:
+    x: 176
+    y: 1156
+    w: 1658
+    h: 1182
+  privacy_status: public_historical
+  identity_status: unknown
+  review_status: visually_verified
+  review_notes: Accepted auto candidate from visual_review B01; pad from auto bbox.
+  detection: visual_accept_auto_bbox
+  published_path_new: /photos/archive-b01/b01-c039-ph02.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c039-ph02-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c039-ph02-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c039-ph02-context.jpg
+- photo_id: b01-c072-ph01
+  batch_id: manuscript-b01
+  corrected_page: 72
+  original_page: 73
+  photo_index_on_page: 1
+  object_type: archival_photo
+  bbox_px:
+    x: 0
+    y: 0
+    w: 1985
+    h: 1326
+  privacy_status: public_historical
+  identity_status: unknown
+  review_status: visually_verified
+  review_notes: Accepted auto candidate from visual_review B01; pad from auto bbox.
+  detection: visual_accept_auto_bbox
+  published_path_new: /photos/archive-b01/b01-c072-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c072-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c072-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c072-ph01-context.jpg
+- photo_id: b01-c076-ph02
+  batch_id: manuscript-b01
+  corrected_page: 76
+  original_page: 77
+  photo_index_on_page: 2
+  object_type: archival_photo
+  bbox_px:
+    x: 0
+    y: 529
+    w: 2329
+    h: 2076
+  privacy_status: public_historical
+  identity_status: unknown
+  review_status: visually_verified
+  review_notes: Accepted auto candidate from visual_review B01; pad from auto bbox.
+  detection: visual_accept_auto_bbox
+  published_path_new: /photos/archive-b01/b01-c076-ph02.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c076-ph02-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c076-ph02-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c076-ph02-context.jpg
+- photo_id: b01-c077-ph01
+  batch_id: manuscript-b01
+  corrected_page: 77
+  original_page: 78
+  photo_index_on_page: 1
+  object_type: archival_photo
+  bbox_px:
+    x: 0
+    y: 630
+    w: 2480
+    h: 1284
+  privacy_status: public_historical
+  identity_status: unknown
+  review_status: visually_verified
+  review_notes: Accepted auto candidate from visual_review B01; pad from auto bbox.
+  detection: visual_accept_auto_bbox
+  published_path_new: /photos/archive-b01/b01-c077-ph01.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c077-ph01-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c077-ph01-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c077-ph01-context.jpg
+- photo_id: b01-c078-ph02
+  batch_id: manuscript-b01
+  corrected_page: 78
+  original_page: 79
+  photo_index_on_page: 2
+  object_type: archival_photo
+  bbox_px:
+    x: 554
+    y: 628
+    w: 971
+    h: 1563
+  privacy_status: public_historical
+  identity_status: unknown
+  review_status: visually_verified
+  review_notes: Accepted auto candidate from visual_review B01; pad from auto bbox.
+  detection: visual_accept_auto_bbox
+  published_path_new: /photos/archive-b01/b01-c078-ph02.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c078-ph02-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c078-ph02-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c078-ph02-context.jpg
+- photo_id: b01-c078-ph03
+  batch_id: manuscript-b01
+  corrected_page: 78
+  original_page: 79
+  photo_index_on_page: 3
+  object_type: archival_photo
+  bbox_px:
+    x: 344
+    y: 2170
+    w: 1680
+    h: 1065
+  privacy_status: public_historical
+  identity_status: unknown
+  review_status: visually_verified
+  review_notes: Accepted auto candidate from visual_review B01; pad from auto bbox.
+  detection: visual_accept_auto_bbox
+  published_path_new: /photos/archive-b01/b01-c078-ph03.jpg
+  crop_master_path: inbox/scans/memoirs/batch_b01/crops/master/b01-c078-ph03-master.png
+  crop_view_path: inbox/scans/memoirs/batch_b01/crops/view/b01-c078-ph03-view.jpg
+  context_crop_path: inbox/scans/memoirs/batch_b01/crops/context/b01-c078-ph03-context.jpg
 page_scans_published_keep:
 - path: /photos/dnevnik-tt/str-001.jpg
   original_page: 1

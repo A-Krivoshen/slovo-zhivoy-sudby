@@ -156,3 +156,25 @@ B02 web derivatives remain; full B02 gallery publish waits for broader visual re
 3. Expand duplicate groups (Colt, GPU, Pravda, bust, studio portraits vs notebook pages)  
 4. Optional: improve published binary only if new crop is objectively sharper **and** URL preserved  
 5. Grouped Hugo sections after privacy OK  
+
+---
+
+## Update after visual review merge (same day)
+
+### B02 visual review (all 82 pages)
+- Pages with archival prints: **19** (1,2,5,7,13,14,22,23,38,67–69,72,74–76,78,80,82)
+- Verified crops in manifest: **~36**
+- Web-published historical: see `batch-2026-08-01-b02.yaml` (`published_path_ru`)
+- Withheld: cemetery m-005; 1983 classmate group m-067; family m-082 (living_people_review)
+- Layout-heuristic crops marked `manually_adjusted` — spot-check edges
+
+### B01 visual review
+- c-021–050: true prints on **022, 030, 031, 033, 039** (7 prints; 1 manual)
+- c-051–078: true prints on **071, 072, 076, 077, 078** (8 prints)
+- c-001–020: agent may still be running; c-002 mama already verified
+- Accepted auto crops published under `static/photos/archive-b01/`
+
+### Inventory QA
+- `INVENTORY_FULL.yaml` merges all 8 range inventories (82 pages)
+- High privacy flags on pages 76, 78 (DOB/medical/address) — documents not photo crops
+

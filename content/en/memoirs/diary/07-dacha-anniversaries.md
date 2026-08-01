@@ -1,6 +1,8 @@
 ---
 title: "Dacha, rest, anniversaries"
 date: 2026-08-01
+weight: 80
+ShowReadingTime: false
 draft: false
 description: "Serebryany Bor, flowers, verses for Tanya and Sasha’s anniversary."
 summary: "Serebryany Bor, flowers, verses for Tanya and Sasha’s anniversary."
@@ -317,3 +319,7 @@ of G. M. Dimitrov” they painted in several
 episodes with the participation of Barbusse himself.
 
 ---
+
+---
+
+*← [Documents and congresses](/en/memoirs/diary/06-documents-congresses/) · [Notebook contents](/en/memoirs/diary/) · [Father's character](/en/memoirs/diary/08-father-character/) →*

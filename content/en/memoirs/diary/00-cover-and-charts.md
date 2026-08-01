@@ -1,6 +1,8 @@
 ---
 title: "Cover and family charts"
 date: 2026-08-01
+weight: 10
+ShowReadingTime: false
 draft: false
 description: "Notebook title page and genealogical charts of the Samsonovs and Krivosheins."
 summary: "Notebook title page and genealogical charts of the Samsonovs and Krivosheins."
@@ -237,3 +239,7 @@ original_page **006** is a second scan of the same physical **Krivosheins** char
 - cousins: **Kruglova Alla Alexandrovna** (b. 1936); **Kruglov Yury** (1937–1999)
 
 ---
+
+---
+
+*← [About the notebook](/en/memoirs/diary/about-the-notebook/) · [Notebook contents](/en/memoirs/diary/) · [My mother](/en/memoirs/diary/01-my-mother/) →*

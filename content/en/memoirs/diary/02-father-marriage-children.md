@@ -1,6 +1,8 @@
 ---
 title: "Father, marriage and children"
 date: 2026-08-01
+weight: 30
+ShowReadingTime: false
 draft: false
 description: "The Metropol, Lelya, the children’s births, the home, Mama’s Party work."
 summary: "The Metropol, Lelya, the children’s births, the home, Mama’s Party work."
@@ -24,7 +26,8 @@ privacy_reviewed: true
 
 <!-- p. 011 -->
 
-…than Mama by 12 years. Mama used to tell how at first they were given a flat on Brestskaya — a large, grand apartment. They spent the night there, and in the morning Father was told they had no business being there and were offered a place in the 1st House of Soviets (the Metropol Hotel, cabin 405 or 407).
+*Start of original_page 011 (after the join with the end of “My mother”):*  
+Mama used to tell how at first they were given a flat on Brestskaya — a large, grand apartment. They spent the night there, and in the morning Father was told they had no business being there and were offered a place in the 1st House of Soviets (the Metropol Hotel, cabin 405 or 407).
 
 It was Father’s second marriage, and from the first marriage there remained a two-year-old daughter, Lelya. Her mother left her with Father. Father worked a great deal, and a nanny looked after the little girl. Mama was very afraid of how the girl would receive her. When Mama entered the room, Lelya was sitting on a bed covered with a red blanket; she looked and looked, and then said: “Mama.” That was how they met. So we children did not know that Lelya was Mama’s[?] half-sister.
 
@@ -92,3 +95,7 @@ Our parents worked a great deal; on weekdays we rarely saw them; they came home 
 In the summer of 1935 something happened in our family: my sister fell ill with purulent pleurisy, which then turned into tuberculosis. And this is how it came about! It was the beginning of summer; the river water was cold; we were not allowed to swim, but we very much wanted to. Then Grandmother said: “Take a trough, set it in the sun, haul water from the well. The water will warm up, and you can bathe.”
 
 ---
+
+---
+
+*← [My mother](/en/memoirs/diary/01-my-mother/) · [Notebook contents](/en/memoirs/diary/) · [Childhood in Moscow](/en/memoirs/diary/03-childhood-moscow/) →*

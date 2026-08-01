@@ -1,6 +1,8 @@
 ---
 title: "Documents in the notebook"
 date: 2026-08-01
+weight: 100
+ShowReadingTime: false
 draft: false
 description: "Portraits, Dzerzhinsky’s certificate, citations, the Alexandrovsk central."
 summary: "Portraits, Dzerzhinsky’s certificate, citations, the Alexandrovsk central."
@@ -478,6 +480,9 @@ In the center: F. E. Dzerzhinsky, Menzhinsky
 | **Menzhinsky** | Mentioned on the group photo of the Collegium of the Cheka (“in the center: … Menzhinsky”); possible signature on the GPU card (PAGE 075) — uncertain |
 | **Marchlewski** | Mentioned in Samsonov’s article (episode of Dzerzhinsky’s underground in Warsaw) |
 
+<details>
+<summary>Reference index for this chapter (not part of the manuscript)</summary>
+
 ## Dates and places (as in the text)
 
 - **End 1918 – early 1919** — 3rd Army retreats; headquarters in **Glazov**; arrival of Stalin and Dzerzhinsky; Father’s acquaintance with F. E.; first sight of Stalin.  
@@ -524,3 +529,8 @@ In the center: F. E. Dzerzhinsky, Menzhinsky
 - **076:** newspaper type is small; several places in the middle of columns (gendarmes episode, certain adjectives) marked `[?]` / `[…]`.  
 - **078:** no text (photos only).  
 - **073:** no text (portrait only).
+</details>
+
+---
+
+*← [Father's character](/en/memoirs/diary/08-father-character/) · [Notebook contents](/en/memoirs/diary/) · [Notebook continued (pp. 080–089)](/en/memoirs/diary/10-notebook-continued-080-089/) →*

@@ -1,6 +1,8 @@
 ---
 title: "Отец, ВЧК и стихи"
 date: 2026-08-01
+weight: 60
+ShowReadingTime: false
 draft: false
 description: "Воспоминания о работе в органах, стихи Т.С., бюст, любимое фото папы."
 summary: "Воспоминания о работе в органах, стихи Т.С., бюст, любимое фото папы."
@@ -872,3 +874,7 @@ XVI и XVII съездов партии,
 табаком (цветы)… и мы пели.
 
 ---
+
+---
+
+*← [Война, 1941](/vospominaniya/dnevnik/04-voyna-1941/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Документы и съезды](/vospominaniya/dnevnik/06-dokumenty-sezdy/) →*

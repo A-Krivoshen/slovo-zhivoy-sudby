@@ -1,6 +1,8 @@
 ---
 title: "My mother"
 date: 2026-08-01
+weight: 20
+ShowReadingTime: false
 draft: false
 description: "Eva Konstantinovna: childhood, school, work, meeting father."
 summary: "Eva Konstantinovna: childhood, school, work, meeting father."
@@ -105,12 +107,6 @@ lived there all week, and on Sundays
 they were let home. Rise was at 7  
 in the morning; the girls made their beds; for this  
 
-*(text breaks off — continued on PAGE 009)*
-
----
-
----
-
 <!-- p. 009 -->
 
 a class mistress watched. Then they went to the wash-  
@@ -181,7 +177,12 @@ So Mama works at the Cheka, where she
 met her destiny: Samsonov Timofey  
 Petrovich, head of the secret department.  
 Soon they married. Father was older than  
+Mama by 12 years.
 
-*(text breaks off)*
+*Continued in: [Father, marriage and children](/en/memoirs/diary/02-father-marriage-children/).*
 
 ---
+
+---
+
+*← [Cover and family charts](/en/memoirs/diary/00-cover-and-charts/) · [Notebook contents](/en/memoirs/diary/) · [Father, marriage and children](/en/memoirs/diary/02-father-marriage-children/) →*

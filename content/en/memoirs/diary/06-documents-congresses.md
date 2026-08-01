@@ -1,6 +1,8 @@
 ---
 title: "Documents and congresses"
 date: 2026-08-01
+weight: 70
+ShowReadingTime: false
 draft: false
 description: "Inserts: lists of delegates, certificates, newspaper clippings."
 summary: "Inserts: lists of delegates, certificates, newspaper clippings."
@@ -103,7 +105,7 @@ various flowers: mignonette, daisies,
 carnations, marigolds, snapdragons, spitsy[?],  
 fragrant tobacco, sweet peas,
 
-*(text breaks off at the end of the page)*
+*The sentence breaks off at the end of the original page (the flower-bed list is not recovered further in the available batch).*
 
 ---
 
@@ -514,3 +516,7 @@ No. 398.
 *Note: fine print; some surnames/abbreviations doubtful (`[?]`). By the extract on PAGE 042 No. 685 at the 16th Congress is Samsonov; here in another list under No. 685 is Tskhakaya M. G.*
 
 ---
+
+---
+
+*← [Father, the Cheka, and verses](/en/memoirs/diary/05-father-cheka-verses/) · [Notebook contents](/en/memoirs/diary/) · [Dacha, rest, anniversaries](/en/memoirs/diary/07-dacha-anniversaries/) →*

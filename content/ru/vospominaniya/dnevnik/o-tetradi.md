@@ -1,6 +1,7 @@
 ---
 title: "О тетради"
 date: 2026-08-01
+weight: 5
 draft: false
 description: "Как устроена рукописная тетрадь Татьяны Тимофеевны «Наша родословная: Самсоновы»."
 summary: "Первая партия (~79 стр.) семейной хроники от первого лица — расшифровка по главам."
@@ -52,3 +53,7 @@ cover:
 - [Характер отца](/vospominaniya/dnevnik/08-otec-harakter/)  
 
 Список глав — в [оглавлении](/vospominaniya/dnevnik/).
+
+---
+
+*[Оглавление тетради](/vospominaniya/dnevnik/) · [Обложка и родословные схемы](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/) →*

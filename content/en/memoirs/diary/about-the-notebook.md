@@ -1,6 +1,7 @@
 ---
 title: "About the notebook"
 date: 2026-08-01
+weight: 5
 draft: false
 description: "How Tatyana Timofeevna’s manuscript “Our genealogy: the Samsonovs” is organized."
 summary: "First batch (~79 pp.) of first-person family chronicle — transcription by chapter."
@@ -52,3 +53,7 @@ Source: manuscript “Our genealogy: the Samsonovs” (notebook page scans).
 - [Father’s character](/en/memoirs/diary/08-father-character/)  
 
 Chapter list — in the [contents](/en/memoirs/diary/).
+
+---
+
+*[Notebook contents](/en/memoirs/diary/) · [Cover and family charts](/en/memoirs/diary/00-cover-and-charts/) →*

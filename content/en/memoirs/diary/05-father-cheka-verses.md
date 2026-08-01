@@ -1,6 +1,8 @@
 ---
 title: "Father, the Cheka, and verses"
 date: 2026-08-01
+weight: 60
+ShowReadingTime: false
 draft: false
 description: "Memories of work in the organs, T.S. verses, the bust, and a favorite photo of Papa."
 summary: "Memories of work in the organs, T.S. verses, the bust, and a favorite photo of Papa."
@@ -866,3 +868,7 @@ songs, and all around flowers bloomed, it smelled
 of tobacco (the flowers)… and we sang.
 
 ---
+
+---
+
+*← [War, 1941](/en/memoirs/diary/04-war-1941/) · [Notebook contents](/en/memoirs/diary/) · [Documents and congresses](/en/memoirs/diary/06-documents-congresses/) →*

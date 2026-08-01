@@ -1,6 +1,8 @@
 ---
 title: "Notebook continued (pp. 090–098)"
 date: 2026-08-01
+weight: 120
+ShowReadingTime: false
 draft: false
 description: "Second verified slice of batch b02: original_page 090–098 — letter ending, sister Genya’s fate, family photos, brother Tyoma/Zhenya, Sasha’s notes. Pp. 099–100 (Ukrainian medal) — withheld."
 summary: "New batch: 090–098 — sister Genya, brother, Sasha’s notes; 099–100 withheld."
@@ -537,3 +539,7 @@ Certificate series/number are **not** published on the site.
 **Status:** first_pass · batch `manuscript-2026-08-01-b02` · public original_page **090–098**; **099–100** withheld.  
 Handwriting checks continue; EN is synchronized with this RU version.
 {{< /archive_note >}}
+
+---
+
+*← [Notebook continued (pp. 080–089)](/en/memoirs/diary/10-notebook-continued-080-089/) · [Notebook contents](/en/memoirs/diary/)*

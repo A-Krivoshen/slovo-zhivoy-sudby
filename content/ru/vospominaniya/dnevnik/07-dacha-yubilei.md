@@ -1,6 +1,8 @@
 ---
 title: "Дача, отдых, юбилеи"
 date: 2026-08-01
+weight: 80
+ShowReadingTime: false
 draft: false
 description: "Серебряный Бор, цветы, стихи на юбилей Тани и Саши."
 summary: "Серебряный Бор, цветы, стихи на юбилей Тани и Саши."
@@ -316,3 +318,7 @@ privacy_reviewed: true
 эпизодов с участием самого Барбюса.
 
 ---
+
+---
+
+*← [Документы и съезды](/vospominaniya/dnevnik/06-dokumenty-sezdy/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Характер отца](/vospominaniya/dnevnik/08-otec-harakter/) →*

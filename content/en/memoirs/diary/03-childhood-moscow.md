@@ -1,6 +1,8 @@
 ---
 title: "Childhood in Moscow"
 date: 2026-08-01
+weight: 40
+ShowReadingTime: false
 draft: false
 description: "Home, walks, episodes with the children, everyday life, cats, journeys."
 summary: "Home, walks, episodes with the children, everyday life, cats, journeys."
@@ -470,75 +472,10 @@ Papa’s[?] writing desk; we had
 our own [places] at the table; each had  
 his own place: Papa — in the center, Mama —
 
-[text breaks off; continuation on the next p.]
+*The sentence breaks off on original_page 040. No continuation was found in the available pages of the first batch.*
 
 ---
 
-## Extracted facts (from these pages only)
-
-### Persons
-| Who | How named | What is said |
-|-----|-----------|--------------|
-| Author’s father | **Timofey Petrovich Samsonov** (Papa) | Bust/museum: 1885–1955 (plaque); centenary — 9.V.1985, v. Mikhaile[ny?]. Administrator of Affairs of the Central Committee of the VKP(b). Loved children, never raised his voice; pince-nez spectacles. Book lover, Slavophile, history (age of Peter I). Book ***Outside the Law*** (on exile to Siberia). Loved Lermontov, wrote a little himself; sang, incl. “Reve, tai stohne…,” “The Airship” to his own melody. Sharpened pencils with a penknife. |
-| Author / narrator | **T.** (Tatyana; signature “T.” by the bust photo) | Remembers Father from ~age 3; youngest among “Genya, Tesha, I” in a number of episodes. Has grown sons (at the time of writing). |
-| Sister | **Gena / Genya** | Author of verses about Papa. In the Voentorg episode — “sister — 10” when the author was 3–4. Shared a room with the author in the new house. |
-| Brother | **Tesha / Teshka** | As an infant lay in the drawer of Father’s writing desk. ~4 years old in the Voentorg episode; ~6–7 — the car incident at the move. |
-| Mother | **Mama** | Strict but without shouting; sewed a doll; bought a piano on hire purchase; woolen jumpers for the children; neat, cleanly. |
-| Grandmother | **Grandmother** | Money in the chest of drawers; was in the kitchen; in the new house — a small room with a balcony (with Tesha — each?). |
-| Friend | **Marina [surname?]** | Author’s friend; lived in entrance 10 of the new house; said her papa had died, Mama is crying at Grandfather’s **(F. Kon)**. |
-| Neighbors | **the Frolovskys** | Two-room flat separated from the Samsonovs’. |
-| Chauffeur | **Novikov** | “He was a good man”; stopped the car with Tesha. |
-| Colleagues / well-known | **Kaganovich** | Chairman of the commission for settling the new house. |
-| | **Postyshev** | In the photo “At the CC of the VKP(b)” — third next to Papa (Papa — second from the right). |
-
-### Places
-- **v. Mikhaile[ny?]** — unveiling of the bust and museum of T. P. Samsonov, 9.V.1985.
-- **Vozdvizhenka** — the flat where they lived when the author was ~3.
-- **Serebryany Bor** — summer songs in the garden with Papa (burka, tobacco flowers).
-- **Voentorg / “Ekonomka”** (former Economic Officers’ Society) — 2–3 houses from the old flat.
-- **Mokhovaya** — old house; nearby a little second-hand bookshop.
-- **Vsekhsvyatskaya** (now **Saratovskaya**) — the new CC house; “the first house built under Sov. power.”
-  - Entrance **12**, floor **4**, flat **223**, originally **6 rooms** (2 separated off → for the Frolovskys).
-  - Street sloping, led **toward the Manezh**.
-- Entrance **10** — friend Marina.
-
-### Dates / ages
-- Plaque on the bust: **1885–1955**.
-- Unveiling of bust/museum: **9 May 1985**.
-- Author: **&lt;3** (tea on the pillow); **~3** (pince-nez; Vozdvizhenka); **3–4** (Voentorg; brother 4, sister 10).
-- Move: **end of 1930 / 1931**; Tesha **~6–7**; author then **~6–7** (by her words about meeting Marina).
-
-### Objects / everyday life
-- Dog: **Irish setter[?]**, name **Jack**.
-- Bath heated with **firewood** (no gas or hot water in the old house).
-- **Piano** bought on hire purchase → given to the club of Father’s organization (**the Cheka**).
-- Doll sewn by Mama (face with indelible pencil); bought porcelain dolls.
-- **Brehm** (zoology); tissue paper for tracing pictures.
-- Geographical map of both hemispheres above the author’s bed.
-- Father’s penknife (the author still has it “to this day”).
-- Iron bedsteads in the new house; places at the table: Papa in the center, Mama — [breaks off].
-
-### Books / culture (Papa)
-- Works: **Klyuchevsky, Solovyov, Kostomarov, Rozhkov** and others.
-- His own book: ***Outside the Law*** (exile to Siberia).
-- **Lermontov**: “The Airship” (quotation about the emperor, the tricorne hat, the grey campaign coat).
-- Sang Ukrainian: **“Reve, tai stohne Dnipr shyrokyi.”**
-
-### Photos on the pages
-1. **031** — bust of T. P. Samsonov (plaque 1885–1955).
-2. **033** — portrait of Papa (“looks very much like his true self”).
-3. **039** — two group shots at the CC of the VKP(b); in the upper one Papa second from the right, Postyshev next to him; in the lower — “at the edge,” arrow “Papa.”
-
-### Uncertainties (do not invent)
-- Exact spelling of “Koblan[?] dog” / “with faith — tail” in Genya’s verses.
-- The word “[tenyu?]” (Genya’s thing at the “inquiry”).
-- “Predanie” — the author’s remark at the punishment.
-- Surname of friend Marina; expansion of “(F. Kon).”
-- Full top of rubbed-out paragraphs on **036** and **038**.
-- Correspondence of the age “sister — 10” with other genealogy sources — **only as recorded here**.
-
-
----
 
 <!-- p. 048 -->
 
@@ -597,15 +534,7 @@ and nothing grew for us.
 Sometimes in summer our parents went south  
 to Sochi and took us in turn, or even
 
-*(text breaks off)*
-
----
-
----
-
 <!-- p. 049 -->
-
-*Manuscript, squared notebook; continuation of PAGE 048.*
 
 two or three of us. We stayed at good  
 rest houses (“Vasilyevka,” “Zinovyevka”). These were  
@@ -711,6 +640,9 @@ Only one remained — Inna.
 
 ---
 
+<details>
+<summary>Reference index for this chapter (not part of the manuscript)</summary>
+
 ## Extracted facts (from these pages only)
 
 ### People
@@ -768,3 +700,74 @@ Only one remained — Inna.
 - Some minor surnames and dates in the printed tables (marked `[?]`).
 - Exact correspondence of No. 685 (16th Congress, PAGE 042) to pages 043–047: on 043 the list breaks off at 665; on 047 under No. 685 — **Tskhakaya** (another list/edition).
 
+## Extracted facts (earlier pages of this chapter)
+
+### Persons
+| Who | How named | What is said |
+|-----|-----------|--------------|
+| Author’s father | **Timofey Petrovich Samsonov** (Papa) | Bust/museum: 1885–1955 (plaque); centenary — 9.V.1985, v. Mikhaile[ny?]. Administrator of Affairs of the Central Committee of the VKP(b). Loved children, never raised his voice; pince-nez spectacles. Book lover, Slavophile, history (age of Peter I). Book ***Outside the Law*** (on exile to Siberia). Loved Lermontov, wrote a little himself; sang, incl. “Reve, tai stohne…,” “The Airship” to his own melody. Sharpened pencils with a penknife. |
+| Author / narrator | **T.** (Tatyana; signature “T.” by the bust photo) | Remembers Father from ~age 3; youngest among “Genya, Tesha, I” in a number of episodes. Has grown sons (at the time of writing). |
+| Sister | **Gena / Genya** | Author of verses about Papa. In the Voentorg episode — “sister — 10” when the author was 3–4. Shared a room with the author in the new house. |
+| Brother | **Tesha / Teshka** | As an infant lay in the drawer of Father’s writing desk. ~4 years old in the Voentorg episode; ~6–7 — the car incident at the move. |
+| Mother | **Mama** | Strict but without shouting; sewed a doll; bought a piano on hire purchase; woolen jumpers for the children; neat, cleanly. |
+| Grandmother | **Grandmother** | Money in the chest of drawers; was in the kitchen; in the new house — a small room with a balcony (with Tesha — each?). |
+| Friend | **Marina [surname?]** | Author’s friend; lived in entrance 10 of the new house; said her papa had died, Mama is crying at Grandfather’s **(F. Kon)**. |
+| Neighbors | **the Frolovskys** | Two-room flat separated from the Samsonovs’. |
+| Chauffeur | **Novikov** | “He was a good man”; stopped the car with Tesha. |
+| Colleagues / well-known | **Kaganovich** | Chairman of the commission for settling the new house. |
+| | **Postyshev** | In the photo “At the CC of the VKP(b)” — third next to Papa (Papa — second from the right). |
+
+### Places
+- **v. Mikhaile[ny?]** — unveiling of the bust and museum of T. P. Samsonov, 9.V.1985.
+- **Vozdvizhenka** — the flat where they lived when the author was ~3.
+- **Serebryany Bor** — summer songs in the garden with Papa (burka, tobacco flowers).
+- **Voentorg / “Ekonomka”** (former Economic Officers’ Society) — 2–3 houses from the old flat.
+- **Mokhovaya** — old house; nearby a little second-hand bookshop.
+- **Vsekhsvyatskaya** (now **Saratovskaya**) — the new CC house; “the first house built under Sov. power.”
+  - Entrance **12**, floor **4**, flat **223**, originally **6 rooms** (2 separated off → for the Frolovskys).
+  - Street sloping, led **toward the Manezh**.
+- Entrance **10** — friend Marina.
+
+### Dates / ages
+- Plaque on the bust: **1885–1955**.
+- Unveiling of bust/museum: **9 May 1985**.
+- Author: **&lt;3** (tea on the pillow); **~3** (pince-nez; Vozdvizhenka); **3–4** (Voentorg; brother 4, sister 10).
+- Move: **end of 1930 / 1931**; Tesha **~6–7**; author then **~6–7** (by her words about meeting Marina).
+
+### Objects / everyday life
+- Dog: **Irish setter[?]**, name **Jack**.
+- Bath heated with **firewood** (no gas or hot water in the old house).
+- **Piano** bought on hire purchase → given to the club of Father’s organization (**the Cheka**).
+- Doll sewn by Mama (face with indelible pencil); bought porcelain dolls.
+- **Brehm** (zoology); tissue paper for tracing pictures.
+- Geographical map of both hemispheres above the author’s bed.
+- Father’s penknife (the author still has it “to this day”).
+- Iron bedsteads in the new house; places at the table: Papa in the center, Mama — [breaks off].
+
+### Books / culture (Papa)
+- Works: **Klyuchevsky, Solovyov, Kostomarov, Rozhkov** and others.
+- His own book: ***Outside the Law*** (exile to Siberia).
+- **Lermontov**: “The Airship” (quotation about the emperor, the tricorne hat, the grey campaign coat).
+- Sang Ukrainian: **“Reve, tai stohne Dnipr shyrokyi.”**
+
+### Photos on the pages
+1. **031** — bust of T. P. Samsonov (plaque 1885–1955).
+2. **033** — portrait of Papa (“looks very much like his true self”).
+3. **039** — two group shots at the CC of the VKP(b); in the upper one Papa second from the right, Postyshev next to him; in the lower — “at the edge,” arrow “Papa.”
+
+### Uncertainties (do not invent)
+- Exact spelling of “Koblan[?] dog” / “with faith — tail” in Genya’s verses.
+- The word “[tenyu?]” (Genya’s thing at the “inquiry”).
+- “Predanie” — the author’s remark at the punishment.
+- Surname of friend Marina; expansion of “(F. Kon).”
+- Full top of rubbed-out paragraphs on **036** and **038**.
+- Correspondence of the age “sister — 10” with other genealogy sources — **only as recorded here**.
+
+
+---
+
+</details>
+
+---
+
+*← [Father, marriage and children](/en/memoirs/diary/02-father-marriage-children/) · [Notebook contents](/en/memoirs/diary/) · [War, 1941](/en/memoirs/diary/04-war-1941/) →*

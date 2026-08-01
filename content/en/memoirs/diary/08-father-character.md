@@ -1,6 +1,8 @@
 ---
 title: "Father’s character"
 date: 2026-08-01
+weight: 90
+ShowReadingTime: false
 draft: false
 description: "Stories of principle, gifts, the garden, students, the year 1951."
 summary: "Stories of principle, gifts, the garden, students, the year 1951."
@@ -807,6 +809,10 @@ throw a spadeful of earth onto F. E.’s coffin I
 wept.” Papa sincerely loved this man.  
 (see the interesting recollections in Father’s notebook
 
-*[the page breaks off; continuation, apparently, on the next handwritten page outside this range / carried over onto pasted inserts]*
+*The sentence breaks off at the lower edge of original_page 071. No continuation was found in the available pages of the first batch.*
 
 ---
+
+---
+
+*← [Dacha, rest, anniversaries](/en/memoirs/diary/07-dacha-anniversaries/) · [Notebook contents](/en/memoirs/diary/) · [Documents in the notebook](/en/memoirs/diary/09-documents-in-notebook/) →*

@@ -95,13 +95,9 @@ One frame (best public scan; the alternate page-102 scan remains archive-only).
 
 {{< figure src="/photos/archive-b02/b02-mp082-ph03.jpg" caption="Lyublino / Yablonnaya, July 1953 (caption on the leaf)." >}}
 
-## Notebook pages (full frame — privacy)
+## Family leaves (not in the public gallery yet)
 
-Whole pages whose individual prints still await **identity review** (Seryozha and later portraits). Full day/month of birth is not published on the site.
-
-{{< figure src="/photos/dnevnik-tt/str-155.jpg" caption="Seryozha (b. 1957) — portrait and notes on the younger son." >}}
-
-{{< figure src="/photos/dnevnik-tt/str-157.jpg" caption="Seryozha: “10th form”; “Already a student”; “Elder and younger”." >}}
+Leaves with portraits and captions that may show **living people** (including former notebook pages 155 and 157) are **not shown** here until the family decides. There is no public “withheld” status block.
 
 ---
 

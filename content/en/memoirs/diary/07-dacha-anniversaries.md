@@ -179,7 +179,7 @@ fine friend!
 
 <!-- p. 055 -->
 
-*(verses on a separate leaf; original_page 055; raw скан upside-down 180°)*
+*(verses on a separate leaf; original_page 055; scan orientation corrected)*
 
 Yura’s poem, composed for [the anniversary day?].
 
@@ -224,7 +224,7 @@ From harsh earthquakes
 
 <!-- p. 056 -->
 
-*(original_page 056; raw скан upside-down 180°; continuation of Yura’s verse)*
+*(original_page 056; scan orientation corrected; continuation of Yura’s verse)*
 
 5) Tatyana and Inna sang songs  
 A boy walked like Vanka-Vstanka[?]  

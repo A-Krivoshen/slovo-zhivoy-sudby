@@ -26,7 +26,7 @@ privacy_reviewed: true
 
 <!-- p. 058 -->
 
-*(squared notebook leaf; original_page 058; raw скан upside-down 180°; on the right — show-through of a neighboring entry)*
+*(squared notebook leaf; original_page 058; scan orientation corrected; on the right — show-through of a neighboring entry)*
 
 **Meeting with the film director Ludovkin[?].**
 *(the handwriting is read stably as “Ludovkin”; the first letter could theoretically be “P” — do not merge with other people without confirmation)*
@@ -94,7 +94,7 @@ continued this tradition.
 
 <!-- p. 059 -->
 
-*(almost empty leaf; original_page 059; raw скан upside-down 180°; end of the quotation from PAGE 058)*
+*(almost empty leaf; original_page 059; scan orientation corrected; end of the quotation from PAGE 058)*
 
 …Ludovkin[?] will not be  
 subjected to any interrogation. The investigation  

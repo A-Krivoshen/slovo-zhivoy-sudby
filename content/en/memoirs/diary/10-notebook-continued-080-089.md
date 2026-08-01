@@ -506,8 +506,7 @@ Dear and beloved little sister of mine!
 ---
 
 {{< archive_note type="status" >}}
-**Status:** first_pass · batch `manuscript-2026-08-01-b02` · original_page **080–089**.  
-Handwriting refinement continues; EN follows RU after stabilization.
+First-pass transcription; handwriting checks continue.
 {{< /archive_note >}}
 
 ---

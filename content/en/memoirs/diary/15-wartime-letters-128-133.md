@@ -1,29 +1,33 @@
 ---
-title: "Wartime letters (pp. 128–133)"
+title: "Friends’ front-line letters (pp. 128–133)"
 date: 2026-08-01
 weight: 160
 ShowReadingTime: false
 draft: false
-description: "Inserted letters and a postcard: wartime correspondence, including letters from Gennady Vokhmintsev."
-summary: "Pp. 128–133 — letters and a postcard."
+description: "Letters and a postcard from wartime friends addressed to Tanya."
+summary: "Pp. 128–133 — friends’ front-line letters."
 translationKey: "diary-15-pisma-128-133"
 tags: ["diary", "notebook"]
-categories: [["Memoirs"]]
+categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]
 ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "128-133"
 transcription_status: "first_pass"
-translation_status: "synchronized"
+translation_status: "pending"
 editorial_status: "working"
 last_verified: "2026-08-01"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
-Separate letters and a postcard inserted in the notebook: wartime voices addressed to Tanya.
+**Friends’ front-line letters** inserted in the notebook: wartime voices addressed to Tanya.
+
+**Letters** are also in the document collection: [Letters from the front](/en/documents/letters-from-the-front/).
 
 *Letter texts as on the leaves; uncertain places are marked.*
+
+*English translation of the letter texts is still being prepared; the Russian transcription of each leaf is given below.*
 
 ---
 
@@ -31,7 +35,7 @@ Separate letters and a postcard inserted in the notebook: wartime voices address
 
 {{< figure src="/photos/dnevnik-tt/str-128.jpg" caption="A wartime letter." >}}
 
-*[Text of the notebook page (Russian):]*
+*[Text of the letter or document (Russian):]*
 
 Здравствуй, Таня!
 Я получил от тебя письмо. По размерам и содержанию оно очень маленькое и краткое, собственно ты ничего не написала, я не знаю почему и может быть
@@ -67,7 +71,7 @@ Separate letters and a postcard inserted in the notebook: wartime voices address
 
 {{< figure src="/photos/dnevnik-tt/str-129.jpg" caption="Continuation of the letter." >}}
 
-*[Text of the notebook page (Russian):]*
+*[Text of the letter or document (Russian):]*
 
 ведь весна - по существу, есть символ молодости,
 счастья, веселья. Что может быть приятней как в один
@@ -233,4 +237,4 @@ Union postale universelle — Weltpostverein — Union postale universelle
 
 ---
 
-*← [War: evacuation (pp. 120–127)](/en/memoirs/diary/14-war-evacuation-120-127/) · [Notebook contents](/en/memoirs/diary/) · [Friends, Victory (pp. 134–139)](/en/memoirs/diary/16-friends-victory-134-139/) →*
+*← [School and war: evacuation (pp. 120–127)](/en/memoirs/diary/14-war-evacuation-120-127/) · [Notebook contents](/en/memoirs/diary/) · [Youth and meeting Sasha (pp. 134–139)](/en/memoirs/diary/16-friends-victory-134-139/) →*

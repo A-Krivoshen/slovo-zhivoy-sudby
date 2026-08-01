@@ -1,14 +1,14 @@
 ---
-title: "Письма военных лет (стр. 128–133)"
+title: "Фронтовые письма друзей (стр. 128–133)"
 date: 2026-08-01
 weight: 160
 ShowReadingTime: false
 draft: false
-description: "Вложенные письма и открытка: переписка военных лет, в том числе письма Геннадия Вохминцева."
-summary: "Стр. 128–133 — письма и открытка."
+description: "Вложенные письма и открытка друзей военных лет, обращённые к Тане."
+summary: "Стр. 128–133 — фронтовые письма друзей."
 translationKey: "diary-15-pisma-128-133"
 tags: ["дневник", "тетрадь"]
-categories: [["Воспоминания"]]
+categories: ["Воспоминания"]
 people: ["Кривошеина Татьяна Тимофеевна"]
 ShowToc: true
 source_title: "Наша родословная. Самсоновы"
@@ -21,7 +21,9 @@ source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
-Отдельные письма и открытка, вложенные в тетрадь: голоса военных лет, обращённые к Тане.
+**Фронтовые письма друзей**, вложенные в тетрадь: голоса военных лет, обращённые к Тане.
+
+**Письма** — также в коллекции документов: [Письма с фронта](/dokumenty/pisma-s-fronta/).
 
 *Тексты писем — как на листах; спорные места помечены.*
 
@@ -221,4 +223,4 @@ Union postale universelle — Weltpostverein — Union postale universelle
 
 ---
 
-*← [Война: эвакуация (стр. 120–127)](/vospominaniya/dnevnik/14-voyna-evakuaciya-120-127/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Друзья, Победа (стр. 134–139)](/vospominaniya/dnevnik/16-druzya-pobeda-134-139/) →*
+*← [Школа и война: эвакуация (стр. 120–127)](/vospominaniya/dnevnik/14-voyna-evakuaciya-120-127/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Юность и знакомство с Сашей (стр. 134–139)](/vospominaniya/dnevnik/16-druzya-pobeda-134-139/) →*

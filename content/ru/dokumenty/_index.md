@@ -6,3 +6,18 @@ translationKey: "documents"
 ---
 
 **Документы и источники**: письма, свидетельства, справки, выписки и другие бумаги, подтверждающие и дополняющие семейную историю.
+
+## Письма с фронта
+
+Отдельная коллекция военных писем из тетради (брат **Тимоша / Тёма**, товарищи, переписка с Таней):
+
+→ **[Письма с фронта](/dokumenty/pisma-s-fronta/)**
+
+## Другие документы
+
+- [Орден Красного Знамени — Самсонов Т. П.](/dokumenty/orden-krasnogo-znameni-samsonov/)
+- [Удостоверение о револьвере «Кольт», 1919](/dokumenty/udostoverenie-kolt-1919/)
+- [Медаль «За оборону Сталинграда» — Самсонов Т. Т.](/dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt/)
+- [Знак ГПУ — Самсонов](/dokumenty/znak-gpu-samsonov/)
+- [Высылка из Великобритании, 1917](/dokumenty/vysylka-velikobritaniya-1917/)
+- [«Правда» о Дзержинском, 1929](/dokumenty/pravda-o-dzerzhinskom-1929/)

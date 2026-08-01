@@ -1,35 +1,39 @@
 ---
-title: "School, friends, the club (pp. 109–119)"
+title: "Tanya: childhood and school; school and war (pp. 109–119)"
 date: 2026-08-01
 weight: 140
 ShowReadingTime: false
 draft: false
-description: "Childhood and school: neighbours, music, “Morozovka,” the courtyard club, the last pre-war form."
-summary: "Pp. 109–119 — school and friends before the war."
+description: "Childhood and school (pp. 109–117); the last pre-war form and the outbreak of war (pp. 118–119)."
+summary: "Pp. 109–119 — childhood, school, start of the war."
 translationKey: "diary-13-shkola-109-119"
 tags: ["diary", "notebook"]
-categories: [["Memoirs"]]
+categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]
 ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "109-119"
 transcription_status: "first_pass"
-translation_status: "synchronized"
+translation_status: "pending"
 editorial_status: "working"
 last_verified: "2026-08-01"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
-Memories of school, neighbours, friends, the courtyard club, and the last pre-war form.
+Memories of childhood, school, friends, and the turn to the war years.
 
 *From the handwritten notebook “Our genealogy: the Samsonovs.”*
 
+*English translation of these notebook pages is still being prepared; the Russian transcription is given below.*
+
 ---
+
+## Tanya: childhood and school {#tanya-detstvo-shkola}
 
 <!-- p. 109 -->
 
-{{< figure src="/photos/dnevnik-tt/str-109.jpg" caption="Opening of an autobiographical entry." >}}
+{{< figure src="/photos/dnevnik-tt/str-109.jpg" caption="Opening of the autobiography: birth, family, childhood." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -84,7 +88,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 <!-- p. 110 -->
 
-{{< figure src="/photos/dnevnik-tt/str-110.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-110.jpg" caption="The dog Lavka; the nanny; move to Serafimovich Street." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -151,7 +155,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 <!-- p. 111 -->
 
-{{< figure src="/photos/dnevnik-tt/str-111.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-111.jpg" caption="Friends, Volynskoye, starting School No. 19." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -215,7 +219,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 <!-- p. 112 -->
 
-{{< figure src="/photos/dnevnik-tt/str-112.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-112.jpg" caption="1st form: Nina Ivanovna Avdeeva; 5th form." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -275,7 +279,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 <!-- p. 113 -->
 
-{{< figure src="/photos/dnevnik-tt/str-113.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-113.jpg" caption="Pioneers, the paper Red Neckerchief, courtyard and rink." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -338,7 +342,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 <!-- p. 114 -->
 
-{{< figure src="/photos/dnevnik-tt/str-114.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-114.jpg" caption="Morozovka, 1937–38, courtyard games." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -396,7 +400,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 <!-- p. 115 -->
 
-{{< figure src="/photos/dnevnik-tt/str-115.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-115.jpg" caption="Courtyard club: circles, plays, Lyubov Yarovaya." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -458,7 +462,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 <!-- p. 116 -->
 
-{{< figure src="/photos/dnevnik-tt/str-116.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-116.jpg" caption="Spain, Red October factory, 6th form “A”." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -519,7 +523,7 @@ Memories of school, neighbours, friends, the courtyard club, and the last pre-wa
 
 {{< figure src="/photos/dnevnik-tt/str-117.jpg" caption="Class 6 “A” — school photograph." >}}
 
-*[Text of the letter or document (Russian):]*
+*[Text of the notebook page (Russian):]*
 
 собрание и решили разделить наш класс,
 слив его с 6„б". В конце уч. года так было
@@ -558,6 +562,8 @@ III ряд
 5. Кира Пронюкай
 
 ---
+
+## School and war {#shkola-i-voyna}
 
 <!-- p. 118 -->
 
@@ -681,4 +687,4 @@ III ряд
 
 ---
 
-*← [Brother at the front (pp. 101–108)](/en/memoirs/diary/12-brother-front-letters-101-108/) · [Notebook contents](/en/memoirs/diary/) · [War: evacuation (pp. 120–127)](/en/memoirs/diary/14-war-evacuation-120-127/) →*
+*← [Uncle Tyoma: documents and Stalingrad](/en/memoirs/diary/12-brother-front-letters-101-108/) · [Notebook contents](/en/memoirs/diary/) · [School and war (pp. 120–127)](/en/memoirs/diary/14-war-evacuation-120-127/) →*

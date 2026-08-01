@@ -41,7 +41,7 @@ totals:
   web_print_urls_new: 32
   withheld_privacy: 11
   urls_replaced: 0
-  duplicate_groups_confirmed: 3
+  duplicate_groups_confirmed: 4
 duplicate_groups:
 - duplicate_group: dzerzhinsky-trio-winter
   status: visually_confirmed_related
@@ -94,6 +94,27 @@ duplicate_groups:
   replace_decision: keep_all
   reason: Same portrait print on op002. Published portrait URL stable. New B01 crop
     is archive/print extraction; page scan remains for notebook context.
+- duplicate_group: civil-defense-exam-101-102
+  status: visually_confirmed_same_print
+  members:
+  - path: /photos/dnevnik-tt/str-101.jpg
+    role: primary_public
+    source_batch: manuscript-b02
+    original_page: 101
+  - path: /photos/dnevnik-tt/str-102.jpg
+    role: alternate_scan
+    source_batch: manuscript-b02
+    original_page: 102
+  - path: /photos/archive-b02/b02-mp022-ph01.jpg
+    role: notebook_print_crop_b02
+    original_page: 101
+  - path: /photos/archive-b02/b02-mp023-ph03.jpg
+    role: alternate_scan_print_crop
+    original_page: 102
+  canonical_public_path: /photos/dnevnik-tt/str-101.jpg
+  replace_decision: keep_both_scans_one_public
+  reason: Same civil-defense exam print (op101 landscape page scan primary; op102
+    portrait alternate_scan). Do not show both in chapter or gallery.
 photos:
 - photo_id: pub-photos__archive-b02__b02-mp001-ph01
   source_batch: manuscript-b02
@@ -566,6 +587,9 @@ photos:
   - /photos/dnevnik-tt/str-101.jpg
   review_status: published_preexisting
   privacy_status: unknown
+  duplicate_group: civil-defense-exam-101-102
+  role: primary_public
+  notes: Primary public page scan of civil-defense exam print; pair with op102 alternate_scan.
 - photo_id: pub-photos__dnevnik-tt__str-102
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
@@ -573,11 +597,15 @@ photos:
   merged_page: 23
   object_type: page_scan_overview
   master_source: static/photos/dnevnik-tt/str-102.jpg
-  canonical_public_path: /photos/dnevnik-tt/str-102.jpg
+  canonical_public_path: /photos/dnevnik-tt/str-101.jpg
   existing_public_paths:
   - /photos/dnevnik-tt/str-102.jpg
-  review_status: published_preexisting
+  review_status: alternate_scan_archive_only
   privacy_status: unknown
+  duplicate_group: civil-defense-exam-101-102
+  role: alternate_scan
+  notes: Alternate orientation scan of same exam print as op101. Keep file; do not
+    publish second full figure in chapter or gallery.
 - photo_id: pub-photos__dnevnik-tt__str-103
   source_batch: manuscript-b02
   source_type: manuscript_page_scan
@@ -1864,14 +1892,15 @@ photos:
   merged_page: 22
   object_type: group_photo
   master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp022-ph01-master.png
-  canonical_public_path: /photos/archive-b02/b02-mp022-ph01.jpg
+  canonical_public_path: /photos/dnevnik-tt/str-101.jpg
   existing_public_paths:
   - /photos/archive-b02/b02-mp022-ph01.jpg
   review_status: visually_verified
   privacy_status: public_historical
   batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
-  duplicate_group: null
-  notes: original_page preliminary if >=080
+  duplicate_group: civil-defense-exam-101-102
+  role: notebook_print_crop_b02
+  notes: Same civil-defense exam print as op101/op102; chapter primary is page scan str-101.
 - photo_id: b02-mp023-ph03
   source_batch: manuscript-b02
   source_type: manuscript_print_crop
@@ -1879,14 +1908,16 @@ photos:
   merged_page: 23
   object_type: group_photo
   master_source: inbox/scans/memoirs/batch_b02/crops/master/b02-mp023-ph03-master.png
-  canonical_public_path: /photos/archive-b02/b02-mp023-ph03.jpg
+  canonical_public_path: /photos/dnevnik-tt/str-101.jpg
   existing_public_paths:
   - /photos/archive-b02/b02-mp023-ph03.jpg
-  review_status: visually_verified
+  review_status: alternate_scan_archive_only
   privacy_status: public_historical
   batch_manifest: data/archive_photos/batch-2026-08-01-b02.yaml
-  duplicate_group: null
-  notes: original_page preliminary if >=080
+  duplicate_group: civil-defense-exam-101-102
+  role: alternate_scan_print_crop
+  notes: Alternate print crop of same exam photograph (op102). Do not list with primary
+    in gallery.
 - photo_id: b02-mp038-ph01
   source_batch: manuscript-b02
   source_type: manuscript_print_crop

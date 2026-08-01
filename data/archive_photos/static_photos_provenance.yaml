@@ -748,11 +748,12 @@ images:
   original_page: 101
   merged_page: 22
   provenance_confidence: medium
-  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
-    QA.
-  object_role: page_scan_overview
+  provenance_notes: B02 page scan; primary public scan of civil-defense exam print
+    (duplicate_group civil-defense-exam-101-102).
+  object_role: primary_public
   canonical_public_path: /photos/dnevnik-tt/str-101.jpg
   url_stable: true
+  duplicate_group: civil-defense-exam-101-102
   content_refs: []
   bytes: 41630
   width: 841
@@ -764,11 +765,12 @@ images:
   original_page: 102
   merged_page: 23
   provenance_confidence: medium
-  provenance_notes: B02 page scan; original_page 080–161 PRELIMINARY pending junction
-    QA.
-  object_role: page_scan_overview
-  canonical_public_path: /photos/dnevnik-tt/str-102.jpg
+  provenance_notes: Alternate page scan of same civil-defense exam print as op101;
+    keep file on disk, not a second public figure.
+  object_role: alternate_scan
+  canonical_public_path: /photos/dnevnik-tt/str-101.jpg
   url_stable: true
+  duplicate_group: civil-defense-exam-101-102
   content_refs: []
   bytes: 42200
   width: 595

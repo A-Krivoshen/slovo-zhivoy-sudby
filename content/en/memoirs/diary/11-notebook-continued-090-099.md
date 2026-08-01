@@ -1,11 +1,11 @@
 ---
-title: "Notebook continued (pp. 090–098)"
+title: "Sister Genya and brother Tyoma (pp. 090–098)"
 date: 2026-08-01
 weight: 120
 ShowReadingTime: false
 draft: false
-description: "End of a letter to her sister, Genya’s fate, family photos, and the story of brother Tyoma (pp. 090–098)."
-summary: "Pp. 090–098 — sister Genya, brother Tyoma, Sasha’s notes."
+description: "Sister Genya’s fate, family photographs, and the story of brother Tyoma (pp. 090–098)."
+summary: "Pp. 090–098 — sister Genya, brother Tyoma."
 translationKey: "diary-11-prodolzhenie-090-099"
 tags: ["diary", "notebook"]
 categories: ["Memoirs"]
@@ -22,7 +22,7 @@ source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
-Continuation of Tatyana Timofeevna’s handwritten notebook: the end of a letter to her sister, memories of Genya, family photographs, and the story of her brother Tyoma.
+Continuation of the account of **sister Genya** and **brother Tyoma**: the end of a letter, Genya’s fate, family photographs, and memories of the brother.
 
 *From the handwritten notebook “Our genealogy: the Samsonovs.”*
 
@@ -512,4 +512,4 @@ he wrote this to me. I love him too.
 
 ---
 
-*← [Notebook continued (pp. 080–089)](/en/memoirs/diary/10-notebook-continued-080-089/) · [Notebook contents](/en/memoirs/diary/) · [Brother at the front (pp. 101–108)](/en/memoirs/diary/12-brother-front-letters-101-108/) →*
+*← [Timofey Petrovich; sister Genya (pp. 080–089)](/en/memoirs/diary/10-notebook-continued-080-089/) · [Notebook contents](/en/memoirs/diary/) · [Uncle Tyoma: documents and Stalingrad](/en/memoirs/diary/12-brother-front-letters-101-108/) →*

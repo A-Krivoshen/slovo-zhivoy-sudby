@@ -50,3 +50,33 @@ groups:
   replace_decision: keep_all
   reason: Same portrait print on op002. Published portrait URL stable. New B01 crop
     is archive/print extraction; page scan remains for notebook context.
+- duplicate_group: civil-defense-exam-101-102
+  status: visually_confirmed_same_print
+  members:
+  - path: /photos/dnevnik-tt/str-101.jpg
+    role: primary_public
+    source_batch: manuscript-b02
+    original_page: 101
+    note: Landscape page scan; primary figure in chapter 12
+  - path: /photos/dnevnik-tt/str-102.jpg
+    role: alternate_scan
+    source_batch: manuscript-b02
+    original_page: 102
+    note: Portrait page scan of the same print; keep file, do not show second full figure
+  - path: /photos/archive-b02/b02-mp022-ph01.jpg
+    role: notebook_print_crop_b02
+    source_batch: manuscript-b02
+    merged_page: 22
+    original_page: 101
+    note: Print crop from op101; orientation may need upright rotation for gallery use
+  - path: /photos/archive-b02/b02-mp023-ph03.jpg
+    role: alternate_scan_print_crop
+    source_batch: manuscript-b02
+    merged_page: 23
+    original_page: 102
+    note: Print crop from op102 of same exam photograph; alternate only
+  canonical_public_path: /photos/dnevnik-tt/str-101.jpg
+  replace_decision: keep_both_scans_one_public
+  reason: Same civil-defense exam print pasted twice in notebook (op101 landscape scan,
+    op102 portrait scan). Publish only str-101 as primary chapter/gallery image; str-102
+    and second crop remain archival alternate_scan. Do not delete static files.

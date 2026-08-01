@@ -7,7 +7,7 @@ summary: "Father — full album biography; mother Eva Konstantinovna — materia
 translationKey: "father-and-mother"
 tags: ["parents", "family roots", "Samsonov"]
 categories: ["Parents"]
-people: ["Timofey Petrovich Samsonov", "Eva Konstantinovna", "Tatyana Timofeevna Krivosheina"]
+people: ["Timofey Petrovich Samsonov", "Eva Konstantinovna", "Tatyana Timofeevna Krivosheina", "Timofey Timofeevich Samsonov"]
 ShowToc: true
 cover:
   image: "/photos/samsonov-tp/05-studio-moscow-oval.jpg"
@@ -32,6 +32,15 @@ In short: a revolutionary-era life (Siberia 1910, Britain 1917, Cheka and Dzerzh
 
 From her **daughter’s diary**: Moscow, 2nd Brestskaya, Cheka typist, meeting T. P. Samsonov.  
 → [My mother](/en/memoirs/diary/01-my-mother/)
+
+## The Samsonov children
+
+From the daughter’s notebook — three children:
+
+1. **Evgenia (Genya) Timofeevna** — sister.  
+2. **[Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/)** (**Tyoma**; often **“Zhenya”** in the manuscript, b. 1923) — brother.  
+   Story: [notebook continued (pp. 090–098)](/en/memoirs/diary/11-notebook-continued-090-099/); front letters and awards: [brother at the front (pp. 101–108)](/en/memoirs/diary/12-brother-front-letters-101-108/); document: [medal “For the Defence of Stalingrad”](/en/documents/stalingrad-defense-medal-samsonov-tt/) — **T. T.**, not father **T. P.**  
+3. **Tatyana Timofeevna Krivosheina** — author of the notebook.
 
 ## Daughter in the same set
 

@@ -1,37 +1,41 @@
 ---
-title: "Friends, theatre, Victory Day (pp. 134–139)"
+title: "Youth and meeting Sasha (pp. 134–139)"
 date: 2026-08-01
 weight: 170
 ShowReadingTime: false
 draft: false
-description: "The circle of friends in the war and postwar years: the institute, theatre, Victory Day, evenings."
-summary: "Pp. 134–139 — friends and Victory."
+description: "Youth: friends, theatre, walks with Sasha, Victory Day."
+summary: "Youth and meeting Sasha."
 translationKey: "diary-16-druzya-134-139"
 tags: ["diary", "notebook"]
-categories: [["Memoirs"]]
+categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]
 ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "134-139"
 transcription_status: "first_pass"
-translation_status: "synchronized"
+translation_status: "pending"
 editorial_status: "working"
 last_verified: "2026-08-01"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
-A narrative about friends, meetings, the theatre, and Victory Day — continuation of the notebook’s continuous prose.
+Youth in the war and early postwar years: friends, theatre, walks, and meeting Sasha — continuation of the notebook’s continuous prose.
 
 *From the handwritten notebook.*
 
+*English translation of these notebook pages is still being prepared; the Russian transcription is given below.*
+
 ---
+
+## Youth and meeting Sasha {#yunost-sasha}
 
 <!-- p. 134 -->
 
-{{< figure src="/photos/dnevnik-tt/str-134.jpg" caption="Notebook page: friends and the postwar years." >}}
+{{< figure src="/photos/dnevnik-tt/str-134.jpg" caption="Sixteenth birthday; Gennady; letters to the front." >}}
 
-*[Text of the letter or document (Russian):]*
+*[Text of the notebook page (Russian):]*
 
 В гости к нам пришли Дуся Яншина
 (сестра М.М. Яншина), Зинаида Александровна и Геннадий. Это было прекрасно!
@@ -49,7 +53,7 @@ A narrative about friends, meetings, the theatre, and Victory Day — continuati
 
 <!-- p. 135 -->
 
-{{< figure src="/photos/dnevnik-tt/str-135.jpg" caption="Notebook page: friends and the postwar years." >}}
+{{< figure src="/photos/dnevnik-tt/str-135.jpg" caption="The Yanshins, the Moscow Art Theatre; first kiss; girls’ school." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -112,7 +116,7 @@ A narrative about friends, meetings, the theatre, and Victory Day — continuati
 
 <!-- p. 136 -->
 
-{{< figure src="/photos/dnevnik-tt/str-136.jpg" caption="Notebook page: friends and the postwar years." >}}
+{{< figure src="/photos/dnevnik-tt/str-136.jpg" caption="Students; Sasha’s phone call; evening walks." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -169,7 +173,7 @@ A narrative about friends, meetings, the theatre, and Victory Day — continuati
 
 <!-- p. 137 -->
 
-{{< figure src="/photos/dnevnik-tt/str-137.jpg" caption="Notebook page: friends and the postwar years." >}}
+{{< figure src="/photos/dnevnik-tt/str-137.jpg" caption="Love begins; Dynamo metro; decision to marry." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -227,7 +231,7 @@ A narrative about friends, meetings, the theatre, and Victory Day — continuati
 
 <!-- p. 138 -->
 
-{{< figure src="/photos/dnevnik-tt/str-138.jpg" caption="Notebook page: friends and the postwar years." >}}
+{{< figure src="/photos/dnevnik-tt/str-138.jpg" caption="Meeting Sasha’s mother; the circle of friends; Victory Day." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -285,7 +289,7 @@ A narrative about friends, meetings, the theatre, and Victory Day — continuati
 
 <!-- p. 139 -->
 
-{{< figure src="/photos/dnevnik-tt/str-139.jpg" caption="Notebook page: friends and the postwar years." >}}
+{{< figure src="/photos/dnevnik-tt/str-139.jpg" caption="Pestovo; Davydov; friendship with Sasha deepens." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -348,4 +352,4 @@ A narrative about friends, meetings, the theatre, and Victory Day — continuati
 
 ---
 
-*← [Wartime letters (pp. 128–133)](/en/memoirs/diary/15-wartime-letters-128-133/) · [Notebook contents](/en/memoirs/diary/) · [Crimea, family (pp. 140–149)](/en/memoirs/diary/17-crimea-family-140-149/) →*
+*← [Friends’ front-line letters (pp. 128–133)](/en/memoirs/diary/15-wartime-letters-128-133/) · [Notebook contents](/en/memoirs/diary/) · [Crimea, Sevastopol, and the start of a family](/en/memoirs/diary/17-crimea-family-140-149/#krym-semya) →*

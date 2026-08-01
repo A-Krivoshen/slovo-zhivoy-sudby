@@ -259,6 +259,10 @@ timeZone = 'Europe/Moscow'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        title = true
+        block = true
   [markup.highlight]
     style = 'monokai'
     lineNos = false

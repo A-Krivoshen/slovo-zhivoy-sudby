@@ -1,11 +1,11 @@
 ---
-title: "Notebook continued (pp. 080–089)"
+title: "Timofey Petrovich’s story continued; sister Genya (pp. 080–089)"
 date: 2026-08-01
 weight: 110
 ShowReadingTime: false
 draft: false
-description: "Photographs, biographical notes about Father, and the story of sister Genya (pp. 080–089)."
-summary: "Pp. 080–089 — notebook continued: Father, sister Genya."
+description: "Timofey Petrovich’s story continued (pp. 080–086) and the beginning of the account of sister Genya (pp. 087–089)."
+summary: "Pp. 080–089 — Timofey Petrovich; beginning of sister Genya."
 translationKey: "diary-10-prodolzhenie-080-089"
 tags: ["diary", "notebook"]
 categories: ["Memoirs"]
@@ -22,9 +22,13 @@ source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
-Continuation of Tatyana Timofeevna’s handwritten notebook: photographs, biographical notes about Father, and the story of her sister Genya.
+Continuation of Tatyana Timofeevna’s handwritten notebook: biographical notes about Father, then the story of her sister Genya.
 
 *From the handwritten notebook “Our genealogy: the Samsonovs.”*
+
+<a id="timofey-petrovich"></a>
+
+## Timofey Petrovich’s story continued (pp. 080–086)
 
 <!-- p. 080 -->
 
@@ -316,6 +320,10 @@ And in this picture Mama —
 
 ---
 
+<a id="genya-tyoma"></a>
+
+## Sister Genya and brother Tyoma (beginning, pp. 087–089)
+
 <!-- p. 087 -->
 
 {{< figure src="/photos/dnevnik-tt/str-087.jpg" caption="Sister and brother; Genya’s letter-verses, 1936." >}}
@@ -500,4 +508,4 @@ Dear and beloved little sister of mine!
 
 ---
 
-*← [Documents in the notebook](/en/memoirs/diary/09-documents-in-notebook/) · [Notebook contents](/en/memoirs/diary/) · [Notebook continued (pp. 090–098)](/en/memoirs/diary/11-notebook-continued-090-099/) →*
+*← [Documents in the notebook](/en/memoirs/diary/09-documents-in-notebook/) · [Notebook contents](/en/memoirs/diary/) · [Sister Genya and brother Tyoma (pp. 090–098)](/en/memoirs/diary/11-notebook-continued-090-099/) →*

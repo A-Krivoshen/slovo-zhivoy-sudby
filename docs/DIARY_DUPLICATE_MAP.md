@@ -13,6 +13,7 @@
 | 060 | 08 | **08** (note: partial of 058) | Mark as alternate scan, not new story |
 | 067–068 | 08 | **08** (067 primary; 068 = 180° duplicate) | Keep archival markers; do not invent second story |
 | 005–006 | 00 | **00** (005 primary; 006 alternate leaf scan) | physical_leaf_id: genealogy-krivoshein-01 |
+| 101–102 | 12 | **12** (`str-101` primary figure; `str-102` alternate_scan only) | Same civil-defense exam photograph (two page-scan orientations). Chapter shows only 101 figure + short archive note for 102. Keep both files on disk. Gallery must not list both. |
 
 ## Large “FACTS EXTRACTED” blocks
 

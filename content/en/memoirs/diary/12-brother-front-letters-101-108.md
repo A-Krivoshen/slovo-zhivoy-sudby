@@ -1,29 +1,33 @@
 ---
-title: "Brother at the front: letters and awards (pp. 101–108)"
+title: "Uncle Tyoma: documents and Stalingrad (pp. 101–108)"
 date: 2026-08-01
 weight: 130
 ShowReadingTime: false
 draft: false
-description: "An exam photo, front-line letters, and the medal “For the Defence of Stalingrad” — documents of brother Timofey Timofeevich."
-summary: "Pp. 101–108 — brother’s front letters and awards."
+description: "Documents of brother Timofey Timofeevich: exam photo, front-line letters, and the medal “For the Defence of Stalingrad.”"
+summary: "Pp. 101–108 — uncle Tyoma’s documents and Stalingrad."
 translationKey: "diary-12-brat-front-101-108"
 tags: ["diary", "notebook"]
-categories: [["Memoirs"]]
+categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina", "Timofey Timofeevich Samsonov"]
 ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "101-108"
 transcription_status: "first_pass"
-translation_status: "synchronized"
+translation_status: "pending"
 editorial_status: "working"
 last_verified: "2026-08-01"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
-Documents and letters of brother **Timofey Timofeevich (Tyoma)** from the war years: an exam photograph, letters from the army in the field, and the certificate for the medal “For the Defence of Stalingrad.”
+Documents of **uncle Tyoma** — brother **Timofey Timofeevich** — from the war years: an exam photograph, letters from the army in the field, and the certificate for the medal “For the Defence of Stalingrad.”
+
+See also: [certificate for the medal “For the Defence of Stalingrad”](/en/documents/stalingrad-defense-medal-samsonov-tt/) · [Letters from the front](/en/documents/letters-from-the-front/).
 
 *From the family notebook and inserted papers. The letters are in a front-line voice, not the diary’s.*
+
+*English translation of the inserted letters and forms is still being prepared; the Russian text of each leaf is given below.*
 
 ---
 
@@ -38,25 +42,20 @@ Documents and letters of brother **Timofey Timofeevich (Tyoma)** from the war ye
 
 ---
 
-<!-- p. 102 -->
+<!-- p. 102: alternate scan of 101 -->
 
-{{< figure src="/photos/dnevnik-tt/str-102.jpg" caption="The same photograph (alternate frame)." >}}
-
-*[Text of the letter or document (Russian):]*
-
-Экзамен по гражд.
-обороне.
+*P. 102 is another frame (crop) of the same exam photograph as p. 101; it is not a separate document.*
 
 ---
 
 <!-- p. 103 -->
 
-{{< figure src="/photos/dnevnik-tt/str-103.jpg" caption="Letter from the front, 11 May 1943." >}}
+{{< figure src="/photos/dnevnik-tt/str-103.jpg" caption="Letter from the front, 11 August 1943." >}}
 
 *[Text of the letter or document (Russian):]*
 
-Действующая
-армия
+11.08.43.                    Действующая
+                             армия
 
 Здравствуйте дорогие
 родители и сестрёнка
@@ -88,11 +87,11 @@ Documents and letters of brother **Timofey Timofeevich (Tyoma)** from the war ye
 
 <!-- p. 104 -->
 
-{{< figure src="/photos/dnevnik-tt/str-104.jpg" caption="Letter from the front, 28 June 1944." >}}
+{{< figure src="/photos/dnevnik-tt/str-104.jpg" caption="Letter from the front, 28 July 1944." >}}
 
 *[Text of the letter or document (Russian):]*
 
-28.VI.44     Здравствуйте дорогие  г. Самсонов
+28.VII.44    Здравствуйте дорогие  г. Самсонов
              родители
 
 Получил от вас письмо, в котором вы
@@ -246,19 +245,22 @@ Documents and letters of brother **Timofey Timofeevich (Tyoma)** from the war ye
 ★ От имени ПРЕЗИДИУМА
 ВЕРХОВНОГО СОВЕТА СССР
 медаль «За оборону Сталинграда»
+вручена „23“ сентября 1943 г.
 
-„23“ сентября 1943 г.
+II № 34769
 
 КОМАНДИР 79 ГВАРДЕЙСКОГО МИНОМЕТНОГО ПОЛКА
 
 командир 79 ГМП
 
-гв. подполковник   [росчерк]   В. Ю[?]опов
+гв. подполковник   [росчерк]   В. Попов
 
 (должность, военное звание и подпись лица, вручившего медаль)
 
----
+Standalone document page: [Medal “For the Defence of Stalingrad” — T. T. Samsonov](/en/documents/stalingrad-defense-medal-samsonov-tt/) (brother Tyoma, not father T. P.).
 
 ---
 
-*← [Notebook continued (pp. 090–098)](/en/memoirs/diary/11-notebook-continued-090-099/) · [Notebook contents](/en/memoirs/diary/) · [School, friends (pp. 109–119)](/en/memoirs/diary/13-school-friends-109-119/) →*
+---
+
+*← [Sister Genya and brother Tyoma (pp. 090–098)](/en/memoirs/diary/11-notebook-continued-090-099/) · [Notebook contents](/en/memoirs/diary/) · [Tanya: childhood and school](/en/memoirs/diary/13-school-friends-109-119/) →*

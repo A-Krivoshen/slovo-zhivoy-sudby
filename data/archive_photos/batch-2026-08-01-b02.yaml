@@ -4,6 +4,15 @@ sha256: 66f69122cc6e0adac3083fb1c3b2833db8a85c9d5952c692f125188f114d424d
 stage: visual_review_plus_layout_heuristics
 note: Includes layout-heuristic crops marked manually_adjusted — spot-check edges
   before treat as final archive masters.
+publication_note: |
+  2026-08-01 photo gallery rewrite (content/ru/foto/tetrad-semya-prodolzhenie.md
+  + content/en/photos/notebook-family-continued.md): prefer image-only crops under
+  static/photos/archive-b02/ when present; full notebook pages only for gaps.
+  Civil-defense: publish mp022-ph01 only (best of 101/102 pair; mp023-ph03 kept in archive).
+  Skip mp068-ph03 in gallery (near-duplicate of mp068-ph04).
+  Still full-page only (crops in inbox view/ but not static, or living_people_review):
+  orig 084 (grave groups), 146 (mp067), 148 (mp069), 155 (mp076), 157 (mp078×3), 161 (mp082×3).
+  Future: promote those view crops to static after privacy/edge QA; do not publish full DOB.
 photos:
 - photo_id: b02-mp001-ph01
   batch_id: manuscript-2026-08-01-b02
@@ -47,6 +56,7 @@ photos:
   review_notes: Physical print edges visible; safe pad 3% from auto. Captions outside
     print to the right.
   detection: auto_v3 + visual verify
+  published_path_ru: /photos/archive-b02/b02-mp001-ph01.jpg
 - photo_id: b02-mp001-ph02
   batch_id: manuscript-2026-08-01-b02
   merged_page: 1
@@ -92,6 +102,7 @@ photos:
   review_status: visually_verified
   review_notes: Crowd funeral scene; full print kept; signage СЫР visible in print.
   detection: auto_v3 + visual verify
+  published_path_ru: /photos/archive-b02/b02-mp001-ph02.jpg
 - photo_id: b02-mp002-ph01
   batch_id: manuscript-2026-08-01-b02
   merged_page: 2
@@ -133,6 +144,7 @@ photos:
     0 after bbox fix. Viewing crop rotated 180°; archival master keeps album mount
     orientation.
   detection: manual_bbox
+  published_path_ru: /photos/archive-b02/b02-mp002-ph01.jpg
 - photo_id: b02-mp005-ph01
   batch_id: manuscript-2026-08-01-b02
   merged_page: 5
@@ -241,6 +253,7 @@ photos:
   review_status: manually_adjusted
   review_notes: Manual split refined; no neighbor bleed.
   detection: manual
+  published_path_ru: /photos/archive-b02/b02-mp007-ph01.jpg
 - photo_id: b02-mp007-ph02
   batch_id: manuscript-2026-08-01-b02
   merged_page: 7
@@ -279,6 +292,7 @@ photos:
   review_status: manually_adjusted
   review_notes: Manual split refined; left edge not cutting adjacent print.
   detection: manual
+  published_path_ru: /photos/archive-b02/b02-mp007-ph02.jpg
 - photo_id: b02-mp013-ph01
   batch_id: manuscript-b02
   merged_page: 13
@@ -428,13 +442,16 @@ photos:
   privacy_status: public_historical
   review_status: visually_verified
   review_notes: Bbox covers print including handwritten caption margin; tight enough
-    for Stage B accept pending manual pad.
+    for Stage B accept pending manual pad. Same print as op102 (civil-defense-exam-101-102);
+    chapter primary is page scan str-101.
   detection: visual_accept_auto_bbox
   published_path_ru: /photos/archive-b02/b02-mp022-ph01.jpg
   crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp022-ph01-master.png
   crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp022-ph01-view.jpg
   context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp022-ph01-context.jpg
+  duplicate_group: civil-defense-exam-101-102
   duplicate_of_merged_page: null
+  gallery_include: false
 - photo_id: b02-mp023-ph03
   batch_id: manuscript-b02
   merged_page: 23
@@ -450,15 +467,19 @@ photos:
   people_from_caption: null
   identity_status: unknown
   privacy_status: public_historical
-  review_status: visually_verified
-  review_notes: Primary print bbox; slightly clips top edge vs full print+caption
-    — use with context crop for caption.
+  review_status: alternate_scan_archive_only
+  review_notes: Alternate scan of same civil-defense exam print as op101; do not publish
+    as second gallery/chapter figure.
   detection: visual_accept_auto_bbox
   published_path_ru: /photos/archive-b02/b02-mp023-ph03.jpg
   crop_master_path: inbox/scans/memoirs/batch_b02/crops/master/b02-mp023-ph03-master.png
   crop_view_path: inbox/scans/memoirs/batch_b02/crops/view/b02-mp023-ph03-view.jpg
   context_crop_path: inbox/scans/memoirs/batch_b02/crops/context/b02-mp023-ph03-context.jpg
-  duplicate_of_merged_page: null
+  duplicate_group: civil-defense-exam-101-102
+  duplicate_of_merged_page: 22
+  role: alternate_scan
+  gallery_include: false
+  gallery_note: Alternate civil-defense frame (orig 102); gallery uses mp022-ph01 only.
 - photo_id: b02-mp038-ph01
   batch_id: manuscript-b02
   merged_page: 38

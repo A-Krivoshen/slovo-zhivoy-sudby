@@ -1,35 +1,39 @@
 ---
-title: "War: evacuation and return (pp. 120–127)"
+title: "School and war: evacuation (pp. 120–127)"
 date: 2026-08-01
 weight: 150
 ShowReadingTime: false
 draft: false
-description: "1941–1942: the radio, home, New Year, the journey, a village with relatives, return to Moscow, school."
-summary: "Pp. 120–127 — evacuation and return."
+description: "1941–1942: evacuation, life with relatives, return to Moscow, school."
+summary: "Evacuation, return, and school in wartime."
 translationKey: "diary-14-voyna-120-127"
 tags: ["diary", "notebook"]
-categories: [["Memoirs"]]
+categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]
 ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "120-127"
 transcription_status: "first_pass"
-translation_status: "synchronized"
+translation_status: "pending"
 editorial_status: "working"
 last_verified: "2026-08-01"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
-The war years in the notebook: the outbreak of war, evacuation, the journey, life with relatives, and return to an emptied Moscow.
+Continuation of the “School and war” line: evacuation, the journey, life with relatives, return to an emptied Moscow, and school again.
 
 *From the handwritten notebook.*
 
+*English translation of these notebook pages is still being prepared; the Russian transcription is given below.*
+
 ---
+
+## School and war {#shkola-i-voyna}
 
 <!-- p. 120 -->
 
-{{< figure src="/photos/dnevnik-tt/str-120.jpg" caption="Notebook page, war years." >}}
+{{< figure src="/photos/dnevnik-tt/str-120.jpg" caption="Evacuation: air raids, the road to Kuybyshev." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -80,7 +84,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 <!-- p. 121 -->
 
-{{< figure src="/photos/dnevnik-tt/str-121.jpg" caption="Notebook page, war years." >}}
+{{< figure src="/photos/dnevnik-tt/str-121.jpg" caption="Kuybyshev: ration cards, school, housework, Komsomol." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -142,7 +146,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 <!-- p. 122 -->
 
-{{< figure src="/photos/dnevnik-tt/str-122.jpg" caption="Notebook page, war years." >}}
+{{< figure src="/photos/dnevnik-tt/str-122.jpg" caption="New Year 1942; hunger; mother’s arrival; prosthetic factory." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -204,7 +208,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 <!-- p. 123 -->
 
-{{< figure src="/photos/dnevnik-tt/str-123.jpg" caption="Notebook page, war years." >}}
+{{< figure src="/photos/dnevnik-tt/str-123.jpg" caption="Farewell to Kuybyshev; night unload; road to Popushnovo." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -266,7 +270,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 <!-- p. 124 -->
 
-{{< figure src="/photos/dnevnik-tt/str-124.jpg" caption="Notebook page, war years." >}}
+{{< figure src="/photos/dnevnik-tt/str-124.jpg" caption="Village with relatives; collective farm; pass to Moscow." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -328,7 +332,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 <!-- p. 125 -->
 
-{{< figure src="/photos/dnevnik-tt/str-125.jpg" caption="Notebook page, war years." >}}
+{{< figure src="/photos/dnevnik-tt/str-125.jpg" caption="Return to the looted Moscow flat." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -390,7 +394,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 <!-- p. 126 -->
 
-{{< figure src="/photos/dnevnik-tt/str-126.jpg" caption="Notebook page, war years." >}}
+{{< figure src="/photos/dnevnik-tt/str-126.jpg" caption="School again: 9th form; meeting Sasha Krivoshein." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -437,7 +441,7 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 <!-- p. 127 -->
 
-{{< figure src="/photos/dnevnik-tt/str-127.jpg" caption="A short caption on a separate leaf." >}}
+{{< figure src="/photos/dnevnik-tt/str-127.jpg" caption="Introductory note to a front letter (1943)." >}}
 
 *[Text of the letter or document (Russian):]*
 
@@ -456,4 +460,4 @@ The war years in the notebook: the outbreak of war, evacuation, the journey, lif
 
 ---
 
-*← [School, friends (pp. 109–119)](/en/memoirs/diary/13-school-friends-109-119/) · [Notebook contents](/en/memoirs/diary/) · [Wartime letters (pp. 128–133)](/en/memoirs/diary/15-wartime-letters-128-133/) →*
+*← [Tanya: childhood and school (pp. 109–119)](/en/memoirs/diary/13-school-friends-109-119/) · [Notebook contents](/en/memoirs/diary/) · [Friends’ front-line letters (pp. 128–133)](/en/memoirs/diary/15-wartime-letters-128-133/) →*

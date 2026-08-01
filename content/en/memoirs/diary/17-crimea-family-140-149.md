@@ -1,20 +1,20 @@
 ---
-title: "Crimea, marriage, hard years (pp. 140–149)"
+title: "Crimea, family, study (pp. 140–149)"
 date: 2026-08-01
 weight: 180
 ShowReadingTime: false
 draft: false
-description: "Postwar trips to Crimea, marriage, the birth of a son, the husband’s arrest, family photographs."
-summary: "Pp. 140–149 — Crimea, family, trials."
+description: "Crimea and Sevastopol, wedding and Mitya’s birth (140–144); study, work, and Sasha’s arrest (145–148); return and family (149)."
+summary: "Crimea, the start of a family, study, trials."
 translationKey: "diary-17-krym-140-149"
 tags: ["diary", "notebook"]
-categories: [["Memoirs"]]
+categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]
 ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "140-149"
 transcription_status: "first_pass"
-translation_status: "synchronized"
+translation_status: "pending"
 editorial_status: "working"
 last_verified: "2026-08-01"
 source_type: "manuscript"
@@ -25,11 +25,15 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 *From the handwritten notebook. Full birth dates of living people are not published on the site.*
 
+*English translation of these notebook pages is still being prepared; the Russian transcription is given below.*
+
 ---
+
+## Crimea, Sevastopol, and the start of a family {#krym-semya}
 
 <!-- p. 140 -->
 
-{{< figure src="/photos/dnevnik-tt/str-140.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-140.jpg" caption="Meeting Sasha’s friends; trip to Crimea, 1946." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -87,7 +91,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 <!-- p. 141 -->
 
-{{< figure src="/photos/dnevnik-tt/str-141.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-141.jpg" caption="Crimea: Gurzuf, Bakhchisarai, Livadia, Massandra, Sudak." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -149,7 +153,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 <!-- p. 142 -->
 
-{{< figure src="/photos/dnevnik-tt/str-142.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-142.jpg" caption="Sevastopol after the war; POWs; house on Aksakov Street." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -209,7 +213,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 <!-- p. 143 -->
 
-{{< figure src="/photos/dnevnik-tt/str-143.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-143.jpg" caption="Moscow 1946–47; New Year; decision to marry." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -272,7 +276,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 <!-- p. 144 -->
 
-{{< figure src="/photos/dnevnik-tt/str-144.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-144.jpg" caption="Wedding; start of married life; Mitya’s birth, 1948." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -311,7 +315,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 Васильевна и мы поехали домой.
 
                     Митя
-28 июля 1948г. у нас родился сын и
+В 1948 г. у нас родился сын и
 назвали его Дмитрием (Митей). Саша
 еще был в Москве, а после защиты
 диплома приехал в Симферополь.
@@ -332,9 +336,11 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 ---
 
+## Study, work, and class reunions {#ucheba-vypuskniki}
+
 <!-- p. 145 -->
 
-{{< figure src="/photos/dnevnik-tt/str-145.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-145.jpg" caption="State exams; Censorship; Sasha’s arrest on 2 September." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -394,7 +400,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 <!-- p. 146 -->
 
-{{< figure src="/photos/dnevnik-tt/str-146.jpg" caption="Text and photographs." >}}
+{{< figure src="/photos/dnevnik-tt/str-146.jpg" caption="School in Lyublino; former pupils; 30 years later." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -431,7 +437,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 <!-- p. 147 -->
 
-{{< figure src="/photos/dnevnik-tt/str-147.jpg" caption="Family photographs with captions." >}}
+{{< figure src="/photos/dnevnik-tt/str-147.jpg" caption="Photos: Pasha 1930; Tanya 1938; Pestovo 1945." >}}
 
 *[Text of the letter or document (Russian):]*
 
@@ -451,7 +457,7 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 <!-- p. 148 -->
 
-{{< figure src="/photos/dnevnik-tt/str-148.jpg" caption="Group 203, June; story continues." >}}
+{{< figure src="/photos/dnevnik-tt/str-148.jpg" caption="Class 203, June 1949; life without Sasha; return in 1954." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -497,9 +503,11 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 ---
 
+## Family and children {#semya-deti}
+
 <!-- p. 149 -->
 
-{{< figure src="/photos/dnevnik-tt/str-149.jpg" caption="Notebook page." >}}
+{{< figure src="/photos/dnevnik-tt/str-149.jpg" caption="Sasha returns; Kosino; father’s illness." >}}
 
 *[Text of the notebook page (Russian):]*
 
@@ -565,4 +573,4 @@ The postwar years: Crimea, marriage, the birth of a child, hard trials for the f
 
 ---
 
-*← [Friends, Victory (pp. 134–139)](/en/memoirs/diary/16-friends-victory-134-139/) · [Notebook contents](/en/memoirs/diary/) · [The sons (pp. 150–161)](/en/memoirs/diary/18-sons-150-161/) →*
+*← [Youth and meeting Sasha (pp. 134–139)](/en/memoirs/diary/16-friends-victory-134-139/) · [Notebook contents](/en/memoirs/diary/) · [Family and children (pp. 150–161)](/en/memoirs/diary/18-sons-150-161/) →*

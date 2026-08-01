@@ -2,8 +2,14 @@ title: pHash duplicate hints (assistive only)
 threshold_hamming_max: 10
 hash_size: 16
 note: HINT only. Confirm visually before duplicate_of.
-pair_count: 12
+pair_count: 13
 pairs:
+- a: static/photos/dnevnik-tt/str-101.jpg
+  b: static/photos/dnevnik-tt/str-102.jpg
+  hamming: null
+  status: visually_confirmed
+  duplicate_group: civil-defense-exam-101-102
+  note: Same civil-defense exam print; 101 primary_public, 102 alternate_scan.
 - a: static/photos/archive-b02/b02-mp007-ph02.jpg
   b: inbox/scans/memoirs/batch_b02/crops/view/b02-mp007-ph02-view.jpg
   hamming: 0

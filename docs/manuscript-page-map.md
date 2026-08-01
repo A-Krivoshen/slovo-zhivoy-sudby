@@ -158,3 +158,4 @@ Control PDF **не** подтверждает точность всей расш
 |------------------|--------------:|---------------:|------|
 | genealogy-krivoshein-01 | 005 | 006 | Two scans of one Krivoshein genealogical chart leaf; keep both archival numbers |
 | diary-accident-ludovkin | 058 | 060 | 060 is a cropped/partial re-scan of the same entry as 058 |
+| civil-defense-exam | 101 | 102 | Same exam photograph; 101 primary public figure, 102 alternate_scan only |

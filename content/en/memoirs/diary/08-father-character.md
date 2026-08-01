@@ -157,7 +157,7 @@ to the business of filming he took a very seri-
 ous attitude. He always looked serious and  
 Father never once saw him laughing.  
 Conversations with him were substantial and,  
-if you like, edifying.
+[potakai? / perhaps?], edifying.
 
 **Romain Rolland** — French writer.
 
@@ -195,15 +195,15 @@ pull them out. He had to break
 the mushroom, and [with?] a basketful himself.  
 Papa taught me to find my bearings  
 in the forest. He would say: “Watch the sun.  
-You enter the forest and look from which side[?]  
+You enter the forest and look in which of[?]  
 the sun shines on you.” So I a little  
 learned to find my bearings in the forest.  
 Having gathered mushrooms and returned home  
 Papa first sorted the mushrooms:  
 which to salt, which to fry.  
 And everyone sat around the table and  
-cleaned mushrooms. Afterward I no longer  
-knew much about mushrooms. Even in the last  
+cleaned mushrooms. Afterward I little  
+[marakovala? / knew about?] mushrooms. Even in the last  
 year before his illness Father often went  
 for mushrooms. And afterward we all ourselves  
 continued this tradition.
@@ -342,61 +342,67 @@ a rubber nose.
 
 <!-- p. 064 -->
 
-We often [went?] to the rest home “Nagornoye.” [?]  
-[?] [there?] it was very cozy; the house was  
-small [one-story?]. There we met  
-many [interesting?] people: Em. Yaroslavsky  
-[Bogreyevsky?] and others. I did not remember them.
+We often went to the rest home “Nagornoye.” There  
+it was very cozy; the house was  
+small, one-storey. There we met  
+many interesting people: Em. Yaroslavsky  
+[Bogreevsky?] and others. I did not remember them.
 
-Once [we?] with Mama were at the rest home  
-“Valuevo”; there we became acquainted with  
-the family of the [Kortishchevs? / Kortyshevs?]. With Natasha we  
-to this day keep friendly  
-relations though we live in the same house.
+Once Mama and I were at the rest home  
+“Valuyevo”; there we became acquainted with  
+the [Kortishchev?] family. With Natasha we  
+still keep up friendly  
+relations although we live in the same house.
+
+{{< archive_note type="uncertain" >}}
+**original_page 064:** the manuscript reads **“Valuyevo”** (rest home; meeting Natasha).  
+On **original_page 051** — **“Vasilki”** (also a rest home; the same Natasha / entrance 10).  
+These are **different spellings in the manuscript** on different pages; do not merge them into one place without a document or a side-by-side re-check of both scans.
+{{< /archive_note >}}
 
 There was a rink there and I very much wanted  
 to learn to skate.  
-I [?] trampled the rink. Taking  
-2–3 [steps?] I fell. But then appeared  
-some man, took me by the hand  
+I stamped the ice. Having taken  
+2–3 [steps?] I fell. But here appeared  
+some man; he took me by the hand  
 and began to teach me to skate. As I later  
-learned this was Rozental (he lived in  
-1937; he was a people’s [?] trad[er? / foreign trade?])  
-[Now?] a little about Papa’s character:  
-he was a purposeful person who  
+learned, this was Rosenthal (in  
+1937 he was a people’s foreign-trade agent)  
+A little about Papa’s character:  
+he was a purposeful man who  
 believed in his cause. Not for nothing did he  
-give much strength to the establishment  
-of Soviet power. Vanya is a very pleasant  
-[?], honest, decent, modest,  
-strict person, kind, possessing a sense  
-of humor.  
-He loved his family, children, wife. But  
-once he said “no,” he did not change  
-his decision. Already as a schoolgirl  
+give much strength to the building  
+of Soviet power. He was very principled,  
+honest, decent, modest,  
+a strict man, kind, with a sense of  
+humour.  
+He loved the family, the children, his wife. But  
+once he said “no”; he did not change  
+his decision. When I was already a schoolgirl,  
 I asked him for something; he said to me:  
-“No. Don’t be a gypsy!”
+“No. Don’t be a Gypsy!”
 
-When Papa was Administrator  
-of the CC — two cars were assigned to him.  
+When Papa was Administrator of the affairs  
+of the CC — 2 cars were assigned to him.  
 The driver of one was a modest man;  
 his surname was Novikov. (As I  
 already mentioned, one summer his  
-family lived at our dacha.) At our place  
+family lived with us at the dacha.) At our place  
 someone always lived on the 2nd floor:  
-the Pavlinovskys, Pastukhov, Metelin, Verik[?].  
-Papa always watched that one should not fence  
-off [the dacha?]; he [was?] for communal dachas,  
-vegetable gardens and so on.
+the Pavlinovskys, Pastukhov, Metelin, Verich[?].  
+Papa always watched that one must not fence  
+oneself off; he was for public dachas,  
+the garden, and so on.
 
 But only he could use the cars.  
 Mama could not allow herself  
 to take a car and go to the dacha.  
 Driver Novikov would say: “Eva Konstantinovna,  
-let me take you to the dacha; you have  
-small hands, it’s hard.” Sometimes Mama  
-agreed, but asked to leave her  
-not at the bus stop, and to the dacha she  
-walked on foot, because she was afraid the children  
+let me drive you to the dacha; you have  
+small hands, it is hard.” Sometimes Mama  
+agreed, but asked to be left  
+not at the bus stop; she walked the rest  
+to the dacha on foot, because she feared the children  
 would see the car and tell Father.
 
 ---
@@ -605,64 +611,10 @@ cuttings from the newspapers on this subject,
 
 <!-- p. 068 -->
 
-of students. I remembered some of them:  
-“Hey, sailors, on!..” Or [they sang?]:  
-“Hey, our Fatherland, hey,  
-Port Arthur is yours no more…”
-
-The Tsar’s manifesto: “They set the peasants free  
-on 19 February,  
-Only they did not give the people liberty  
-Here is the mercy of the nobles and the tsar for you.”
-
-Student unrest;  
-*(Student demonstra-  
-tions then were dispersed  
-by Cossacks)*  
-“And let the Cossacks rejoice,  
-Let them thrash them with nagaikas  
-Beat harder, beat harder  
-And put them in prison!”
-
-On the rule of Nicholas II: “Witte rules, rules  
-Both right and left, Hard[?]  
-I myself sign,  
-I, bloody Nicholas.”
-
-We listened with interest to his stories, for  
-these were the stories of an eyewitness. We long  
-sat side by side, then looked at the starry  
-sky, and Papa showed us the stars.  
-Papa had a good voice and ear. He sang  
-beautifully.  
-As I already wrote, Mama fell very seriously  
-ill: she often lay in hospital,  
-then she was sent to a sanatorium; long  
-she was [in?] [?]. Mama and Father  
-did everything possible to cure her.  
-Especially Mama. Mama always did everything  
-possible to help.  
-She too loved to sing; she had a good  
-voice and a good ear.
-
-Mama told (Father was still Administrator  
-of the CC)  
-that once at night the telephone  
-rang from the “Kremlin Hospital” (teleph[one?]). Papa  
-asked, at first understanding nothing, [took?]  
-[?] paper and pencil and began to  
-write: “Dictate, Alliluyeva…”  
-Mama says to him that this is Stalin’s wife.  
-It was late at night, when Alliluyeva  
-became pregnant. They called Father so that  
-he would arrange everything as required.
-
-**Events at Lake Khasan.** Having read the report  
-of the Japanese attack on our territory  
-Father took it very agitatedly. He  
-ordered that the events be followed, made  
-cuttings from the newspapers on this subject,  
-(I think he kept some of them
+{{< archive_note type="source" >}}
+**original_page 068** — the same physical leaf as **067**, rotated 180° (removed as a duplicate in the control PDF).  
+The text matches original_page **067**; a separate story is **not** published.
+{{< /archive_note >}}
 
 ---
 

@@ -98,9 +98,14 @@
     - value: "Валуево"
       source: current first-pass transcription of original_page 064 (not re-verified in this audit)
   status: unresolved
+  notes:
+    - "2026-08-01 visual QA of original_page 064: «Валуево» is the letter-reading on that page."
+    - "original_page 051: «Васильки» (verified earlier). Same Natasha story context; place-names differ."
   public_wording_ru: >
-    На original_page 051 читается «Васильки»; на original_page 064 в первичной
-    расшифровке — «Валуево». Требуется постраничная сверка 064.
+    На original_page 051 читается «Васильки»; на original_page 064 — «Валуево»
+    (оба чтения подтверждены визуально на своих страницах). Не объединять
+    без документа.
   public_wording_en: >
-    original_page 051 reads “Vasilki”; the first-pass text of original_page 064
-    has “Valuyevo”. Page 064 needs visual re-check.
+    original_page 051 reads “Vasilki”; original_page 064 reads “Valuyevo”
+    (both letter-readings visually confirmed on their pages). Do not merge
+    without a document.

@@ -2,28 +2,32 @@
 title: "Father and mother"
 date: 2026-08-01
 draft: false
-description: "A section draft about the parents of Tatyana Timofeevna Krivosheina."
-summary: "Family roots: Tatyana Timofeevna’s father and mother."
+description: "Parents of Tatyana Timofeevna Krivosheina: Timofey Petrovich Samsonov and Eva Konstantinovna."
+summary: "Family roots: father T. P. Samsonov and mother Eva Konstantinovna."
 translationKey: "father-and-mother"
-tags: ["parents", "family roots", "introduction"]
+tags: ["parents", "family roots", "Samsonov"]
 categories: ["Parents"]
-people: ["Tatyana Timofeevna Krivosheina"]
+people: ["Timofey Petrovich Samsonov", "Eva Konstantinovna", "Tatyana Timofeevna Krivosheina"]
 ShowToc: true
 ---
 
-## Family roots
+## Father
 
-This section is about **Tatyana Timofeevna’s parents**: who they were, where the family came from, how their lives unfolded, and what joys and hardships they faced.
+**[Timofey Petrovich Samsonov](/en/parents/timofey-petrovich-samsonov/)** (1888–1955) is Tatyana Timofeevna’s father.
 
-## What we plan to collect
+The family album preserves portraits, a bust, documents (revolutionary years, Cheka/GPU, Order of the Red Banner, Britain 1917), and his daughter’s notes: *“my dad.”*
 
-- full names (including maiden names);
-- years of life, places of birth and residence;
-- work, daily life, character;
-- family relationships and influence on their daughter;
-- documents and photographs of the parents;
-- historical background (wars, moves, the era).
+Full write-up: [separate page](/en/parents/timofey-petrovich-samsonov/).
 
-## Note for later editing
+## Mother
 
-> Separate pages will follow: about her father, her mother, their families and ancestors. For now this is a scaffold so nothing is lost while the archive is sorted.
+**Eva Konstantinovna** is Tatyana Timofeevna’s mother (per family knowledge).
+
+No clearly labeled portrait appears in the first photo set. A full page will be added when images and dates arrive.
+
+## Still collecting
+
+- Eva Konstantinovna’s years of life and maiden name;  
+- marriage, children, places of residence;  
+- labeled “father + mother” photos;  
+- Bashkiria and Moscow links (from stamps and studio marks on the father’s photos).

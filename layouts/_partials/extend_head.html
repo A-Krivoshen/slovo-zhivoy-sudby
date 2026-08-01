@@ -1,0 +1,13 @@
+{{- /* PWA manifest, OG defaults, extra SEO */ -}}
+<link rel="manifest" href="{{ "site.webmanifest" | absURL }}">
+<meta name="application-name" content="{{ site.Title }}">
+<meta name="apple-mobile-web-app-title" content="СЖС">
+{{- with site.Params.keywords }}
+<meta name="keywords" content="{{ delimit . ", " }}">
+{{- end }}
+{{- if .IsHome }}
+<meta property="og:image" content="{{ "og-image.png" | absURL }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ "og-image.png" | absURL }}">
+{{- end }}
+<link rel="alternate" type="application/rss+xml" href="{{ "index.xml" | absLangURL }}" title="{{ site.Title }}">

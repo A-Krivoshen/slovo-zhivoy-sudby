@@ -3,7 +3,7 @@ title: "About the notebook"
 date: 2026-08-01
 draft: false
 description: "How Tatyana Timofeevna’s manuscript “Our genealogy: the Samsonovs” is organized."
-summary: "79 pages of first-person family chronicle — full text by chapter."
+summary: "First batch (~79 pp.) of first-person family chronicle — transcription by chapter."
 translationKey: "diary-about-notebook"
 tags: ["diary", "notebook", "manuscript"]
 categories: ["Memoirs"]
@@ -29,8 +29,19 @@ Inside:
 
 ## How to read on the site
 
-The full scan (**79 pages**) is **transcribed** and split into chapters — see the [diary contents](/en/memoirs/diary/).  
-Where handwriting is unclear — `[?]`. Dates sometimes disagree inside the notebook — check against documents.
+The **first major scan batch** (**79 pages**) is transcribed and split into chapters — see the [diary contents](/en/memoirs/diary/). The archive is **not** closed: more scans are expected, and transcription may be refined against the originals.
+
+What you mostly see here is an **exact transcription** (author’s sequence and sense, not a literary rewrite). Where possible, the **original scan** of the page is shown alongside. A separate “easy-reading” version is added only where needed and never replaces the transcription.
+
+Marks:
+
+- `[?]` or `[illegible]` — could not be read with confidence;  
+- `[presumably: …]` — a likely reading;  
+- editorial notes and image captions are **kept separate** from the author’s voice.
+
+Dates sometimes disagree inside the notebook — check against documents. Genealogical charts are a source, not infallible: disagreements with the memoir text are not hidden.
+
+Source: manuscript “Our genealogy: the Samsonovs” (notebook page scans).
 
 ## Where to start
 
@@ -40,4 +51,4 @@ Where handwriting is unclear — `[?]`. Dates sometimes disagree inside the note
 - [War, 1941](/en/memoirs/diary/04-war-1941/)  
 - [Father’s character](/en/memoirs/diary/08-father-character/)  
 
-Full chapter list — in the [contents](/en/memoirs/diary/).
+Chapter list — in the [contents](/en/memoirs/diary/).

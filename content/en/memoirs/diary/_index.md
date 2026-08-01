@@ -1,14 +1,16 @@
 ---
 title: "Diary / notebook"
-description: "Full transcription of Tatyana Timofeevna’s notebook “Our genealogy: the Samsonovs” — in chapters, first person."
-summary: "All 79 pages — split into chapters"
+description: "Transcription of the first batch of scans of Tatyana Timofeevna’s notebook “Our genealogy: the Samsonovs” — in chapters, first person."
+summary: "First batch (~79 pp.) — chapter transcription; the archive will grow"
 translationKey: "diary"
 ---
 
 Squared notebook: **“Our genealogy: the Samsonovs.”**  
 Written by **Tatyana Timofeevna** — in the first person.
 
-Scan: **79 pages**. Below — **full text** by chapter (manuscript transcription; `[?]` = unclear).
+**First scan batch: 79 pages** of the manuscript. Below — transcription by chapter (author’s sequence and sense; `[?]` / `[illegible]` mark uncertain places). This is **not** the whole archive forever: more scans are expected, and published text may be refined against the originals.
+
+Source for each chapter: the manuscript “Our genealogy: the Samsonovs,” the corresponding scan pages.
 
 ## Introduction
 
@@ -20,7 +22,7 @@ Scan: **79 pages**. Below — **full text** by chapter (manuscript transcription
 2. [My mother](/en/memoirs/diary/01-my-mother/) — Eva Konstantinovna: childhood, school, work, meeting father  
 3. [Father, marriage and children](/en/memoirs/diary/02-father-marriage-children/) — the Metropol, Lelya, the children’s births, the home, Mama’s Party work  
 4. [Childhood in Moscow](/en/memoirs/diary/03-childhood-moscow/) — home, walks, everyday life, cats, journeys  
-5. [War, 1941](/en/memoirs/diary/04-war-1941/) — 16 October, evacuation, return, ration cards, school  
+5. [War, 1941](/en/memoirs/diary/04-war-1941/) — 16 October, evacuation; Mama’s later years (pp. 15–24)  
 6. [Father, the Cheka, and verses](/en/memoirs/diary/05-father-cheka-verses/) — work in the organs, T.S. verses, the bust, a favorite photo of Papa  
 7. [Documents and congresses](/en/memoirs/diary/06-documents-congresses/) — lists of delegates, certificates, newspaper clippings  
 8. [Dacha, rest, anniversaries](/en/memoirs/diary/07-dacha-anniversaries/) — Serebryany Bor, flowers, verses for Tanya and Sasha’s anniversary  

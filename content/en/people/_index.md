@@ -2,7 +2,7 @@
 title: "People of the family archive"
 date: 2026-08-01
 draft: false
-description: "Who is who in the family archive: Tatyana Timofeevna, the Samsonov parents, brother Tyoma, Sasha, and authors of wartime letters."
+description: "Who is who in the family archive: Tatyana Timofeevna, the Samsonov parents, brother Tyoma, husband Aleksandr Dmitrievich (Sasha), and authors of wartime letters."
 summary: "People of the archive — short pages with links to the notebook, letters, and documents."
 translationKey: "people"
 tags: ["people", "family archive"]
@@ -23,7 +23,7 @@ Each page says who the person is, how they relate to the family, and where to re
 | [Eva Konstantinovna Samsonova](/en/people/eva-konstantinovna-samsonova/) | Mother; daughter’s account and son’s front letters |
 | [Timofey Timofeevich Samsonov (Tyoma)](/en/people/timofey-timofeevich-samsonov/) | Brother; Timosha letters, Stalingrad medal — **not** the father |
 | [Evgenia (Genya) Samsonova](/en/people/genya-samsonova/) | Elder sister; notebook chapters about her |
-| [Aleksandr (Sasha) Krivoshein](/en/people/aleksandr-krivoshein/) | Tatyana’s husband; youth, Crimea, beginning of the family |
+| [Aleksandr Dmitrievich Krivoshein (Sasha)](/en/people/aleksandr-krivoshein/) | **Husband** of Tatyana Timofeevna (1926–1988); **Sasha** in the notebook; youth, Crimea, family |
 
 Longer parent bios: [Parents](/en/parents/) · [Father and mother](/en/parents/father-and-mother/) · [D. A. Krivoshein (father-in-law)](/en/parents/dmitry-aleksandrovich-krivoshein/).  
 Archive overview: [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/).

@@ -89,17 +89,17 @@ One frame (best public scan; the alternate page-102 scan remains archive-only).
 
 → [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/)
 
-## After Sasha’s return. Family
+## After Sasha’s return (A. D. Krivoshein). Family
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="“Sasha came back. Summer 1954. By the Petrovsky forest.”" >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="“Sasha came back. Summer 1954. By the Petrovsky forest.” Sasha = Aleksandr Dmitrievich Krivoshein, husband of T. T." >}}
 
-→ [Sasha — A. D. Krivoshein](/en/people/aleksandr-krivoshein/) · [family beginning](/en/events/family-beginning/) · [meeting Sasha](/en/events/meeting-sasha/)
+→ [Sasha = A. D. Krivoshein](/en/people/aleksandr-krivoshein/) · [family beginning](/en/events/family-beginning/) · [meeting Sasha](/en/events/meeting-sasha/)
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph02.jpg" caption="By the Moskva River. Petrovsky forest. Summer 1954." >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph02.jpg" caption="By the Moskva River. Petrovsky forest. Summer 1954. With A. D. Krivoshein (Sasha)." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph03.jpg" caption="After the return — a family frame (same notebook leaf)." >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph03.jpg" caption="After Sasha’s return (A. D. Krivoshein) — a family frame (same notebook leaf)." >}}
 
-→ [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) · [Sasha](/en/people/aleksandr-krivoshein/)
+→ [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) · [Sasha — A. D. Krivoshein](/en/people/aleksandr-krivoshein/)
 
 {{< figure src="/photos/archive-b02/b02-mp074-ph02.jpg" caption="“Mitya with grandfather Pesha. January 1954.”" >}}
 
@@ -111,9 +111,9 @@ One frame (best public scan; the alternate page-102 scan remains archive-only).
 
 {{< figure src="/photos/archive-b02/b02-mp075-ph02.jpg" caption="Mitya on practical training in Uzbekistan (caption on the page)." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp075-ph03.jpg" caption="Kosino, 1954. After Sasha’s return: Mitya and Sasha." >}}
+{{< figure src="/photos/archive-b02/b02-mp075-ph03.jpg" caption="Kosino, 1954. After Sasha’s return: Mitya and Sasha (A. D. Krivoshein)." >}}
 
-→ [Sasha — A. D. Krivoshein](/en/people/aleksandr-krivoshein/) · [family and children](/vospominaniya/dnevnik/19-semya-i-deti/)
+→ [Sasha = A. D. Krivoshein](/en/people/aleksandr-krivoshein/) · [family and children](/vospominaniya/dnevnik/19-semya-i-deti/)
 
 ## Sailing and “Vodnik”
 

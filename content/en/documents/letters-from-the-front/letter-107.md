@@ -51,6 +51,11 @@ Greetings to Zhenya, Mama, Papa, Falia[?], Galka, Tanya.
 I kiss you. **Your Timosha.**  
 Sasha sends a kiss.
 
+{{< archive_note type="identity" >}}
+The line **“Sasha sends a kiss”** is on a **1944 front letter** from **Timosha**. This is **not** Tatyana’s husband ([Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/)).  
+Which “Sasha” stands with Timosha is **not established**; we do **not** link that line to the husband entity.
+{{< /archive_note >}}
+
 ## Diplomatic transcription
 
 ```
@@ -92,6 +97,7 @@ Sasha sends a kiss.
 - Signature **Timosha** (form of the name on the letter): [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/)
 - Addressees: parents and [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/)
 - **Not** father [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/)
+- **Not** Tatyana’s husband: [A. D. Krivoshein (Sasha)](/en/people/aleksandr-krivoshein/) — the “Sasha sends a kiss” line is **someone else**
 - Collection: [Letters from the front](/en/documents/letters-from-the-front/)
 
 ## Navigation

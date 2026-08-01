@@ -45,7 +45,7 @@ translationKey: "timeline"
 | **1942** | 22.12 — указ о медали «За оборону [Сталинграда](/mesta/stalingrad-volgograd/)» (на бланке брата) | [удостоверение](/dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt/) · [Тёма](/lyudi/timofey-timofeevich-samsonov/) |
 | **1943** | 23.09 — вручение медали гв. сержанту Самсонову Т. Т. | [глава о брате](/vospominaniya/dnevnik/12-brat-front-103-108/) · [событие](/sobytiya/oborona-stalingrada/) |
 | **1943** | Фронтовые письма Тимоши на адрес [Серафимовича / Дом правительства](/mesta/serafimovich-street/) | [письмо 14.06.1943](/dokumenty/pisma-s-fronta/pismo-105-106-mamochke/) · [письма](/dokumenty/pisma-s-fronta/) |
-| **1945** | Победа; послевоенные встречи, начало дружбы с Сашей | [тетрадь](/vospominaniya/dnevnik/) · [знакомство](/sobytiya/znakomstvo-s-sashey/) |
+| **1945** | Победа; послевоенные встречи, дружба с **Сашей** ([А. Д. Кривошеин](/lyudi/aleksandr-krivoshein/)) | [тетрадь](/vospominaniya/dnevnik/) · [знакомство](/sobytiya/znakomstvo-s-sashey/) |
 
 ## 1946–1955
 

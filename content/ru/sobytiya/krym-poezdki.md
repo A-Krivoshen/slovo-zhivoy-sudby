@@ -27,7 +27,7 @@ ShowToc: true
 ## Участники
 
 - [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
-- Саша (А. Д. Кривошеин)
+- [Кривошеин Александр Дмитриевич](/lyudi/aleksandr-krivoshein/) (**Саша**) — жених / муж
 - [Кривошеин Дмитрий Александрович](/roditeli/krivoshein-dmitriy-aleksandrovich/) и Нина Васильевна — родители Саши
 - [Ева Константиновна](/lyudi/eva-konstantinovna-samsonova/) — согласование поездки (по тексту)
 

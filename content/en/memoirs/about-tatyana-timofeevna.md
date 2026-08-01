@@ -53,7 +53,8 @@ The life dates are confirmed by **official family documents**. On the memorial p
 
 ## Family
 
-Husband — **Alexander Dmitrievich Krivoshein** (1926–1988), son of [Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/).  
+Husband — **[Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/)** (1926–1988), son of [Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/).  
+In the notebook and on family photos he is almost always **Sasha** — the **same person**, not someone else.  
 Children and grandchildren appear on the [notebook charts](/en/memoirs/diary/00-cover-and-charts/); for living relatives only birth **years** are published.
 
 ## Work

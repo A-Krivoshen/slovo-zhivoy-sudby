@@ -27,7 +27,7 @@ Dedicated place pages may appear under Places; for now the diary chapters are th
 ## Participants
 
 - [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/)
-- Sasha (A. D. Krivoshein)
+- [Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/) (**Sasha**) — fiancé / husband
 - [Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) and Nina Vasilyevna
 - [Eva Konstantinovna](/en/people/eva-konstantinovna-samsonova/) — agreement on the trip (per the text)
 

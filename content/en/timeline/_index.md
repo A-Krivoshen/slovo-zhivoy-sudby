@@ -45,7 +45,7 @@ Related sections: [People](/en/people/) · [Events](/en/events/) · [Places](/en
 | **1942** | 22 Dec — decree for the medal “For the Defence of [Stalingrad](/en/places/stalingrad-volgograd/)” (brother’s form) | [certificate](/en/documents/stalingrad-defense-medal-samsonov-tt/) · [Tyoma](/en/people/timofey-timofeevich-samsonov/) |
 | **1943** | 23 Sep — medal presented to Guards Sergeant T. T. Samsonov | [notebook on brother](/en/memoirs/diary/11-notebook-continued-090-099/) · [event](/en/events/defense-of-stalingrad/) |
 | **1943** | Front letters from Timosha to [Serafimovich / House of Government](/en/places/serafimovich-street/) | [letter 14 Jun 1943](/en/documents/letters-from-the-front/letter-105-106-to-mother/) · [letters](/en/documents/letters-from-the-front/) |
-| **1945** | Victory; postwar meetings, friendship with Sasha begins | [diary](/en/memoirs/diary/) · [meeting](/en/events/meeting-sasha/) |
+| **1945** | Victory; postwar meetings; friendship with **Sasha** ([A. D. Krivoshein](/en/people/aleksandr-krivoshein/)) | [diary](/en/memoirs/diary/) · [meeting](/en/events/meeting-sasha/) |
 
 ## 1946–1955
 

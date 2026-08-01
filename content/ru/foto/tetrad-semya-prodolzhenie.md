@@ -89,17 +89,17 @@ cover:
 
 → [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
 
-## После возвращения Саши. Семья
+## После возвращения Саши (А. Д. Кривошеина). Семья
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="«Саша вернулся. Лето 1954. У Петровского леса»." >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="«Саша вернулся. Лето 1954. У Петровского леса». Саша — Кривошеин Александр Дмитриевич, муж Т. Т." >}}
 
-→ [Саша — Кривошеин А. Д.](/lyudi/aleksandr-krivoshein/) · [начало семьи](/sobytiya/nachalo-semi/) · [знакомство с Сашей](/sobytiya/znakomstvo-s-sashey/)
+→ [Саша = Кривошеин А. Д.](/lyudi/aleksandr-krivoshein/) · [начало семьи](/sobytiya/nachalo-semi/) · [знакомство с Сашей](/sobytiya/znakomstvo-s-sashey/)
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph02.jpg" caption="У Москвы-реки. Петровский лес. Лето 1954." >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph02.jpg" caption="У Москвы-реки. Петровский лес. Лето 1954. С А. Д. Кривошеиным (Сашей)." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph03.jpg" caption="После возвращения — семейный кадр (тот же лист тетради)." >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph03.jpg" caption="После возвращения Саши (А. Д. Кривошеина) — семейный кадр (тот же лист тетради)." >}}
 
-→ [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/) · [Саша](/lyudi/aleksandr-krivoshein/)
+→ [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/) · [Саша — А. Д. Кривошеин](/lyudi/aleksandr-krivoshein/)
 
 {{< figure src="/photos/archive-b02/b02-mp074-ph02.jpg" caption="«Митя с дедом Пешей. Январь 1954 год»." >}}
 
@@ -111,9 +111,9 @@ cover:
 
 {{< figure src="/photos/archive-b02/b02-mp075-ph02.jpg" caption="Митя — практика в Узбекистане (подпись на странице)." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp075-ph03.jpg" caption="Косино, 1954. После возвращения Саши: Митя и Саша." >}}
+{{< figure src="/photos/archive-b02/b02-mp075-ph03.jpg" caption="Косино, 1954. После возвращения Саши: Митя и Саша (А. Д. Кривошеин)." >}}
 
-→ [Саша — Кривошеин А. Д.](/lyudi/aleksandr-krivoshein/) · [семья и дети](/vospominaniya/dnevnik/19-semya-i-deti/)
+→ [Саша = Кривошеин А. Д.](/lyudi/aleksandr-krivoshein/) · [семья и дети](/vospominaniya/dnevnik/19-semya-i-deti/)
 
 ## Парус и «Водник»
 

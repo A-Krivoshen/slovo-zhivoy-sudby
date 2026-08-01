@@ -206,8 +206,8 @@ photos:
   public: true
 - entity_id: photo-b02-151
   src: /photos/archive-b02/b02-mp072-ph01.jpg
-  caption_ru: «Саша вернулся. Лето 1954. У Петровского леса».
-  caption_en: “Sasha returned. Summer 1954. At Petrovsky forest.”
+  caption_ru: «Саша вернулся. Лето 1954. У Петровского леса». Саша — Кривошеин Александр Дмитриевич, муж Т. Т.
+  caption_en: “Sasha returned. Summer 1954. At Petrovsky forest.” Sasha = Aleksandr Dmitrievich Krivoshein, husband of T. T.
   depicted_people:
   - person-alexander-krivoshein
   event_ids:

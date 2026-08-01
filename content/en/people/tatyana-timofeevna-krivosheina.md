@@ -35,7 +35,7 @@ Full introduction: [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeev
 | Mother | [Eva Konstantinovna Samsonova](/en/people/eva-konstantinovna-samsonova/) (1900–1981) |
 | Brother | [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/) (Tyoma; b. 1923) |
 | Sister | Evgenia (Genya) Timofeevna — in the notebook |
-| Husband | Aleksandr Dmitrievich Krivoshein (1926–1988) |
+| Husband | [Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/) (1926–1988) — **Sasha** in the notebook |
 
 Parent bios: [Parents](/en/parents/) · [Father and mother](/en/parents/father-and-mother/).
 

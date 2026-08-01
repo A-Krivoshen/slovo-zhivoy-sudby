@@ -81,8 +81,10 @@ events:
 - entity_id: event-tatyana-meets-sasha
   url_ru: /sobytiya/znakomstvo-s-sashey/
   url_en: /en/events/meeting-sasha/
-  title_ru: Знакомство Татьяны с Сашей
-  title_en: Tatyana meets Sasha
+  title_ru: Знакомство Татьяны с Сашей (А. Д. Кривошеиным)
+  title_en: Tatyana meets Sasha (A. D. Krivoshein)
+  summary_ru: "Саша в тетради — Кривошеин Александр Дмитриевич (1926–1988), будущий муж."
+  summary_en: "Sasha in the notebook is Aleksandr Dmitrievich Krivoshein (1926–1988), later husband."
   date_start: '1943'
   date_end: '1945'
   place_ids:
@@ -92,6 +94,7 @@ events:
   - person-alexander-krivoshein
   related_urls:
   - /vospominaniya/dnevnik/16-yunost-i-sasha/
+  - /lyudi/aleksandr-krivoshein/
   confidence: manuscript_stated
   public: true
 - entity_id: event-crimea-trips

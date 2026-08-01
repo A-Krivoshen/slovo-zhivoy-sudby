@@ -48,14 +48,23 @@ people:
     note: "Sister Геня / Женя."
 
   - entity_id: person-alexander-krivoshein
-    aliases: ['person-aleksandr-krivoshein', 'person/aleksandr-krivoshein']
+    aliases:
+      - person-aleksandr-krivoshein
+      - person/aleksandr-krivoshein
+      - person-sasha-krivoshein
+      - "Саша"
+      - "Sasha"
+      - "А. Д. Кривошеин"
+      - "A. D. Krivoshein"
     name_ru: "Кривошеин Александр Дмитриевич"
     name_en: "Aleksandr Dmitrievich Krivoshein"
+    nickname_ru: "Саша"
+    nickname_en: "Sasha"
     url_ru: "/lyudi/aleksandr-krivoshein/"
     url_en: "/en/people/aleksandr-krivoshein/"
     birth_year: 1926
     death_year: 1988
-    note: "Husband of Tatyana (Саша). Not to be confused with father-in-law D.A."
+    note: "Husband of Tatyana Timofeevna. In the notebook and photo captions almost always «Саша» / Sasha. Full name Aleksandr Dmitrievich Krivoshein (1926–1988). Not father-in-law D.A.; not wartime «Саша» on letter 107 (front comrade of Timosha)."
 
   - entity_id: person-krivoshein-da
     name_ru: "Кривошеин Дмитрий Александрович"

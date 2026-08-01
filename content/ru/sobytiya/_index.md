@@ -19,8 +19,8 @@ categories: ["Архив"]
 | [Школа 1940–1941](/sobytiya/shkola-1940-1941/) | Школьные годы Тани: до войны, 22 июня, эвакуация и возвращение в класс |
 | [Эвакуация 1941](/sobytiya/evakuaciya-1941/) | Уход из Москвы осенью 1941, Куйбышев, дорога домой — по рассказу в тетради |
 | [Оборона Сталинграда](/sobytiya/oborona-stalingrada/) | Медаль брата [Тёмы](/lyudi/timofey-timofeevich-samsonov/) и контекст писем 1943 года |
-| [Знакомство с Сашей](/sobytiya/znakomstvo-s-sashey/) | Одноклассник Саша Кривошеин — будущий муж [Татьяны](/lyudi/tatyana-timofeevna-krivosheina/) |
+| [Знакомство с Сашей](/sobytiya/znakomstvo-s-sashey/) | Одноклассник **Кривошеин Саша** = [А. Д. Кривошеин](/lyudi/aleksandr-krivoshein/) — **муж** [Татьяны](/lyudi/tatyana-timofeevna-krivosheina/) |
 | [Поездки в Крым](/sobytiya/krym-poezdki/) | Крым с 1946 года: Севастополь, семья Кривошеиных |
-| [Начало семьи](/sobytiya/nachalo-semi/) | Брак с Сашей, рождение Мити, общая жизнь — конец 1940-х |
+| [Начало семьи](/sobytiya/nachalo-semi/) | Брак с **А. Д. Кривошеиным (Сашей)**, рождение Мити — конец 1940-х |
 
 См. также: [Люди](/lyudi/) · [Места](/mesta/) · [Хронология](/hronologiya/) · [Дневник](/vospominaniya/dnevnik/) · [Письма с фронта](/dokumenty/pisma-s-fronta/).

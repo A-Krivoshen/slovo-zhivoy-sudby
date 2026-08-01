@@ -92,7 +92,7 @@ letters:
     sides: 1
     confidence: document_confirmed
     notes: >
-      Signature «Ваш Тимоша»; «Саша целует». Brother Timofey Timofeevich, not T.P.
+      Signature «Ваш Тимоша»; «Саша целует». Brother Timofey Timofeevich, not T.P. The «Саша» on this leaf is NOT husband A.D. Krivoshein.
     public: true
 
   - entity_id: letter-1943-04-20-friolenko

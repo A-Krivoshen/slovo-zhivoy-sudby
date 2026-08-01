@@ -7,9 +7,9 @@ draft: true
 description: "Youth: friends, theatre, walks with Sasha, Victory Day."
 summary: "Youth and meeting Sasha."
 translationKey: "diary-16-youth-sasha"
-tags: ["diary", "notebook"]
+tags: ["diary", "notebook", "Sasha"]
 categories: ["Memoirs"]
-people: ["Tatyana Timofeevna Krivosheina"]
+people: ["Tatyana Timofeevna Krivosheina", "Aleksandr Dmitrievich Krivoshein"]
 ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "134-139"
@@ -21,6 +21,10 @@ source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
+{{< archive_note type="identity" >}}
+**Sasha** in the lifelong family line of this chapter is **[Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/)** (1926–1988), Tatyana’s **husband**. A transcript reading «Kravchenko» in the school circle is **not** used as the husband’s full name; site canon is **A. D. Krivoshein (Sasha)**.
+{{< /archive_note >}}
+
 Youth in the war and early postwar years: friends, theatre, walks, and meeting Sasha — continuation of the notebook’s continuous prose.
 
 *From the handwritten notebook.*

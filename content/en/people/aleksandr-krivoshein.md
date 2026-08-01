@@ -16,18 +16,18 @@ editorial_status: "publishable"
 ---
 ## Photographs
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="“Sasha returned. Summer 1954. By Petrovsky forest.”" >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="“Sasha returned. Summer 1954. By Petrovsky forest.” Sasha = A. D. Krivoshein, husband of T. T." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph02.jpg" caption="By the Moskva River. Summer 1954." >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph02.jpg" caption="By the Moskva River. Summer 1954. With A. D. Krivoshein (Sasha)." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp075-ph03.jpg" caption="Kosino, 1954. Mitya and Sasha." >}}
+{{< figure src="/photos/archive-b02/b02-mp075-ph03.jpg" caption="Kosino, 1954. Mitya and Sasha (A. D. Krivoshein)." >}}
 
 [Album continued](/en/photos/notebook-family-continued/)
 
 
 **Aleksandr Dmitrievich Krivoshein** (1926–1988) is the **husband** of **[Tatyana Timofeevna Krivosheina](/en/memoirs/about-tatyana-timofeevna/)**.
 
-In the manuscript and photo captions he is almost always **Sasha**. The **full name** on this site comes from the **genealogy chart** and aligned person pages — not from guesswork.
+**Site canon:** in the manuscript, photo captions and family speech he is **Sasha**. That is not a vague nickname for someone else: **Sasha = Aleksandr Dmitrievich Krivoshein**, her husband. The **full name** comes from the **genealogy chart** and aligned person pages.
 
 ## Full name (site sources)
 

@@ -19,6 +19,8 @@ editorial_status: "reader_chapter"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
+aliases:
+  - /vospominaniya/dnevnik/14-voyna-evakuaciya-120-127/
 ---
 
 *По рукописной тетради. Голос Татьяны Тимофеевны.*

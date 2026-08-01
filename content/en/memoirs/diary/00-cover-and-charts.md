@@ -9,6 +9,15 @@ tags: ["diary", "notebook"]
 categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]
 ShowToc: true
+source_title: "Our genealogy: the Samsonovs"
+source_pages_original: "001-006"
+transcription_status: "partially_verified"
+translation_status: "synchronized"
+editorial_status: "working"
+last_verified: "2026-08-01"
+uncertainty_count: 1
+source_type: "manuscript"
+privacy_reviewed: true
 ---
 
 *From Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs”. First person. `[?]` = unclear passages. Scan page numbers are given in the comments.*
@@ -36,7 +45,7 @@ Caption on the photo: **My mother.**
 **My mother** — Samsonova (Morozova)  
 Eva Konstantinovna.
 
-**[margin notes, blue ink — phone numbers/contacts: [скрыто]/[redacted]]**
+**[margin notes, blue ink — phone numbers and personal contacts: redacted by the editors]**
 
 ---
 
@@ -94,6 +103,10 @@ d. 1942.
    b. 21/IV–1926  
    Moscow [? / part of the date at the cut edge]
 
+{{< archive_note type="uncertain" >}}
+The manuscript chart on this page gives **21/IV–1926**. Family memory and the earlier biographical page used **April 1924**. The conflict is **unresolved** (see `data/fact_conflicts.yaml`). The diplomatic chart reading is not altered.
+{{< /archive_note >}}
+
 *(lower edge of the page partly cut off)*
 
 ---
@@ -116,36 +129,40 @@ d. 1987.
 
 ### their children (of Alexander Dmitrievich and Tatyana Timofeevna)
 
+{{< archive_note type="privacy" >}}
+For **living** relatives the site publishes only the **year** of birth (no day or month) and the family relationship. Full dates from the manuscript are kept in a local family archive and are not published.
+{{< /archive_note >}}
+
 #### 1. **Krivoshein Dmitry Alexandrovich**
-b. 28/V–1948, Simferopol  
+b. **1948**, Simferopol  
 
 **wife:** **Krivosheina (Roze) Bella Andreevna**  
-b. 1948  
+b. **1948**  
 
 **their children:**
 - **Krivoshein Alexander Dmitrievich**, son  
-  b. 30/VII–1976, Moscow  
+  b. **1976**, Moscow  
   **wife:** **Krivosheina Elena Valentinovna**  
-  b. 25/IV–1977  
+  b. **1977**  
   **daughter:** **Krivosheina Natalia Alexandrovna**  
-  31/VII–2003  
+  b. **2003**  
 - **Krivoshein Andrey Dmitrievich**, son  
-  b. 23/VI–1982, Moscow  
+  b. **1982**, Moscow  
 
 **[photo]** Portraits of Dmitry and Bella (young).
 
 #### 2. **Krivoshein Sergey Alexandrovich**
-b. 16/IX–1957, Moscow  
+b. **1957**, Moscow  
 **[photo]** Portrait of Sergey (dark hair).  
 
 **wife:** **Krivosheina (Valueva) Tatyana Alexandrovna**  
-b. 1957, settlement of Kratovo  
+b. **1957**, settlement of Kratovo  
 
 **their children:**
 - **Krivoshein Alexey Sergeevich**, son  
-  b. 14/VII–1981, Moscow  
+  b. **1981**, Moscow  
 - **Krivosheina Elena Sergeevna**, daughter  
-  b. 3/X–1986, Moscow  
+  b. **1986**, Moscow  
 
 ---
 
@@ -206,9 +223,13 @@ b. 1936
 
 <!-- p. 006 -->
 
-**[contents: the same “Krivosheins” chart as on PAGE 005 — apparently a repeat/duplicate scan of the same page]**
+**[alternate_scan of original_page 005 — physical_leaf_id: genealogy-krivoshein-01]**
 
-*(text and structure match PAGE 005; see above. Photos: woman with curly hair; three male portraits.)*
+{{< archive_note type="source" >}}
+original_page **006** is a second scan of the same physical **Krivosheins** chart leaf as **005**. Archival number 006 is kept; a full second transcription is not repeated.
+{{< /archive_note >}}
+
+*(Content matches the chart on original_page 005. Photos: woman with curly hair; three male portraits.)*
 
 - **Krivoshein Dmitry Alexandrovich** (1905–1979), Tambov; Lyubertsy Cemetery  
 - **Krivosheina (Petrova) Nina Vasilievna** (1907–1991), Tambov; Lyubertsy  

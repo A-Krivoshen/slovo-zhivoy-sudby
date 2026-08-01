@@ -12,7 +12,7 @@ translationKey: "home"
       The life of <strong>Tatyana Timofeevna Krivosheina</strong> —
       her notebook, the Samsonov parents, Moscow, and family memory.
     </p>
-    <p class="home-hero-meta">Lived to 95 · manuscript “Our genealogy: the Samsonovs”</p>
+    <p class="home-hero-meta">Family archive · manuscript “Our genealogy: the Samsonovs”</p>
   </div>
   <figure class="home-hero-photo">
     <img src="/photos/tatyana-tt/2019-home-last-year.jpg" alt="Tatyana Timofeevna at home, 2019" width="400" height="711" loading="eager">

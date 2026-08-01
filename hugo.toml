@@ -1,7 +1,12 @@
-baseURL = 'https://a-krivoshen.github.io/slovo-zhivoy-sudby/'
-languageCode = 'ru'
+baseURL = 'https://drslon.ru/slovo-zhivoy-sudby/'
 title = 'Слово Живой Судьбы'
 theme = 'PaperMod'
+defaultContentLanguage = 'ru'
+
+[languages.ru]
+  label = 'Русский'
+  weight = 1
+  title = 'Слово Живой Судьбы'
 
 [params]
   description = 'Мемуары и семейный архив'

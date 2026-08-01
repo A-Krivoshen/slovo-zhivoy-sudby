@@ -36,3 +36,7 @@ From her **daughter’s diary**: Moscow, 2nd Brestskaya, Cheka typist, meeting T
 ## Daughter in the same set
 
 {{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="T. T. Krivosheina, senior lecturer, Institute of Steel and Alloys." >}}
+
+## Husband’s family (Krivosheins)
+
+Tatyana Timofeevna’s father-in-law — **[Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/)** (1905–1979), father of her husband Aleksandr.

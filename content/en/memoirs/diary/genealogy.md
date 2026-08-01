@@ -40,7 +40,16 @@ cover:
 
 ## Krivoshein line
 
-Separate charts cover the **Krivosheins** (Tatyana Timofeevna’s husband’s family). Fine print to be fully transcribed later.
+Tatyana Timofeevna’s husband — **Aleksandr Dmitrievich Krivoshein** (1926–1988).
+
+His father (her father-in-law) — **[Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/)** (1905–1979): People’s Commissar of RSFSR state farms; chair of the Crimean and Amur regional executive committees; later state-farm director.
+
+Wife of D. A. — **Nina Vasilyevna Krivosheina (née Petrova)** (1907–1991).
+
+Public references:
+
+- [Wikipedia (RU)](https://ru.wikipedia.org/wiki/Кривошеин,_Дмитрий_Александрович)  
+- [Museum “House on the Embankment” (autobiography)](https://museumdom.narod.ru/bio05/krivoshein.html)
 
 {{< figure src="/photos/dnevnik-tt/str-001.jpg" caption="Cover: “Our genealogy: the Samsonovs.”" >}}
 

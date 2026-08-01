@@ -43,9 +43,9 @@ EN diary chapters 14–17 may still be **draft** — prefer RU reader chapters o
 
 ## Photographs
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="«Саша вернулся. Лето 1954»." >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="“Sasha returned. Summer 1954.”" >}}
 
-{{< figure src="/photos/archive-b02/b02-mp075-ph01.jpg" caption="Митя. Февраль 1948." >}}
+{{< figure src="/photos/archive-b02/b02-mp075-ph01.jpg" caption="Mitya. February 1948." >}}
 
 ## Sources
 

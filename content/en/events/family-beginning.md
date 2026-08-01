@@ -50,9 +50,9 @@ Exact registry office calendar date is **not** published if not firmly in the te
 
 ## Photographs
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="«Саша вернулся. Лето 1954»." >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="“Sasha returned. Summer 1954.”" >}}
 
-{{< figure src="/photos/archive-b02/b02-mp075-ph01.jpg" caption="Митя. Февраль 1948." >}}
+{{< figure src="/photos/archive-b02/b02-mp075-ph01.jpg" caption="Mitya. February 1948." >}}
 
 ## Sources
 

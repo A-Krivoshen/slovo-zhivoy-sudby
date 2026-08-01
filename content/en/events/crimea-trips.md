@@ -41,7 +41,7 @@ Dedicated place pages may appear under Places; for now the diary chapters are th
 
 ## Photographs
 
-{{< figure src="/photos/archive-b02/b02-mp082-ph02.jpg" caption="Кисловодск / Симферополь 1948 — семейные кадры (подписи на листе)." >}}
+{{< figure src="/photos/archive-b02/b02-mp082-ph02.jpg" caption="Kislovodsk / Simferopol 1948 — family frames (captions on the notebook leaf)." >}}
 
 ## Sources
 

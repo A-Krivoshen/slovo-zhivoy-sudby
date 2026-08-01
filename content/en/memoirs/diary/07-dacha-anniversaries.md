@@ -216,7 +216,7 @@ characteristic[?].
 anniversary  
 Had barely begun already gave  
 From harsh earthquakes  
-[… bottom of the page cut / continued on PAGE 056]
+[… bottom of the page cut / continued on the next page]
 
 ---
 

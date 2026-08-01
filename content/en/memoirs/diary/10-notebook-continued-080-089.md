@@ -24,15 +24,14 @@ batch_id: "manuscript-2026-08-01-b02"
 ---
 
 {{< archive_note type="status" >}}
-**Batch** `manuscript-2026-08-01-b02`, merged_page **001–010** → archival **original_page 080–089**.  
-First-pass diplomatic transcription. Not the full new batch (82 pages) — this block only.
+**Pages 080–089** of the notebook. First-pass transcription: still being checked against the scans; uncertain places are marked `[?]` / `[illegible]`. This is **not** the full new scan batch — this block only.
 {{< /archive_note >}}
 
 {{< archive_source title="Our genealogy: the Samsonovs" pages="080–089" >}}
-Continuation after original_page 079; no overlap with the end of the first batch (075–079) found.
+Continuation after p. 079; no overlap with the end of the first scan batch was found.
 {{< /archive_source >}}
 
-*Tatyana Timofeevna’s voice. `[?]` / `[illegible]` mark uncertain readings.*
+*Tatyana Timofeevna’s voice.*
 
 <!-- p. 080 -->
 

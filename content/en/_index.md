@@ -10,7 +10,7 @@ translationKey: "home"
     <h1 class="home-hero-title">Word of a Living Fate</h1>
     <p class="home-hero-lead">
       The life of <strong>Tatyana Timofeevna Krivosheina</strong> —
-      her notebook, the Samsonov parents, Moscow, and family memory.
+      her handwritten notebook, the Samsonov parents, Moscow, and family memory.
     </p>
     <p class="home-hero-meta">2 September 1926 — 24 September 2021 · manuscript “Our genealogy: the Samsonovs”</p>
   </div>

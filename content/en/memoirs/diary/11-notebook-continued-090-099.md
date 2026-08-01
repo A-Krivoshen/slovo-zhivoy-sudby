@@ -4,8 +4,8 @@ date: 2026-08-01
 weight: 120
 ShowReadingTime: false
 draft: false
-description: "Second verified slice of batch b02: original_page 090–098 — letter ending, sister Genya’s fate, family photos, brother Tyoma/Zhenya, Sasha’s notes. Pp. 099–100 (Ukrainian medal) — withheld."
-summary: "New batch: 090–098 — sister Genya, brother, Sasha’s notes; 099–100 withheld."
+description: "Notebook pages 090–098: end of the letter to her sister, Genya’s fate, family photos, brother Tyoma, Sasha’s notes."
+summary: "Pp. 090–098 — sister Genya, brother Tyoma, Sasha’s notes."
 translationKey: "diary-11-prodolzhenie-090-099"
 tags: ["diary", "notebook"]
 categories: ["Memoirs"]
@@ -24,16 +24,15 @@ batch_id: "manuscript-2026-08-01-b02"
 ---
 
 {{< archive_note type="status" >}}
-**Batch** `manuscript-2026-08-01-b02`, merged_page **011–019** → archival **original_page 090–098** (published here).  
-**original_page 099–100** (merged 020–021): Ukrainian medal “Захиснику Вітчизни” — **not** published (see below).  
-First-pass diplomatic transcription (with pass2 checks on several leaves).
+**Pages 090–098** of the notebook. First-pass transcription; uncertain places are marked `[?]` / `[illegible]`.  
+The document on pp. 099–100 (a Ukrainian medal) does **not** belong to Father and is **not** published here — see the note at the end of the chapter.
 {{< /archive_note >}}
 
 {{< archive_source title="Our genealogy: the Samsonovs" pages="090–098" >}}
-Continuation after original_page 089: end of the letter insert, sister Genya’s story, family photos, brother’s biography, Sasha’s pasted notes.
+Continuation after p. 089: end of the letter insert, sister Genya’s story, family photos, brother’s biography, Sasha’s pasted notes.
 {{< /archive_source >}}
 
-*Tatyana Timofeevna’s voice. `[?]` / `[illegible]` mark uncertain readings. On p. 093 the brother is introduced as **Samsonov Timofey Timofeevich (Tyoma)**; in the continuous narrative that follows the author often writes **Zhenya** for the same brother — kept as in the manuscript.*
+*Tatyana Timofeevna’s voice. On p. 093 the brother is named **Samsonov Timofey Timofeevich (Tyoma)**; later the manuscript often uses **Zhenya** for the same brother — kept as written.*
 
 ---
 
@@ -522,22 +521,10 @@ he wrote this to me. I love him too.
 <!-- pp. 099–100: document withheld (not T. P. Samsonov) -->
 
 {{< archive_note type="status" >}}
-**original_page 099–100** (merged_page 020–021; `scan_id` **str-099**, **str-100**; `photo_id` `pub-photos__dnevnik-tt__str-099` / `…str-100`; `document_id` **doc-b02-medal-zahysnyku-vitichyzny**).
-
-Certificate for the Ukrainian medal “Захиснику Вітчизни” (decree of 14 October 1999).  
-**Recipient (as written on the form, m-021 / original_page 100):** Samsonov Timofey Timofeevich — **Uncle Tyoma**, brother of Tatyana Timofeevna.  
-**Not** Samsonov Timofey Petrovich (father; 1888–1955).
-
-**Publication status:** `review_status: withheld_pending_person_page` — there is no confirmed person page for Uncle Tyoma yet; this document is **not** published as a standalone item and is **not** included in the biography or photo album of Samsonov T. P.  
-Notebook page scans remain in the archive; original_page numbering is **unchanged**.  
-Certificate series/number are **not** published on the site.
-{{< /archive_note >}}
-
----
-
-{{< archive_note type="status" >}}
-**Status:** first_pass · batch `manuscript-2026-08-01-b02` · public original_page **090–098**; **099–100** withheld.  
-Handwriting checks continue; EN is synchronized with this RU version.
+**About pp. 099–100 (not shown in this chapter).**  
+The notebook holds a certificate for the Ukrainian medal “Захиснику Вітчизни” (1999).  
+On the form the recipient is **Samsonov Timofey Timofeevich** — **Uncle Tyoma**, brother of Tatyana Timofeevna, **not** father Samsonov Timofey Petrovich (1888–1955).  
+Until there is a dedicated page for Uncle Tyoma, we do **not** publish that document here and do **not** attach it to the father’s biography. Notebook page numbers are unchanged.
 {{< /archive_note >}}
 
 ---

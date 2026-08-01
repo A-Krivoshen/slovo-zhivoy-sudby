@@ -8,7 +8,7 @@ translationKey: "diary"
 Squared notebook: **“Our genealogy: the Samsonovs.”**  
 Written by **Tatyana Timofeevna** — in the first person.
 
-A **first-pass machine-assisted and manually reviewed transcription** of the initial batch of **79** archival scans. The text is being checked page by page; uncertain readings are marked explicitly (`[?]`, `[illegible]`). This does **not** mean every page has been fully proofread by hand.
+A **first-pass transcription** of the notebook (first about **79** pages, then a continuation from a new scan batch). The text is being checked page by page; uncertain readings are marked explicitly (`[?]`, `[illegible]`). This does **not** mean every page has been fully proofread by hand.
 
 Source for each chapter: the manuscript “Our genealogy: the Samsonovs,” the corresponding scan pages.
 

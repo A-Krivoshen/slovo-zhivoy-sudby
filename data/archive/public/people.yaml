@@ -1,0 +1,97 @@
+# Public people registry (entity graph). No private / living-detail payloads.
+# No living sons as public entities. No pages 099–100 medal entity.
+# IDs are hyphenated slugs (person-…); Hugo front matter may use person/… path form.
+
+people:
+  - entity_id: person-krivosheina-tt
+    name_ru: "Кривошеина Татьяна Тимофеевна"
+    name_en: "Tatyana Timofeevna Krivosheina"
+    aliases: ['person-tatyana-timofeevna', 'person-tatyana-timofeevna-krivosheina', 'person/tatyana-timofeevna-krivosheina']
+    url_ru: "/lyudi/tatyana-timofeevna-krivosheina/"
+    url_en: "/en/people/"
+    birth_year: 1926
+    death_year: 2021
+    note: "Author of the family notebook; central figure of the archive."
+
+  - entity_id: person-samsonov-tp
+    aliases: ['person-timofey-petrovich-samsonov', 'person/timofey-petrovich-samsonov']
+    name_ru: "Самсонов Тимофей Петрович"
+    name_en: "Timofey Petrovich Samsonov"
+    url_ru: "/lyudi/timofey-petrovich-samsonov/"
+    url_en: "/en/parents/timofey-petrovich-samsonov/"
+    birth_year: 1888
+    death_year: 1955
+
+  - entity_id: person-samsonova-ek
+    name_ru: "Самсонова (Морозова) Ева Константиновна"
+    name_en: "Eva Konstantinovna Samsonova (Morozova)"
+    aliases: ['person-eva-konstantinovna', 'person-eva-konstantinovna-samsonova', 'person/eva-konstantinovna-samsonova']
+    url_ru: "/lyudi/eva-konstantinovna-samsonova/"
+    url_en: "/en/parents/eva-konstantinovna/"
+    birth_year: 1900
+    death_year: 1981
+    note: "Mother of Tatyana Timofeevna."
+
+  - entity_id: person-samsonov-tt
+    aliases: ['person-timofey-timofeevich-samsonov', 'person/timofey-timofeevich-samsonov']
+    name_ru: "Самсонов Тимофей Тимофеевич"
+    name_en: "Timofey Timofeevich Samsonov"
+    url_ru: "/lyudi/timofey-timofeevich-samsonov/"
+    note: "Brother (Тёма / Тимоша). Public: wartime letters + Stalingrad medal. UA medal leaves withheld."
+
+  - entity_id: person-genya-samsonova
+    aliases: ['person/genya-samsonova']
+    name_ru: "Самсонова Евгения Тимофеевна"
+    name_en: "Evgenia Timofeevna Samsonova"
+    url_ru: "/lyudi/genya-samsonova/"
+    url_en: "/en/people/genya-samsonova/"
+    note: "Sister Геня / Женя."
+
+  - entity_id: person-alexander-krivoshein
+    aliases: ['person-aleksandr-krivoshein', 'person/aleksandr-krivoshein']
+    name_ru: "Кривошеин Александр Дмитриевич"
+    name_en: "Aleksandr Dmitrievich Krivoshein"
+    url_ru: "/lyudi/aleksandr-krivoshein/"
+    url_en: "/en/people/aleksandr-krivoshein/"
+    birth_year: 1926
+    death_year: 1988
+    note: "Husband of Tatyana (Саша). Not to be confused with father-in-law D.A."
+
+  - entity_id: person-krivoshein-da
+    name_ru: "Кривошеин Дмитрий Александрович"
+    name_en: "Dmitry Aleksandrovich Krivoshein"
+    aliases: [person-dmitry-krivoshein-jr]
+    url_ru: "/roditeli/krivoshein-dmitriy-aleksandrovich/"
+    url_en: "/en/parents/dmitry-aleksandrovich-krivoshein/"
+    note: "Father of Aleksandr D.; father-in-law of Tatyana."
+
+  - entity_id: person-dmitry-wartime-correspondent
+    aliases: ['person-dmitry-pisma-front', 'person/dmitry-pisma-front']
+    name_ru: "Дмитрий (письма 103–104)"
+    name_en: "Dmitry (letters 103–104)"
+    url_ru: "/lyudi/dmitry-pisma-front/"
+    note: "Signature only; surname and family link not established. Do not merge with Timosha."
+
+  - entity_id: person-mikhail-makarovich-friolenko
+    aliases: ['person-misha-friolenko', 'person/misha-friolenko']
+    name_ru: "Миша Фриоленко (Михаил Макарович)"
+    name_en: "Mikhail Makarovich Friolenko"
+    url_ru: "/lyudi/misha-friolenko/"
+    note: "Wartime correspondent to Tanya (letters 128–129)."
+
+  - entity_id: person-gennady-vokhmintsev
+    aliases: ['person/gennady-vokhmintsev']
+    name_ru: "Геннадий Вохминцев"
+    name_en: "Gennady Vokhmintsev"
+    url_ru: "/lyudi/gennady-vokhmintsev/"
+    note: "Author of letters 132–133 (surname on leaf 132)."
+
+  - entity_id: person-gennady-letter-correspondent
+    name_ru: "Геннадий (письмо 131)"
+    name_en: "Gennady (letter 131)"
+    note: "Brief «Танюша!» leaf; may be same circle as Vokhmintsev — not auto-merged."
+
+  - entity_id: person-f-e-dzerzhinsky
+    name_ru: "Ф. Э. Дзержинский"
+    name_en: "F. E. Dzerzhinsky"
+    note: "Historical figure in family album / documents; not a family member."

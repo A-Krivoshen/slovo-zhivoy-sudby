@@ -1,0 +1,79 @@
+# Public archive collections (priority seed).
+
+collections:
+  - entity_id: collection-diary-b02
+    title_ru: "Дневник-тетрадь, продолжение B02 (стр. 080–161)"
+    title_en: "Notebook diary, B02 continuation (pp. 080–161)"
+    kind: manuscript_diary
+    description_ru: "Рукописная тетрадь Татьяны Тимофеевны «Наша родословная. Самсоновы», продолжение сканов batch B02."
+    description_en: "Handwritten notebook of Tatyana Timofeevna “Our genealogy. The Samsonovs”, B02 scan continuation."
+    member_entity_ids: []
+    page_range:
+      start: 80
+      end: 161
+    related_urls:
+      - /vospominaniya/dnevnik/
+      - /vospominaniya/dnevnik/10-prodolzhenie-080-089/
+      - /vospominaniya/dnevnik/o-tetradi/
+    source_batch: manuscript-2026-08-01-b02
+    confidence: editorial_curated
+    public: true
+
+  - entity_id: collection-letters-from-front
+    title_ru: "Письма с фронта"
+    title_en: "Letters from the front"
+    kind: letters
+    description_ru: "Военные письма из семейного архива (в т. ч. Тимоша / Т. Т. Самсонов и другие корреспонденты), вложенные в тетрадь."
+    description_en: "Wartime letters from the family archive (incl. Timosha / T. T. Samsonov and other correspondents), kept in the notebook."
+    member_entity_ids: []
+    related_urls:
+      - /dokumenty/pisma-s-fronta/
+      - /vospominaniya/dnevnik/12-brat-front-103-108/
+      - /vospominaniya/dnevnik/15-pisma-voennye-128-133/
+    confidence: document_confirmed
+    public: true
+
+  - entity_id: collection-notebook-photo-album
+    title_ru: "Фотоальбом тетради (семейные снимки B02)"
+    title_en: "Notebook photo album (B02 family prints)"
+    kind: photo_album
+    description_ru: "Отдельные отпечатки и подборки из продолжения тетради; публичная галерея предпочитает кропы archive-b02."
+    description_en: "Loose prints and selections from the notebook continuation; public gallery prefers archive-b02 crops."
+    member_entity_ids:
+      - photo-b02-080
+      - photo-b02-081
+      - photo-b02-086
+      - photo-b02-092
+      - photo-b02-101
+      - photo-b02-117
+      - photo-b02-146
+      - photo-b02-147
+      - photo-b02-148
+      - photo-b02-151
+      - photo-b02-154
+      - photo-b02-161
+    related_urls:
+      - /foto/tetrad-semya-prodolzhenie/
+      - /en/photos/notebook-family-continued/
+    confidence: editorial_curated
+    public: true
+
+  - entity_id: collection-parents-docs
+    title_ru: "Документы родителей"
+    title_en: "Parents’ documents"
+    kind: documents
+    description_ru: "Публичные документы и биографические материалы Т. П. Самсонова, Евы Константиновны и связанного круга (ордена, удостоверения, альбомные листы)."
+    description_en: "Public documents and biographical materials of T. P. Samsonov, Eva Konstantinovna, and related circle (orders, certificates, album leaves)."
+    member_entity_ids: []
+    related_urls:
+      - /dokumenty/
+      - /roditeli/
+      - /roditeli/samsonov-timofey-petrovich/
+      - /roditeli/eva-konstantinovna/
+      - /dokumenty/orden-krasnogo-znameni-samsonov/
+      - /dokumenty/udostoverenie-kolt-1919/
+      - /dokumenty/znak-gpu-samsonov/
+      - /dokumenty/vysylka-velikobritaniya-1917/
+      - /foto/samsonov-timofey-petrovich/
+    confidence: document_confirmed
+    public: true

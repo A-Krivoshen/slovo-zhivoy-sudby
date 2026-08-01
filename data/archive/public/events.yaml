@@ -1,0 +1,165 @@
+# Public archive events (priority seed for knowledge graph).
+# confidence: document_confirmed | manuscript_stated | editorial_curated | uncertain
+# date_*: year or year-range only when known from public materials.
+
+events:
+- entity_id: event-great-patriotic-war-family
+  title_ru: Великая Отечественная война — семейный опыт
+  title_en: Great Patriotic War — family experience
+  date_start: '1941'
+  date_end: '1945'
+  place_ids:
+  - place-moscow
+  - place-kuybyshev-samara
+  - place-stalingrad-volgograd
+  participant_ids:
+  - person-krivosheina-tt
+  - person-samsonova-ek
+  - person-samsonov-tp
+  - person-samsonov-tt
+  related_urls:
+  - /vospominaniya/dnevnik/04-voyna-1941/
+  - /vospominaniya/dnevnik/14-shkola-i-voyna/
+  - /vospominaniya/dnevnik/12-brat-front-103-108/
+  - /dokumenty/pisma-s-fronta/
+  confidence: manuscript_stated
+  public: true
+- entity_id: event-evacuation-1941
+  url_ru: /sobytiya/evakuaciya-1941/
+  url_en: /en/events/evacuation-1941/
+  title_ru: Эвакуация 1941
+  title_en: Evacuation of 1941
+  date_start: '1941'
+  date_end: '1942'
+  place_ids:
+  - place-moscow
+  - place-kuybyshev-samara
+  participant_ids:
+  - person-krivosheina-tt
+  - person-samsonova-ek
+  - person-samsonov-tp
+  related_urls:
+  - /vospominaniya/dnevnik/04-voyna-1941/
+  - /vospominaniya/dnevnik/14-shkola-i-voyna/
+  - /vospominaniya/dnevnik/10-prodolzhenie-080-089/
+  confidence: manuscript_stated
+  public: true
+- entity_id: event-defense-of-stalingrad
+  url_ru: /sobytiya/oborona-stalingrada/
+  url_en: /en/events/defense-of-stalingrad/
+  title_ru: Оборона Сталинграда (брат Тимофей Тимофеевич)
+  title_en: Defence of Stalingrad (brother Timofey Timofeevich)
+  date_start: '1942'
+  date_end: '1943'
+  place_ids:
+  - place-stalingrad-volgograd
+  participant_ids:
+  - person-samsonov-tt
+  related_urls:
+  - /dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt/
+  - /vospominaniya/dnevnik/12-brat-front-103-108/
+  - /dokumenty/pisma-s-fronta/
+  confidence: document_confirmed
+  public: true
+- entity_id: event-school-years-1940-1941
+  url_ru: /sobytiya/shkola-1940-1941/
+  url_en: /en/events/school-1940-1941/
+  title_ru: Школьные годы 1940–1941 (предвоенный 7-й класс)
+  title_en: School years 1940–1941 (pre-war 7th grade)
+  date_start: '1940'
+  date_end: '1941'
+  place_ids:
+  - place-moscow
+  participant_ids:
+  - person-krivosheina-tt
+  related_urls:
+  - /vospominaniya/dnevnik/14-shkola-i-voyna/
+  - /vospominaniya/dnevnik/13-tanya-detstvo-i-shkola/
+  - /vospominaniya/dnevnik/13-shkola-druzya-109-119/
+  confidence: manuscript_stated
+  public: true
+- entity_id: event-tatyana-meets-sasha
+  url_ru: /sobytiya/znakomstvo-s-sashey/
+  url_en: /en/events/meeting-sasha/
+  title_ru: Знакомство Татьяны с Сашей
+  title_en: Tatyana meets Sasha
+  date_start: '1943'
+  date_end: '1945'
+  place_ids:
+  - place-moscow
+  participant_ids:
+  - person-krivosheina-tt
+  - person-alexander-krivoshein
+  related_urls:
+  - /vospominaniya/dnevnik/16-yunost-i-sasha/
+  confidence: manuscript_stated
+  public: true
+- entity_id: event-crimea-trips
+  url_ru: /sobytiya/krym-poezdki/
+  url_en: /en/events/crimea-trips/
+  title_ru: Поездки в Крым
+  title_en: Trips to Crimea
+  date_start: '1946'
+  date_end: '1948'
+  place_ids:
+  - place-crimea
+  - place-sevastopol
+  - place-bakhchisarai
+  - place-chufut-kale
+  - place-sudak
+  - place-simferopol
+  participant_ids:
+  - person-krivosheina-tt
+  - person-alexander-krivoshein
+  - person-krivoshein-da
+  related_urls:
+  - /vospominaniya/dnevnik/17-krym-sevastopol-semya/
+  confidence: manuscript_stated
+  public: true
+- entity_id: event-family-start
+  url_ru: /sobytiya/nachalo-semi/
+  url_en: /en/events/family-beginning/
+  title_ru: Начало семьи
+  title_en: Start of family life
+  date_start: '1947'
+  date_end: '1948'
+  place_ids:
+  - place-crimea
+  - place-simferopol
+  - place-moscow
+  - place-magnitogorsk
+  participant_ids:
+  - person-krivosheina-tt
+  - person-alexander-krivoshein
+  related_urls:
+  - /vospominaniya/dnevnik/17-krym-sevastopol-semya/
+  - /vospominaniya/dnevnik/19-semya-i-deti/
+  confidence: manuscript_stated
+  public: true
+- entity_id: event-class-reunions
+  title_ru: Встречи выпускников
+  title_en: Class reunions
+  date_start: '1983'
+  date_end: '2003'
+  place_ids:
+  - place-moscow
+  participant_ids:
+  - person-krivosheina-tt
+  related_urls:
+  - /vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+- entity_id: event-uk-expulsion-1917
+  title_ru: Высылка из Великобритании (1917)
+  title_en: Expulsion from the United Kingdom (1917)
+  date_start: '1917'
+  date_end: '1917'
+  place_ids: []
+  participant_ids:
+  - person-samsonov-tp
+  related_urls:
+  - /dokumenty/vysylka-velikobritaniya-1917/
+  - /roditeli/samsonov-timofey-petrovich/
+  confidence: document_confirmed
+  public: true

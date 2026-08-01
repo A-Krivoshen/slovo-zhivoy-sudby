@@ -1,0 +1,261 @@
+# Public archive places (priority seed).
+# No living-person apartment numbers.
+# Coordinates only where already published on site (moskva-semeynaya / family-moscow).
+# confidence: document_confirmed | manuscript_stated | editorial_curated | uncertain
+
+places:
+  - entity_id: place-moscow
+    title_ru: "Москва"
+    title_en: "Moscow"
+    historical_names: []
+    note_ru: "Главный город семейной хроники: детство, школа, война, послевоенная жизнь."
+    note_en: "Main city of the family chronicle: childhood, school, war, post-war life."
+    related_urls:
+      - /mesta/moskva-semeynaya/
+      - /en/places/family-moscow/
+    lat: null
+    lon: null
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-metropol
+    title_ru: "Гостиница «Метрополь» (1-й дом Советов)"
+    title_en: "Hotel Metropol (1st House of Soviets)"
+    historical_names:
+      - "1-й дом Советов"
+      - "1st House of Soviets"
+    note_ru: "Раннее жильё родителей после брака (по рукописи; номер комнаты — исторический, не современный адрес)."
+    note_en: "Parents’ early lodging after marriage (per manuscript; room number is historical, not a modern street address)."
+    related_urls:
+      - /mesta/metropol-moscow/
+      - /en/places/metropol-moscow/
+      - /vospominaniya/dnevnik/02-otec-brak-deti/
+    lat: 55.7586
+    lon: 37.6215
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-vozdvizhenka
+    title_ru: "Воздвиженка"
+    title_en: "Vozdvizhenka"
+    historical_names:
+      - "4-й дом Советов"
+      - "4th House of Soviets"
+    note_ru: "Семейная квартира детства (этаж/комнаты — в рукописи; номер квартиры не публикуем)."
+    note_en: "Childhood family flat (floor/rooms in manuscript; apartment number not published)."
+    related_urls:
+      - /mesta/moskva-semeynaya/
+      - /vospominaniya/dnevnik/03-detstvo-moskva/
+    lat: 55.75265
+    lon: 37.60782
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-serafimovich
+    title_ru: "улица Серафимовича (Дом правительства)"
+    title_en: "Serafimovich Street (House on the Embankment)"
+    historical_names:
+      - "Дом на набережной"
+      - "House on the Embankment"
+      - "Дом правительства"
+    note_ru: "Семейный адрес 1930-х–1940-х по рукописи и письмам с фронта. Номера подъезда и квартиры в публичный граф не включаем."
+    note_en: "Family address of the 1930s–1940s per notebook and front letters. Entrance/apartment numbers are not included in the public graph."
+    related_urls:
+      - /mesta/serafimovich-street/
+      - /en/places/serafimovich-street/
+      - /vospominaniya/dnevnik/02-otec-brak-deti/
+      - /dokumenty/pisma-s-fronta/pismo-105-106-mamochke/
+    lat: 55.7447
+    lon: 37.6126
+    confidence: document_confirmed
+    public: true
+
+  - entity_id: place-alexandrovsky-garden
+    title_ru: "Александровский сад"
+    title_en: "Alexandrovsky Garden"
+    historical_names: []
+    note_ru: "Детские прогулки; отец иногда вёл детей в Кремль."
+    note_en: "Childhood walks; father sometimes took the children into the Kremlin."
+    related_urls:
+      - /mesta/moskva-semeynaya/
+    lat: 55.75240
+    lon: 37.60868
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-kremlin
+    title_ru: "Московский Кремль"
+    title_en: "Moscow Kremlin"
+    historical_names: []
+    note_ru: "«Отец нас водил в Кремль» — по рукописи."
+    note_en: "“Father took us to the Kremlin” — per the notebook."
+    related_urls:
+      - /mesta/moskva-semeynaya/
+    lat: 55.75162
+    lon: 37.61812
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-kuybyshev-samara
+    title_ru: "Куйбышев (Самара)"
+    title_en: "Kuybyshev (Samara)"
+    historical_names:
+      - "Куйбышев"
+      - "Kuybyshev"
+      - "Самара"
+      - "Samara"
+    note_ru: "Эвакуация 1941–1942: Татьяна с бабушкой; позже — школа, голод, возвращение. Современное имя — Самара."
+    note_en: "Evacuation 1941–1942: Tatyana with grandmother; later school, hardship, return. Modern name — Samara."
+    related_urls:
+      - /vospominaniya/dnevnik/14-shkola-i-voyna/
+      - /vospominaniya/dnevnik/04-voyna-1941/
+    lat: null
+    lon: null
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-stalingrad-volgograd
+    title_ru: "Сталинград (Волгоград)"
+    title_en: "Stalingrad (Volgograd)"
+    historical_names:
+      - "Сталинград"
+      - "Stalingrad"
+      - "Волгоград"
+      - "Volgograd"
+    note_ru: "Историческое имя периода войны — Сталинград; современное — Волгоград. Медаль «За оборону Сталинграда» — Самсонов Т. Т. (брат)."
+    note_en: "Wartime historical name — Stalingrad; modern — Volgograd. Medal “For the Defence of Stalingrad” — Samsonov T. T. (brother)."
+    related_urls:
+      - /mesta/stalingrad-volgograd/
+      - /en/places/stalingrad-volgograd/
+      - /dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt/
+      - /vospominaniya/dnevnik/12-brat-front-103-108/
+    lat: 48.7080
+    lon: 44.5133
+    confidence: document_confirmed
+    public: true
+
+  - entity_id: place-crimea
+    title_ru: "Крым"
+    title_en: "Crimea"
+    historical_names: []
+    note_ru: "Поездки 1946–1948: Алушта, Гурзуф, побережье; контекст начала семьи."
+    note_en: "Trips 1946–1948: Alushta, Gurzuf, coast; family-start context."
+    related_urls:
+      - /mesta/crimea-family/
+      - /en/places/crimea-family/
+      - /vospominaniya/dnevnik/17-krym-sevastopol-semya/
+    lat: 44.9521
+    lon: 34.1024
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-sevastopol
+    title_ru: "Севастополь"
+    title_en: "Sevastopol"
+    historical_names: []
+    note_ru: "День Военно-морского флота, 1946; город после разрушений войны (рукопись)."
+    note_en: "Navy Day, 1946; city after wartime destruction (notebook)."
+    related_urls:
+      - /mesta/sevastopol/
+      - /en/places/sevastopol/
+      - /vospominaniya/dnevnik/17-krym-sevastopol-semya/
+    lat: 44.6166
+    lon: 33.5254
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-bakhchisarai
+    title_ru: "Бахчисарай"
+    title_en: "Bakhchisarai"
+    historical_names: []
+    note_ru: "Посещение с Сашей, 1946; фонтан, известный по Пушкину."
+    note_en: "Visit with Sasha, 1946; fountain known from Pushkin."
+    related_urls:
+      - /vospominaniya/dnevnik/17-krym-sevastopol-semya/
+    lat: null
+    lon: null
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-chufut-kale
+    title_ru: "Чуфут-Кале"
+    title_en: "Chufut-Kale"
+    historical_names: []
+    note_ru: "Древний пещерный город в горах; посещение 1946."
+    note_en: "Ancient cave town in the mountains; visit 1946."
+    related_urls:
+      - /vospominaniya/dnevnik/17-krym-sevastopol-semya/
+    lat: null
+    lon: null
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-sudak
+    title_ru: "Судак"
+    title_en: "Sudak"
+    historical_names: []
+    note_ru: "Посещение 1946; завод шампанских вин (по рукописи)."
+    note_en: "Visit 1946; champagne winery (per notebook)."
+    related_urls:
+      - /vospominaniya/dnevnik/17-krym-sevastopol-semya/
+    lat: null
+    lon: null
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-magnitogorsk
+    title_ru: "Магнитогорск"
+    title_en: "Magnitogorsk"
+    historical_names: []
+    note_ru: "Практика Саши весной перед решением о браке (рукопись)."
+    note_en: "Sasha’s practical training in the spring before the marriage decision (notebook)."
+    related_urls:
+      - /vospominaniya/dnevnik/17-krym-sevastopol-semya/
+    lat: null
+    lon: null
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-kislovodsk
+    title_ru: "Кисловодск"
+    title_en: "Kislovodsk"
+    historical_names: []
+    note_ru: "Упоминания в рукописи (в т. ч. семейные кадры/подписи на листах тетради)."
+    note_en: "Mentioned in the notebook (including family frames/captions on notebook leaves)."
+    related_urls:
+      - /vospominaniya/dnevnik/16-yunost-i-sasha/
+      - /foto/tetrad-semya-prodolzhenie/
+    lat: null
+    lon: null
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-simferopol
+    title_ru: "Симферополь"
+    title_en: "Simferopol"
+    historical_names: []
+    note_ru: "Крым 1946–1948: Кривошеины, каникулы, рождение Мити (год без дня/месяца в публичном слое)."
+    note_en: "Crimea 1946–1948: Krivoshein family, holidays, birth of Mitya (year only in public layer)."
+    related_urls:
+      - /vospominaniya/dnevnik/17-krym-sevastopol-semya/
+      - /vospominaniya/dnevnik/19-semya-i-deti/
+    lat: null
+    lon: null
+    confidence: manuscript_stated
+    public: true
+
+  - entity_id: place-yablonnaya
+    title_ru: "Яблонная (Люблино)"
+    title_en: "Yablonnaya (Lyublino)"
+    historical_names:
+      - "Люблино"
+      - "Lyublino"
+    note_ru: "Подпись на листе тетради: Люблино / Яблонная, июль 1953. Улица/район, не личный адрес."
+    note_en: "Notebook caption: Lyublino / Yablonnaya, July 1953. Street/area, not a personal address."
+    related_urls:
+      - /foto/tetrad-semya-prodolzhenie/
+      - /vospominaniya/dnevnik/19-semya-i-deti/
+    lat: null
+    lon: null
+    confidence: manuscript_stated
+    public: true

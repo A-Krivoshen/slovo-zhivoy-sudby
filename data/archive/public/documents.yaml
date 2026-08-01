@@ -1,0 +1,148 @@
+# Public document entities for the archive knowledge graph.
+# NEVER include Ukrainian 1999 medal (manuscript pp. 099–100) as a public entity.
+# Stalingrad medal recipient is person-samsonov-tt
+# (= Timofey Timofeevich Samsonov; NOT person-samsonov-tp / T.P.).
+
+version: 1
+generated: "2026-08-01"
+public: true
+
+documents:
+  - entity_id: document-stalingrad-medal-samsonov-tt
+    type: document
+    kind: medal_certificate
+    source_pages: [108]
+    scan_ids: [str-108]
+    url_ru: /dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt/
+    url_en: /en/documents/stalingrad-defense-medal-samsonov-tt/
+    title_ru: "Медаль «За оборону Сталинграда» — Самсонов Т. Т."
+    title_en: "Medal “For the Defence of Stalingrad” — T. T. Samsonov"
+    date: "1943-09-23"
+    date_role: presentation
+    decree_date: "1942-12-22"
+    blank_number: "II № 34769"
+    unit: "79 ГМП"
+    recipient_id: person-samsonov-tt
+    not_recipient_ids:
+      - person-samsonov-tp
+    event_ids:
+      - event-defense-of-stalingrad
+    confidence: document_confirmed
+    notes: >
+      Form names гв. сержант Самсонов Тимофей Тимофеевич. Brother of Tatyana
+      (uncle Tyoma), not father Timofey Petrovich. Signer reading: гв. подполковник
+      В. Попов.
+    public: true
+
+  - entity_id: document-order-red-banner-samsonov
+    type: document
+    kind: order_diploma
+    source_pages: null
+    scan_ids: null
+    photo_path: /photos/samsonov-tp/10-order-red-banner.jpg
+    url_ru: /dokumenty/orden-krasnogo-znameni-samsonov/
+    url_en: /en/documents/order-of-the-red-banner-samsonov/
+    title_ru: "Орден Красного Знамени — Самсонов Т. П."
+    title_en: "Order of the Red Banner — T. P. Samsonov"
+    date: null
+    date_role: form_year_partial
+    recipient_id: person-samsonov-tp
+    event_ids: []
+    confidence: document_confirmed
+    notes: >
+      VTsIK diploma; chairman M. Kalinin on form. Year on blank partly cut off
+      («19__») — confirm on sharper original.
+    public: true
+
+  - entity_id: document-colt-1919
+    type: document
+    kind: certificate
+    source_pages: null
+    scan_ids: null
+    photo_path: /photos/samsonov-tp/13-colt-from-dzerzhinsky-1919.jpg
+    url_ru: /dokumenty/udostoverenie-kolt-1919/
+    url_en: /en/documents/colt-certificate-1919/
+    title_ru: "Удостоверение о револьвере «Кольт», 16.01.1919"
+    title_en: "Colt revolver certificate, 16 Jan 1919"
+    date: "1919-01-16"
+    date_role: issue
+    recipient_id: person-samsonov-tp
+    related_person_ids:
+      - person-f-e-dzerzhinsky
+    event_ids: []
+    confidence: document_confirmed
+    notes: >
+      Personal Colt No. 75350 of the Cheka chairman; signed F. Dzerzhinsky.
+    public: true
+
+  - entity_id: document-gpu-badge-samsonov
+    type: document
+    kind: badge_form
+    source_pages: null
+    scan_ids: null
+    photo_path: /photos/samsonov-tp/14-gpu-badge.jpg
+    url_ru: /dokumenty/znak-gpu-samsonov/
+    url_en: /en/documents/gpu-badge-samsonov/
+    title_ru: "Знак / бланк Коллегии ГПУ — Самсонов Т. П."
+    title_en: "GPU badge form — T. P. Samsonov"
+    date: null
+    date_role: exact_dates_unconfirmed
+    recipient_id: person-samsonov-tp
+    event_ids: []
+    confidence: document_confirmed
+    notes: >
+      Named address to Timofey Petrovich Samsonov. Exact dates and badge number
+      need sharper original.
+    public: true
+
+  - entity_id: document-expulsion-uk-1917
+    type: document
+    kind: expulsion_order
+    source_pages: null
+    scan_ids: null
+    photo_path: /photos/samsonov-tp/11-expulsion-uk-1917.jpg
+    url_ru: /dokumenty/vysylka-velikobritaniya-1917/
+    url_en: /en/documents/expulsion-uk-1917/
+    title_ru: "Высылка из Великобритании, 1917"
+    title_en: "Expulsion from the United Kingdom, 1917"
+    date: "1917-09-28"
+    date_role: whitehall_order
+    related_dates:
+      court_liverpool: "1917-04-07"
+      aliens_officer_newcastle: "1917-10-06"
+    recipient_id: person-samsonov-tp
+    event_ids:
+      - event-uk-expulsion-1917
+    confidence: document_confirmed
+    notes: >
+      Form names Tomofi Sainsanov / Samsonov, also Michael Nemchinoff. Name
+      spellings need cross-check with other papers.
+    public: true
+
+  - entity_id: document-pravda-dzerzhinsky-1929
+    type: document
+    kind: newspaper_clipping
+    source_pages: null
+    scan_ids: null
+    photo_path: /photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg
+    url_ru: /dokumenty/pravda-o-dzerzhinskom-1929/
+    url_en: /en/documents/pravda-on-dzerzhinsky-1929/
+    title_ru: "«Правда», 20 июля 1929 — «О Дзержинском»"
+    title_en: "*Pravda*, 20 July 1929 — “On Dzerzhinsky”"
+    date: "1929-07-20"
+    date_role: album_caption_only
+    author_id: person-samsonov-tp
+    related_person_ids:
+      - person-f-e-dzerzhinsky
+    event_ids: []
+    confidence: manuscript_stated
+    notes: >
+      Date from handwritten album note (source_caption_only); newspaper issue
+      not independently verified. Closing signature SAMSONOV; family files as
+      father’s article. See fact_conflicts: pravda-dzerzhinsky-1929-date.
+    public: true
+
+# Explicit hold — not a public graph entity (registry only elsewhere):
+# manuscript pages 099–100, Ukrainian medal «Захиснику Вітчизни» 1999,
+# recipient Timofey Timofeevich; withheld_pending_person_page.
+# Do not add document entity_id for 099–100 here.

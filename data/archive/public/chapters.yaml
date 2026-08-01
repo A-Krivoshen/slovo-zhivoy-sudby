@@ -1,0 +1,76 @@
+# Public manuscript chapters referenced by the knowledge graph.
+# Page leaves 099–100 are not standalone public chapter entities.
+
+chapters:
+- entity_id: chapter-diary-01-moya-mama
+  type: manuscript_chapter
+  title_ru: Моя мама
+  title_en: My mother
+  url_ru: /vospominaniya/dnevnik/01-moya-mama/
+  url_en: /en/memoirs/diary/
+  confidence: editorial_curated
+  public: true
+- entity_id: chapter-diary-02-otec-brak-deti
+  type: manuscript_chapter
+  title_ru: Отец, брак, дети
+  title_en: Father, marriage, children
+  url_ru: /vospominaniya/dnevnik/02-otec-brak-deti/
+  url_en: /en/memoirs/diary/
+  confidence: editorial_curated
+  public: true
+- entity_id: chapter-diary-05-otec-vchk
+  type: manuscript_chapter
+  title_ru: Отец, ВЧК и стихи
+  title_en: Father, Cheka, and verses
+  url_ru: /vospominaniya/dnevnik/05-otec-vchk-i-stikhi/
+  url_en: /en/memoirs/diary/
+  confidence: editorial_curated
+  public: true
+- entity_id: chapter-diary-08-otec-harakter
+  type: manuscript_chapter
+  title_ru: Характер отца
+  title_en: Father’s character
+  url_ru: /vospominaniya/dnevnik/08-otec-harakter/
+  url_en: /en/memoirs/diary/
+  confidence: editorial_curated
+  public: true
+- entity_id: chapter-diary-10-prodolzhenie
+  type: manuscript_chapter
+  title_ru: Продолжение 080–089
+  title_en: Continuation 080–089
+  url_ru: /vospominaniya/dnevnik/10-prodolzhenie-080-089/
+  url_en: /en/memoirs/diary/
+  confidence: editorial_curated
+  public: true
+- entity_id: chapter-diary-11-genya-tyoma
+  type: manuscript_chapter
+  title_ru: Геня и Тёма (090–098)
+  title_en: Genya and Tyoma (090–098)
+  url_ru: /vospominaniya/dnevnik/11-prodolzhenie-090-099/
+  url_en: /en/memoirs/diary/
+  confidence: editorial_curated
+  public: true
+- entity_id: chapter-diary-12-brat-front
+  type: manuscript_chapter
+  title_ru: Брат на фронте
+  title_en: Brother at the front
+  url_ru: /vospominaniya/dnevnik/12-brat-front-103-108/
+  url_en: /en/memoirs/diary/
+  confidence: editorial_curated
+  public: true
+- entity_id: chapter-diary-14-school-war
+  type: manuscript_chapter
+  title_ru: Школа и война
+  title_en: School and war
+  url_ru: /vospominaniya/dnevnik/14-shkola-i-voyna/
+  url_en: /en/memoirs/diary/
+  confidence: editorial_curated
+  public: true
+- entity_id: chapter-diary-15-wartime-letters
+  type: manuscript_chapter
+  title_ru: Письма военных лет
+  title_en: Wartime letters
+  url_ru: /vospominaniya/dnevnik/15-pisma-voennye-128-133/
+  url_en: /en/memoirs/diary/
+  confidence: editorial_curated
+  public: true

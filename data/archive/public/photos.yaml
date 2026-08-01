@@ -1,0 +1,304 @@
+# Public archive photos — B02 priority pages + key album portraits.
+# Prefer archive-b02 crops when published; else dnevnik-tt page scans.
+# Exclude private pages 099, 100, 155, 157 from this registry.
+# 101 primary; 102 alternate of same civil-defense exam print.
+# source_page: original notebook page number (B02 continuous numbering).
+
+photos:
+- entity_id: photo-b02-080
+  src: /photos/archive-b02/b02-mp001-ph01.jpg
+  caption_ru: Ф. Э. Дзержинский; Беленький (Виленский?); папа.
+  caption_en: F. E. Dzerzhinsky; Belenky (Vilensky?); Papa.
+  depicted_people:
+  - person-samsonov-tp
+  event_ids: []
+  place_ids:
+  - place-moscow
+  source_page: 80
+  related_crop_ids:
+  - b02-mp001-ph01
+  - b02-mp001-ph02
+  page_scan_src: /photos/dnevnik-tt/str-080.jpg
+  related_urls:
+  - /vospominaniya/dnevnik/10-prodolzhenie-080-089/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-b02-081
+  src: /photos/archive-b02/b02-mp002-ph01.jpg
+  caption_ru: Александровский централ (Сибирь), 1910. «Здесь сидел отец летом 1910
+    года».
+  caption_en: Alexandrovsky Central (Siberia), 1910. “Father was imprisoned here in
+    summer 1910.”
+  depicted_people: []
+  event_ids: []
+  place_ids: []
+  source_page: 81
+  related_crop_ids:
+  - b02-mp002-ph01
+  page_scan_src: /photos/dnevnik-tt/str-081.jpg
+  related_urls:
+  - /vospominaniya/dnevnik/10-prodolzhenie-080-089/
+  - /foto/tetrad-semya-prodolzhenie/
+  - /roditeli/samsonov-timofey-petrovich/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-b02-086
+  src: /photos/archive-b02/b02-mp007-ph01.jpg
+  caption_ru: Маме и папе в гостях у Повстухи (Гвостухи). Подписи «папа», «мама» на
+    снимках.
+  caption_en: Mama and Papa visiting Povstukha (Gvostukha). Captions “papa”, “mama”
+    on the prints.
+  depicted_people:
+  - person-samsonov-tp
+  - person-eva-konstantinovna
+  event_ids: []
+  place_ids: []
+  source_page: 86
+  related_crop_ids:
+  - b02-mp007-ph01
+  - b02-mp007-ph02
+  page_scan_src: /photos/dnevnik-tt/str-086.jpg
+  related_urls:
+  - /vospominaniya/dnevnik/10-prodolzhenie-080-089/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-b02-092
+  src: /photos/archive-b02/b02-mp013-ph01.jpg
+  caption_ru: Женя и Тёма Самсоновы. «Мой брат и сестра (Тёма и Женя). Меня ещё тогда
+    не было».
+  caption_en: Zhenya and Tyoma Samsonov. “My brother and sister (Tyoma and Zhenya).
+    I was not yet born.”
+  depicted_people:
+  - person-samsonov-tt
+  - person-genya-samsonova
+  event_ids: []
+  place_ids: []
+  source_page: 92
+  related_crop_ids:
+  - b02-mp013-ph01
+  - b02-mp013-ph02
+  - b02-mp013-ph03
+  page_scan_src: /photos/dnevnik-tt/str-092.jpg
+  related_urls:
+  - /vospominaniya/dnevnik/11-prodolzhenie-090-099/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-b02-101
+  src: /photos/dnevnik-tt/str-101.jpg
+  caption_ru: Экзамен по гражданской обороне.
+  caption_en: Civil-defense exam.
+  depicted_people: []
+  event_ids:
+  - event-great-patriotic-war-family
+  place_ids: []
+  source_page: 101
+  role: primary
+  duplicate_group: civil-defense-exam-101-102
+  related_crop_ids:
+  - b02-mp022-ph01
+  alternate_entity_id: photo-b02-102
+  related_urls:
+  - /vospominaniya/dnevnik/12-brat-front-103-108/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-b02-102
+  src: /photos/dnevnik-tt/str-102.jpg
+  caption_ru: Тот же снимок экзамена по гражданской обороне (альтернативный скан;
+    в галерее не дублировать).
+  caption_en: Same civil-defense exam photograph (alternate scan; do not duplicate
+    in gallery).
+  depicted_people: []
+  event_ids:
+  - event-great-patriotic-war-family
+  place_ids: []
+  source_page: 102
+  role: alternate_scan
+  duplicate_group: civil-defense-exam-101-102
+  primary_entity_id: photo-b02-101
+  related_crop_ids:
+  - b02-mp023-ph03
+  related_urls:
+  - /vospominaniya/dnevnik/12-brat-front-103-108/
+  confidence: editorial_curated
+  public: true
+  gallery_include: false
+- entity_id: photo-b02-117
+  src: /photos/archive-b02/b02-mp038-ph01.jpg
+  caption_ru: 'Наш 6 «а». На странице тетради — подписи к рядам: Таня Самсонова и
+    одноклассники.'
+  caption_en: 'Our 6 “A”. Notebook page has row labels: Tanya Samsonova and classmates.'
+  depicted_people:
+  - person-tatyana-timofeevna
+  event_ids:
+  - event-school-years-1940-1941
+  place_ids:
+  - place-moscow
+  source_page: 117
+  related_crop_ids:
+  - b02-mp038-ph01
+  page_scan_src: /photos/dnevnik-tt/str-117.jpg
+  related_urls:
+  - /vospominaniya/dnevnik/13-tanya-detstvo-i-shkola/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-b02-146
+  src: /photos/archive-b02/b02-mp067-ph01.jpg
+  caption_ru: «Май 1983. Прошло 30 лет… Я со своими „девочками“» — встреча с выпускницами.
+  caption_en: “May 1983. Thirty years have passed… Me with my ‘girls’” — class reunion.
+  depicted_people:
+  - person-tatyana-timofeevna
+  event_ids:
+  - event-class-reunions
+  place_ids:
+  - place-moscow
+  source_page: 146
+  related_crop_ids:
+  - b02-mp067-ph01
+  page_scan_src: /photos/dnevnik-tt/str-146.jpg
+  related_urls:
+  - /vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-b02-147
+  src: /photos/archive-b02/b02-mp068-ph01.jpg
+  caption_ru: «Это Паша. 1930 г.»
+  caption_en: “This is Pasha. 1930.”
+  depicted_people: []
+  event_ids: []
+  place_ids:
+  - place-moscow
+  source_page: 147
+  related_crop_ids:
+  - b02-mp068-ph01
+  - b02-mp068-ph02
+  - b02-mp068-ph04
+  page_scan_src: /photos/dnevnik-tt/str-147.jpg
+  related_urls:
+  - /vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-b02-148
+  src: /photos/archive-b02/b02-mp069-ph01.jpg
+  caption_ru: «Наш выпуск. Гр. 203. Июнь 1949 г.» — подписи к стоящим и сидящим на
+    листе тетради.
+  caption_en: “Our graduation. Group 203. June 1949” — standing/seated labels on the
+    notebook leaf.
+  depicted_people:
+  - person-tatyana-timofeevna
+  event_ids: []
+  place_ids:
+  - place-moscow
+  source_page: 148
+  related_crop_ids:
+  - b02-mp069-ph01
+  page_scan_src: /photos/dnevnik-tt/str-148.jpg
+  related_urls:
+  - /vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-b02-151
+  src: /photos/archive-b02/b02-mp072-ph01.jpg
+  caption_ru: «Саша вернулся. Лето 1954. У Петровского леса».
+  caption_en: “Sasha returned. Summer 1954. At Petrovsky forest.”
+  depicted_people:
+  - person-alexander-krivoshein
+  event_ids:
+  - event-family-start
+  place_ids:
+  - place-moscow
+  source_page: 151
+  related_crop_ids:
+  - b02-mp072-ph01
+  - b02-mp072-ph02
+  - b02-mp072-ph03
+  page_scan_src: /photos/dnevnik-tt/str-151.jpg
+  related_urls:
+  - /vospominaniya/dnevnik/19-semya-i-deti/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-b02-154
+  src: /photos/archive-b02/b02-mp075-ph01.jpg
+  caption_ru: «Февраль 1948. Митя».
+  caption_en: “February 1948. Mitya.”
+  depicted_people:
+  - person-dmitry-krivoshein-jr
+  event_ids:
+  - event-family-start
+  place_ids: []
+  source_page: 154
+  related_crop_ids:
+  - b02-mp075-ph01
+  - b02-mp075-ph02
+  - b02-mp075-ph03
+  page_scan_src: /photos/dnevnik-tt/str-154.jpg
+  related_urls:
+  - /vospominaniya/dnevnik/19-semya-i-deti/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-b02-161
+  src: /photos/dnevnik-tt/str-161.jpg
+  caption_ru: Семейные кадры на листе тетради (в т. ч. Люблино / Яблонная, 1953; подписи
+    на листе).
+  caption_en: Family frames on the notebook leaf (incl. Lyublino / Yablonnaya, 1953;
+    captions on the leaf).
+  depicted_people:
+  - person-tatyana-timofeevna
+  event_ids:
+  - event-family-start
+  place_ids:
+  - place-yablonnaya
+  - place-kislovodsk
+  - place-simferopol
+  source_page: 161
+  related_crop_ids:
+  - b02-mp082-ph01
+  - b02-mp082-ph02
+  - b02-mp082-ph03
+  related_urls:
+  - /vospominaniya/dnevnik/19-semya-i-deti/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-album-samsonov-tp-05
+  src: /photos/samsonov-tp/05-studio-moscow-oval.jpg
+  caption_ru: Студийный портрет Т. П. Самсонова (Москва).
+  caption_en: Studio portrait of T. P. Samsonov (Moscow).
+  depicted_people:
+  - person-samsonov-tp
+  related_urls:
+  - /foto/samsonov-timofey-petrovich/
+  - /roditeli/samsonov-timofey-petrovich/
+  confidence: editorial_curated
+  public: true
+- entity_id: photo-eva-portrait
+  src: /photos/eva-konstantinovna/eva-portrait.jpg
+  caption_ru: Ева Константиновна — портрет («Моя мама»).
+  caption_en: Eva Konstantinovna — portrait (“My mother”).
+  depicted_people:
+  - person-samsonova-ek
+  - person-eva-konstantinovna
+  related_urls:
+  - /roditeli/eva-konstantinovna/
+  - /lyudi/eva-konstantinovna-samsonova/
+  confidence: manuscript_stated
+  public: true
+- entity_id: photo-tatyana-2019-home
+  src: /photos/tatyana-tt/2019-home-last-year.jpg
+  caption_ru: Татьяна Тимофеевна дома, 2019.
+  caption_en: Tatyana Timofeevna at home, 2019.
+  depicted_people:
+  - person-krivosheina-tt
+  related_urls:
+  - /foto/tatyana-timofeevna-2019/
+  confidence: editorial_curated
+  public: true

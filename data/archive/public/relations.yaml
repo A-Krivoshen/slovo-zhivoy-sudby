@@ -1,0 +1,737 @@
+# Public typed relations for the archive knowledge graph.
+# Vocabulary: docs/ARCHIVE_RELATION_VOCABULARY.md
+# Only public: true relations belong in templates / JSON-LD.
+# Never merge Timofey Petrovich with Timofey Timofeevich.
+# Never invent surnames for uncertain letter authors.
+
+version: 1
+generated: "2026-08-01"
+public: true
+
+relations:
+  # ---------------------------------------------------------------------------
+  # Family links (Samsonov core)
+  # ---------------------------------------------------------------------------
+  - subject: person-krivosheina-tt
+    predicate: child_of
+    object: person-samsonov-tp
+    source_ref: content/ru/roditeli/otets-i-mat.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: child_of
+    object: person-samsonova-ek
+    source_ref: content/ru/roditeli/eva-konstantinovna.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tt
+    predicate: child_of
+    object: person-samsonov-tp
+    source_ref: content/ru/roditeli/otets-i-mat.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tt
+    predicate: child_of
+    object: person-samsonova-ek
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-genya-samsonova
+    predicate: child_of
+    object: person-samsonov-tp
+    source_ref: content/ru/roditeli/otets-i-mat.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-genya-samsonova
+    predicate: child_of
+    object: person-samsonova-ek
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: parent_of
+    object: person-krivosheina-tt
+    source_ref: content/ru/roditeli/samsonov-timofey-petrovich.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: parent_of
+    object: person-samsonov-tt
+    source_ref: content/ru/roditeli/otets-i-mat.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: parent_of
+    object: person-genya-samsonova
+    source_ref: content/ru/roditeli/otets-i-mat.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonova-ek
+    predicate: parent_of
+    object: person-krivosheina-tt
+    source_ref: content/ru/roditeli/eva-konstantinovna.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonova-ek
+    predicate: parent_of
+    object: person-samsonov-tt
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonova-ek
+    predicate: parent_of
+    object: person-genya-samsonova
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: spouse_of
+    object: person-samsonova-ek
+    source_ref: content/ru/roditeli/otets-i-mat.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonova-ek
+    predicate: spouse_of
+    object: person-samsonov-tp
+    source_ref: content/ru/roditeli/otets-i-mat.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: sibling_of
+    object: person-samsonov-tt
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tt
+    predicate: sibling_of
+    object: person-krivosheina-tt
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: sibling_of
+    object: person-genya-samsonova
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-genya-samsonova
+    predicate: sibling_of
+    object: person-krivosheina-tt
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tt
+    predicate: sibling_of
+    object: person-genya-samsonova
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-genya-samsonova
+    predicate: sibling_of
+    object: person-samsonov-tt
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: spouse_of
+    object: person-alexander-krivoshein
+    source_ref: content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-alexander-krivoshein
+    predicate: spouse_of
+    object: person-krivosheina-tt
+    source_ref: content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-alexander-krivoshein
+    predicate: child_of
+    object: person-krivoshein-da
+    source_ref: content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: person-krivoshein-da
+    predicate: parent_of
+    object: person-alexander-krivoshein
+    source_ref: content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
+    confidence: editorial_curated
+    public: true
+
+  # ---------------------------------------------------------------------------
+  # Letter authors
+  # ---------------------------------------------------------------------------
+  - subject: person-dmitry-wartime-correspondent
+    predicate: author_of
+    object: letter-1943-08-11-dmitry
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-103-1943.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-dmitry-wartime-correspondent
+    predicate: author_of
+    object: letter-1944-07-28-dmitry
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-104.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonov-tt
+    predicate: author_of
+    object: letter-1943-06-14-timosha
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-105-106-mamochke.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonov-tt
+    predicate: author_of
+    object: letter-1944-07-13-timosha
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-107.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-mikhail-makarovich-friolenko
+    predicate: author_of
+    object: letter-1943-04-20-friolenko
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-128-129-tane-ot-tovarishcha.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-gennady-letter-correspondent
+    predicate: author_of
+    object: letter-tanyusha-gennady
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-131-tanyusha.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-gennady-vokhmintsev
+    predicate: author_of
+    object: letter-1943-11-18-gennady
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-132-gennadiy-18-11-1943.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-gennady-vokhmintsev
+    predicate: author_of
+    object: letter-1943-11-29-gennady
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-133-gennadiy-29-11-1943.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: author_of
+    object: document-pravda-dzerzhinsky-1929
+    source_ref: content/ru/dokumenty/pravda-o-dzerzhinskom-1929.md
+    confidence: manuscript_stated
+    public: true
+
+  # ---------------------------------------------------------------------------
+  # Letter addressees
+  # ---------------------------------------------------------------------------
+  - subject: person-samsonov-tp
+    predicate: addressee_of
+    object: letter-1943-08-11-dmitry
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-103-1943.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonova-ek
+    predicate: addressee_of
+    object: letter-1943-08-11-dmitry
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-103-1943.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: addressee_of
+    object: letter-1943-08-11-dmitry
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-103-1943.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: addressee_of
+    object: letter-1944-07-28-dmitry
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-104.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonova-ek
+    predicate: addressee_of
+    object: letter-1944-07-28-dmitry
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-104.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonova-ek
+    predicate: addressee_of
+    object: letter-1943-06-14-timosha
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-105-106-mamochke.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: addressee_of
+    object: letter-1944-07-13-timosha
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-107.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonova-ek
+    predicate: addressee_of
+    object: letter-1944-07-13-timosha
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-107.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: addressee_of
+    object: letter-1944-07-13-timosha
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-107.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: addressee_of
+    object: letter-1943-04-20-friolenko
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-128-129-tane-ot-tovarishcha.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: addressee_of
+    object: letter-tanyusha-gennady
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-131-tanyusha.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: addressee_of
+    object: letter-1943-11-18-gennady
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-132-gennadiy-18-11-1943.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: addressee_of
+    object: letter-1943-11-29-gennady
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-133-gennadiy-29-11-1943.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-genya-samsonova
+    predicate: addressee_of
+    object: letter-insert-sister-089-090
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-vstavka-sestre-089-090.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: addressee_of
+    object: postcard-130-new-year
+    source_ref: content/ru/dokumenty/pisma-s-fronta/otkrytka-130-novyj-god.md
+    confidence: document_confirmed
+    public: true
+
+  # ---------------------------------------------------------------------------
+  # Document / award recipients
+  # ---------------------------------------------------------------------------
+  - subject: person-samsonov-tt
+    predicate: recipient_of
+    object: document-stalingrad-medal-samsonov-tt
+    source_ref: content/ru/dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: recipient_of
+    object: document-order-red-banner-samsonov
+    source_ref: content/ru/dokumenty/orden-krasnogo-znameni-samsonov.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: recipient_of
+    object: document-colt-1919
+    source_ref: content/ru/dokumenty/udostoverenie-kolt-1919.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: recipient_of
+    object: document-gpu-badge-samsonov
+    source_ref: content/ru/dokumenty/znak-gpu-samsonov.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: recipient_of
+    object: document-expulsion-uk-1917
+    source_ref: content/ru/dokumenty/vysylka-velikobritaniya-1917.md
+    confidence: document_confirmed
+    public: true
+
+  # ---------------------------------------------------------------------------
+  # Event participation / location ties
+  # ---------------------------------------------------------------------------
+  - subject: person-samsonov-tt
+    predicate: participant_in
+    object: event-defense-of-stalingrad
+    source_ref: content/ru/dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: event-defense-of-stalingrad
+    predicate: associated_with
+    object: document-stalingrad-medal-samsonov-tt
+    source_ref: content/ru/dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: participant_in
+    object: event-uk-expulsion-1917
+    source_ref: content/ru/dokumenty/vysylka-velikobritaniya-1917.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: event-uk-expulsion-1917
+    predicate: associated_with
+    object: document-expulsion-uk-1917
+    source_ref: content/ru/dokumenty/vysylka-velikobritaniya-1917.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-f-e-dzerzhinsky
+    predicate: associated_with
+    object: document-colt-1919
+    source_ref: content/ru/dokumenty/udostoverenie-kolt-1919.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-f-e-dzerzhinsky
+    predicate: mentioned_in
+    object: document-pravda-dzerzhinsky-1929
+    source_ref: content/ru/dokumenty/pravda-o-dzerzhinskom-1929.md
+    confidence: document_confirmed
+    public: true
+
+  # ---------------------------------------------------------------------------
+  # Photo depicted (key published portraits / group prints)
+  # ---------------------------------------------------------------------------
+  - subject: person-samsonov-tp
+    predicate: depicted_in
+    object: photo-b02-080
+    source_ref: content/ru/foto/samsonov-timofey-petrovich.md#08
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-f-e-dzerzhinsky
+    predicate: depicted_in
+    object: photo-b02-080
+    source_ref: content/ru/foto/samsonov-timofey-petrovich.md#08
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: depicted_in
+    object: photo-album-samsonov-tp-05
+    source_ref: content/ru/foto/samsonov-timofey-petrovich.md#05
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonova-ek
+    predicate: depicted_in
+    object: photo-eva-portrait
+    source_ref: content/ru/roditeli/eva-konstantinovna.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tt
+    predicate: depicted_in
+    object: photo-b02-092
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-genya-samsonova
+    predicate: depicted_in
+    object: photo-b02-092
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: depicted_in
+    object: photo-tatyana-2019-home
+    source_ref: content/ru/foto/tatyana-timofeevna-2019.md
+    confidence: editorial_curated
+    public: true
+
+  # ---------------------------------------------------------------------------
+  # Chapter mentions (key people ↔ manuscript chapters)
+  # ---------------------------------------------------------------------------
+  - subject: person-krivosheina-tt
+    predicate: mentioned_in
+    object: chapter-diary-01-moya-mama
+    source_ref: content/ru/vospominaniya/dnevnik/01-moya-mama.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonova-ek
+    predicate: mentioned_in
+    object: chapter-diary-01-moya-mama
+    source_ref: content/ru/vospominaniya/dnevnik/01-moya-mama.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: mentioned_in
+    object: chapter-diary-02-otec-brak-deti
+    source_ref: content/ru/vospominaniya/dnevnik/02-otec-brak-deti.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: mentioned_in
+    object: chapter-diary-05-otec-vchk
+    source_ref: content/ru/vospominaniya/dnevnik/05-otec-vchk-i-stikhi.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: mentioned_in
+    object: chapter-diary-08-otec-harakter
+    source_ref: content/ru/vospominaniya/dnevnik/08-otec-harakter.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: mentioned_in
+    object: chapter-diary-10-prodolzhenie
+    source_ref: content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-genya-samsonova
+    predicate: mentioned_in
+    object: chapter-diary-10-prodolzhenie
+    source_ref: content/ru/vospominaniya/dnevnik/10-prodolzhenie-080-089.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-genya-samsonova
+    predicate: mentioned_in
+    object: chapter-diary-11-genya-tyoma
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tt
+    predicate: mentioned_in
+    object: chapter-diary-11-genya-tyoma
+    source_ref: content/ru/vospominaniya/dnevnik/11-prodolzhenie-090-099.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tt
+    predicate: mentioned_in
+    object: chapter-diary-12-brat-front
+    source_ref: content/ru/vospominaniya/dnevnik/12-brat-front-103-108.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: mentioned_in
+    object: chapter-diary-12-brat-front
+    source_ref: content/ru/vospominaniya/dnevnik/12-brat-front-103-108.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: mentioned_in
+    object: chapter-diary-14-school-war
+    source_ref: content/ru/vospominaniya/dnevnik/14-shkola-i-voyna.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: mentioned_in
+    object: chapter-diary-15-wartime-letters
+    source_ref: content/ru/vospominaniya/dnevnik/15-pisma-voennye-128-133.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-mikhail-makarovich-friolenko
+    predicate: mentioned_in
+    object: chapter-diary-15-wartime-letters
+    source_ref: content/ru/vospominaniya/dnevnik/15-pisma-voennye-128-133.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: letter-1943-08-11-dmitry
+    predicate: mentioned_in
+    object: chapter-diary-12-brat-front
+    source_ref: content/ru/vospominaniya/dnevnik/12-brat-front-103-108.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: letter-1943-06-14-timosha
+    predicate: mentioned_in
+    object: chapter-diary-12-brat-front
+    source_ref: content/ru/vospominaniya/dnevnik/12-brat-front-103-108.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: document-stalingrad-medal-samsonov-tt
+    predicate: mentioned_in
+    object: chapter-diary-12-brat-front
+    source_ref: content/ru/vospominaniya/dnevnik/12-brat-front-103-108.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: letter-1943-04-20-friolenko
+    predicate: mentioned_in
+    object: chapter-diary-15-wartime-letters
+    source_ref: content/ru/vospominaniya/dnevnik/15-pisma-voennye-128-133.md
+    confidence: editorial_curated
+    public: true
+
+  # ---------------------------------------------------------------------------
+  # Collection membership (letters part_of front collection)
+  # ---------------------------------------------------------------------------
+  - subject: letter-1943-08-11-dmitry
+    predicate: part_of
+    object: collection-letters-from-front
+    source_ref: content/ru/dokumenty/pisma-s-fronta/_index.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: letter-1944-07-28-dmitry
+    predicate: part_of
+    object: collection-letters-from-front
+    source_ref: content/ru/dokumenty/pisma-s-fronta/_index.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: letter-1943-06-14-timosha
+    predicate: part_of
+    object: collection-letters-from-front
+    source_ref: content/ru/dokumenty/pisma-s-fronta/_index.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: letter-1944-07-13-timosha
+    predicate: part_of
+    object: collection-letters-from-front
+    source_ref: content/ru/dokumenty/pisma-s-fronta/_index.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: letter-1943-04-20-friolenko
+    predicate: part_of
+    object: collection-letters-from-front
+    source_ref: content/ru/dokumenty/pisma-s-fronta/_index.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: letter-tanyusha-gennady
+    predicate: part_of
+    object: collection-letters-from-front
+    source_ref: content/ru/dokumenty/pisma-s-fronta/_index.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: letter-1943-11-18-gennady
+    predicate: part_of
+    object: collection-letters-from-front
+    source_ref: content/ru/dokumenty/pisma-s-fronta/_index.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: letter-1943-11-29-gennady
+    predicate: part_of
+    object: collection-letters-from-front
+    source_ref: content/ru/dokumenty/pisma-s-fronta/_index.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: letter-insert-sister-089-090
+    predicate: part_of
+    object: collection-letters-from-front
+    source_ref: content/ru/dokumenty/pisma-s-fronta/_index.md
+    confidence: editorial_curated
+    public: true
+
+  - subject: postcard-130-new-year
+    predicate: part_of
+    object: collection-letters-from-front
+    source_ref: content/ru/dokumenty/pisma-s-fronta/_index.md
+    confidence: editorial_curated
+    public: true
+
+  # ---------------------------------------------------------------------------
+  # Chronological letter chains (same correspondent where clear)
+  # ---------------------------------------------------------------------------
+  - subject: letter-1943-08-11-dmitry
+    predicate: precedes
+    object: letter-1944-07-28-dmitry
+    source_ref: docs/LETTER_DATE_VERIFY_B02.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: letter-1944-07-28-dmitry
+    predicate: follows
+    object: letter-1943-08-11-dmitry
+    source_ref: docs/LETTER_DATE_VERIFY_B02.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: letter-1943-06-14-timosha
+    predicate: precedes
+    object: letter-1944-07-13-timosha
+    source_ref: docs/LETTER_DATE_VERIFY_B02.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: letter-1944-07-13-timosha
+    predicate: follows
+    object: letter-1943-06-14-timosha
+    source_ref: docs/LETTER_DATE_VERIFY_B02.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: letter-1943-11-18-gennady
+    predicate: precedes
+    object: letter-1943-11-29-gennady
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-133-gennadiy-29-11-1943.md
+    confidence: document_confirmed
+    public: true
+
+  - subject: letter-1943-11-29-gennady
+    predicate: follows
+    object: letter-1943-11-18-gennady
+    source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-133-gennadiy-29-11-1943.md
+    confidence: document_confirmed
+    public: true

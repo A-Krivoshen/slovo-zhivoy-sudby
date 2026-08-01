@@ -1,0 +1,219 @@
+# Public letter / postcard entities for the archive knowledge graph.
+# Predicates and confidence values: docs/ARCHIVE_RELATION_VOCABULARY.md
+# Do not invent surnames for uncertain letter authors.
+# Timosha form ≠ automatic merge with signature «Дмитрий».
+
+version: 1
+generated: "2026-08-01"
+public: true
+
+letters:
+  - entity_id: letter-1943-08-11-dmitry
+    type: letter
+    source_pages: [103]
+    scan_ids: [str-103]
+    url_ru: /dokumenty/pisma-s-fronta/pismo-103-1943/
+    url_en: /en/documents/letters-from-the-front/letter-103-1943/
+    date: "1943-08-11"
+    date_on_leaf: "11.08.43"
+    author_id: person-dmitry-wartime-correspondent
+    addressee_ids:
+      - person-samsonov-tp
+      - person-samsonova-ek
+      - person-krivosheina-tt
+    event_ids:
+      - event-great-patriotic-war-family
+    sides: 1
+    confidence: document_confirmed
+    notes: >
+      Date and signature «Ваш Дмитрий» read on scan (not May). Author surname
+      and exact family link not established. Do not equate with Timosha (105–107)
+      or with Timofey Petrovich.
+    public: true
+
+  - entity_id: letter-1944-07-28-dmitry
+    type: letter
+    source_pages: [104]
+    scan_ids: [str-104]
+    url_ru: /dokumenty/pisma-s-fronta/pismo-104/
+    url_en: /en/documents/letters-from-the-front/letter-104/
+    date: "1944-07-28"
+    date_on_leaf: "28.VII.44"
+    author_id: person-dmitry-wartime-correspondent
+    addressee_ids:
+      - person-samsonov-tp
+      - person-samsonova-ek
+    event_ids:
+      - event-great-patriotic-war-family
+    sides: 1
+    confidence: document_confirmed
+    notes: >
+      Leaf damaged (folds, torn right edge). Month is Roman VII (July), not VI.
+      Reading «28.VII.44» and signature Дмитрий. Surname / identity vs Timosha
+      not established; do not force merge.
+    public: true
+
+  - entity_id: letter-1943-06-14-timosha
+    type: letter
+    source_pages: [105, 106]
+    scan_ids: [str-105, str-106]
+    url_ru: /dokumenty/pisma-s-fronta/pismo-105-106-mamochke/
+    url_en: /en/documents/letters-from-the-front/letter-105-106-to-mother/
+    date: "1943-06-14"
+    date_on_leaf: "14.VI.43."
+    author_id: person-samsonov-tt
+    addressee_ids:
+      - person-samsonova-ek
+    event_ids:
+      - event-great-patriotic-war-family
+    sides: 2
+    confidence: document_confirmed
+    notes: >
+      Face + reverse with address. Closing «Тимоша» / «ваш сын»; reverse from
+      Самсонову Т. Т., field post 18003 «2», to Самсоновой Е.К. Same brother as
+      Timofey Timofeevich; not father T.P. Nickname form Timosha kept as on leaf.
+    public: true
+
+  - entity_id: letter-1944-07-13-timosha
+    type: letter
+    source_pages: [107]
+    scan_ids: [str-107]
+    url_ru: /dokumenty/pisma-s-fronta/pismo-107/
+    url_en: /en/documents/letters-from-the-front/letter-107/
+    date: "1944-07-13"
+    date_on_leaf: "13.07.44."
+    author_id: person-samsonov-tt
+    addressee_ids:
+      - person-samsonov-tp
+      - person-samsonova-ek
+      - person-krivosheina-tt
+    event_ids:
+      - event-great-patriotic-war-family
+    sides: 1
+    confidence: document_confirmed
+    notes: >
+      Signature «Ваш Тимоша»; «Саша целует». Brother Timofey Timofeevich, not T.P.
+    public: true
+
+  - entity_id: letter-1943-04-20-friolenko
+    type: letter
+    source_pages: [128, 129]
+    scan_ids: [str-128, str-129]
+    url_ru: /dokumenty/pisma-s-fronta/pismo-128-129-tane-ot-tovarishcha/
+    url_en: /en/documents/letters-from-the-front/letter-128-129-to-tanya-from-comrade/
+    date: "1943-04-20"
+    date_on_leaf: "20 апреля 1943г."
+    author_id: person-mikhail-makarovich-friolenko
+    addressee_ids:
+      - person-krivosheina-tt
+    event_ids:
+      - event-great-patriotic-war-family
+      - event-defense-of-stalingrad
+    sides: 2
+    confidence: document_confirmed
+    notes: >
+      Comrade (friend), not brother Tyoma. Signature and return address
+      Фриоленко М.М., field post 18003 «г.». Intro note on notebook p. 127
+      (wounded comrade after Stalingrad reform).
+    public: true
+
+  - entity_id: letter-tanyusha-gennady
+    type: letter
+    source_pages: [131]
+    scan_ids: [str-131]
+    url_ru: /dokumenty/pisma-s-fronta/pismo-131-tanyusha/
+    url_en: /en/documents/letters-from-the-front/letter-131-tanyusha/
+    date: null
+    date_on_leaf: "1 марта «С весной!»"
+    date_year_uncertain: true
+    author_id: person-gennady-letter-correspondent
+    addressee_ids:
+      - person-krivosheina-tt
+    event_ids:
+      - event-great-patriotic-war-family
+    sides: 1
+    confidence: uncertain
+    notes: >
+      Author year uncertain: day/month on leaf, year not written. Signature
+      «Геннадий» confident; full surname and identity with Vokhmintsev (132)
+      probable but not proven from this leaf alone. Do not invent year as fact.
+    public: true
+
+  - entity_id: letter-1943-11-18-gennady
+    type: letter
+    source_pages: [132]
+    scan_ids: [str-132]
+    url_ru: /dokumenty/pisma-s-fronta/pismo-132-gennadiy-18-11-1943/
+    url_en: /en/documents/letters-from-the-front/letter-132-gennady-18-11-1943/
+    date: "1943-11-18"
+    date_on_leaf: "18-11-43."
+    author_id: person-gennady-vokhmintsev
+    addressee_ids:
+      - person-krivosheina-tt
+    event_ids:
+      - event-great-patriotic-war-family
+    sides: 1
+    confidence: document_confirmed
+    notes: >
+      Family header on leaf «Письмо от Геннадия Вохминцева»; close «— Геннадий».
+      Surname from notebook annotation on this leaf.
+    public: true
+
+  - entity_id: letter-1943-11-29-gennady
+    type: letter
+    source_pages: [133]
+    scan_ids: [str-133]
+    url_ru: /dokumenty/pisma-s-fronta/pismo-133-gennadiy-29-11-1943/
+    url_en: /en/documents/letters-from-the-front/letter-133-gennady-29-11-1943/
+    date: "1943-11-29"
+    date_on_leaf: "29-11-43."
+    author_id: person-gennady-vokhmintsev
+    addressee_ids:
+      - person-krivosheina-tt
+    event_ids:
+      - event-great-patriotic-war-family
+    sides: 1
+    confidence: editorial_curated
+    notes: >
+      Signature «— Геннадий» only; linked to Vokhmintsev via adjacent 18.11.1943
+      letter and editorial context, not a second surname reading on this leaf.
+    public: true
+
+  - entity_id: letter-insert-sister-089-090
+    type: letter
+    source_pages: [89, 90]
+    scan_ids: [str-089, str-090]
+    url_ru: /dokumenty/pisma-s-fronta/pismo-vstavka-sestre-089-090/
+    url_en: null
+    date: null
+    date_on_leaf: null
+    author_id: null
+    addressee_ids:
+      - person-genya-samsonova
+    event_ids: []
+    sides: 2
+    confidence: uncertain
+    notes: >
+      Insert leaf (edges cut). Addressee «Милая и родная моя сестричка»; content
+      links to sister Genya narrative (poems, absence). Author signature / name on
+      the cut edge requires verification — do not invent. EN page not published.
+    public: true
+
+  - entity_id: postcard-130-new-year
+    type: postcard
+    source_pages: [130]
+    scan_ids: [str-130]
+    url_ru: /dokumenty/pisma-s-fronta/otkrytka-130-novyj-god/
+    url_en: null
+    date: null
+    date_on_leaf: null
+    author_id: null
+    addressee_ids:
+      - person-krivosheina-tt
+    event_ids: []
+    sides: 1
+    confidence: uncertain
+    notes: >
+      Multilingual New Year form; addressee «Таничка». Author and year require
+      verification from signature/postmarks. EN page not published.
+    public: true

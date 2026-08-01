@@ -2,47 +2,51 @@
 title: "About Tatyana Timofeevna"
 date: 2026-08-01
 draft: false
-description: "An introduction to Tatyana Timofeevna Krivosheina — the central figure of this family archive."
-summary: "Who Tatyana Timofeevna Krivosheina was and why her story is preserved here."
+description: "Tatyana Timofeevna Krivosheina — the heart of this archive. Daughter of T. P. Samsonov, lecturer; she lived to 95."
+summary: "Tatyana Timofeevna Krivosheina: family, work, a clear mind into old age — she lived to 95."
 translationKey: "about-tatyana"
 tags: ["Tatyana Timofeevna", "memoirs", "introduction"]
 categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]
 ShowToc: true
 cover:
-  image: ""
-  alt: ""
+  image: "/photos/tatyana-tt/2019-home-last-year.jpg"
+  alt: "Tatyana Timofeevna at home, 2019 — last year of her life"
   relative: false
-  hidden: true
+  hidden: false
 ---
 
 ## The heart of the archive
 
 This site is dedicated to **Tatyana Timofeevna Krivosheina** — her life, character, path, and the memory she left for her family.
 
+She **lived to 95**. In the last year of her life she was still at home among her own things — hair neatly done, in a familiar room.
+
+{{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="Tatyana Timofeevna at home, 15 April 2019. Last year of her life. On the desk: a magnifying glass, notebooks and books — in later years she kept a clear mind and enjoyed crosswords. (Bandaged legs after treatment; they do not define the portrait.)" >}}
+
+## Family
+
+Father — **[Timofey Petrovich Samsonov](/en/parents/timofey-petrovich-samsonov/)** (1888–1955).  
+Mother — **Eva Konstantinovna** (materials still being gathered).
+
+In her father’s album she labeled photos *“my dad”* and wrote verses about him.
+
+## Work
+
 {{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="T. T. Krivosheina — senior lecturer, Institute of Steel and Alloys. Family archive." >}}
 
-Her father is **[Timofey Petrovich Samsonov](/en/parents/timofey-petrovich-samsonov/)** (1888–1955); her mother is **Eva Konstantinovna** (materials still being gathered).  
-In her father’s album she labeled photos (“my dad”) and wrote verses about him.
+## Later years
 
-Here we will collect:
+The family remembers: into deep old age she **kept a clear mind**, loved **crosswords**, and stayed engaged.  
+The 2019 photograph is a living home portrait — not hospital documentation.
 
-- her own recollections and retellings;
-- relatives’ stories about her;
-- episodes from childhood, youth, adulthood, and later years;
-- details of daily life, work, relationships, and the times she lived through.
+## How the archive works
 
-## How materials are organized
+Here we collect:
 
-Each publication is a fragment of the larger story. Where possible we record:
+- her recollections and retellings;
+- relatives’ stories;
+- parents and historical context;
+- photographs and documents.
 
-- the **date** or approximate period;
-- the **place**;
-- the **source** (her words, a relative’s account, a document, a photo);
-- links to parents, children, and historical context.
-
-## What is being prepared
-
-Section drafts appear below. Texts will grow as recordings are transcribed, the archive is sorted, and facts are checked.
-
-> If you know dates, details, or corrections, they can be carefully added so the memory stays both living and accurate.
+Where possible each piece notes **when**, **where**, **source**, and links to people and time.

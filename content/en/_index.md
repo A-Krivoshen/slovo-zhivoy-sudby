@@ -1,6 +1,6 @@
 ---
 title: "Word of a Living Fate"
-description: "A family archive about the life of Tatyana Timofeevna Krivosheina — memoirs, parents, photos, documents, and historical notes."
+description: "A family archive about the life of Tatyana Timofeevna Krivosheina (2 September 1926 — 24 September 2021) — memoirs, parents, photos, documents."
 translationKey: "home"
 ---
 
@@ -12,7 +12,7 @@ translationKey: "home"
       The life of <strong>Tatyana Timofeevna Krivosheina</strong> —
       her notebook, the Samsonov parents, Moscow, and family memory.
     </p>
-    <p class="home-hero-meta">1926–2021 · manuscript “Our genealogy: the Samsonovs”</p>
+    <p class="home-hero-meta">2 September 1926 — 24 September 2021 · manuscript “Our genealogy: the Samsonovs”</p>
   </div>
   <figure class="home-hero-photo">
     <img src="/photos/tatyana-tt/2019-home-last-year.jpg" alt="Tatyana Timofeevna at home, 2019" width="400" height="711" loading="eager">

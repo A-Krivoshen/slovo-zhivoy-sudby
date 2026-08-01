@@ -26,6 +26,7 @@ cover:
 | **Where** | Home |
 | **Context** | A family photograph from her later years |
 | **Years of life** | 1926–2021 |
+| **Date of birth** | 2 September 1926 |
 | **Date of death** | 24 September 2021 |
 
 The photograph was taken on **15 April 2019** — more than two years before her death (**24 September 2021**).

@@ -103,11 +103,7 @@ d. 1942.
    b. 21/IV–1926  
    Moscow [? / part of the date at the cut edge]
 
-{{< archive_note type="uncertain" >}}
-**Diplomatic chart reading** (as in the manuscript): **21/IV–1926**.  
-**Year of birth 1926** is also confirmed by the memorial plaque at the burial place.  
-The plaque gives **02.09.1926** — **24.09.2021**; day and month of birth (**02.09** vs **21.04**) are **not** merged without an official record. See [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/).
-{{< /archive_note >}}
+*On the chart is written: 21/IV–1926. That line belongs to the source text and is not used as a biographical date. Biographical life dates: [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/).*
 
 *(lower edge of the page partly cut off)*
 

@@ -2,8 +2,8 @@
 title: "About Tatyana Timofeevna"
 date: 2026-08-01
 draft: false
-description: "Tatyana Timofeevna Krivosheina (1926–2021) — central figure of the family archive: Samsonov parents, the notebook, work, memory."
-summary: "1926–2021. Central figure of the archive: family, the notebook “Our genealogy: the Samsonovs”, confirmed facts."
+description: "Tatyana Timofeevna Krivosheina (2 September 1926 — 24 September 2021) — central figure of the family archive: Samsonov parents, the notebook, work, memory."
+summary: "2 September 1926 — 24 September 2021. Central figure of the archive: family, the notebook “Our genealogy: the Samsonovs”."
 translationKey: "about-tatyana"
 tags: ["Tatyana Timofeevna", "memoirs", "introduction"]
 categories: ["Memoirs"]
@@ -23,7 +23,7 @@ cover:
 
 ## Central figure of the archive
 
-**Tatyana Timofeevna Krivosheina, 1926–2021. She died on 24 September 2021 at the age of 95.**
+**Tatyana Timofeevna Krivosheina was born on 2 September 1926 and died on 24 September 2021 at the age of 95.**
 
 This site is a **family archive** about her life: her voice in the notebook, the Samsonov parents, the home, and the memory of the family.
 
@@ -34,15 +34,12 @@ This site is a **family archive** about her life: her voice in the notebook, the
 | | |
 |---|---|
 | **Years** | **1926–2021** |
-| **Year of birth** | **1926** (confirmed) |
+| **Date of birth** | **2 September 1926** |
 | **Date of death** | **24 September 2021** |
+| **Age** | **95 years** |
 
 {{< archive_note type="source" >}}
-**Source for the monument dates:** family photograph of the burial place; on the memorial plaque: “KRIVOSHEINA TATYANA TIMOFEEVNA · 02.09.1926 — 24.09.2021”.
-{{< /archive_note >}}
-
-{{< archive_note type="uncertain" >}}
-**Year of birth: 1926.** The memorial plaque gives **2 September 1926**, while the manuscript genealogical chart (original_page **003**) gives **21 April 1926**. The exact date (day and month) requires confirmation from an official record. The diplomatic chart reading is **not** altered.
+The life dates are confirmed by **official family documents**. On the memorial plaque at the burial place: “KRIVOSHEINA TATYANA TIMOFEEVNA · 02.09.1926 — 24.09.2021”.
 {{< /archive_note >}}
 
 ## Origin and parents
@@ -67,12 +64,12 @@ Per family captions and portrait — teaching work at the **Institute of Steel a
 ## The notebook
 
 She left the handwritten notebook **[“Our genealogy: the Samsonovs”](/en/memoirs/diary/)** — first batch: **79** archival scans.  
-The site publishes a **first-pass machine-assisted transcription**, checked page by page over time; uncertain readings are marked.
+The site publishes a **first-pass machine-assisted transcription**, checked page by page over time; unclear passages are marked.
 
 ## Later years
 
 The family remembers a clear mind into deep old age, crosswords, and life at home among familiar things.  
-The 2019 photograph is a respectful home portrait, without medical commentary.
+The 2019 photograph is a respectful home portrait.
 
 ## Memory
 
@@ -86,9 +83,8 @@ The 2019 photograph is a respectful home portrait, without medical commentary.
 | Author of the first-person notebook | manuscript | high |
 | Lecturer (Institute of Steel and Alloys) | family portrait/caption | medium–high |
 | Husband — A. D. Krivoshein | chart original_page 004–005 | high |
-| **Year of birth 1926** | plaque; chart 003 | **high** |
-| **Death 24.09.2021** | plaque | **high** |
-| Day/month of birth (02.09 vs 21.04) | plaque vs chart 003 | **unresolved** |
+| **Birth 2 September 1926** | official family documents | **established** |
+| **Death 24 September 2021** | official family documents; plaque | **established** |
 
 ## Read next
 

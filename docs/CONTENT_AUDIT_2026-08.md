@@ -24,7 +24,7 @@ Status legend:
 
 | RU | EN | Type | Notes |
 |----|----|------|-------|
-| `_index.md` | `_index.md` | portal | “95 years” age claim; birth conflict |
+| `_index.md` | `_index.md` | portal | “95 years” age claim; birth 2.09.1926 established (official docs) |
 | `o-proekte.md` | `about.md` | editorial | |
 | `search.md` | `search.md` | system | |
 | `archives.md` | `archives.md` | editorial | |
@@ -85,7 +85,7 @@ Additional leaf mapping:
 
 ## Critical conflicts
 
-1. **Tatyana birth year** — `data/fact_conflicts.yaml` → `tatyana-birth-year`  
+1. **Tatyana birth** — resolved 1926-09-02 (official family documents); see `data/fact_conflicts.yaml`  
 2. **Васильки (051) vs Валуево (064)** — unresolved pending 064 re-check  
 3. **Лудовкин[?]** name spelling vs historical Pudovkin — manuscript form kept  
 
@@ -95,7 +95,7 @@ Additional leaf mapping:
 - Phone notes on page 002 already redacted in image; text still says `[скрыто]/[redacted]` (mixed RU/EN).  
 - Photo caption 2019: fixed 2026-08-01 — no “last year of life”; death 24.09.2021 from plaque.  
  
-- Age “95 years” implies a birth year — must not be used to settle conflict.  
+- Birth 2.09.1926 and death 24.09.2021 established; lived 95 years.  
 
 ## Workflow residue (pre-cleanup count)
 

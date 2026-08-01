@@ -512,4 +512,4 @@ he wrote this to me. I love him too.
 
 ---
 
-*← [Timofey Petrovich; sister Genya (pp. 080–089)](/en/memoirs/diary/10-notebook-continued-080-089/) · [Notebook contents](/en/memoirs/diary/) · [Uncle Tyoma: documents and Stalingrad](/en/memoirs/diary/12-brother-front-letters-101-108/) →*
+*← [Timofey Petrovich; sister Genya (pp. 080–089)](/en/memoirs/diary/10-notebook-continued-080-089/) · [Notebook contents](/en/memoirs/diary/) · [Uncle Tyoma: documents and Stalingrad (RU)](/vospominaniya/dnevnik/12-brat-front-103-108/) →*

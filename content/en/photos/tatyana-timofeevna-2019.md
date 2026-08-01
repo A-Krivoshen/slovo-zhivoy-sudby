@@ -9,11 +9,15 @@ tags: ["photos", "Tatyana Timofeevna", "2019"]
 categories: ["Photos"]
 people: ["Tatyana Timofeevna Krivosheina"]
 ShowToc: false
+weight: 30
 cover:
   image: "/photos/tatyana-tt/2019-home-last-year.jpg"
   alt: "Tatyana Timofeevna Krivosheina at home, 15 April 2019"
   relative: false
 ---
+
+Person page in the archive: [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/).  
+Essay: [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/).
 
 {{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" alt="Tatyana Timofeevna Krivosheina at home, 15 April 2019" caption="Tatyana Timofeevna Krivosheina at home, 15 April 2019. A family photograph from her later years." >}}
 
@@ -21,7 +25,7 @@ cover:
 
 | | |
 | --- | --- |
-| **Who** | Tatyana Timofeevna Krivosheina |
+| **Who** | [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/) |
 | **When** | 15 April 2019 |
 | **Where** | Home |
 | **Context** | A family photograph from her later years |
@@ -31,5 +35,6 @@ cover:
 
 The photograph was taken on **15 April 2019** — more than two years before her death (**24 September 2021**).
 
-The family notes that in later years she kept a clear mind and enjoyed crosswords.  
-See [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/).
+The family notes that in later years she kept a clear mind and enjoyed crosswords.
+
+→ [Tatyana Timofeevna — people page](/en/people/tatyana-timofeevna-krivosheina/) · [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/) · [notebook family album](/en/photos/notebook-family-continued/)

@@ -5,14 +5,19 @@ draft: false
 description: "Main Moscow points from Tatyana Timofeevna’s diary: mother’s home, Lubyanka, Vozdvizhenka, the garden, Novodevichy."
 summary: "2nd Brestskaya, Belorussky → Lubyanka, Vozdvizhenka, Alexandrovsky Garden, Novodevichy."
 translationKey: "places-moscow"
+entity_id: "place-moscow"
+entity_type: "place"
 tags: ["places", "Moscow", "map"]
 categories: ["History"]
 people: ["Tatyana Timofeevna Krivosheina", "Eva Konstantinovna", "Timofey Petrovich Samsonov"]
 ShowToc: true
 ---
 
-Seven points from **Tatyana Timofeevna’s** notebook.  
+Moscow is the **main stage** of the Samsonov–Krivoshein family chronicle: childhood, work, war, memory.  
+Below — seven points from **Tatyana Timofeevna’s** notebook.  
 Coordinates are modern (OSM); meaning comes from the manuscript.
+
+Related place entities: [Hotel Metropol](/en/places/metropol-moscow/) · [Serafimovich Street](/en/places/serafimovich-street/).
 
 ## 1. 2nd Brestskaya — mother’s childhood home
 
@@ -62,5 +67,14 @@ Map point: modern Mihăileni (Moldova); may need document checks.
 {{< osm_map lat="48.04086" lon="27.61611" zoom="13" title="Mihăileni" caption="Point from the notebook entry on father’s birth. Verify against papers." >}}
 
 ---
+
+## Links
+
+| Type | Page |
+| --- | --- |
+| People | [Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/) · [Eva Konstantinovna](/en/parents/eva-konstantinovna/) · [T. P. Samsonov](/en/parents/timofey-petrovich-samsonov/) |
+| Places | [Metropol](/en/places/metropol-moscow/) · [Serafimovich Street](/en/places/serafimovich-street/) |
+| Chapters | [My mother](/en/memoirs/diary/01-my-mother/) · [Father, marriage and children](/en/memoirs/diary/02-father-marriage-children/) · [Childhood](/en/memoirs/diary/03-childhood-moscow/) · [War 1941](/en/memoirs/diary/04-war-1941/) |
+| Timeline | [/en/timeline/](/en/timeline/) |
 
 More in text: [My mother](/en/memoirs/diary/01-my-mother/) · [Childhood](/en/memoirs/diary/03-childhood-moscow/) · [Genealogy](/en/memoirs/diary/00-cover-and-charts/)

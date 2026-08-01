@@ -1,53 +1,96 @@
 {{- /*
-  Curated home portal — calm archive navigation, not a post dump.
+  Curated home portal — calm archive navigation for family visitors.
+  Two groups: where to start, then every main hub.
 */ -}}
 {{- $lang := site.Language.Lang -}}
 <nav class="home-nav" aria-label="{{ if eq $lang "en" }}Main sections{{ else }}Основные разделы{{ end }}">
-  <ul class="home-nav-grid">
-    {{- if eq $lang "en" }}
+  {{- if eq $lang "en" }}
+  <p class="home-nav-heading">Start here</p>
+  <ul class="home-nav-grid home-nav-grid--start">
     <li>
       <a class="home-nav-card" href="{{ "memoirs/about-tatyana-timofeevna/" | relLangURL }}">
         <span class="home-nav-icon" aria-hidden="true">★</span>
         <span class="home-nav-label">Tatyana Timofeevna</span>
-        <span class="home-nav-desc">The heart of the archive — life to 95 years</span>
+        <span class="home-nav-desc">The heart of the archive — a life to 95 years</span>
       </a>
     </li>
     <li>
       <a class="home-nav-card" href="{{ "memoirs/diary/" | relLangURL }}">
         <span class="home-nav-icon" aria-hidden="true">✎</span>
         <span class="home-nav-label">Her notebook</span>
-        <span class="home-nav-desc">Full diary in chapters — 79 pages transcribed</span>
+        <span class="home-nav-desc">The full diary in chapters — read from the beginning</span>
       </a>
     </li>
     <li>
-      <a class="home-nav-card" href="{{ "parents/timofey-petrovich-samsonov/" | relLangURL }}">
+      <a class="home-nav-card" href="{{ "parents/" | relLangURL }}">
         <span class="home-nav-icon" aria-hidden="true">▣</span>
-        <span class="home-nav-label">Father</span>
-        <span class="home-nav-desc">Timofey Petrovich Samsonov, 1888–1955</span>
+        <span class="home-nav-label">Parents</span>
+        <span class="home-nav-desc">Timofey Petrovich and Eva Konstantinovna Samsonov</span>
       </a>
     </li>
     <li>
-      <a class="home-nav-card" href="{{ "parents/eva-konstantinovna/" | relLangURL }}">
+      <a class="home-nav-card" href="{{ "people/" | relLangURL }}">
         <span class="home-nav-icon" aria-hidden="true">◎</span>
-        <span class="home-nav-label">Mother</span>
-        <span class="home-nav-desc">Eva Konstantinovna, 1900–1981</span>
+        <span class="home-nav-label">People</span>
+        <span class="home-nav-desc">Everyone named in the archive — family and circle</span>
+      </a>
+    </li>
+  </ul>
+  <p class="home-nav-heading">Browse the archive</p>
+  <ul class="home-nav-grid">
+    <li>
+      <a class="home-nav-card" href="{{ "memoirs/" | relLangURL }}">
+        <span class="home-nav-icon" aria-hidden="true">✎</span>
+        <span class="home-nav-label">Memoirs</span>
+        <span class="home-nav-desc">Notebook, chapters, and how the text is published</span>
       </a>
     </li>
     <li>
-      <a class="home-nav-card" href="{{ "places/family-moscow/" | relLangURL }}">
+      <a class="home-nav-card" href="{{ "events/" | relLangURL }}">
+        <span class="home-nav-icon" aria-hidden="true">◇</span>
+        <span class="home-nav-label">Events</span>
+        <span class="home-nav-desc">War, school, Crimea, the start of the family…</span>
+      </a>
+    </li>
+    <li>
+      <a class="home-nav-card" href="{{ "timeline/" | relLangURL }}">
+        <span class="home-nav-icon" aria-hidden="true">▭</span>
+        <span class="home-nav-label">Timeline</span>
+        <span class="home-nav-desc">Years and milestones in one place</span>
+      </a>
+    </li>
+    <li>
+      <a class="home-nav-card" href="{{ "places/" | relLangURL }}">
         <span class="home-nav-icon" aria-hidden="true">⌖</span>
         <span class="home-nav-label">Places</span>
-        <span class="home-nav-desc">Moscow and family geography on the map</span>
+        <span class="home-nav-desc">Moscow and the family geography on the map</span>
+      </a>
+    </li>
+    <li>
+      <a class="home-nav-card" href="{{ "documents/" | relLangURL }}">
+        <span class="home-nav-icon" aria-hidden="true">▤</span>
+        <span class="home-nav-label">Documents</span>
+        <span class="home-nav-desc">Certificates, front letters, archive papers</span>
       </a>
     </li>
     <li>
       <a class="home-nav-card" href="{{ "photos/" | relLangURL }}">
         <span class="home-nav-icon" aria-hidden="true">◻</span>
         <span class="home-nav-label">Photos</span>
-        <span class="home-nav-desc">Portraits, album pages, documents</span>
+        <span class="home-nav-desc">Albums and portraits with captions</span>
       </a>
     </li>
-    {{- else }}
+    <li>
+      <a class="home-nav-card" href="{{ "about/" | relLangURL }}">
+        <span class="home-nav-icon" aria-hidden="true">☆</span>
+        <span class="home-nav-label">About the project</span>
+        <span class="home-nav-desc">Who gathers the archive and how we publish</span>
+      </a>
+    </li>
+  </ul>
+  {{- else }}
+  <p class="home-nav-heading">С чего начать</p>
+  <ul class="home-nav-grid home-nav-grid--start">
     <li>
       <a class="home-nav-card" href="{{ "vospominaniya/o-tatyane-timofeevne/" | relLangURL }}">
         <span class="home-nav-icon" aria-hidden="true">★</span>
@@ -59,37 +102,75 @@
       <a class="home-nav-card" href="{{ "vospominaniya/dnevnik/" | relLangURL }}">
         <span class="home-nav-icon" aria-hidden="true">✎</span>
         <span class="home-nav-label">Её тетрадь</span>
-        <span class="home-nav-desc">Полный дневник по главам — 79 страниц</span>
+        <span class="home-nav-desc">Полный дневник по главам — читать с начала</span>
       </a>
     </li>
     <li>
-      <a class="home-nav-card" href="{{ "roditeli/samsonov-timofey-petrovich/" | relLangURL }}">
+      <a class="home-nav-card" href="{{ "roditeli/" | relLangURL }}">
         <span class="home-nav-icon" aria-hidden="true">▣</span>
-        <span class="home-nav-label">Отец</span>
-        <span class="home-nav-desc">Самсонов Тимофей Петрович, 1888–1955</span>
+        <span class="home-nav-label">Родители</span>
+        <span class="home-nav-desc">Самсоновы: Тимофей Петрович и Ева Константиновна</span>
       </a>
     </li>
     <li>
-      <a class="home-nav-card" href="{{ "roditeli/eva-konstantinovna/" | relLangURL }}">
+      <a class="home-nav-card" href="{{ "lyudi/" | relLangURL }}">
         <span class="home-nav-icon" aria-hidden="true">◎</span>
-        <span class="home-nav-label">Мама</span>
-        <span class="home-nav-desc">Ева Константиновна, 1900–1981</span>
+        <span class="home-nav-label">Люди</span>
+        <span class="home-nav-desc">Все, о ком говорится в архиве — семья и круг</span>
+      </a>
+    </li>
+  </ul>
+  <p class="home-nav-heading">Разделы архива</p>
+  <ul class="home-nav-grid">
+    <li>
+      <a class="home-nav-card" href="{{ "vospominaniya/" | relLangURL }}">
+        <span class="home-nav-icon" aria-hidden="true">✎</span>
+        <span class="home-nav-label">Воспоминания</span>
+        <span class="home-nav-desc">Тетрадь, главы и как публикуется текст</span>
       </a>
     </li>
     <li>
-      <a class="home-nav-card" href="{{ "mesta/moskva-semeynaya/" | relLangURL }}">
+      <a class="home-nav-card" href="{{ "sobytiya/" | relLangURL }}">
+        <span class="home-nav-icon" aria-hidden="true">◇</span>
+        <span class="home-nav-label">События</span>
+        <span class="home-nav-desc">Война, школа, Крым, начало семьи…</span>
+      </a>
+    </li>
+    <li>
+      <a class="home-nav-card" href="{{ "hronologiya/" | relLangURL }}">
+        <span class="home-nav-icon" aria-hidden="true">▭</span>
+        <span class="home-nav-label">Хронология</span>
+        <span class="home-nav-desc">Годы и вехи — всё в одном месте</span>
+      </a>
+    </li>
+    <li>
+      <a class="home-nav-card" href="{{ "mesta/" | relLangURL }}">
         <span class="home-nav-icon" aria-hidden="true">⌖</span>
         <span class="home-nav-label">Места</span>
-        <span class="home-nav-desc">Москва семьи на карте</span>
+        <span class="home-nav-desc">Москва семьи и география на карте</span>
+      </a>
+    </li>
+    <li>
+      <a class="home-nav-card" href="{{ "dokumenty/" | relLangURL }}">
+        <span class="home-nav-icon" aria-hidden="true">▤</span>
+        <span class="home-nav-label">Документы</span>
+        <span class="home-nav-desc">Удостоверения, письма с фронта, бумаги</span>
       </a>
     </li>
     <li>
       <a class="home-nav-card" href="{{ "foto/" | relLangURL }}">
         <span class="home-nav-icon" aria-hidden="true">◻</span>
         <span class="home-nav-label">Фото</span>
-        <span class="home-nav-desc">Портреты, альбом, документы</span>
+        <span class="home-nav-desc">Альбомы и портреты с подписями</span>
       </a>
     </li>
-    {{- end }}
+    <li>
+      <a class="home-nav-card" href="{{ "o-proekte/" | relLangURL }}">
+        <span class="home-nav-icon" aria-hidden="true">☆</span>
+        <span class="home-nav-label">О проекте</span>
+        <span class="home-nav-desc">Кто собирает архив и как мы публикуем</span>
+      </a>
+    </li>
   </ul>
+  {{- end }}
 </nav>

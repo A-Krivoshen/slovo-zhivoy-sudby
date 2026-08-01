@@ -5,17 +5,23 @@ draft: false
 description: "Подписи ко всем отобранным снимкам семейного альбома о Самсонове Тимофее Петровиче."
 summary: "15 ключевых кадров с описаниями: портреты, Дзержинский, Сибирь, документы, дочь."
 translationKey: "photo-album-samsonov-tp"
+entity_id: collection-photo-album-samsonov-tp
 tags: ["фото", "Самсонов", "альбом"]
 categories: ["Фото"]
 people: ["Самсонов Тимофей Петрович", "Кривошеина Татьяна Тимофеевна"]
 ShowToc: true
+weight: 20
 cover:
   image: "/photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg"
   alt: "Дзержинский, Беленький и Самсонов Т. П."
   relative: false
 ---
 
-Полный разбор биографии: [Самсонов Тимофей Петрович](/roditeli/samsonov-timofey-petrovich/).  
+Страница человека в архиве: [Самсонов Тимофей Петрович](/lyudi/timofey-petrovich-samsonov/).  
+Полный разбор биографии: [родители — Самсонов Т. П.](/roditeli/samsonov-timofey-petrovich/).  
+Сводка об отце и матери: [Отец и мать](/roditeli/otets-i-mat/).  
+Семейные кадры из тетради: [семейный фотоальбом продолжения](/foto/tetrad-semya-prodolzhenie/).
+
 Близкие дубликаты кадров сведены; ниже — отобранные снимки семейного архива.
 
 ## 1. Портреты
@@ -60,6 +66,8 @@ cover:
 
 {{< figure src="/photos/samsonov-tp/09-alexandrovsky-central-1910.jpg" caption="Тюремный корпус. Подпись: «Александровский Централ (Сибирь). Здесь сидел отец летом 1910 года»." >}}
 
+→ [Самсонов Т. П.](/lyudi/timofey-petrovich-samsonov/)
+
 ## 4. Документы (фото)
 
 ### 10 — Орден Красного Знамени
@@ -87,6 +95,8 @@ cover:
 ### 12 — Кривошеина Т. Т., преподаватель
 
 {{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="Подпись на бланке: «Ст. преподаватель Кривошеина Т. Т. / Ин-т стали и сплавов» — **Институт стали и сплавов**." >}}
+
+→ [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
 
 ---
 

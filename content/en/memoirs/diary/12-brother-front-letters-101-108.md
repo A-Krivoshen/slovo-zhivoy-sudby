@@ -21,9 +21,9 @@ source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
-Documents of **uncle Tyoma** — brother **Timofey Timofeevich** — from the war years: an exam photograph, letters from the army in the field, and the certificate for the medal “For the Defence of Stalingrad.”
+Documents of **uncle Tyoma** — brother **[Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/)** — from the war years: an exam photograph, letters from the army in the field, and the certificate for the medal “For the Defence of Stalingrad.”
 
-See also: [certificate for the medal “For the Defence of Stalingrad”](/en/documents/stalingrad-defense-medal-samsonov-tt/) · [Letters from the front](/en/documents/letters-from-the-front/).
+See also: [certificate for the medal “For the Defence of Stalingrad”](/en/documents/stalingrad-defense-medal-samsonov-tt/) · [Letters from the front](/en/documents/letters-from-the-front/) · event [Defence of Stalingrad](/en/events/defense-of-stalingrad/). **Not** father [Timofey Petrovich](/en/people/timofey-petrovich-samsonov/).
 
 *From the family notebook and inserted papers. The letters are in a front-line voice, not the diary’s.*
 
@@ -261,6 +261,13 @@ Standalone document page: [Medal “For the Defence of Stalingrad” — T. T. S
 
 ---
 
----
+## Related materials
+
+- [Timofey Timofeevich Samsonov (Tyoma)](/en/people/timofey-timofeevich-samsonov/)
+- [Dmitry — letters 103–104](/en/people/dmitry-pisma-front/) (not Tyoma)
+- [Letters from the front](/en/documents/letters-from-the-front/)
+- [Stalingrad medal certificate](/en/documents/stalingrad-defense-medal-samsonov-tt/)
+- [Defence of Stalingrad](/en/events/defense-of-stalingrad/)
+- **Not** [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/)
 
 *← [Sister Genya and brother Tyoma (pp. 090–098)](/en/memoirs/diary/11-notebook-continued-090-099/) · [Notebook contents](/en/memoirs/diary/) · [Tanya: childhood and school](/en/memoirs/diary/13-school-friends-109-119/) →*

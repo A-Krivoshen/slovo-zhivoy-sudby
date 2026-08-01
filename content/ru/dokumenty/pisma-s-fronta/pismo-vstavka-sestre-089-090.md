@@ -6,6 +6,7 @@ draft: false
 description: "Вложенный в тетрадь лист — личное обращение к сестре; края обрезаны, много неразборчивого."
 summary: "Вставка-письмо к сестре; края повреждены."
 translationKey: "doc-letter-insert-sister-089-090"
+entity_id: "letter-insert-sister-089-090"
 tags: ["документы", "письма", "семья"]
 categories: ["Документы"]
 people: ["Кривошеина Татьяна Тимофеевна"]
@@ -61,3 +62,10 @@ P.S. Ты была талантлива, твои стихи доказател�
 ```
 
 См. также: [Сестра Геня и брат Тёма](/vospominaniya/dnevnik/11-prodolzhenie-090-099/) · [Письма с фронта](/dokumenty/pisma-s-fronta/)
+
+## Связанные материалы
+
+- Контекст сестры: [Сестра Геня и брат Тёма](/vospominaniya/dnevnik/11-prodolzhenie-090-099/)
+- [Кривошеина Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
+- Коллекция: [Письма с фронта](/dokumenty/pisma-s-fronta/)
+

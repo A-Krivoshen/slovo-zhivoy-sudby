@@ -19,6 +19,7 @@ editorial_status: "reader_chapter"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
+entity_id: "manuscript-chapter-14-shkola-i-voyna"
 aliases:
   - /vospominaniya/dnevnik/14-voyna-evakuaciya-120-127/
 ---
@@ -210,7 +211,7 @@ aliases:
 
 
 
-*← [Дядя Тёма: документы и Сталинград](/vospominaniya/dnevnik/12-brat-front-103-108/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Школа и война (стр. 120–127)](/vospominaniya/dnevnik/14-voyna-evakuaciya-120-127/) →*
+*← [Дядя Тёма: документы и Сталинград](/vospominaniya/dnevnik/12-brat-front-103-108/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Школа и война (стр. 120–127)](/vospominaniya/dnevnik/14-shkola-i-voyna/) →*
 ```
 
 </details>
@@ -633,10 +634,18 @@ aliases:
 
 
 
-*← [Таня: детство и школа (стр. 109–119)](/vospominaniya/dnevnik/13-shkola-druzya-109-119/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Фронтовые письма друзей (стр. 128–133)](/vospominaniya/dnevnik/15-pisma-voennye-128-133/) →*
+*← [Таня: детство и школа (стр. 109–119)](/vospominaniya/dnevnik/13-tanya-detstvo-i-shkola/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Фронтовые письма друзей (стр. 128–133)](/vospominaniya/dnevnik/15-pisma-voennye-128-133/) →*
 ```
 
 </details>
+
+---
+
+## Связанные материалы
+
+- [Кривошеина Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
+- [Эвакуация 1941 года](/sobytiya/evakuaciya-1941/)
+- [Школьные годы](/sobytiya/shkola-1940-1941/)
 
 ---
 

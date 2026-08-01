@@ -6,6 +6,7 @@ draft: false
 description: "Front-line letter from Timosha to parents and sister Tanya, 13 July 1944."
 summary: "13 July 1944. Timosha to parents and Tanya. Army in the field."
 translationKey: "doc-letter-front-107-1944"
+entity_id: "letter-1944-07-13-timosha"
 tags: ["documents", "letters", "front", "1944"]
 categories: ["Documents"]
 people: ["Timofey Timofeevich Samsonov", "Tatyana Timofeevna Krivosheina"]
@@ -83,6 +84,13 @@ Sasha sends a kiss.
 Целую. Ваш Тимоша.
 Саша целует.
 ```
+
+## Related materials
+
+- Signature **Timosha** (form of the name on the letter): [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/)
+- Addressees: parents and [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/)
+- **Not** father [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/)
+- Collection: [Letters from the front](/en/documents/letters-from-the-front/)
 
 ## Navigation
 

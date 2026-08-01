@@ -6,6 +6,7 @@ draft: false
 description: "Письмо Тане от Геннадия от 29 ноября 1943 г."
 summary: "29.11.1943. Геннадий — Тане. Задержка с конвертом."
 translationKey: "doc-letter-front-133-gennady-1943-11-29"
+entity_id: "letter-1943-11-29-gennady"
 tags: ["документы", "письма", "фронт", "1943"]
 categories: ["Документы"]
 people: ["Кривошеина Татьяна Тимофеевна"]
@@ -57,6 +58,12 @@ source_pages: "133"
 Целую досвидания[?]
                     — Геннадий.
 ```
+
+## Связанные материалы
+
+- Автор: [Геннадий Вохминцев](/lyudi/gennady-vokhmintsev/)
+- Адресат: [Кривошеина Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
+- Коллекция: [Письма с фронта](/dokumenty/pisma-s-fronta/)
 
 ## Навигация
 

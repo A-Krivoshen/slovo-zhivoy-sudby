@@ -5,17 +5,23 @@ draft: false
 description: "Captions for every selected image from the family album on Timofey Petrovich Samsonov."
 summary: "15 key frames with descriptions: portraits, Dzerzhinsky, Siberia, documents, daughter."
 translationKey: "photo-album-samsonov-tp"
+entity_id: collection-photo-album-samsonov-tp
 tags: ["photos", "Samsonov", "album"]
 categories: ["Photos"]
 people: ["Timofey Petrovich Samsonov", "Tatyana Timofeevna Krivosheina"]
 ShowToc: true
+weight: 20
 cover:
   image: "/photos/samsonov-tp/08-dzerzhinsky-belenky-papa.jpg"
   alt: "Dzerzhinsky, Belenky and T. P. Samsonov"
   relative: false
 ---
 
-Full biography: [Timofey Petrovich Samsonov](/en/parents/timofey-petrovich-samsonov/).  
+Person page in the archive: [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/).  
+Full biography: [parents — T. P. Samsonov](/en/parents/timofey-petrovich-samsonov/).  
+Father and mother overview: [Father and mother](/en/parents/father-and-mother/).  
+Family frames from the notebook: [family photo album (continuation)](/en/photos/notebook-family-continued/).
+
 Selected photographs from the family archive.
 
 ## 1. Portraits
@@ -42,6 +48,8 @@ Selected photographs from the family archive.
 
 {{< figure src="/photos/samsonov-tp/09-alexandrovsky-central-1910.jpg" caption="Alexandrovsky Central, Siberia — “Father imprisoned here, summer 1910.”." >}}
 
+→ [T. P. Samsonov](/en/people/timofey-petrovich-samsonov/)
+
 ## 4. Document photographs
 
 {{< figure src="/photos/samsonov-tp/10-order-red-banner.jpg" caption="Order of the Red Banner diploma. → [document page](/en/documents/order-of-the-red-banner-samsonov/)." >}}
@@ -58,5 +66,8 @@ Selected photographs from the family archive.
 
 {{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="Senior lecturer T. T. Krivosheina, Institute of Steel and Alloys." >}}
 
+→ [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/)
 
-Family archive. Digital copies; source and technical details are kept in the archival registry.
+---
+
+*Family archive. Digital copies; source and technical details are kept in the archival registry.*

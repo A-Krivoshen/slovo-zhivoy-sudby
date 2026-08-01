@@ -5,6 +5,7 @@ draft: false
 description: "Front-line and wartime letters from the family notebook: brother Timofey Timofeevich (Timosha), comrades, correspondence with Tanya and her parents."
 summary: "Wartime letters as a document collection, not diary chapters."
 translationKey: "doc-letters-from-the-front"
+entity_id: "collection-letters-from-front"
 tags: ["documents", "letters", "front", "WWII"]
 categories: ["Documents"]
 ShowToc: true
@@ -20,7 +21,7 @@ Related: [Medal “For the Defence of Stalingrad” — T. T. Samsonov](/en/docu
 
 | Date | From | To | Document |
 |------|------|-----|----------|
-| **11 Aug 1943** | Dmitry (signature); Samsonov family circle | parents and sister Tanya | [Letter from the army in the field](/en/documents/letters-from-the-front/letter-103-1943/) |
+| **11 Aug 1943** | Dmitry (signature; surname unknown; **not** Tyoma) | parents and sister Tanya | [Letter from the army in the field](/en/documents/letters-from-the-front/letter-103-1943/) |
 | **28 July 1944** | Dmitry (signature) | parents | [Damaged leaf](/en/documents/letters-from-the-front/letter-104/) |
 | **14 June 1943** | Timosha (T. T. Samsonov) | mother (E. K. Samsonova) | [Face and reverse with address](/en/documents/letters-from-the-front/letter-105-106-to-mother/) |
 | **13 July 1944** | Timosha | parents and Tanya | [Letter from the army in the field](/en/documents/letters-from-the-front/letter-107/) |
@@ -34,9 +35,23 @@ Related: [Medal “For the Defence of Stalingrad” — T. T. Samsonov](/en/docu
 - **Reading** — continuous text for reading.  
 - **Diplomatic transcription** — line by line as on the leaf; uncertain places marked **[?]**.  
 - Dates and signatures only where they can be read with confidence on the scan; otherwise “needs verification.”  
-- **Timosha / Tyoma** is brother [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/), **not** father [Timofey Petrovich Samsonov](/en/parents/timofey-petrovich-samsonov/).
+- **Timosha / Tyoma** is brother [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/), **not** father [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/) ([biography](/en/parents/timofey-petrovich-samsonov/)).
 
 ## In the notebook
 
-The author’s note introducing the comrade’s letter: [“War: evacuation” (p. 127)](/en/memoirs/diary/14-war-evacuation-120-127/).  
-Related chapters: [“Brother at the front”](/en/memoirs/diary/12-brother-front-letters-101-108/), [“Wartime letters”](/en/memoirs/diary/15-wartime-letters-128-133/).
+The author’s note introducing the comrade’s letter: [“War: evacuation” (p. 127)](/vospominaniya/dnevnik/14-shkola-i-voyna/).  
+Related chapters: [“Brother at the front”](/vospominaniya/dnevnik/12-brat-front-103-108/), [“Wartime letters”](/vospominaniya/dnevnik/15-pisma-voennye-128-133/).
+
+## Related materials
+
+People (archive cards):
+
+- [Timofey Timofeevich Samsonov (Tyoma / Timosha)](/en/people/timofey-timofeevich-samsonov/)
+- [Dmitry — letters 103–104](/en/people/dmitry-front-letters/) (surname unknown; **not** Tyoma)
+- [Misha Friolenko](/en/people/misha-friolenko/) (comrade, **not** brother)
+- [Gennady Vokhmintsev](/en/people/gennady-vokhmintsev/)
+- [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/)
+- [Eva Konstantinovna](/en/people/eva-konstantinovna-samsonova/)
+
+Document: [Stalingrad medal — T. T.](/en/documents/stalingrad-defense-medal-samsonov-tt/) · event: [Defence of Stalingrad](/en/events/defense-of-stalingrad/)
+

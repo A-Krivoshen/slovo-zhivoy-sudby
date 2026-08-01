@@ -5,6 +5,7 @@ draft: false
 description: "Certificate for the medal “For the Defence of Stalingrad” awarded to Guards Sergeant Timofey Timofeevich Samsonov (Tatyana Timofeevna’s brother)."
 summary: "Decree 22 Dec 1942; presentation 23 Sep 1943. 79th Guards Mortar Regiment. Family archive."
 translationKey: "doc-stalingrad-defense-medal-samsonov-tt"
+entity_id: "document-stalingrad-medal-samsonov-tt"
 tags: ["documents", "medal", "Stalingrad", "Samsonov", "WWII"]
 categories: ["Documents"]
 people: ["Timofey Timofeevich Samsonov"]
@@ -59,5 +60,14 @@ Signature: **Guards Lieutenant Colonel** — **V. Popov** (reading from the scan
 
 The scan sits in the memoir notebook with the brother’s front-line letters:
 
-- [Brother at the front: letters and awards (pp. 101–108)](/en/memoirs/diary/12-brother-front-letters-101-108/)
-- Related materials: [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/)
+- [Brother at the front: letters and awards (pp. 101–108)](/vospominaniya/dnevnik/12-brat-front-103-108/)
+- Person page: [Timofey Timofeevich Samsonov (Tyoma)](/en/people/timofey-timofeevich-samsonov/)
+
+## Related materials
+
+- Recipient: [Timofey Timofeevich Samsonov (Tyoma)](/en/people/timofey-timofeevich-samsonov/) — Tatyana Timofeevna’s brother
+- **Not** [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/) (father; patronymic on the form is Timofeevich)
+- Event: [Defence of Stalingrad](/en/events/defense-of-stalingrad/)
+- Brother’s letters (Timosha): [14 June 1943](/en/documents/letters-from-the-front/letter-105-106-to-mother/), [13 July 1944](/en/documents/letters-from-the-front/letter-107/) · [collection](/en/documents/letters-from-the-front/)
+- Notebook chapter: [Uncle Tyoma: documents and Stalingrad](/vospominaniya/dnevnik/12-brat-front-103-108/)
+

@@ -1,0 +1,3 @@
+# Private archive data
+# Never export to public templates, JSON-LD, or sitemaps.
+_note: "Private materials only. Do not load into public site output."

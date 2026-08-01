@@ -4,7 +4,7 @@
 
 <!DOCTYPE html>
 {{- /* Initial attribute is a fallback; blocking script below sets light/dark by clock or user pref. */ -}}
-<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}" data-theme="light">
+<html lang="{{ site.Language }}" dir="{{ .Language.Direction | default "auto" }}" data-theme="light">
 
 <head>
 {{- /* Apply theme before CSS paint: manual pref wins; else day light / night dark (local time). */ -}}

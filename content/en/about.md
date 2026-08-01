@@ -30,6 +30,11 @@ Materials are published in **Russian** and **English**. Use the language switche
 
 Full-text search across published materials: [Search](/en/search/).
 
+## Publishing principles
+
+How we rely on sources, mark uncertainty (**[?]**), and protect living people’s privacy: [Publishing principles](/en/publishing-principles/).  
+Visitor-facing policy: [Privacy](/en/privacy/).
+
 ## Rights
 
 All materials are intended to preserve family memory.  

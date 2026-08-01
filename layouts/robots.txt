@@ -1,0 +1,17 @@
+User-agent: *
+{{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+Allow: /
+# Knowledge-graph entity sections (must remain crawlable when published)
+Allow: /lyudi/
+Allow: /sobytiya/
+Allow: /hronologiya/
+Allow: /en/people/
+Allow: /en/events/
+Allow: /en/timeline/
+{{- else }}
+Disallow: /
+{{- end }}
+
+Sitemap: {{ "sitemap.xml" | absURL }}
+# Experimental AI crawl map (when built with home LLMs output):
+# {{ "llms.txt" | absURL }}

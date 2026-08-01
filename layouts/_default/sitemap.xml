@@ -1,0 +1,81 @@
+{{/* gotmplfmt-ignore-all */ -}}
+{{/* Extended sitemap: default Hugo URL entries + Google image extension for cover / figure / markdown images. */ -}}
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  {{- range where .Pages "Sitemap.Disable" "ne" true }}
+    {{- if .Permalink }}
+  <url>
+    <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
+    <lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>{{ end }}{{ with .Sitemap.ChangeFreq }}
+    <changefreq>{{ . }}</changefreq>{{ end }}{{ if ge .Sitemap.Priority 0.0 }}
+    <priority>{{ .Sitemap.Priority }}</priority>{{ end }}{{ if .IsTranslated }}{{ range .AllTranslations }}
+    <xhtml:link
+                rel="alternate"
+                hreflang="{{ .Language.Locale }}"
+                href="{{ .Permalink }}"
+                />{{ end }}{{ end }}
+    {{- /* --- Image sitemap extension --- */ -}}
+    {{- $seen := dict -}}
+    {{- $page := . -}}
+    {{- /* 1) PaperMod cover.image */ -}}
+    {{- with $page.Params.cover }}
+      {{- $coverAlt := .alt -}}
+      {{- $coverCaption := .caption -}}
+      {{- with .image }}
+        {{- $loc := . | absURL -}}
+        {{- if not (isset $seen $loc) }}
+          {{- $seen = merge $seen (dict $loc true) -}}
+    <image:image>
+      <image:loc>{{ $loc }}</image:loc>{{ with $coverCaption }}
+      <image:caption>{{ . | plainify | htmlEscape }}</image:caption>{{ else }}{{ with $coverAlt }}
+      <image:caption>{{ . | plainify | htmlEscape }}</image:caption>{{ end }}{{ end }}{{ with $coverAlt }}
+      <image:title>{{ . | plainify | htmlEscape }}</image:title>{{ end }}
+    </image:image>
+        {{- end }}
+      {{- end }}
+    {{- end }}
+    {{- /* 2) Page-bundle image resources */ -}}
+    {{- range ($page.Resources.ByType "image") }}
+      {{- $loc := .Permalink -}}
+      {{- if not (isset $seen $loc) }}
+        {{- $seen = merge $seen (dict $loc true) -}}
+    <image:image>
+      <image:loc>{{ $loc }}</image:loc>{{ with .Title }}
+      <image:title>{{ . | plainify | htmlEscape }}</image:title>{{ end }}
+    </image:image>
+      {{- end }}
+    {{- end }}
+    {{- /* 3) figure shortcode src="..." and HTML img src; 4) markdown ![alt](url) */ -}}
+    {{- $raw := $page.RawContent -}}
+    {{- if $raw }}
+      {{- range findRESubmatch `(?i)(?:src|href)=["']([^"']+\.(?:avif|bmp|gif|jpe?g|png|svgz?|webp))["']` $raw }}
+        {{- $path := index . 1 -}}
+        {{- if and $path (not (hasPrefix $path "data:")) (not (hasPrefix $path "http://localhost")) }}
+          {{- $loc := cond (or (hasPrefix $path "http://") (hasPrefix $path "https://") (hasPrefix $path "//")) $path ($path | absURL) -}}
+          {{- if not (isset $seen $loc) }}
+            {{- $seen = merge $seen (dict $loc true) -}}
+    <image:image>
+      <image:loc>{{ $loc }}</image:loc>
+    </image:image>
+          {{- end }}
+        {{- end }}
+      {{- end }}
+      {{- range findRESubmatch `!\[[^\]]*\]\(([^)\s]+)(?:\s+"[^"]*")?\)` $raw }}
+        {{- $path := index . 1 -}}
+        {{- if and $path (findRE `(?i)\.(avif|bmp|gif|jpe?g|png|svgz?|webp)(?:\?|#|$)` $path) (not (hasPrefix $path "data:")) }}
+          {{- $loc := cond (or (hasPrefix $path "http://") (hasPrefix $path "https://") (hasPrefix $path "//")) $path ($path | absURL) -}}
+          {{- if not (isset $seen $loc) }}
+            {{- $seen = merge $seen (dict $loc true) -}}
+    <image:image>
+      <image:loc>{{ $loc }}</image:loc>
+    </image:image>
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  </url>
+    {{- end }}
+  {{- end }}
+</urlset>

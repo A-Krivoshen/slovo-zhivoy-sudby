@@ -6,6 +6,7 @@ draft: false
 description: "Two-sided letter from Timosha (T. T. Samsonov) to his mother E. K. Samsonova, 14 June 1943, with address and field post."
 summary: "14 June 1943. Timosha to mother. Address: Moscow, Serafimovich St., House of Government."
 translationKey: "doc-letter-front-105-106-mother"
+entity_id: "letter-1943-06-14-timosha"
 tags: ["documents", "letters", "front", "1943"]
 categories: ["Documents"]
 people: ["Timofey Timofeevich Samsonov", "Eva Konstantinovna"]
@@ -104,6 +105,13 @@ your son
 Действующая армия          18003 «2»
 Самсонову Т.Т.
 ```
+
+## Related materials
+
+- Signature **Timosha** (form of the name on the letter): [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/) — brother, **not** father [Timofey Petrovich](/en/people/timofey-petrovich-samsonov/)
+- Addressee: [Eva Konstantinovna](/en/people/eva-konstantinovna-samsonova/) · biography: [/en/parents/eva-konstantinovna/](/en/parents/eva-konstantinovna/)
+- Collection: [Letters from the front](/en/documents/letters-from-the-front/)
+- Brother’s document: [Stalingrad medal certificate](/en/documents/stalingrad-defense-medal-samsonov-tt/) · event: [Defence of Stalingrad](/en/events/defense-of-stalingrad/)
 
 ## Navigation
 

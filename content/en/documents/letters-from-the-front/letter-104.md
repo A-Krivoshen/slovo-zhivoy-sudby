@@ -6,6 +6,7 @@ draft: false
 description: "Wartime letter to parents, 28 July 1944; leaf damaged (folds, frayed edge)."
 summary: "28.VII.1944. Damaged front-line leaf to parents."
 translationKey: "doc-letter-front-104"
+entity_id: "letter-1944-07-28-dmitry"
 tags: ["documents", "letters", "front", "1944"]
 categories: ["Documents"]
 people: ["Tatyana Timofeevna Krivosheina"]
@@ -75,6 +76,13 @@ I kiss you. Dmitry
 - Cross-folds, crushed corner.  
 - Right edge worn; some words cut or washed out.  
 - **Date 28.VII.44** is read with confidence (visual verify 2026-08-01); body text still has **[?]**.
+## Related materials
+
+- Signature author “Dmitry” (surname unknown): [Dmitry — front letters](/en/people/dmitry-front-letters/)
+- Family circle: [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/)
+- **Do not** equate with [Timosha / T. T. Samsonov](/en/people/timofey-timofeevich-samsonov/)
+- Collection: [Letters from the front](/en/documents/letters-from-the-front/)
+
 ## Navigation
 
 ← [Previous: 11 Aug 1943](/en/documents/letters-from-the-front/letter-103-1943/) · [Collection](/en/documents/letters-from-the-front/) · [Next: to mother, 14 June 1943](/en/documents/letters-from-the-front/letter-105-106-to-mother/) →

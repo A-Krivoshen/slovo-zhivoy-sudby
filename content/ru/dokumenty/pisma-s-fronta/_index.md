@@ -5,6 +5,7 @@ draft: false
 description: "Фронтовые и военные письма из семейной тетради: брат Тимофей Тимофеевич (Тимоша), товарищи, переписка с Таней и родителями."
 summary: "Письма военных лет — отдельная коллекция документов, не главы дневника."
 translationKey: "doc-letters-from-the-front"
+entity_id: "collection-letters-from-front"
 tags: ["документы", "письма", "фронт", "ВОВ"]
 categories: ["Документы"]
 ShowToc: true
@@ -43,9 +44,23 @@ ShowToc: true
 - **Чтение** — связный текст для чтения.  
 - **Дипломатическая расшифровка** — по строкам рукописи; спорные места — **[?]**.  
 - Даты и подписи — **только там, где они уверенно читаются** на снимке; иначе помечено «требует сверки».  
-- **Тимоша / Тёма** — брат [Самсонов Тимофей Тимофеевич](/people/самсонов-тимофей-тимофеевич/), **не** отец [Самсонов Тимофей Петрович](/roditeli/samsonov-timofey-petrovich/).
+- **Тимоша / Тёма** — брат [Самсонов Тимофей Тимофеевич](/lyudi/timofey-timofeevich-samsonov/), **не** отец [Самсонов Тимофей Петрович](/lyudi/timofey-petrovich-samsonov/) ([биография](/roditeli/samsonov-timofey-petrovich/)).
 
 ## В тетради
 
-Введение к письму товарища — в главе [«Война: эвакуация» (стр. 127)](/vospominaniya/dnevnik/14-voyna-evakuaciya-120-127/).  
+Введение к письму товарища — в главе [«Школа и война» (стр. 127)](/vospominaniya/dnevnik/14-shkola-i-voyna/).  
 Смежные главы-контексты: [«Брат на фронте»](/vospominaniya/dnevnik/12-brat-front-103-108/), [«Письма военных лет»](/vospominaniya/dnevnik/15-pisma-voennye-128-133/).
+
+## Связанные материалы
+
+Люди (карточки архива):
+
+- [Самсонов Тимофей Тимофеевич (Тёма / Тимоша)](/lyudi/timofey-timofeevich-samsonov/)
+- [Дмитрий — письма 103–104](/lyudi/dmitry-pisma-front/) (фамилия не установлена; **не** Тёма)
+- [Миша Фриоленко](/lyudi/misha-friolenko/) (товарищ, **не** брат)
+- [Геннадий Вохминцев](/lyudi/gennady-vokhmintsev/)
+- [Кривошеина Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
+- [Ева Константиновна](/lyudi/eva-konstantinovna-samsonova/)
+
+Документ: [медаль «За оборону Сталинграда» — Т. Т.](/dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt/) · событие: [Оборона Сталинграда](/sobytiya/oborona-stalingrada/)
+

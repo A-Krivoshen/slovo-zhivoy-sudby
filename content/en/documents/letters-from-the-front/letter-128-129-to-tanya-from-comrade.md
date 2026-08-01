@@ -6,6 +6,7 @@ draft: false
 description: "Two-page letter to Tanya from Mikhail Makarovich Friolenko (Misha), 20 April 1943. A comrade, not the brother."
 summary: "20 Apr 1943. Misha Friolenko to Tanya. Field post 18003."
 translationKey: "doc-letter-front-128-129-comrade"
+entity_id: "letter-1943-04-20-friolenko"
 tags: ["documents", "letters", "front", "1943"]
 categories: ["Documents"]
 people: ["Tatyana Timofeevna Krivosheina"]
@@ -30,7 +31,7 @@ source_pages: "128-129"
 | **From** | Field post **18003 “g.”** |
 | **Who** | a **comrade** (friend), **not** brother [Tyoma / T. T. Samsonov](/en/people/timofey-timofeevich-samsonov/) — the text mentions “your brother Gesha” as a third person |
 
-In the notebook the letter is introduced by Tatyana Timofeevna’s note: [p. 127 — “Also a letter from the front…”](/en/memoirs/diary/14-war-evacuation-120-127/) — about a wounded comrade who visited them when the regiment was reforming after Stalingrad (1943, 9th grade).
+In the notebook the letter is introduced by Tatyana Timofeevna’s note: [p. 127 — “Also a letter from the front…”](/vospominaniya/dnevnik/14-shkola-i-voyna/) — about a wounded comrade who visited them when the regiment was reforming after Stalingrad (1943, 9th grade).
 
 Author: **Misha Friolenko**. This is **not** brother **Tyoma** (Timofey Timofeevich).
 
@@ -121,6 +122,12 @@ Friolenko Mikhail Makarovich.
 [тёмным: зачёркнуто / штрихи — не читается]
 [красным:] Скоро[?] всех обниму!
 ```
+
+## Related materials
+
+- Author: [Misha Friolenko](/en/people/misha-friolenko/) — a **comrade**, **not** brother [Tyoma / T. T. Samsonov](/en/people/timofey-timofeevich-samsonov/)
+- Addressee: [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/)
+- Collection: [Letters from the front](/en/documents/letters-from-the-front/)
 
 ## Navigation
 

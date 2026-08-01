@@ -6,6 +6,7 @@ draft: false
 description: "Letter to Tanya from Gennady, 29 November 1943."
 summary: "29 Nov 1943. Gennady to Tanya. Delayed for want of an envelope."
 translationKey: "doc-letter-front-133-gennady-1943-11-29"
+entity_id: "letter-1943-11-29-gennady"
 tags: ["documents", "letters", "front", "1943"]
 categories: ["Documents"]
 people: ["Tatyana Timofeevna Krivosheina"]
@@ -57,6 +58,12 @@ I kiss you, goodbye[?].
 Целую досвидания[?]
                     — Геннадий.
 ```
+
+## Related materials
+
+- Author: [Gennady Vokhmintsev](/en/people/gennady-vokhmintsev/)
+- Addressee: [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/)
+- Collection: [Letters from the front](/en/documents/letters-from-the-front/)
 
 ## Navigation
 

@@ -19,6 +19,7 @@ editorial_status: "reader_chapter"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
+entity_id: "manuscript-chapter-13-tanya-detstvo"
 ---
 
 *По рукописной тетради «Наша родословная. Самсоновы». Голос Татьяны Тимофеевны; неразборчивое — в квадратных скобках.*
@@ -619,6 +620,15 @@ III ряд
 ```
 
 </details>
+
+---
+
+## Связанные материалы
+
+- [Кривошеина Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
+- [Школьные годы](/sobytiya/shkola-1940-1941/)
+- [Семейный фотоальбом — класс 6 «а»](/foto/tetrad-semya-prodolzhenie/)
+- [Москва семейная](/mesta/moskva-semeynaya/)
 
 ---
 

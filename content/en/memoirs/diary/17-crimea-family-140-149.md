@@ -6,7 +6,7 @@ ShowReadingTime: false
 draft: true
 description: "Crimea and Sevastopol, wedding and Mitya’s birth (140–144); study, work, and Sasha’s arrest (145–148); return and family (149)."
 summary: "Crimea, the start of a family, study, trials."
-translationKey: "diary-17-krym-140-149"
+translationKey: "diary-17-crimea-family"
 tags: ["diary", "notebook"]
 categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]

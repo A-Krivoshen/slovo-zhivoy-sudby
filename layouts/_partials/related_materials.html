@@ -1,0 +1,952 @@
+{{- /*
+  Related materials for archive / entity pages.
+
+  Inputs (page context):
+    - .Params.entity_id  — optional graph id
+    - .Params.related    — list of items OR map of section → list
+
+  Public data (data/archive/public/*.yaml → hugo.Data.archive.public):
+    - people.people, letters.letters, documents.documents,
+      photos.photos, places.places, events.events, collections.collections
+    - relations.relations (edges; skip public: false)
+
+  Safe when archive data is missing/empty: renders nothing, no error.
+
+  Sections only if non-empty: Люди, События, Письма, Документы,
+  Фото, Места, Главы, Коллекции. No pipeline jargon.
+*/ -}}
+
+{{- /* Page context required; never crash on bare or non-page calls. */ -}}
+{{- if not . -}}
+{{- else -}}
+
+{{- $lang := "ru" -}}
+{{- with site.Language -}}
+  {{- with .Lang }}{{ $lang = . }}{{ end -}}
+{{- end -}}
+{{- $isEN := eq $lang "en" -}}
+
+{{- $pub := dict -}}
+{{- with hugo.Data -}}
+  {{- with index . "archive" -}}
+    {{- if reflect.IsMap . -}}
+      {{- with index . "public" -}}
+        {{- if reflect.IsMap . -}}
+          {{- $pub = . -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* ---- Build flat entity registry: id → display fields ---- */ -}}
+{{- $registry := dict -}}
+
+{{- $kindFiles := slice
+  (dict "file" "people" "list" "people" "section" "people")
+  (dict "file" "letters" "list" "letters" "section" "letters")
+  (dict "file" "documents" "list" "documents" "section" "documents")
+  (dict "file" "photos" "list" "photos" "section" "photos")
+  (dict "file" "places" "list" "places" "section" "places")
+  (dict "file" "events" "list" "events" "section" "events")
+  (dict "file" "collections" "list" "collections" "section" "collections")
+  (dict "file" "chapters" "list" "chapters" "section" "chapters")
+-}}
+
+{{- /* Raw records by primary id (for field expansion / reverse refs) */ -}}
+{{- $rawById := dict -}}
+
+{{- range $kindFiles -}}
+  {{- $fileKey := index . "file" -}}
+  {{- $listKey := index . "list" -}}
+  {{- $sec := index . "section" -}}
+  {{- $bag := index $pub $fileKey | default dict -}}
+  {{- $list := slice -}}
+  {{- if reflect.IsSlice $bag -}}
+    {{- $list = $bag -}}
+  {{- else if reflect.IsMap $bag -}}
+    {{- $list = index $bag $listKey | default slice -}}
+    {{- if not (reflect.IsSlice $list) -}}
+      {{- /* single-map entity file fallback */ -}}
+      {{- $list = slice -}}
+    {{- end -}}
+  {{- end -}}
+  {{- range $list -}}
+    {{- if reflect.IsMap . -}}
+      {{- $rec := . -}}
+      {{- $id := "" -}}
+      {{- with index $rec "entity_id" }}{{ $id = printf "%v" . }}{{ end -}}
+      {{- with index $rec "id" }}{{ if not $id }}{{ $id = printf "%v" . }}{{ end }}{{ end -}}
+      {{- if $id -}}
+        {{- $title := "" -}}
+        {{- if $isEN -}}
+          {{- with index $rec "name_en" }}{{ $title = printf "%v" . }}{{ end -}}
+          {{- with index $rec "title_en" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+          {{- with index $rec "caption_en" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+        {{- end -}}
+        {{- if not $title -}}
+          {{- with index $rec "name_ru" }}{{ $title = printf "%v" . }}{{ end -}}
+          {{- with index $rec "title_ru" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+          {{- with index $rec "caption_ru" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+          {{- with index $rec "name" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+          {{- with index $rec "title" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+        {{- end -}}
+        {{- /* Letters often omit title_*; use leaf date as visible label */ -}}
+        {{- if not $title -}}
+          {{- with index $rec "date_on_leaf" }}{{ $title = printf "%v" . }}{{ end -}}
+          {{- with index $rec "date" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+        {{- end -}}
+        {{- $url := "" -}}
+        {{- if $isEN -}}
+          {{- with index $rec "url_en" }}{{ $url = printf "%v" . }}{{ end -}}
+        {{- end -}}
+        {{- if not $url -}}
+          {{- with index $rec "url_ru" }}{{ $url = printf "%v" . }}{{ end -}}
+          {{- with index $rec "url" }}{{ if not $url }}{{ $url = printf "%v" . }}{{ end }}{{ end -}}
+        {{- end -}}
+        {{- /*
+          related_urls are links to OTHER materials, not this entity's canonical page.
+          Only use a related_url as self-url when the path matches this section
+          (e.g. /sobytiya/… for events, /mesta/… for places). Never steal a chapter URL.
+        */ -}}
+        {{- if not $url -}}
+          {{- with index $rec "related_urls" -}}
+            {{- if reflect.IsSlice . -}}
+              {{- range . -}}
+                {{- if not $url -}}
+                  {{- $cand := printf "%v" . | lower -}}
+                  {{- if eq $sec "events" -}}
+                    {{- if or (findRE "/sobytiya(/|$)" $cand) (findRE "/events(/|$)" $cand) -}}
+                      {{- $url = printf "%v" . -}}
+                    {{- end -}}
+                  {{- else if eq $sec "places" -}}
+                    {{- if or (findRE "/mesta(/|$)" $cand) (findRE "/places(/|$)" $cand) -}}
+                      {{- $url = printf "%v" . -}}
+                    {{- end -}}
+                  {{- else if eq $sec "photos" -}}
+                    {{- if or (findRE "/foto(/|$)" $cand) (findRE "/photos(/|$)" $cand) -}}
+                      {{- $url = printf "%v" . -}}
+                    {{- end -}}
+                  {{- else if eq $sec "collections" -}}
+                    {{- if or (findRE "/foto(/|$)" $cand) (findRE "/photos(/|$)" $cand) (findRE "/dokumenty(/|$)" $cand) (findRE "/documents(/|$)" $cand) (findRE "/vospominaniya(/|$)" $cand) (findRE "/memoirs(/|$)" $cand) -}}
+                      {{- $url = printf "%v" . -}}
+                    {{- end -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+        {{- $date := "" -}}
+        {{- with index $rec "date" }}{{ $date = printf "%v" . }}{{ end -}}
+        {{- with index $rec "date_on_leaf" }}{{ if not $date }}{{ $date = printf "%v" . }}{{ end }}{{ end -}}
+        {{- with index $rec "source_pages" -}}
+          {{- if not $date -}}
+            {{- if reflect.IsSlice . -}}
+              {{- $date = delimit . "–" -}}
+            {{- else -}}
+              {{- $date = printf "%v" . -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+        {{- with index $rec "birth_year" -}}
+          {{- if not $date -}}
+            {{- $by := printf "%v" . -}}
+            {{- with index $rec "death_year" -}}
+              {{- $date = printf "%s–%v" $by . -}}
+            {{- else -}}
+              {{- $date = $by -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+        {{- with index $rec "date_start" -}}
+          {{- if not $date -}}
+            {{- $ds := printf "%v" . -}}
+            {{- with index $rec "date_end" -}}
+              {{- $date = printf "%s–%v" $ds . -}}
+            {{- else -}}
+              {{- $date = $ds -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+        {{- $entry := dict
+          "id" $id
+          "title" $title
+          "url" $url
+          "date" $date
+          "section" $sec
+        -}}
+        {{- $rawById = merge $rawById (dict $id $rec) -}}
+        {{- /* Index by primary id, slash/dot variants, and aliases */ -}}
+        {{- $registry = merge $registry (dict $id $entry) -}}
+        {{- $norm := replace (replace $id "/" "-") "." "-" -}}
+        {{- if ne $norm $id -}}
+          {{- $registry = merge $registry (dict $norm $entry) -}}
+        {{- end -}}
+        {{- with index $rec "aliases" -}}
+          {{- if reflect.IsSlice . -}}
+            {{- range . -}}
+              {{- $aid := printf "%v" . -}}
+              {{- $registry = merge $registry (dict $aid $entry) -}}
+              {{- $an := replace (replace $aid "/" "-") "." "-" -}}
+              {{- if ne $an $aid -}}
+                {{- $registry = merge $registry (dict $an $entry) -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Also accept flat entities map if present */ -}}
+{{- with index $pub "entities" -}}
+  {{- if reflect.IsMap . -}}
+    {{- range $eid, $erec := . -}}
+      {{- if reflect.IsMap $erec -}}
+        {{- $title := "" -}}
+        {{- with index $erec "title" -}}
+          {{- if reflect.IsMap . -}}
+            {{- $title = printf "%v" (index . $lang | default (index . "ru") | default (index . "en") | default "") -}}
+          {{- else -}}
+            {{- $title = printf "%v" . -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if not $title -}}
+          {{- with index $erec "name" }}{{ $title = printf "%v" . }}{{ end -}}
+        {{- end -}}
+        {{- $url := "" -}}
+        {{- with index $erec "url" -}}
+          {{- if reflect.IsMap . -}}
+            {{- $url = printf "%v" (index . $lang | default (index . "ru") | default (index . "en") | default "") -}}
+          {{- else -}}
+            {{- $url = printf "%v" . -}}
+          {{- end -}}
+        {{- end -}}
+        {{- $sec := "documents" -}}
+        {{- with index $erec "type" -}}
+          {{- $t := printf "%v" . | lower -}}
+          {{- if or (eq $t "person") (eq $t "people") }}{{ $sec = "people" }}
+          {{- else if or (eq $t "event") (eq $t "events") }}{{ $sec = "events" }}
+          {{- else if or (eq $t "letter") (eq $t "letters") }}{{ $sec = "letters" }}
+          {{- else if or (eq $t "document") (eq $t "documents") }}{{ $sec = "documents" }}
+          {{- else if or (eq $t "photo") (eq $t "photos") (eq $t "photograph") }}{{ $sec = "photos" }}
+          {{- else if or (eq $t "place") (eq $t "places") }}{{ $sec = "places" }}
+          {{- else if or (eq $t "chapter") (eq $t "chapters") (eq $t "manuscript_chapter") }}{{ $sec = "chapters" }}
+          {{- else if or (eq $t "collection") (eq $t "collections") }}{{ $sec = "collections" }}
+          {{- end -}}
+        {{- end -}}
+        {{- $entry := dict "id" $eid "title" $title "url" $url "date" "" "section" $sec -}}
+        {{- $registry = merge $registry (dict $eid $entry) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* ---- Section labels ---- */ -}}
+{{- $sectionOrder := slice "people" "events" "letters" "documents" "photos" "places" "chapters" "collections" -}}
+{{- $sectionTitle := dict -}}
+{{- $typeLabel := dict -}}
+{{- if $isEN -}}
+  {{- $sectionTitle = dict "people" "People" "events" "Events" "letters" "Letters" "documents" "Documents" "photos" "Photos" "places" "Places" "chapters" "Chapters" "collections" "Collections" -}}
+  {{- $typeLabel = dict "people" "Person" "events" "Event" "letters" "Letter" "documents" "Document" "photos" "Photo" "places" "Place" "chapters" "Chapter" "collections" "Collection" -}}
+{{- else -}}
+  {{- $sectionTitle = dict "people" "Люди" "events" "События" "letters" "Письма" "documents" "Документы" "photos" "Фото" "places" "Места" "chapters" "Главы" "collections" "Коллекции" -}}
+  {{- $typeLabel = dict "people" "Человек" "events" "Событие" "letters" "Письмо" "documents" "Документ" "photos" "Фото" "places" "Место" "chapters" "Глава" "collections" "Коллекция" -}}
+{{- end -}}
+
+{{- $typeToSection := dict
+  "person" "people" "people" "people" "human" "people"
+  "event" "events" "events" "events"
+  "letter" "letters" "letters" "letters" "postcard" "letters"
+  "document" "documents" "documents" "documents" "doc" "documents"
+  "photo" "photos" "photos" "photos" "photograph" "photos" "image" "photos"
+  "place" "places" "places" "places" "location" "places"
+  "chapter" "chapters" "chapters" "chapters" "manuscript_chapter" "chapters" "manuscript-chapter" "chapters" "memoir" "chapters"
+  "collection" "collections" "collections" "collections"
+-}}
+
+{{- /* Labels for the *other* entity, depending on whether this page is subject or object */ -}}
+{{- $predAsSubject := dict -}}
+{{- $predAsObject := dict -}}
+{{- if $isEN -}}
+  {{- $predAsSubject = dict
+    "child_of" "parent" "parent_of" "child" "sibling_of" "sibling" "spouse_of" "spouse"
+    "author_of" "wrote" "addressee_of" "addressee" "recipient_of" "received"
+    "depicted_in" "photo" "mentioned_in" "mentioned in" "participant_in" "event"
+    "occurred_at" "place" "associated_with" "related" "part_of" "collection"
+    "source_for" "about" "follows" "next" "precedes" "previous"
+  -}}
+  {{- $predAsObject = dict
+    "child_of" "child" "parent_of" "parent" "sibling_of" "sibling" "spouse_of" "spouse"
+    "author_of" "author" "addressee_of" "addressed to" "recipient_of" "recipient"
+    "depicted_in" "shown here" "mentioned_in" "mentions" "participant_in" "participant"
+    "occurred_at" "event" "associated_with" "related" "part_of" "includes"
+    "source_for" "source" "follows" "previous" "precedes" "next"
+  -}}
+{{- else -}}
+  {{- $predAsSubject = dict
+    "child_of" "родитель" "parent_of" "ребёнок" "sibling_of" "брат или сестра" "spouse_of" "супруг(а)"
+    "author_of" "написал(а)" "addressee_of" "адресат" "recipient_of" "получил(а)"
+    "depicted_in" "снимок" "mentioned_in" "упоминается в" "participant_in" "событие"
+    "occurred_at" "место" "associated_with" "связано" "part_of" "коллекция"
+    "source_for" "о" "follows" "далее" "precedes" "ранее"
+  -}}
+  {{- $predAsObject = dict
+    "child_of" "ребёнок" "parent_of" "родитель" "sibling_of" "брат или сестра" "spouse_of" "супруг(а)"
+    "author_of" "автор" "addressee_of" "адресат" "recipient_of" "получатель"
+    "depicted_in" "на снимке" "mentioned_in" "упоминает" "participant_in" "участник"
+    "occurred_at" "событие" "associated_with" "связано" "part_of" "включает"
+    "source_for" "источник" "follows" "ранее" "precedes" "далее"
+  -}}
+{{- end -}}
+
+{{- $buckets := dict -}}
+{{- range $sectionOrder -}}
+  {{- $buckets = merge $buckets (dict . slice) -}}
+{{- end -}}
+{{- $seen := dict -}}
+
+{{- /* Helper: section from id string */ -}}
+{{- /* person-x | person/x | person.x | letter- | doc- | photo- | place- | event- | collection- | manuscript-chapter- */ -}}
+
+{{- /* --- Source 1: Params.related --- */ -}}
+{{- /* Infer section from a site path (front-matter related URLs) */ -}}
+{{- $sectionFromPath := dict -}}
+
+{{- with .Params.related -}}
+  {{- $rel := . -}}
+  {{- if reflect.IsSlice $rel -}}
+    {{- range $rel -}}
+      {{- /* Bare URL string in related list */ -}}
+      {{- if not (reflect.IsMap .) -}}
+        {{- $url := printf "%v" . -}}
+        {{- if and $url (or (hasPrefix $url "/") (hasPrefix $url "http")) -}}
+          {{- $path := $url | strings.TrimSuffix "/" -}}
+          {{- $title := "" -}}
+          {{- $date := "" -}}
+          {{- $sec := "" -}}
+          {{- $matched := false -}}
+          {{- range $rid, $rent := $registry -}}
+            {{- if not $matched -}}
+              {{- $ru := index $rent "url" | default "" | strings.TrimSuffix "/" -}}
+              {{- if and $ru (eq $ru $path) -}}
+                {{- $title = index $rent "title" | default "" -}}
+                {{- $date = index $rent "date" | default "" -}}
+                {{- $sec = index $rent "section" | default "" -}}
+                {{- $url = index $rent "url" | default $url -}}
+                {{- $matched = true -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+          {{- if not $sec -}}
+            {{- $low := $path | lower -}}
+            {{- if or (findRE "/lyudi(/|$)" $low) (findRE "/people(/|$)" $low) (findRE "/roditeli(/|$)" $low) (findRE "/parents(/|$)" $low) }}{{ $sec = "people" }}
+            {{- else if or (findRE "/sobytiya(/|$)" $low) (findRE "/events(/|$)" $low) }}{{ $sec = "events" }}
+            {{- else if or (findRE "/pisma-s-fronta" $low) (findRE "/letters-from-the-front" $low) }}{{ $sec = "letters" }}
+            {{- else if or (findRE "/dokumenty(/|$)" $low) (findRE "/documents(/|$)" $low) }}{{ $sec = "documents" }}
+            {{- else if or (findRE "/foto(/|$)" $low) (findRE "/photos(/|$)" $low) }}{{ $sec = "photos" }}
+            {{- else if or (findRE "/mesta(/|$)" $low) (findRE "/places(/|$)" $low) }}{{ $sec = "places" }}
+            {{- else if or (findRE "/vospominaniya(/|$)" $low) (findRE "/memoirs(/|$)" $low) }}{{ $sec = "chapters" }}
+            {{- end -}}
+          {{- end -}}
+          {{- if not $title -}}
+            {{- $parts := split $path "/" -}}
+            {{- $title = index $parts (sub (len $parts) 1) | default $path -}}
+          {{- end -}}
+          {{- if and $title $sec -}}
+            {{- $key := $path -}}
+            {{- $sk := printf "%s|%s" $sec $key -}}
+            {{- if not (index $seen $sk) -}}
+              {{- $seen = merge $seen (dict $sk true) -}}
+              {{- $item := dict "title" $title "url" $url "date" $date "why" "" "typeLabel" (index $typeLabel $sec | default "") -}}
+              {{- $prev := index $buckets $sec | default slice -}}
+              {{- $buckets = merge $buckets (dict $sec ($prev | append $item)) -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- else if reflect.IsMap . -}}
+        {{- $raw := . -}}
+        {{- $id := "" -}}
+        {{- with index $raw "id" }}{{ $id = printf "%v" . }}{{ end -}}
+        {{- with index $raw "entity_id" }}{{ if not $id }}{{ $id = printf "%v" . }}{{ end }}{{ end -}}
+        {{- $etype := "" -}}
+        {{- with index $raw "type" }}{{ $etype = printf "%v" . | lower }}{{ end -}}
+        {{- with index $raw "section" }}{{ if not $etype }}{{ $etype = printf "%v" . | lower }}{{ end }}{{ end -}}
+        {{- $sec := index $typeToSection $etype | default "" -}}
+        {{- $title := "" -}}
+        {{- with index $raw "title" }}{{ $title = printf "%v" . }}{{ end -}}
+        {{- $url := "" -}}
+        {{- with index $raw "url" }}{{ $url = printf "%v" . }}{{ end -}}
+        {{- with index $raw "href" }}{{ if not $url }}{{ $url = printf "%v" . }}{{ end }}{{ end -}}
+        {{- $date := "" -}}
+        {{- with index $raw "date" }}{{ $date = printf "%v" . }}{{ end -}}
+        {{- $why := "" -}}
+        {{- with index $raw "why" }}{{ $why = printf "%v" . }}{{ end -}}
+        {{- with index $raw "why_related" }}{{ if not $why }}{{ $why = printf "%v" . }}{{ end }}{{ end -}}
+        {{- with index $raw "note" }}{{ if not $why }}{{ $why = printf "%v" . }}{{ end }}{{ end -}}
+
+        {{- if $id -}}
+          {{- with index $registry $id -}}
+            {{- if not $title }}{{ $title = index . "title" | default "" }}{{ end -}}
+            {{- if not $url }}{{ $url = index . "url" | default "" }}{{ end -}}
+            {{- if not $date }}{{ $date = index . "date" | default "" }}{{ end -}}
+            {{- if not $sec }}{{ $sec = index . "section" | default "" }}{{ end -}}
+          {{- end -}}
+          {{- if not $sec -}}
+            {{- /* prefix inference */ -}}
+            {{- $low := $id | lower -}}
+            {{- if or (hasPrefix $low "person") (hasPrefix $low "people") }}{{ $sec = "people" }}
+            {{- else if hasPrefix $low "event" }}{{ $sec = "events" }}
+            {{- else if or (hasPrefix $low "letter") (hasPrefix $low "postcard") }}{{ $sec = "letters" }}
+            {{- else if or (hasPrefix $low "doc") (hasPrefix $low "document") }}{{ $sec = "documents" }}
+            {{- else if or (hasPrefix $low "photo") (hasPrefix $low "image") }}{{ $sec = "photos" }}
+            {{- else if hasPrefix $low "place" }}{{ $sec = "places" }}
+            {{- else if or (hasPrefix $low "chapter") (hasPrefix $low "manuscript") }}{{ $sec = "chapters" }}
+            {{- else if hasPrefix $low "collection" }}{{ $sec = "collections" }}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+
+        {{- if and $title $sec -}}
+          {{- $key := cond (ne $url "") ($url | strings.TrimSuffix "/") (cond (ne $id "") $id $title) -}}
+          {{- $sk := printf "%s|%s" $sec $key -}}
+          {{- if not (index $seen $sk) -}}
+            {{- $seen = merge $seen (dict $sk true) -}}
+            {{- $item := dict "title" $title "url" $url "date" $date "why" $why "typeLabel" (index $typeLabel $sec | default "") -}}
+            {{- $prev := index $buckets $sec | default slice -}}
+            {{- $buckets = merge $buckets (dict $sec ($prev | append $item)) -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- else if reflect.IsMap $rel -}}
+    {{- range $secKey, $items := $rel -}}
+      {{- $sec := index $typeToSection (printf "%v" $secKey | lower) | default "" -}}
+      {{- if and $sec (reflect.IsSlice $items) -}}
+        {{- range $items -}}
+          {{- if reflect.IsMap . -}}
+            {{- $raw := . -}}
+            {{- $id := "" -}}
+            {{- with index $raw "id" }}{{ $id = printf "%v" . }}{{ end -}}
+            {{- with index $raw "entity_id" }}{{ if not $id }}{{ $id = printf "%v" . }}{{ end }}{{ end -}}
+            {{- $title := "" -}}
+            {{- with index $raw "title" }}{{ $title = printf "%v" . }}{{ end -}}
+            {{- $url := "" -}}
+            {{- with index $raw "url" }}{{ $url = printf "%v" . }}{{ end -}}
+            {{- with index $raw "href" }}{{ if not $url }}{{ $url = printf "%v" . }}{{ end }}{{ end -}}
+            {{- $date := "" -}}
+            {{- with index $raw "date" }}{{ $date = printf "%v" . }}{{ end -}}
+            {{- $why := "" -}}
+            {{- with index $raw "why" }}{{ $why = printf "%v" . }}{{ end -}}
+            {{- with index $raw "why_related" }}{{ if not $why }}{{ $why = printf "%v" . }}{{ end }}{{ end -}}
+            {{- with index $raw "note" }}{{ if not $why }}{{ $why = printf "%v" . }}{{ end }}{{ end -}}
+            {{- if $id -}}
+              {{- with index $registry $id -}}
+                {{- if not $title }}{{ $title = index . "title" | default "" }}{{ end -}}
+                {{- if not $url }}{{ $url = index . "url" | default "" }}{{ end -}}
+                {{- if not $date }}{{ $date = index . "date" | default "" }}{{ end -}}
+              {{- end -}}
+            {{- end -}}
+            {{- if $title -}}
+              {{- $key := cond (ne $url "") ($url | strings.TrimSuffix "/") (cond (ne $id "") $id $title) -}}
+              {{- $sk := printf "%s|%s" $sec $key -}}
+              {{- if not (index $seen $sk) -}}
+                {{- $seen = merge $seen (dict $sk true) -}}
+                {{- $item := dict "title" $title "url" $url "date" $date "why" $why "typeLabel" (index $typeLabel $sec | default "") -}}
+                {{- $prev := index $buckets $sec | default slice -}}
+                {{- $buckets = merge $buckets (dict $sec ($prev | append $item)) -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* --- Source 2: relations for entity_id --- */ -}}
+{{- $eid := "" -}}
+{{- with .Params.entity_id }}{{ $eid = printf "%v" . }}{{ end -}}
+{{- $eidNorm := replace (replace $eid "/" "-") "." "-" -}}
+{{- /* Expand match keys: page id, normalized form, registry primary id, URL match */ -}}
+{{- $eidKeys := slice -}}
+{{- if $eid }}{{ $eidKeys = $eidKeys | append $eid }}{{ end -}}
+{{- if and $eidNorm (ne $eidNorm $eid) -}}
+  {{- $eidKeys = $eidKeys | append $eidNorm -}}
+{{- end -}}
+{{- with index $registry $eid -}}
+  {{- with index . "id" -}}
+    {{- $pid := printf "%v" . -}}
+    {{- if and $pid (not (in $eidKeys $pid)) -}}
+      {{- $eidKeys = $eidKeys | append $pid -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- with index $registry $eidNorm -}}
+  {{- with index . "id" -}}
+    {{- $pid := printf "%v" . -}}
+    {{- if and $pid (not (in $eidKeys $pid)) -}}
+      {{- $eidKeys = $eidKeys | append $pid -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- /* Bridge content person/… ids to registry via page URL */ -}}
+{{- $pagePath := .RelPermalink | strings.TrimSuffix "/" -}}
+{{- range $rid, $rent := $registry -}}
+  {{- $ru := index $rent "url" | default "" | strings.TrimSuffix "/" -}}
+  {{- if and $ru (eq $ru $pagePath) -}}
+    {{- with index $rent "id" -}}
+      {{- $pid := printf "%v" . -}}
+      {{- if and $pid (not (in $eidKeys $pid)) -}}
+        {{- $eidKeys = $eidKeys | append $pid -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $relBag := index $pub "relations" | default dict -}}
+{{- $relations := slice -}}
+{{- if reflect.IsSlice $relBag -}}
+  {{- $relations = $relBag -}}
+{{- else if reflect.IsMap $relBag -}}
+  {{- $relations = index $relBag "relations" | default slice -}}
+{{- end -}}
+
+{{- if and $eid (reflect.IsSlice $relations) -}}
+  {{- range $relations -}}
+    {{- if reflect.IsMap . -}}
+      {{- $edge := . -}}
+      {{- $public := true -}}
+      {{- with index $edge "public" -}}
+        {{- if eq . false }}{{ $public = false }}{{ end -}}
+        {{- if eq (printf "%v" .) "false" }}{{ $public = false }}{{ end -}}
+      {{- end -}}
+      {{- if $public -}}
+        {{- $subj := "" -}}
+        {{- with index $edge "subject" }}{{ $subj = printf "%v" . }}{{ end -}}
+        {{- $obj := "" -}}
+        {{- with index $edge "object" }}{{ $obj = printf "%v" . }}{{ end -}}
+        {{- $other := "" -}}
+        {{- $pageIsSubject := false -}}
+        {{- if in $eidKeys $subj -}}
+          {{- $other = $obj -}}
+          {{- $pageIsSubject = true -}}
+        {{- else if in $eidKeys $obj -}}
+          {{- $other = $subj -}}
+          {{- $pageIsSubject = false -}}
+        {{- end -}}
+        {{- if $other -}}
+          {{- $pred := "" -}}
+          {{- with index $edge "predicate" }}{{ $pred = printf "%v" . }}{{ end -}}
+          {{- $why := "" -}}
+          {{- with index $edge "why" -}}
+            {{- if reflect.IsMap . -}}
+              {{- $why = printf "%v" (index . $lang | default (index . "ru") | default (index . "en") | default "") -}}
+            {{- else -}}
+              {{- $why = printf "%v" . -}}
+            {{- end -}}
+          {{- end -}}
+          {{- if not $why -}}
+            {{- with index $edge "label" -}}
+              {{- if reflect.IsMap . -}}
+                {{- $why = printf "%v" (index . $lang | default (index . "ru") | default (index . "en") | default "") -}}
+              {{- else -}}
+                {{- $why = printf "%v" . -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+          {{- if not $why -}}
+            {{- if $pageIsSubject -}}
+              {{- $why = index $predAsSubject $pred | default "" -}}
+            {{- else -}}
+              {{- $why = index $predAsObject $pred | default "" -}}
+            {{- end -}}
+          {{- end -}}
+
+          {{- $title := "" -}}
+          {{- $url := "" -}}
+          {{- $date := "" -}}
+          {{- $sec := "" -}}
+          {{- with index $registry $other -}}
+            {{- $title = index . "title" | default "" -}}
+            {{- $url = index . "url" | default "" -}}
+            {{- $date = index . "date" | default "" -}}
+            {{- $sec = index . "section" | default "" -}}
+          {{- end -}}
+          {{- if not $title -}}
+            {{- with index $edge "title" }}{{ $title = printf "%v" . }}{{ end -}}
+          {{- end -}}
+          {{- if not $url -}}
+            {{- with index $edge "url" }}{{ $url = printf "%v" . }}{{ end -}}
+          {{- end -}}
+          {{- if not $sec -}}
+            {{- $low := $other | lower -}}
+            {{- if or (hasPrefix $low "person") (hasPrefix $low "people") }}{{ $sec = "people" }}
+            {{- else if hasPrefix $low "event" }}{{ $sec = "events" }}
+            {{- else if or (hasPrefix $low "letter") (hasPrefix $low "postcard") }}{{ $sec = "letters" }}
+            {{- else if or (hasPrefix $low "doc") (hasPrefix $low "document") }}{{ $sec = "documents" }}
+            {{- else if or (hasPrefix $low "photo") (hasPrefix $low "image") }}{{ $sec = "photos" }}
+            {{- else if hasPrefix $low "place" }}{{ $sec = "places" }}
+            {{- else if or (hasPrefix $low "chapter") (hasPrefix $low "manuscript") }}{{ $sec = "chapters" }}
+            {{- else if hasPrefix $low "collection" }}{{ $sec = "collections" }}
+            {{- end -}}
+          {{- end -}}
+
+          {{- if and $title $sec -}}
+            {{- $key := cond (ne $url "") ($url | strings.TrimSuffix "/") $other -}}
+            {{- $sk := printf "%s|%s" $sec $key -}}
+            {{- if not (index $seen $sk) -}}
+              {{- $seen = merge $seen (dict $sk true) -}}
+              {{- $item := dict "title" $title "url" $url "date" $date "why" $why "typeLabel" (index $typeLabel $sec | default "") -}}
+              {{- $prev := index $buckets $sec | default slice -}}
+              {{- $buckets = merge $buckets (dict $sec ($prev | append $item)) -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* --- Source 3: expand from entity YAML fields + reverse refs --- */ -}}
+{{- /* Covers events.participant_ids / place_ids / related_urls when relations.yaml is sparse. */ -}}
+{{- $refListKeys := slice
+  "participant_ids" "place_ids" "event_ids" "depicted_people" "member_entity_ids"
+  "related_person_ids" "addressee_ids" "related_crop_ids"
+-}}
+{{- $refScalarKeys := slice
+  "recipient_id" "author_id" "addressee_id"
+-}}
+{{- $whyForListKey := dict -}}
+{{- if $isEN -}}
+  {{- $whyForListKey = dict
+    "participant_ids" "participant" "place_ids" "place" "event_ids" "event"
+    "depicted_people" "shown here" "member_entity_ids" "includes"
+    "related_person_ids" "related" "addressee_ids" "addressee"
+  -}}
+{{- else -}}
+  {{- $whyForListKey = dict
+    "participant_ids" "участник" "place_ids" "место" "event_ids" "событие"
+    "depicted_people" "на снимке" "member_entity_ids" "включает"
+    "related_person_ids" "связано" "addressee_ids" "адресат"
+  -}}
+{{- end -}}
+{{- $whyForScalarKey := dict -}}
+{{- if $isEN -}}
+  {{- $whyForScalarKey = dict "recipient_id" "recipient" "author_id" "author" "addressee_id" "addressee" -}}
+{{- else -}}
+  {{- $whyForScalarKey = dict "recipient_id" "получатель" "author_id" "автор" "addressee_id" "адресат" -}}
+{{- end -}}
+{{- $whyReverseListKey := dict -}}
+{{- if $isEN -}}
+  {{- $whyReverseListKey = dict
+    "participant_ids" "event" "place_ids" "place" "event_ids" "related"
+    "depicted_people" "photo" "member_entity_ids" "collection"
+    "related_person_ids" "related" "addressee_ids" "letter"
+  -}}
+{{- else -}}
+  {{- $whyReverseListKey = dict
+    "participant_ids" "событие" "place_ids" "место" "event_ids" "связано"
+    "depicted_people" "снимок" "member_entity_ids" "коллекция"
+    "related_person_ids" "связано" "addressee_ids" "письмо"
+  -}}
+{{- end -}}
+{{- $whyReverseScalarKey := dict -}}
+{{- if $isEN -}}
+  {{- $whyReverseScalarKey = dict "recipient_id" "document" "author_id" "wrote" "addressee_id" "letter" -}}
+{{- else -}}
+  {{- $whyReverseScalarKey = dict "recipient_id" "документ" "author_id" "написал(а)" "addressee_id" "письмо" -}}
+{{- end -}}
+
+{{- /* Resolve primary ids for this page (including registry primary after alias match) */ -}}
+{{- $pagePrimaryIds := slice -}}
+{{- range $eidKeys -}}
+  {{- $k := . -}}
+  {{- if and $k (not (in $pagePrimaryIds $k)) -}}
+    {{- $pagePrimaryIds = $pagePrimaryIds | append $k -}}
+  {{- end -}}
+  {{- with index $registry $k -}}
+    {{- with index . "id" -}}
+      {{- $pid := printf "%v" . -}}
+      {{- if and $pid (not (in $pagePrimaryIds $pid)) -}}
+        {{- $pagePrimaryIds = $pagePrimaryIds | append $pid -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Helper-like: add registry entity id into buckets */ -}}
+{{- $addRelatedId := false -}}{{/* placeholder; logic inlined below */ -}}
+
+{{- /* 3a: outbound refs from this entity's raw record(s) */ -}}
+{{- range $pagePrimaryIds -}}
+  {{- $pid := . -}}
+  {{- with index $rawById $pid -}}
+    {{- $rec := . -}}
+    {{- range $refListKeys -}}
+      {{- $fk := . -}}
+      {{- with index $rec $fk -}}
+        {{- if reflect.IsSlice . -}}
+          {{- range . -}}
+            {{- $other := printf "%v" . -}}
+            {{- if and $other (not (in $pagePrimaryIds $other)) -}}
+              {{- $title := "" -}}
+              {{- $url := "" -}}
+              {{- $date := "" -}}
+              {{- $sec := "" -}}
+              {{- with index $registry $other -}}
+                {{- $title = index . "title" | default "" -}}
+                {{- $url = index . "url" | default "" -}}
+                {{- $date = index . "date" | default "" -}}
+                {{- $sec = index . "section" | default "" -}}
+              {{- end -}}
+              {{- if not $sec -}}
+                {{- $low := $other | lower -}}
+                {{- if or (hasPrefix $low "person") (hasPrefix $low "people") }}{{ $sec = "people" }}
+                {{- else if hasPrefix $low "event" }}{{ $sec = "events" }}
+                {{- else if or (hasPrefix $low "letter") (hasPrefix $low "postcard") }}{{ $sec = "letters" }}
+                {{- else if or (hasPrefix $low "doc") (hasPrefix $low "document") }}{{ $sec = "documents" }}
+                {{- else if or (hasPrefix $low "photo") (hasPrefix $low "image") }}{{ $sec = "photos" }}
+                {{- else if hasPrefix $low "place" }}{{ $sec = "places" }}
+                {{- else if or (hasPrefix $low "chapter") (hasPrefix $low "manuscript") }}{{ $sec = "chapters" }}
+                {{- else if hasPrefix $low "collection" }}{{ $sec = "collections" }}
+                {{- end -}}
+              {{- end -}}
+              {{- $why := index $whyForListKey $fk | default "" -}}
+              {{- if and $title $sec -}}
+                {{- $key := cond (ne $url "") ($url | strings.TrimSuffix "/") $other -}}
+                {{- $sk := printf "%s|%s" $sec $key -}}
+                {{- if not (index $seen $sk) -}}
+                  {{- $seen = merge $seen (dict $sk true) -}}
+                  {{- $item := dict "title" $title "url" $url "date" $date "why" $why "typeLabel" (index $typeLabel $sec | default "") -}}
+                  {{- $prev := index $buckets $sec | default slice -}}
+                  {{- $buckets = merge $buckets (dict $sec ($prev | append $item)) -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- range $refScalarKeys -}}
+      {{- $fk := . -}}
+      {{- with index $rec $fk -}}
+        {{- $other := printf "%v" . -}}
+        {{- if and $other (not (in $pagePrimaryIds $other)) -}}
+          {{- $title := "" -}}
+          {{- $url := "" -}}
+          {{- $date := "" -}}
+          {{- $sec := "" -}}
+          {{- with index $registry $other -}}
+            {{- $title = index . "title" | default "" -}}
+            {{- $url = index . "url" | default "" -}}
+            {{- $date = index . "date" | default "" -}}
+            {{- $sec = index . "section" | default "" -}}
+          {{- end -}}
+          {{- if not $sec -}}
+            {{- $low := $other | lower -}}
+            {{- if or (hasPrefix $low "person") (hasPrefix $low "people") }}{{ $sec = "people" }}
+            {{- else if hasPrefix $low "event" }}{{ $sec = "events" }}
+            {{- else if or (hasPrefix $low "letter") (hasPrefix $low "postcard") }}{{ $sec = "letters" }}
+            {{- else if or (hasPrefix $low "doc") (hasPrefix $low "document") }}{{ $sec = "documents" }}
+            {{- else if or (hasPrefix $low "photo") (hasPrefix $low "image") }}{{ $sec = "photos" }}
+            {{- else if hasPrefix $low "place" }}{{ $sec = "places" }}
+            {{- else if or (hasPrefix $low "chapter") (hasPrefix $low "manuscript") }}{{ $sec = "chapters" }}
+            {{- else if hasPrefix $low "collection" }}{{ $sec = "collections" }}
+            {{- end -}}
+          {{- end -}}
+          {{- $why := index $whyForScalarKey $fk | default "" -}}
+          {{- if and $title $sec -}}
+            {{- $key := cond (ne $url "") ($url | strings.TrimSuffix "/") $other -}}
+            {{- $sk := printf "%s|%s" $sec $key -}}
+            {{- if not (index $seen $sk) -}}
+              {{- $seen = merge $seen (dict $sk true) -}}
+              {{- $item := dict "title" $title "url" $url "date" $date "why" $why "typeLabel" (index $typeLabel $sec | default "") -}}
+              {{- $prev := index $buckets $sec | default slice -}}
+              {{- $buckets = merge $buckets (dict $sec ($prev | append $item)) -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- /* related_urls on this entity */ -}}
+    {{- with index $rec "related_urls" -}}
+      {{- if reflect.IsSlice . -}}
+        {{- range . -}}
+          {{- $url := printf "%v" . -}}
+          {{- $path := $url | strings.TrimSuffix "/" -}}
+          {{- if $path -}}
+            {{- $title := "" -}}
+            {{- $date := "" -}}
+            {{- $sec := "" -}}
+            {{- $matchedId := "" -}}
+            {{- range $rid, $rent := $registry -}}
+              {{- if not $title -}}
+                {{- $ru := index $rent "url" | default "" | strings.TrimSuffix "/" -}}
+                {{- if and $ru (eq $ru $path) -}}
+                  {{- $title = index $rent "title" | default "" -}}
+                  {{- $date = index $rent "date" | default "" -}}
+                  {{- $sec = index $rent "section" | default "" -}}
+                  {{- $url = index $rent "url" | default $url -}}
+                  {{- $matchedId = index $rent "id" | default "" -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+            {{- if and $matchedId (in $pagePrimaryIds $matchedId) -}}
+              {{- /* skip self */ -}}
+            {{- else -}}
+              {{- if not $sec -}}
+                {{- $low := $path | lower -}}
+                {{- if or (findRE "/lyudi(/|$)" $low) (findRE "/people(/|$)" $low) (findRE "/roditeli(/|$)" $low) (findRE "/parents(/|$)" $low) }}{{ $sec = "people" }}
+                {{- else if or (findRE "/sobytiya(/|$)" $low) (findRE "/events(/|$)" $low) }}{{ $sec = "events" }}
+                {{- else if or (findRE "/pisma-s-fronta" $low) (findRE "/letters-from-the-front" $low) }}{{ $sec = "letters" }}
+                {{- else if or (findRE "/dokumenty(/|$)" $low) (findRE "/documents(/|$)" $low) }}{{ $sec = "documents" }}
+                {{- else if or (findRE "/foto(/|$)" $low) (findRE "/photos(/|$)" $low) }}{{ $sec = "photos" }}
+                {{- else if or (findRE "/mesta(/|$)" $low) (findRE "/places(/|$)" $low) }}{{ $sec = "places" }}
+                {{- else if or (findRE "/vospominaniya(/|$)" $low) (findRE "/memoirs(/|$)" $low) }}{{ $sec = "chapters" }}
+                {{- end -}}
+              {{- end -}}
+              {{- if not $title -}}
+                {{- $parts := split $path "/" -}}
+                {{- $title = index $parts (sub (len $parts) 1) | default $path -}}
+              {{- end -}}
+              {{- if and $title $sec -}}
+                {{- $sk := printf "%s|%s" $sec $path -}}
+                {{- if not (index $seen $sk) -}}
+                  {{- $seen = merge $seen (dict $sk true) -}}
+                  {{- $why := "" -}}
+                  {{- if $isEN }}{{ $why = "related" }}{{ else }}{{ $why = "связано" }}{{ end -}}
+                  {{- $item := dict "title" $title "url" $url "date" $date "why" $why "typeLabel" (index $typeLabel $sec | default "") -}}
+                  {{- $prev := index $buckets $sec | default slice -}}
+                  {{- $buckets = merge $buckets (dict $sec ($prev | append $item)) -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* 3b: reverse — other entities that reference this page entity */ -}}
+{{- range $rid, $rrec := $rawById -}}
+  {{- if and (reflect.IsMap $rrec) (not (in $pagePrimaryIds $rid)) -}}
+    {{- $hit := false -}}
+    {{- $why := "" -}}
+    {{- range $refListKeys -}}
+      {{- if not $hit -}}
+        {{- $fk := . -}}
+        {{- with index $rrec $fk -}}
+          {{- if reflect.IsSlice . -}}
+            {{- range . -}}
+              {{- $ref := printf "%v" . -}}
+              {{- if in $pagePrimaryIds $ref -}}
+                {{- $hit = true -}}
+                {{- $why = index $whyReverseListKey $fk | default "" -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- range $refScalarKeys -}}
+      {{- if not $hit -}}
+        {{- $fk := . -}}
+        {{- with index $rrec $fk -}}
+          {{- $ref := printf "%v" . -}}
+          {{- if in $pagePrimaryIds $ref -}}
+            {{- $hit = true -}}
+            {{- $why = index $whyReverseScalarKey $fk | default "" -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $hit -}}
+      {{- $title := "" -}}
+      {{- $url := "" -}}
+      {{- $date := "" -}}
+      {{- $sec := "" -}}
+      {{- with index $registry $rid -}}
+        {{- $title = index . "title" | default "" -}}
+        {{- $url = index . "url" | default "" -}}
+        {{- $date = index . "date" | default "" -}}
+        {{- $sec = index . "section" | default "" -}}
+      {{- end -}}
+      {{- if not $sec -}}
+        {{- $low := $rid | lower -}}
+        {{- if or (hasPrefix $low "person") (hasPrefix $low "people") }}{{ $sec = "people" }}
+        {{- else if hasPrefix $low "event" }}{{ $sec = "events" }}
+        {{- else if or (hasPrefix $low "letter") (hasPrefix $low "postcard") }}{{ $sec = "letters" }}
+        {{- else if or (hasPrefix $low "doc") (hasPrefix $low "document") }}{{ $sec = "documents" }}
+        {{- else if or (hasPrefix $low "photo") (hasPrefix $low "image") }}{{ $sec = "photos" }}
+        {{- else if hasPrefix $low "place" }}{{ $sec = "places" }}
+        {{- else if or (hasPrefix $low "chapter") (hasPrefix $low "manuscript") }}{{ $sec = "chapters" }}
+        {{- else if hasPrefix $low "collection" }}{{ $sec = "collections" }}
+        {{- end -}}
+      {{- end -}}
+      {{- if and $title $sec -}}
+        {{- $key := cond (ne $url "") ($url | strings.TrimSuffix "/") $rid -}}
+        {{- $sk := printf "%s|%s" $sec $key -}}
+        {{- if not (index $seen $sk) -}}
+          {{- $seen = merge $seen (dict $sk true) -}}
+          {{- $item := dict "title" $title "url" $url "date" $date "why" $why "typeLabel" (index $typeLabel $sec | default "") -}}
+          {{- $prev := index $buckets $sec | default slice -}}
+          {{- $buckets = merge $buckets (dict $sec ($prev | append $item)) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* --- Render --- */ -}}
+{{- $hasAny := false -}}
+{{- range $sectionOrder -}}
+  {{- if gt (len (index $buckets . | default slice)) 0 }}{{ $hasAny = true }}{{ end -}}
+{{- end -}}
+
+{{- if $hasAny -}}
+{{- $blockTitle := cond $isEN "Related materials" "Связанные материалы" -}}
+<section class="related-materials" aria-label="{{ $blockTitle }}">
+  <h2 class="related-materials__title">{{ $blockTitle }}</h2>
+  {{- range $sectionOrder -}}
+    {{- $sec := . -}}
+    {{- $items := index $buckets $sec | default slice -}}
+    {{- if gt (len $items) 0 -}}
+      <div class="related-materials__group">
+        <h3 class="related-materials__group-title">{{ index $sectionTitle $sec }}</h3>
+        <ul class="related-list">
+          {{- range $items -}}
+            {{- $title := index . "title" -}}
+            {{- $url := index . "url" | default "" -}}
+            {{- $date := index . "date" | default "" -}}
+            {{- $why := index . "why" | default "" -}}
+            {{- $tl := index . "typeLabel" | default "" -}}
+            {{- $metaParts := slice -}}
+            {{- if $date }}{{ $metaParts = $metaParts | append $date }}{{ end -}}
+            {{- if $why }}{{ $metaParts = $metaParts | append $why }}{{ end -}}
+            {{- $meta := delimit $metaParts " · " -}}
+            <li class="related-list__item">
+              {{- if $url -}}
+                <a href="{{ $url }}">
+                  {{- with $tl }}<span class="related-list__type">{{ . }}</span>{{ end }}
+                  <span class="related-list__title">{{ $title }}</span>
+                  {{- with $meta }}<span class="related-list__meta">{{ . }}</span>{{ end }}
+                </a>
+              {{- else -}}
+                {{- with $tl }}<span class="related-list__type">{{ . }}</span>{{ end }}
+                <span class="related-list__title">{{ $title }}</span>
+                {{- with $meta }}<span class="related-list__meta">{{ . }}</span>{{ end }}
+              {{- end -}}
+            </li>
+          {{- end -}}
+        </ul>
+      </div>
+    {{- end -}}
+  {{- end -}}
+</section>
+{{- end -}}
+
+{{- end -}}{{/* end page-context guard */ -}}

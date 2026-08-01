@@ -37,9 +37,9 @@ From her **daughter’s diary**: Moscow, 2nd Brestskaya, Cheka typist, meeting T
 
 From the daughter’s notebook — three children:
 
-1. **Evgenia (Genya) Timofeevna** — sister.  
+1. **[Evgenia (Genya) Timofeevna Samsonova](/en/people/genya-samsonova/)** — sister.  
 2. **[Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/)** (**Tyoma**; often **“Zhenya”** in the manuscript, b. 1923) — brother.  
-   Story: [notebook continued (pp. 090–098)](/en/memoirs/diary/11-notebook-continued-090-099/); front letters and awards: [brother at the front (pp. 101–108)](/en/memoirs/diary/12-brother-front-letters-101-108/); document: [medal “For the Defence of Stalingrad”](/en/documents/stalingrad-defense-medal-samsonov-tt/) — **T. T.**, not father **T. P.**  
+   Story: [notebook continued (pp. 090–098)](/en/memoirs/diary/11-notebook-continued-090-099/); front letters and awards: [brother at the front (pp. 101–108)](/vospominaniya/dnevnik/12-brat-front-103-108/); document: [medal “For the Defence of Stalingrad”](/en/documents/stalingrad-defense-medal-samsonov-tt/) — **T. T.**, not father **T. P.**  
 3. **Tatyana Timofeevna Krivosheina** — author of the notebook.
 
 ## Daughter in the same set
@@ -48,4 +48,4 @@ From the daughter’s notebook — three children:
 
 ## Husband’s family (Krivosheins)
 
-Tatyana Timofeevna’s father-in-law — **[Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/)** (1905–1979), father of her husband Aleksandr.
+Tatyana Timofeevna’s father-in-law — **[Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/)** (1905–1979), father of her husband **[Aleksandr Dmitrievich](/en/people/aleksandr-krivoshein/)** (**Sasha** in the notebook).

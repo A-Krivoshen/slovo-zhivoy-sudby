@@ -19,6 +19,7 @@ editorial_status: "reader_chapter"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
+entity_id: "manuscript-chapter-16-yunost-sasha"
 aliases:
   - /vospominaniya/dnevnik/16-druzya-pobeda-134-139/
 ---
@@ -372,10 +373,17 @@ aliases:
 
 
 
-*← [Фронтовые письма друзей (стр. 128–133)](/vospominaniya/dnevnik/15-pisma-voennye-128-133/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Крым, Севастополь и начало семьи](/vospominaniya/dnevnik/17-krym-semya-140-149/#krym-semya) →*
+*← [Фронтовые письма друзей (стр. 128–133)](/vospominaniya/dnevnik/15-pisma-voennye-128-133/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Крым, Севастополь и начало семьи](/vospominaniya/dnevnik/17-krym-sevastopol-semya/) →*
 ```
 
 </details>
+
+---
+
+## Связанные материалы
+
+- [Знакомство с Сашей](/sobytiya/znakomstvo-s-sashey/)
+- [Кривошеина Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
 
 ---
 

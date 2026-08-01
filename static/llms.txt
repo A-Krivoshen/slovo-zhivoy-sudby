@@ -1,0 +1,93 @@
+# llms.txt — experimental machine-readable navigation
+#
+# Status: EXPERIMENTAL. Optional hint for AI/LLM crawlers and tools.
+# This file is NOT a ranking factor, not an SEO claim, and not a sitemap
+# substitute. Humans should use the site UI and sitemap.xml.
+# Scope: public canonical paths only. No private, draft, or withheld material.
+# Site: https://сжс.рф/  (Word of a Living Fate / Слово Живой Судьбы)
+
+# EN — short description
+> Family archive preserving memoirs, photographs, and documents about
+> Tatyana Timofeevna Krivosheina, her parents, and kin. Bilingual RU/EN.
+> Sources over speculation; uncertainty is marked; living people are
+> protected (see publishing principles and privacy).
+
+# RU — краткое описание
+> Семейный архив: мемуары, фотографии и документы о Кривошеиной
+> Татьяне Тимофеевне, её родителях и роде. RU/EN. Источники важнее
+> догадок; неуверенность помечается; живые люди защищены
+> (принципы публикации и конфиденциальность).
+
+## Core (RU)
+
+- [Главная](https://сжс.рф/): портал архива
+- [О проекте](https://сжс.рф/o-proekte/): зачем существует сайт
+- [Принципы публикации](https://сжс.рф/printsipy-publikacii/): источники, неуверенность, приватность
+- [Конфиденциальность](https://сжс.рф/konfidencialnost/): данные посетителей и живых родственников
+- [Поиск](https://сжс.рф/search/): полнотекстовый поиск
+
+## Memoirs & parents (RU)
+
+- [Воспоминания](https://сжс.рф/vospominaniya/)
+- [Дневник / тетрадь](https://сжс.рф/vospominaniya/dnevnik/)
+- [О тетради](https://сжс.рф/vospominaniya/dnevnik/o-tetradi/)
+- [Родители](https://сжс.рф/roditeli/)
+- [Самсонов Т. П.](https://сжс.рф/roditeli/samsonov-timofey-petrovich/)
+- [Ева Константиновна](https://сжс.рф/roditeli/eva-konstantinovna/)
+- [Кривошеин Д. А.](https://сжс.рф/roditeli/krivoshein-dmitriy-aleksandrovich/)
+- [Отец и мать](https://сжс.рф/roditeli/otets-i-mat/)
+
+## Documents, photos, places (RU)
+
+- [Документы](https://сжс.рф/dokumenty/)
+- [Письма с фронта](https://сжс.рф/dokumenty/pisma-s-fronta/)
+- [Фото](https://сжс.рф/foto/)
+- [Места](https://сжс.рф/mesta/)
+- [Москва семейная](https://сжс.рф/mesta/moskva-semeynaya/)
+- [История](https://сжс.рф/istoriya/)
+- [Архивы](https://сжс.рф/archives/)
+
+## Core (EN)
+
+- [Home](https://сжс.рф/en/): archive portal
+- [About](https://сжс.рф/en/about/)
+- [Publishing principles](https://сжс.рф/en/publishing-principles/)
+- [Privacy](https://сжс.рф/en/privacy/)
+- [Search](https://сжс.рф/en/search/)
+
+## Memoirs & parents (EN)
+
+- [Memoirs](https://сжс.рф/en/memoirs/)
+- [Diary / notebook](https://сжс.рф/en/memoirs/diary/)
+- [About the notebook](https://сжс.рф/en/memoirs/diary/about-the-notebook/)
+- [Parents](https://сжс.рф/en/parents/)
+- [Timofey P. Samsonov](https://сжс.рф/en/parents/timofey-petrovich-samsonov/)
+- [Eva Konstantinovna](https://сжс.рф/en/parents/eva-konstantinovna/)
+- [Dmitry A. Krivoshein](https://сжс.рф/en/parents/dmitry-aleksandrovich-krivoshein/)
+- [Father and mother](https://сжс.рф/en/parents/father-and-mother/)
+
+## Documents, photos, places (EN)
+
+- [Documents](https://сжс.рф/en/documents/)
+- [Letters from the front](https://сжс.рф/en/documents/letters-from-the-front/)
+- [Photos](https://сжс.рф/en/photos/)
+- [Places](https://сжс.рф/en/places/)
+- [Family Moscow](https://сжс.рф/en/places/family-moscow/)
+- [History](https://сжс.рф/en/history/)
+- [Archives](https://сжс.рф/en/archives/)
+
+## Machine discovery (public only)
+
+- [Sitemap](https://сжс.рф/sitemap.xml)
+- [robots.txt](https://сжс.рф/robots.txt)
+- [RSS](https://сжс.рф/index.xml)
+
+## Out of scope (do not treat as public graph targets)
+
+- Private family materials and internal review notes
+- Withheld notebook pages 099–100 (privacy)
+- Unlinked manuscript scans 155 / 157 (privacy)
+- Draft English diary chapters not published in the build
+- Legacy noindex hub URLs
+
+# End experimental llms.txt

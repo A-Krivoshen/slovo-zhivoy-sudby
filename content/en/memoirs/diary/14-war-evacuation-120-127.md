@@ -6,7 +6,7 @@ ShowReadingTime: false
 draft: true
 description: "1941–1942: evacuation, life with relatives, return to Moscow, school."
 summary: "Evacuation, return, and school in wartime."
-translationKey: "diary-14-voyna-120-127"
+translationKey: "diary-14-school-and-war"
 tags: ["diary", "notebook"]
 categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]

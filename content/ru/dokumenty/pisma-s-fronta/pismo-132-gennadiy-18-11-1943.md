@@ -6,6 +6,7 @@ draft: false
 description: "Письмо Тане от Геннадия Вохминцева от 18 ноября 1943 г."
 summary: "18.11.1943. Геннадий Вохминцев — Тане."
 translationKey: "doc-letter-front-132-gennady-1943-11-18"
+entity_id: "letter-1943-11-18-gennady"
 tags: ["документы", "письма", "фронт", "1943"]
 categories: ["Документы"]
 people: ["Кривошеина Татьяна Тимофеевна"]
@@ -70,6 +71,12 @@ source_pages: "132"
 привет папе и маме —
                     — Геннадий.
 ```
+
+## Связанные материалы
+
+- Автор: [Геннадий Вохминцев](/lyudi/gennady-vokhmintsev/)
+- Адресат: [Кривошеина Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
+- Коллекция: [Письма с фронта](/dokumenty/pisma-s-fronta/) · [письма военных лет](/vospominaniya/dnevnik/15-pisma-voennye-128-133/)
 
 ## Навигация
 

@@ -6,6 +6,7 @@ draft: false
 description: "Short letter “Tanyusha!” signed Gennady; day 1 March, year not on the leaf."
 summary: "1 March “Happy spring!” Gennady to Tanyusha. Year needs verification."
 translationKey: "doc-letter-front-131-tanyusha"
+entity_id: "letter-tanyusha-gennady"
 tags: ["documents", "letters", "front"]
 categories: ["Documents"]
 people: ["Tatyana Timofeevna Krivosheina"]
@@ -67,6 +68,12 @@ I await letters.
 
 - The name “Gennady” on the leaf is clear; identity with **Gennady Vokhmintsev** (heading on the 18 Nov 1943 letter) is **likely but not proven** by hand alone without verification.  
 - Do **not** treat the year of neighbouring leaves as a fact for this leaf — only as a hypothesis to check.
+
+## Related materials
+
+- Signature “Gennady”; identity with Vokhmintsev is **likely, not proven**: [Gennady Vokhmintsev](/en/people/gennady-vokhmintsev/)
+- Addressee: [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/)
+- Collection: [Letters from the front](/en/documents/letters-from-the-front/)
 
 ## Navigation
 

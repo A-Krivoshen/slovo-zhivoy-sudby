@@ -5,6 +5,7 @@ draft: false
 description: "Удостоверение к медали «За оборону Сталинграда» гв. сержанту Самсонову Тимофею Тимофеевичу (брат Татьяны Тимофеевны)."
 summary: "Указ 22.12.1942; вручение 23.09.1943. 79 гв. миномётный полк. Семейный архив."
 translationKey: "doc-stalingrad-defense-medal-samsonov-tt"
+entity_id: "document-stalingrad-medal-samsonov-tt"
 tags: ["документы", "медаль", "Сталинград", "Самсонов", "ВОВ"]
 categories: ["Документы"]
 people: ["Самсонов Тимофей Тимофеевич"]
@@ -60,4 +61,13 @@ cover:
 Скан лежит в тетради воспоминаний рядом с фронтовыми письмами брата:
 
 - [Дядя Тёма: документы и Сталинград](/vospominaniya/dnevnik/12-brat-front-103-108/)
-- Материалы по человеку: [Самсонов Тимофей Тимофеевич](/people/самсонов-тимофей-тимофеевич/)
+- Материалы по человеку: [Самсонов Тимофей Тимофеевич (Тёма)](/lyudi/timofey-timofeevich-samsonov/)
+
+## Связанные материалы
+
+- Получатель: [Самсонов Тимофей Тимофеевич (Тёма)](/lyudi/timofey-timofeevich-samsonov/) — брат Татьяны Тимофеевны
+- **Не** [Самсонов Тимофей Петрович](/lyudi/timofey-petrovich-samsonov/) (отец; отчество на бланке — Тимофеевич)
+- Событие: [Оборона Сталинграда](/sobytiya/oborona-stalingrada/)
+- Письма брата (Тимоша): [14.06.1943](/dokumenty/pisma-s-fronta/pismo-105-106-mamochke/), [13.07.1944](/dokumenty/pisma-s-fronta/pismo-107/) · [коллекция](/dokumenty/pisma-s-fronta/)
+- Глава тетради: [Дядя Тёма: документы и Сталинград](/vospominaniya/dnevnik/12-brat-front-103-108/)
+

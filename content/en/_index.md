@@ -22,6 +22,22 @@ translationKey: "home"
 
 {{< home_nav >}}
 
+## How the archive is organised
+
+This site is not a news feed — it is a **map of family memory**. You can read the notebook chapter by chapter, open a person page, walk through the years, or browse a photo album.
+
+| Section | What you will find |
+| --- | --- |
+| [Memoirs](/en/memoirs/) | Tatyana Timofeevna’s notebook and related texts |
+| [People](/en/people/) | Pages for those named in the archive |
+| [Parents](/en/parents/) | T. P. Samsonov and Eva Konstantinovna — in more depth |
+| [Events](/en/events/) | Key episodes: war, school, family… |
+| [Timeline](/en/timeline/) | Years and milestones in order |
+| [Places](/en/places/) | Moscow and other points on the map |
+| [Documents](/en/documents/) | Certificates, letters, papers |
+| [Photos](/en/photos/) | Albums with captions |
+| [About](/en/about/) | Why the archive exists and how we publish |
+
 <p class="home-footnote">
   Gathered by her grandson
   <a href="https://krivoshein.site" rel="noopener" target="_blank">Alexey Krivoshein</a>.

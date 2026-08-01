@@ -19,6 +19,7 @@ editorial_status: "reader_chapter"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
+entity_id: "manuscript-chapter-17-krym-sevastopol"
 ---
 
 *По рукописной тетради. Голос Татьяны Тимофеевны.*
@@ -380,6 +381,15 @@ batch_id: "manuscript-2026-08-01-b02"
 ```
 
 </details>
+
+---
+
+## Связанные материалы
+
+- [Поездки в Крым](/sobytiya/krym-poezdki/)
+- [Крым в истории семьи](/mesta/crimea-family/)
+- [Севастополь](/mesta/sevastopol/)
+- [Кривошеина Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
 
 ---
 

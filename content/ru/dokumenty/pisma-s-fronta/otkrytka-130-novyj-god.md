@@ -6,6 +6,7 @@ draft: false
 description: "Рисованная / бланковая новогодняя открытка из тетради; адресат «Таничка»."
 summary: "Новогодняя открытка к Тане."
 translationKey: "doc-postcard-130-new-year"
+entity_id: "postcard-130-new-year"
 tags: ["документы", "открытка"]
 categories: ["Документы"]
 people: ["Кривошеина Татьяна Тимофеевна"]
@@ -46,3 +47,9 @@ source_pages: "130"
 ```
 
 ← [Письмо 129](/dokumenty/pisma-s-fronta/pismo-128-129-tane-ot-tovarishcha/) · [Коллекция](/dokumenty/pisma-s-fronta/) · [«Танюша!»](/dokumenty/pisma-s-fronta/pismo-131-tanyusha/) →
+
+## Связанные материалы
+
+- Адресат «Таничка»: [Кривошеина Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
+- Коллекция: [Письма с фронта](/dokumenty/pisma-s-fronta/) · [письма военных лет](/vospominaniya/dnevnik/15-pisma-voennye-128-133/)
+

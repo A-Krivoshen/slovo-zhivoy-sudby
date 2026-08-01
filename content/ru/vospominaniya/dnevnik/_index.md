@@ -6,9 +6,11 @@ translationKey: "diary"
 ---
 
 Тетрадь в клетку: **«Наша родословная: Самсоновы»**.  
-Пишет **Татьяна Тимофеевна** — от первого лица.
+Пишет **[Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)** — от первого лица.
 
 Текст подготовлен по семейным сканам. Неразборчивые места отмечены в квадратных скобках; расшифровка постепенно уточняется.
+
+**Рядом с текстом:** [письма с фронта](/dokumenty/pisma-s-fronta/) · [брат Тёма](/lyudi/timofey-timofeevich-samsonov/) · [медаль за Сталинград](/dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt/)
 
 ## Введение
 
@@ -44,4 +46,4 @@ translationKey: "diary"
 
 **Документы:** [Сталинград — Т. Т.](/dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt/) · [Письма с фронта](/dokumenty/pisma-s-fronta/) · [Вставка к сестре](/dokumenty/pisma-s-fronta/pismo-vstavka-sestre-089-090/) · [Открытка](/dokumenty/pisma-s-fronta/otkrytka-130-novyj-god/)
 
-См. также: [Места](/mesta/moskva-semeynaya/) · [Самсонов Т. П.](/roditeli/samsonov-timofey-petrovich/) · [Ева Константиновна](/roditeli/eva-konstantinovna/)
+См. также: [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/) · [Тёма](/lyudi/timofey-timofeevich-samsonov/) · [Места](/mesta/moskva-semeynaya/) · [Самсонов Т. П.](/roditeli/samsonov-timofey-petrovich/) · [Ева Константиновна](/roditeli/eva-konstantinovna/)

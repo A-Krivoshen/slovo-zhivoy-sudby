@@ -1,0 +1,141 @@
+{{- /*
+  Link to an archive entity by id.
+
+  Params:
+    id   — entity id (e.g. person-samsonov-tp or person/tatyana-…)
+    text — visible link text (falls back to registry title, then id)
+
+  Looks up data/archive/public registries (people, letters, documents,
+  photos, places, events, collections) and optional entities map.
+  Fallback: plain text, no broken href.
+*/ -}}
+{{- $id := .Get "id" | default "" -}}
+{{- $text := .Get "text" | default "" -}}
+{{- if not $text -}}
+  {{- $text = .Inner | default "" | strings.TrimSpace -}}
+{{- end -}}
+{{- $lang := site.Language.Lang | default "ru" -}}
+{{- $isEN := eq $lang "en" -}}
+
+{{- $url := "" -}}
+{{- $title := "" -}}
+
+{{- $pub := dict -}}
+{{- with hugo.Data -}}
+  {{- with index . "archive" -}}
+    {{- if reflect.IsMap . -}}
+      {{- with index . "public" -}}
+        {{- if reflect.IsMap . -}}
+          {{- $pub = . -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $id -}}
+  {{- /* Typed list registries */ -}}
+  {{- $kindFiles := slice
+    (dict "file" "people" "list" "people")
+    (dict "file" "letters" "list" "letters")
+    (dict "file" "documents" "list" "documents")
+    (dict "file" "photos" "list" "photos")
+    (dict "file" "places" "list" "places")
+    (dict "file" "events" "list" "events")
+    (dict "file" "collections" "list" "collections")
+  -}}
+  {{- range $kindFiles -}}
+    {{- if and (not $url) (not $title) -}}
+      {{- $bag := index $pub (index . "file") | default dict -}}
+      {{- $list := slice -}}
+      {{- if reflect.IsSlice $bag -}}
+        {{- $list = $bag -}}
+      {{- else if reflect.IsMap $bag -}}
+        {{- $list = index $bag (index . "list") | default slice -}}
+      {{- end -}}
+      {{- if reflect.IsSlice $list -}}
+        {{- range $list -}}
+          {{- if reflect.IsMap . -}}
+            {{- $rec := . -}}
+            {{- $rid := "" -}}
+            {{- with index $rec "entity_id" }}{{ $rid = printf "%v" . }}{{ end -}}
+            {{- with index $rec "id" }}{{ if not $rid }}{{ $rid = printf "%v" . }}{{ end }}{{ end -}}
+            {{- if eq $rid $id -}}
+              {{- if $isEN -}}
+                {{- with index $rec "name_en" }}{{ $title = printf "%v" . }}{{ end -}}
+                {{- with index $rec "title_en" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+                {{- with index $rec "caption_en" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+                {{- with index $rec "url_en" }}{{ $url = printf "%v" . }}{{ end -}}
+              {{- end -}}
+              {{- if not $title -}}
+                {{- with index $rec "name_ru" }}{{ $title = printf "%v" . }}{{ end -}}
+                {{- with index $rec "title_ru" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+                {{- with index $rec "caption_ru" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+                {{- with index $rec "name" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+                {{- with index $rec "title" }}{{ if not $title }}{{ $title = printf "%v" . }}{{ end }}{{ end -}}
+              {{- end -}}
+              {{- if not $url -}}
+                {{- with index $rec "url_ru" }}{{ $url = printf "%v" . }}{{ end -}}
+                {{- with index $rec "url" }}{{ if not $url }}{{ $url = printf "%v" . }}{{ end }}{{ end -}}
+              {{- end -}}
+              {{- if not $url -}}
+                {{- with index $rec "related_urls" -}}
+                  {{- if reflect.IsSlice . -}}
+                    {{- with index . 0 }}{{ $url = printf "%v" . }}{{ end -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- /* Flat entities map fallback */ -}}
+  {{- if and (not $url) (not $title) -}}
+    {{- with index $pub "entities" -}}
+      {{- if reflect.IsMap . -}}
+        {{- with index . $id -}}
+          {{- if reflect.IsMap . -}}
+            {{- $ent := . -}}
+            {{- with index $ent "title" -}}
+              {{- if reflect.IsMap . -}}
+                {{- $title = printf "%v" (index . $lang | default (index . "ru") | default (index . "en") | default "") -}}
+              {{- else -}}
+                {{- $title = printf "%v" . -}}
+              {{- end -}}
+            {{- end -}}
+            {{- if not $title -}}
+              {{- with index $ent "name" }}{{ $title = printf "%v" . }}{{ end -}}
+            {{- end -}}
+            {{- with index $ent "url" -}}
+              {{- if reflect.IsMap . -}}
+                {{- $url = printf "%v" (index . $lang | default (index . "ru") | default (index . "en") | default "") -}}
+              {{- else -}}
+                {{- $url = printf "%v" . -}}
+              {{- end -}}
+            {{- end -}}
+            {{- if not $url -}}
+              {{- with index $ent "urls" -}}
+                {{- if reflect.IsMap . -}}
+                  {{- $url = printf "%v" (index . $lang | default (index . "ru") | default (index . "en") | default "") -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $text -}}
+  {{- $text = $title | default $id -}}
+{{- end -}}
+
+{{- if and $url $text -}}
+<a href="{{ $url }}">{{ $text }}</a>
+{{- else if $text -}}
+{{ $text }}
+{{- end -}}

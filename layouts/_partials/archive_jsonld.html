@@ -1,0 +1,122 @@
+{{- /*
+  Entity JSON-LD when page has entity_id.
+  Types: Person, Event, Place, CreativeWork (letters/docs/chapters),
+  ImageObject (photos). Visible page fields only.
+  isPartOf → WebSite name «Слово Живой Судьбы».
+*/ -}}
+{{- /* No-op when entity_id missing or page context absent. */ -}}
+{{- if and . .Params.entity_id -}}
+{{- $page := . -}}
+{{- $eid := printf "%v" $page.Params.entity_id -}}
+{{- $lang := "ru" -}}
+{{- with site.Language -}}
+  {{- with .Lang }}{{ $lang = . }}{{ end -}}
+{{- end -}}
+
+{{- $rawType := "" -}}
+{{- with $page.Params.entity_type }}{{ $rawType = printf "%v" . | lower }}{{ end -}}
+{{- if not $rawType -}}
+  {{- with $page.Params.schema_type }}{{ $rawType = printf "%v" . | lower }}{{ end -}}
+{{- end -}}
+{{- if not $rawType -}}
+  {{- $low := $eid | lower -}}
+  {{- if or (hasPrefix $low "person") (hasPrefix $low "people") -}}
+    {{- $rawType = "person" -}}
+  {{- else if hasPrefix $low "event" -}}
+    {{- $rawType = "event" -}}
+  {{- else if hasPrefix $low "place" -}}
+    {{- $rawType = "place" -}}
+  {{- else if or (hasPrefix $low "photo") (hasPrefix $low "image") -}}
+    {{- $rawType = "photo" -}}
+  {{- else if or (hasPrefix $low "letter") (hasPrefix $low "postcard") (hasPrefix $low "doc") (hasPrefix $low "document") (hasPrefix $low "chapter") (hasPrefix $low "manuscript") (hasPrefix $low "collection") -}}
+    {{- $rawType = "creativework" -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $schemaType := "CreativeWork" -}}
+{{- if or (eq $rawType "person") (eq $rawType "people") (eq $rawType "human") -}}
+  {{- $schemaType = "Person" -}}
+{{- else if or (eq $rawType "event") (eq $rawType "events") -}}
+  {{- $schemaType = "Event" -}}
+{{- else if or (eq $rawType "place") (eq $rawType "places") (eq $rawType "location") -}}
+  {{- $schemaType = "Place" -}}
+{{- else if or (eq $rawType "photo") (eq $rawType "photos") (eq $rawType "photograph") (eq $rawType "image") -}}
+  {{- $schemaType = "ImageObject" -}}
+{{- end -}}
+
+{{- $idURL := $page.Permalink -}}
+{{- with $page.Params.canonicalURL -}}
+  {{- $idURL = trim . " " -}}
+{{- end -}}
+
+{{- $website := dict
+  "@type" "WebSite"
+  "name" "Слово Живой Судьбы"
+  "url" site.Home.Permalink
+-}}
+
+{{- $ld := dict
+  "@context" "https://schema.org"
+  "@type" $schemaType
+  "@id" $idURL
+  "name" ($page.Title | plainify)
+  "url" $page.Permalink
+  "isPartOf" $website
+  "inLanguage" $lang
+-}}
+
+{{- with $page.Description -}}
+  {{- $ld = merge $ld (dict "description" (. | plainify)) -}}
+{{- else -}}
+  {{- with $page.Summary -}}
+    {{- $ld = merge $ld (dict "description" (. | plainify | truncate 300)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if eq $schemaType "Person" -}}
+  {{- with $page.Params.birth_date }}{{ $ld = merge $ld (dict "birthDate" (printf "%v" .)) }}{{ end -}}
+  {{- with $page.Params.birthDate }}{{ $ld = merge $ld (dict "birthDate" (printf "%v" .)) }}{{ end -}}
+  {{- with $page.Params.death_date }}{{ $ld = merge $ld (dict "deathDate" (printf "%v" .)) }}{{ end -}}
+  {{- with $page.Params.deathDate }}{{ $ld = merge $ld (dict "deathDate" (printf "%v" .)) }}{{ end -}}
+{{- else if eq $schemaType "Event" -}}
+  {{- with $page.Params.start_date }}{{ $ld = merge $ld (dict "startDate" (printf "%v" .)) }}{{ end -}}
+  {{- with $page.Params.startDate }}{{ $ld = merge $ld (dict "startDate" (printf "%v" .)) }}{{ end -}}
+  {{- with $page.Params.end_date }}{{ $ld = merge $ld (dict "endDate" (printf "%v" .)) }}{{ end -}}
+  {{- with $page.Params.endDate }}{{ $ld = merge $ld (dict "endDate" (printf "%v" .)) }}{{ end -}}
+  {{- if and (not (index $ld "startDate")) (not $page.Date.IsZero) -}}
+    {{- $ld = merge $ld (dict "startDate" ($page.Date.Format "2006-01-02")) -}}
+  {{- end -}}
+{{- else if eq $schemaType "CreativeWork" -}}
+  {{- if not $page.Date.IsZero -}}
+    {{- $ld = merge $ld (dict "datePublished" ($page.Date.Format "2006-01-02")) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- with $page.Params.cover -}}
+  {{- if reflect.IsMap . -}}
+    {{- $hidden := false -}}
+    {{- with index . "hidden" }}{{ if eq . true }}{{ $hidden = true }}{{ end }}{{ end -}}
+    {{- with index . "hiddenInSingle" }}{{ if eq . true }}{{ $hidden = true }}{{ end }}{{ end -}}
+    {{- if not $hidden -}}
+      {{- with index . "image" -}}
+        {{- $img := printf "%v" . -}}
+        {{- $abs := $img | absURL -}}
+        {{- with index $page.Params.cover "relative" -}}
+          {{- if eq . true -}}
+            {{- $abs = (path.Join $page.RelPermalink $img) | absURL -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if eq $schemaType "ImageObject" -}}
+          {{- $ld = merge $ld (dict "contentUrl" $abs "url" $abs) -}}
+        {{- else -}}
+          {{- $ld = merge $ld (dict "image" $abs) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<script type="application/ld+json">
+{{ $ld | jsonify | safeJS }}
+</script>
+{{- end -}}{{/* end entity_id / page guard */ -}}

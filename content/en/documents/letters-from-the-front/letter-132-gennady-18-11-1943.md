@@ -6,6 +6,7 @@ draft: false
 description: "Letter to Tanya from Gennady Vokhmintsev, 18 November 1943."
 summary: "18 Nov 1943. Gennady Vokhmintsev to Tanya."
 translationKey: "doc-letter-front-132-gennady-1943-11-18"
+entity_id: "letter-1943-11-18-gennady"
 tags: ["documents", "letters", "front", "1943"]
 categories: ["Documents"]
 people: ["Tatyana Timofeevna Krivosheina"]
@@ -70,6 +71,12 @@ That is all. Write to Tanechka. Greetings to papa and mama.
 привет папе и маме —
                     — Геннадий.
 ```
+
+## Related materials
+
+- Author: [Gennady Vokhmintsev](/en/people/gennady-vokhmintsev/)
+- Addressee: [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/)
+- Collection: [Letters from the front](/en/documents/letters-from-the-front/)
 
 ## Navigation
 

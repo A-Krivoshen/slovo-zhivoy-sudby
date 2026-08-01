@@ -6,7 +6,7 @@ ShowReadingTime: false
 draft: true
 description: "Youth: friends, theatre, walks with Sasha, Victory Day."
 summary: "Youth and meeting Sasha."
-translationKey: "diary-16-druzya-134-139"
+translationKey: "diary-16-youth-sasha"
 tags: ["diary", "notebook"]
 categories: ["Memoirs"]
 people: ["Tatyana Timofeevna Krivosheina"]

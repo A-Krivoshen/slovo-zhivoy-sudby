@@ -19,6 +19,7 @@ editorial_status: "reader_chapter"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
+entity_id: "manuscript-chapter-19-semya-i-deti"
 aliases:
   - /vospominaniya/dnevnik/18-synovya-150-161/
 ---
@@ -221,7 +222,7 @@ aliases:
 
 
 
-*← [Юность и знакомство с Сашей (стр. 134–139)](/vospominaniya/dnevnik/16-druzya-pobeda-134-139/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Семья и дети (стр. 150–161)](/vospominaniya/dnevnik/18-synovya-150-161/) →*
+*← [Юность и знакомство с Сашей (стр. 134–139)](/vospominaniya/dnevnik/16-yunost-i-sasha/) · [Оглавление тетради](/vospominaniya/dnevnik/) · [Семья и дети (стр. 150–161)](/vospominaniya/dnevnik/19-semya-i-deti/) →*
 ```
 
 </details>
@@ -726,6 +727,14 @@ Los-Angeles).
 
 
 *Листы 155 и 157: фотографии и подписи с возможным участием ныне живущих — не публикуются до семейного решения (без служебного блока «withheld» на сайте).*
+
+---
+
+## Связанные материалы
+
+- [Начало семьи](/sobytiya/nachalo-semi/)
+- [Кривошеина Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
+- [Семейный фотоальбом продолжения](/foto/tetrad-semya-prodolzhenie/)
 
 ---
 

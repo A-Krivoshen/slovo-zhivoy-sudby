@@ -12,7 +12,16 @@ summaryLength = 50
 timeZone = 'Europe/Moscow'
 
 [outputs]
-  home = ['HTML', 'RSS', 'JSON']
+  # LLMs = experimental llms.txt (PaperMod layout); see docs/SEO_SITEMAP_NOTES.md
+  home = ['HTML', 'RSS', 'JSON', 'LLMs']
+
+# Experimental llms.txt for AI agents (non-standard; safe to remove from outputs)
+[outputFormats]
+  [outputFormats.LLMs]
+    mediaType = 'text/plain'
+    baseName = 'llms'
+    isPlainText = true
+    notAlternative = true
 
 [sitemap]
   changefreq = 'weekly'
@@ -102,30 +111,45 @@ timeZone = 'Europe/Moscow'
     url = '/vospominaniya/'
     weight = 20
   [[languages.ru.menu.main]]
+    identifier = 'lyudi'
+    name = 'Люди'
+    url = '/lyudi/'
+    weight = 30
+  [[languages.ru.menu.main]]
     identifier = 'roditeli'
     name = 'Родители'
     url = '/roditeli/'
-    weight = 30
+    weight = 35
   [[languages.ru.menu.main]]
-    identifier = 'istoriya'
-    name = 'История'
-    url = '/istoriya/'
+    identifier = 'sobytiya'
+    name = 'События'
+    url = '/sobytiya/'
     weight = 40
+  [[languages.ru.menu.main]]
+    identifier = 'hronologiya'
+    name = 'Хронология'
+    url = '/hronologiya/'
+    weight = 45
   [[languages.ru.menu.main]]
     identifier = 'mesta'
     name = 'Места'
     url = '/mesta/'
-    weight = 45
-  [[languages.ru.menu.main]]
-    identifier = 'foto'
-    name = 'Фото'
-    url = '/foto/'
     weight = 50
   [[languages.ru.menu.main]]
     identifier = 'dokumenty'
     name = 'Документы'
     url = '/dokumenty/'
+    weight = 55
+  [[languages.ru.menu.main]]
+    identifier = 'foto'
+    name = 'Фото'
+    url = '/foto/'
     weight = 60
+  [[languages.ru.menu.main]]
+    identifier = 'istoriya'
+    name = 'История'
+    url = '/istoriya/'
+    weight = 65
   [[languages.ru.menu.main]]
     identifier = 'search'
     name = 'Поиск'
@@ -214,30 +238,45 @@ timeZone = 'Europe/Moscow'
     url = '/en/memoirs/'
     weight = 20
   [[languages.en.menu.main]]
+    identifier = 'people'
+    name = 'People'
+    url = '/en/people/'
+    weight = 30
+  [[languages.en.menu.main]]
     identifier = 'parents'
     name = 'Parents'
     url = '/en/parents/'
-    weight = 30
+    weight = 35
   [[languages.en.menu.main]]
-    identifier = 'history'
-    name = 'History'
-    url = '/en/history/'
+    identifier = 'events'
+    name = 'Events'
+    url = '/en/events/'
     weight = 40
+  [[languages.en.menu.main]]
+    identifier = 'timeline'
+    name = 'Timeline'
+    url = '/en/timeline/'
+    weight = 45
   [[languages.en.menu.main]]
     identifier = 'places'
     name = 'Places'
     url = '/en/places/'
-    weight = 45
-  [[languages.en.menu.main]]
-    identifier = 'photos'
-    name = 'Photos'
-    url = '/en/photos/'
     weight = 50
   [[languages.en.menu.main]]
     identifier = 'documents'
     name = 'Documents'
     url = '/en/documents/'
+    weight = 55
+  [[languages.en.menu.main]]
+    identifier = 'photos'
+    name = 'Photos'
+    url = '/en/photos/'
     weight = 60
+  [[languages.en.menu.main]]
+    identifier = 'history'
+    name = 'History'
+    url = '/en/history/'
+    weight = 65
   [[languages.en.menu.main]]
     identifier = 'search'
     name = 'Search'

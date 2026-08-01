@@ -5,14 +5,19 @@ draft: false
 description: "Главные московские точки из дневника Татьяны Тимофеевны: дом мамы, Лубянка, Воздвиженка, сад, Новодевичье."
 summary: "2-я Брестская, Белорусский → Лубянка, Воздвиженка, Александровский сад, Новодевичье."
 translationKey: "places-moscow"
+entity_id: "place-moscow"
+entity_type: "place"
 tags: ["места", "Москва", "карта"]
 categories: ["История"]
 people: ["Кривошеина Татьяна Тимофеевна", "Ева Константиновна", "Самсонов Тимофей Петрович"]
 ShowToc: true
 ---
 
-Семь точек, о которых пишет **Татьяна Тимофеевна** в тетради.  
+Москва — **главная сцена** семейной хроники Самсоновых и Кривошеиных: детство, работа, война, память.  
+Ниже — семь точек, о которых пишет **Татьяна Тимофеевна** в тетради.  
 Координаты — современные (OSM); названия и смысл — из рукописи.
+
+Отдельные сущности мест: [«Метрополь»](/mesta/metropol-moscow/) · [ул. Серафимовича](/mesta/serafimovich-street/).
 
 ## 1. 2-я Брестская — дом мамы в детстве
 
@@ -62,5 +67,14 @@ ShowToc: true
 {{< osm_map lat="48.04086" lon="27.61611" zoom="13" title="Mihăileni (Михайлёны)" caption="Точка по записи в тетради о рождении отца. Сверять с документами." >}}
 
 ---
+
+## Связи
+
+| Тип | Ссылка |
+| --- | --- |
+| Люди | [Татьяна Тимофеевна](/vospominaniya/o-tatyane-timofeevne/) · [Ева Константиновна](/roditeli/eva-konstantinovna/) · [Т. П. Самсонов](/roditeli/samsonov-timofey-petrovich/) |
+| Места | [Метрополь](/mesta/metropol-moscow/) · [Серафимовича](/mesta/serafimovich-street/) |
+| Главы | [Моя мама](/vospominaniya/dnevnik/01-moya-mama/) · [Отец, брак и дети](/vospominaniya/dnevnik/02-otec-brak-deti/) · [Детство](/vospominaniya/dnevnik/03-detstvo-moskva/) · [Война 1941](/vospominaniya/dnevnik/04-voyna-1941/) |
+| Хронология | [/hronologiya/](/hronologiya/) |
 
 Подробнее в тексте: [Моя мама](/vospominaniya/dnevnik/01-moya-mama/) · [Детство](/vospominaniya/dnevnik/03-detstvo-moskva/) · [Родословная](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/)

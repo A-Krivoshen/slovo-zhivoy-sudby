@@ -949,7 +949,7 @@ Facts only from the text of these pages; without conjecture.
 - Surnames of arrested comrades (Sanilov/Sanilin; Beryozin/Beryozov).
 - Title of Father’s novel “Razm[?]stvo.”
 - Part of the Crimean details (aquarium/crabs; Gorelye dacha).
-- Duplicate PAGE 067 ≈ PAGE 068 — check against the PDF whether another page was missed.
+- Duplicate original_page **068** = **067** rotated 180° (control PDF, 78 pages, 2026-08-01). No other page was skipped; archival markers 067–068 kept on the site. See `docs/manuscript-page-map.md`.
 - Marginalia on inserts (062, 066): archival notes on Samsonov T. P., 1919, 10.XI.1930.
 
 <!-- source: batch_71_79.md -->

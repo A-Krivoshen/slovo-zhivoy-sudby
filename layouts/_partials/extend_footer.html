@@ -1,1 +1,23 @@
-{{- /* Footer extensions — Metrika + Yandex.RTB loader are in extend_head */ -}}
+{{- /* Yandex.RTB floor ads — production only; loader is in extend_head */ -}}
+{{- if hugo.IsProduction }}
+<!-- Yandex.RTB R-A-19686092-2 -->
+<script>
+window.yaContextCb.push(() => {
+    Ya.Context.AdvManager.render({
+        "blockId": "R-A-19686092-2",
+        "type": "floorAd",
+        "platform": "desktop"
+    })
+})
+</script>
+<!-- Yandex.RTB R-A-19686092-1 -->
+<script>
+window.yaContextCb.push(() => {
+    Ya.Context.AdvManager.render({
+        "blockId": "R-A-19686092-1",
+        "type": "floorAd",
+        "platform": "touch"
+    })
+})
+</script>
+{{- end }}

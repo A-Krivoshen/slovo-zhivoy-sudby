@@ -27,9 +27,9 @@ She **lived to 95**. In the last year of her life she was still at home among he
 ## Family
 
 Father — **[Timofey Petrovich Samsonov](/en/parents/timofey-petrovich-samsonov/)** (1888–1955).  
-Mother — **Eva Konstantinovna** (materials still being gathered).
-
-In her father’s album she labeled photos *“my dad”* and wrote verses about him.
+Mother — **[Eva Konstantinovna](/en/parents/eva-konstantinovna/)** (1900–1981).  
+Born, according to her notebook, in **April 1924**.  
+She left a manuscript notebook — the **[diary / genealogy](/en/memoirs/diary/)** — in the first person.
 
 ## Work
 

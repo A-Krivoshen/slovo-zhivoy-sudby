@@ -28,10 +28,10 @@ In short: a revolutionary-era life (Siberia 1910, Britain 1917, Cheka and Dzerzh
 
 ## Mother — Eva Konstantinovna
 
-Per family knowledge — Tatyana Timofeevna’s mother.
+**[Eva (Evdokia) Konstantinovna Samsonova (née Morozova)](/en/parents/eva-konstantinovna/)** (1900–1981).
 
-No clearly labeled portrait in the first album set (the couple on the bench is Dzerzhinsky with his wife).  
-We will add a full page when labeled photos arrive.
+From her **daughter’s diary**: Moscow, 2nd Brestskaya, Cheka typist, meeting T. P. Samsonov.  
+→ [My mother](/en/memoirs/diary/my-mother/)
 
 ## Daughter in the same set
 

@@ -1,0 +1,444 @@
+/* ==========================================================================
+   Слово Живой Судьбы — archival / monumental tone
+   Monochrome, calm, fits family + Stalin-era documents without kitsch.
+   ========================================================================== */
+
+:root {
+  --gap: 22px;
+  --content-gap: 18px;
+  --nav-width: 1100px;
+  --main-width: 760px;
+  --header-height: 64px;
+  --footer-height: auto;
+  --radius: 2px; /* sharper, more formal */
+
+  /* Warm paper + ink (light) */
+  --theme: #f4f1ea;
+  --entry: #faf8f4;
+  --primary: #1a1a1a;
+  --secondary: #5a5a5a;
+  --tertiary: #d8d2c8;
+  --content: #222;
+  --code-bg: #ebe6dc;
+  --border: #cfc7bb;
+  --accent-line: #2a2a2a;
+  --photo-frame: #3a3a3a;
+  --star: #2c2c2c;
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  --theme: #141414;
+  --entry: #1c1c1c;
+  --primary: #e8e4dc;
+  --secondary: #a39e94;
+  --tertiary: #2e2e2e;
+  --content: #d4d0c8;
+  --code-bg: #1a1a1a;
+  --border: #3a3a3a;
+  --accent-line: #c8c2b6;
+  --photo-frame: #8a8a8a;
+  --star: #d0cbc0;
+  color-scheme: dark;
+}
+
+/* ---- Type: monumental serif for titles ---- */
+.logo a,
+.page-header h1,
+.post-title,
+.first-entry .entry-header h1,
+.entry-header h2 {
+  font-family: Georgia, "Times New Roman", "Noto Serif", "DejaVu Serif", serif;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+}
+
+.logo a {
+  font-size: clamp(1rem, 2.6vw, 1.35rem);
+  line-height: 1.2;
+  max-width: min(100%, 22rem);
+}
+
+/* ---- Header: double rule (classical facade) ---- */
+.header {
+  border-bottom: none;
+  background: var(--theme);
+}
+
+.header::after {
+  content: "";
+  display: block;
+  height: 0;
+  border-top: 1px solid var(--accent-line);
+  border-bottom: 3px double var(--accent-line);
+  opacity: 0.85;
+  margin: 0 auto;
+  max-width: calc(var(--nav-width) + var(--gap) * 2);
+}
+
+.header-nav {
+  flex-wrap: wrap;
+  row-gap: 0.35rem;
+  padding-top: 0.35rem;
+  padding-bottom: 0.55rem;
+  line-height: 1.35;
+  align-items: center;
+}
+
+/* Menu: wrap instead of endless horizontal scroll on tablet */
+.menu {
+  flex-wrap: wrap;
+  white-space: normal;
+  overflow-x: visible;
+  row-gap: 0.15rem;
+  column-gap: 0.65rem;
+  max-width: 100%;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+/* Menu section icons (monochrome, formal) */
+.menu a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.28rem;
+  font-size: 0.92rem;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  padding: 0.15rem 0.1rem;
+  white-space: nowrap;
+}
+
+.menu .active {
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.25rem;
+  font-weight: 700;
+}
+
+.menu a::before {
+  content: "";
+  width: 0.85rem;
+  height: 0.85rem;
+  flex: 0 0 auto;
+  display: inline-block;
+  background-color: var(--primary);
+  opacity: 0.72;
+  -webkit-mask: url("/icons/star.svg") center / contain no-repeat;
+  mask: url("/icons/star.svg") center / contain no-repeat;
+}
+
+/* RU */
+.menu a[href="/"]::before,
+.menu a[href$="/en/"]::before,
+.menu a[href$="/en"]::before {
+  -webkit-mask-image: url("/icons/columns.svg");
+  mask-image: url("/icons/columns.svg");
+}
+.menu a[href*="vospominaniya"]::before,
+.menu a[href*="/memoirs"]::before {
+  -webkit-mask-image: url("/icons/book.svg");
+  mask-image: url("/icons/book.svg");
+}
+.menu a[href*="roditeli"]::before,
+.menu a[href*="/parents"]::before {
+  -webkit-mask-image: url("/icons/columns.svg");
+  mask-image: url("/icons/columns.svg");
+}
+.menu a[href*="istoriya"]::before,
+.menu a[href*="/history"]::before {
+  -webkit-mask-image: url("/icons/scroll.svg");
+  mask-image: url("/icons/scroll.svg");
+}
+.menu a[href*="/foto"]::before,
+.menu a[href*="/photos"]::before {
+  -webkit-mask-image: url("/icons/camera.svg");
+  mask-image: url("/icons/camera.svg");
+}
+.menu a[href*="dokumenty"]::before,
+.menu a[href*="/documents"]::before {
+  -webkit-mask-image: url("/icons/scroll.svg");
+  mask-image: url("/icons/scroll.svg");
+}
+.menu a[href*="search"]::before {
+  -webkit-mask-image: url("/icons/star.svg");
+  mask-image: url("/icons/star.svg");
+}
+.menu a[href*="o-proekte"]::before,
+.menu a[href*="/about"]::before {
+  -webkit-mask-image: url("/icons/star.svg");
+  mask-image: url("/icons/star.svg");
+}
+
+.menu .active::before {
+  opacity: 1;
+}
+
+.lang-menu a {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+}
+
+/* ---- Main content ---- */
+.main {
+  max-width: calc(var(--main-width) + var(--gap) * 2);
+}
+
+.post-content,
+.first-entry,
+.home-info {
+  line-height: 1.7;
+}
+
+.post-content h2,
+.post-content h3 {
+  font-family: Georgia, "Times New Roman", "Noto Serif", serif;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.25rem;
+  margin-top: 1.75em;
+}
+
+.post-content h2 {
+  font-size: 1.45rem;
+}
+
+.post-content h3 {
+  font-size: 1.2rem;
+}
+
+/* Tables: no horizontal page blow-up */
+.post-content table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+  -webkit-overflow-scrolling: touch;
+}
+
+.post-content th,
+.post-content td {
+  border: 1px solid var(--border);
+  padding: 0.45rem 0.6rem;
+  vertical-align: top;
+}
+
+.post-content th {
+  background: var(--code-bg);
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+/* ---- Archival photo frames ---- */
+.post-content figure {
+  margin: 1.6rem 0;
+  padding: 0;
+  text-align: center;
+}
+
+.post-content figure img,
+.post-content p img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+  border: 1px solid var(--photo-frame);
+  box-shadow:
+    0 0 0 3px var(--theme),
+    0 0 0 4px var(--photo-frame);
+  background: #111;
+}
+
+.post-content figure figcaption,
+.post-content .image-caption {
+  display: block;
+  margin-top: 0.65rem;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--secondary);
+  text-align: left;
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: italic;
+  border-left: 2px solid var(--border);
+  padding-left: 0.75rem;
+}
+
+/* PaperMod figure shortcode often puts caption in <figcaption> or after */
+.post-content figcaption p {
+  margin: 0;
+}
+
+/* Lists of posts */
+.entry-content {
+  max-width: 100%;
+}
+
+.post-entry {
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  box-shadow: none;
+}
+
+/* Home info block */
+.home-info {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem 1.35rem;
+  background: var(--entry);
+  position: relative;
+}
+
+.home-info::before {
+  content: "★";
+  position: absolute;
+  top: -0.55rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--theme);
+  padding: 0 0.5rem;
+  color: var(--star);
+  font-size: 0.85rem;
+  line-height: 1;
+}
+
+.home-info h1,
+.home-info .entry-header {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+  flex-wrap: wrap;
+  row-gap: 0.2rem;
+  max-width: 100%;
+}
+
+/* TOC */
+details.toc {
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+/* Footer */
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.35rem 0.75rem;
+  padding: 1.25rem var(--gap) 1.5rem;
+  border-top: 3px double var(--accent-line);
+  font-size: 0.9rem;
+  line-height: 1.45;
+  text-align: center;
+  max-width: calc(var(--nav-width) + var(--gap) * 2);
+  margin: 0 auto;
+}
+
+.footer a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+/* Metrika block under footer content */
+.site-footer-extra {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.25rem var(--gap) 1.5rem;
+  max-width: calc(var(--nav-width) + var(--gap) * 2);
+  margin: 0 auto;
+}
+
+.site-footer-extra img {
+  vertical-align: middle;
+  opacity: 0.9;
+}
+
+/* ---- Mobile ---- */
+@media (max-width: 720px) {
+  .header-nav {
+    flex-direction: column;
+    align-items: flex-start;
+    line-height: 1.4;
+  }
+
+  .logo {
+    width: 100%;
+  }
+
+  .logo a {
+    max-width: calc(100% - 5rem);
+  }
+
+  .logo-switches {
+    margin-inline-start: auto;
+  }
+
+  .menu {
+    width: 100%;
+    justify-content: flex-start;
+    column-gap: 0.5rem;
+    padding-bottom: 0.25rem;
+  }
+
+  .menu a {
+    font-size: 0.86rem;
+  }
+
+  .page-header h1,
+  .post-title {
+    font-size: clamp(1.55rem, 6vw, 2rem);
+    line-height: 1.25;
+    word-break: break-word;
+  }
+
+  .post-content table {
+    font-size: 0.82rem;
+  }
+
+  .post-content th {
+    white-space: normal;
+  }
+
+  .post-content figure img {
+    box-shadow:
+      0 0 0 2px var(--theme),
+      0 0 0 3px var(--photo-frame);
+  }
+}
+
+/* EN: slightly tighter long titles */
+html[lang="en"] .logo a {
+  max-width: min(100%, 24rem);
+}
+
+/* Search page */
+#searchbox input {
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--entry);
+}
+
+/* Code / quotes archival feel */
+.post-content blockquote {
+  border-inline-start: 3px solid var(--accent-line);
+  color: var(--secondary);
+  font-style: italic;
+  background: var(--code-bg);
+  padding: 0.6rem 1rem;
+  margin-inline: 0;
+}
+
+/* Avoid list page filter chips overflow */
+.terms-tags a {
+  border-radius: var(--radius);
+}

@@ -42,8 +42,8 @@ timeZone = 'Europe/Moscow'
     description = 'Мемуары, семейный архив и исторические факты о жизни Кривошеиной Татьяны Тимофеевны, её родителей и рода'
     author = 'Семья Кривошеиных'
     keywords = ['Кривошеина Татьяна Тимофеевна', 'мемуары', 'семейный архив', 'Слово Живой Судьбы', 'история семьи']
-    DateFormat = '2 January 2006'
-    defaultTheme = 'auto'
+    DateFormat = '2.01.2006'
+    defaultTheme = 'light'
     disableThemeToggle = false
     ShowReadingTime = true
     ShowShareButtons = false
@@ -70,13 +70,13 @@ timeZone = 'Europe/Moscow'
       favicon32x32 = 'favicon-32x32.png'
       apple_touch_icon = 'apple-touch-icon.png'
       safari_pinned_tab = 'safari-pinned-tab.svg'
-      theme_color = '#5c3d2e'
-      msapplication_TileColor = '#5c3d2e'
+      theme_color = '#1a1a1a'
+      msapplication_TileColor = '#1a1a1a'
 
     [languages.ru.params.label]
       text = 'Слово Живой Судьбы'
       icon = '/apple-touch-icon.png'
-      iconHeight = 28
+      iconHeight = 26
 
     [languages.ru.params.homeInfoParams]
       Title = 'Слово Живой Судьбы'
@@ -150,8 +150,8 @@ timeZone = 'Europe/Moscow'
     description = 'Memoirs, family archive and historical notes about the life of Tatyana Timofeevna Krivosheina, her parents, and family history'
     author = 'The Krivoshein Family'
     keywords = ['Tatyana Timofeevna Krivosheina', 'memoirs', 'family archive', 'Word of a Living Fate', 'family history']
-    DateFormat = 'January 2, 2006'
-    defaultTheme = 'auto'
+    DateFormat = '2 Jan 2006'
+    defaultTheme = 'light'
     disableThemeToggle = false
     ShowReadingTime = true
     ShowShareButtons = false
@@ -178,13 +178,13 @@ timeZone = 'Europe/Moscow'
       favicon32x32 = 'favicon-32x32.png'
       apple_touch_icon = 'apple-touch-icon.png'
       safari_pinned_tab = 'safari-pinned-tab.svg'
-      theme_color = '#5c3d2e'
-      msapplication_TileColor = '#5c3d2e'
+      theme_color = '#1a1a1a'
+      msapplication_TileColor = '#1a1a1a'
 
     [languages.en.params.label]
       text = 'Word of a Living Fate'
       icon = '/apple-touch-icon.png'
-      iconHeight = 28
+      iconHeight = 26
 
     [languages.en.params.homeInfoParams]
       Title = 'Word of a Living Fate'

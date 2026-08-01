@@ -13,3 +13,9 @@ inbox/notes/**
 !inbox/notes/README.md
 *.heic
 *.HEIC
+
+# photo extraction local tools
+.venv-photo/
+tmp_photo_review/
+
+__pycache__/

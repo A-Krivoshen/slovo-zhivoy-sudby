@@ -1,0 +1,301 @@
+batch_id: manuscript-2026-08-01-b02
+source_pdf: inbox/scans/memoirs/_raw/samsonovy_new_scans_2026-08-01_corrected.pdf
+sha256: 66f69122cc6e0adac3083fb1c3b2833db8a85c9d5952c692f125188f114d424d
+extraction: pdfimages -j native JPEG 2480×3507 @ 300 DPI
+note: 'PARTIAL: only first visually verified photos. Full batch inventory has auto
+  candidates pending review. Masters/crops under inbox (gitignored).'
+totals:
+  pages_in_batch: 82
+  auto_candidates: 168
+  visually_verified_or_adjusted: 7
+  web_published_this_commit: 5
+  withheld_privacy: 2
+photos:
+- photo_id: b02-mp001-ph01
+  batch_id: manuscript-2026-08-01-b02
+  merged_page: 1
+  archive_original_page: 80
+  source_file: samsonovy_new_scans_2026-08-01_corrected.pdf
+  source_page: 1
+  photo_index_on_page: 1
+  object_type: group_photo
+  bbox_px:
+    x: 401
+    y: 99
+    w: 1547
+    h: 1478
+  context_bbox_px:
+    x: 401
+    y: 99
+    w: 2027
+    h: 1498
+  page_dimensions_px:
+    w: 2480
+    h: 3507
+  page_rotation: 0
+  local_photo_rotation: 0
+  rotation_confidence: high
+  caption_raw: Ф. Э. Дзержинский / Вилис[?] / Папа.
+  caption_normalized_ru: Ф. Э. Дзержинский; Вилис[?]; Папа.
+  caption_translation_en: F. E. Dzerzhinsky; Vilis[?]; Papa.
+  caption_relation: right_of_photo
+  people_confirmed:
+  - Самсонов Тимофей Петрович
+  people_probable:
+  - Дзержинский Ф. Э.
+  people_unknown_count: 1
+  date_raw: null
+  date_normalized: null
+  place_raw: null
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: Physical print edges visible; safe pad 3% from auto. Captions outside
+    print to the right.
+  detection: auto_v3 + visual verify
+  published_path_ru: /photos/archive-b02/b02-mp001-ph01.jpg
+  web_width: 1547
+  web_height: 1478
+- photo_id: b02-mp001-ph02
+  batch_id: manuscript-2026-08-01-b02
+  merged_page: 1
+  archive_original_page: 80
+  source_file: samsonovy_new_scans_2026-08-01_corrected.pdf
+  source_page: 1
+  photo_index_on_page: 2
+  object_type: group_photo
+  bbox_px:
+    x: 354
+    y: 1680
+    w: 1535
+    h: 1789
+  context_bbox_px:
+    x: 354
+    y: 1680
+    w: 2055
+    h: 1789
+  page_dimensions_px:
+    w: 2480
+    h: 3507
+  page_rotation: 0
+  local_photo_rotation: 0
+  rotation_confidence: high
+  caption_raw: 'Похороны (192[6?])
+
+    Ф. Э. Дзержинский
+
+    Папа несёт [?]'
+  caption_normalized_ru: Похороны (192[6?]); Ф. Э. Дзержинский; Папа несёт [?]
+  caption_translation_en: Funeral (192[6?]); F. E. Dzerzhinsky; Papa is carrying [?]
+  caption_relation: right_of_photo
+  people_confirmed:
+  - Самсонов Тимофей Петрович
+  people_probable:
+  - Дзержинский Ф. Э.
+  people_unknown_count: many
+  date_raw: 192[6?]
+  date_normalized: null
+  place_raw: null
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: visually_verified
+  review_notes: Crowd funeral scene; full print kept; signage СЫР visible in print.
+  detection: auto_v3 + visual verify
+  published_path_ru: /photos/archive-b02/b02-mp001-ph02.jpg
+  web_width: 1373
+  web_height: 1600
+- photo_id: b02-mp002-ph01
+  batch_id: manuscript-2026-08-01-b02
+  merged_page: 2
+  archive_original_page: 81
+  source_file: samsonovy_new_scans_2026-08-01_corrected.pdf
+  source_page: 2
+  photo_index_on_page: 1
+  object_type: archival_photo
+  bbox_px:
+    x: 220
+    y: 1140
+    w: 1880
+    h: 1100
+  context_bbox_px:
+    x: 200
+    y: 1100
+    w: 1920
+    h: 1320
+  page_dimensions_px:
+    w: 2480
+    h: 3507
+  page_rotation: 0
+  local_photo_rotation: 0
+  rotation_confidence: high
+  caption_raw: Александровский Централ … 1910 [по подписи на странице]
+  caption_normalized_ru: Александровский централ, 1910 (подпись в тексте страницы).
+  caption_translation_en: Alexandrovsky Central prison, 1910 (from page caption).
+  caption_relation: surrounding_text
+  people_confirmed: []
+  people_probable: []
+  people_unknown_count: crowd
+  date_raw: '1910'
+  date_normalized: '1910'
+  place_raw: Александровский централ
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: manually_adjusted
+  review_notes: Tightened to print; caption under photo in context only. local rot
+    0 after bbox fix.
+  detection: manual_bbox
+  published_path_ru: /photos/archive-b02/b02-mp002-ph01.jpg
+  web_width: 1600
+  web_height: 936
+- photo_id: b02-mp005-ph01
+  batch_id: manuscript-2026-08-01-b02
+  merged_page: 5
+  archive_original_page: 84
+  source_file: samsonovy_new_scans_2026-08-01_corrected.pdf
+  source_page: 5
+  photo_index_on_page: 1
+  object_type: group_photo
+  bbox_px:
+    x: 415
+    y: 1283
+    w: 1660
+    h: 1324
+  context_bbox_px:
+    x: 415
+    y: 1163
+    w: 1660
+    h: 1484
+  page_dimensions_px:
+    w: 2480
+    h: 3507
+  page_rotation: 0
+  local_photo_rotation: 0
+  rotation_confidence: high
+  caption_raw: '[подписи на странице о могиле/цветах — см. транскрипт]'
+  caption_normalized_ru: null
+  caption_translation_en: null
+  caption_relation: above_photo
+  people_confirmed: []
+  people_probable: []
+  people_unknown_count: several
+  date_raw: null
+  identity_status: unknown
+  privacy_status: living_people_review
+  review_status: visually_verified
+  review_notes: Cemetery group; possible living people — withhold from public until
+    privacy review. image_only OK in archive only.
+  detection: auto_v3 merged ph01-02 + visual
+- photo_id: b02-mp005-ph02
+  batch_id: manuscript-2026-08-01-b02
+  merged_page: 5
+  archive_original_page: 84
+  source_file: samsonovy_new_scans_2026-08-01_corrected.pdf
+  source_page: 5
+  photo_index_on_page: 2
+  object_type: group_photo
+  bbox_px:
+    x: 507
+    y: 2652
+    w: 1077
+    h: 798
+  context_bbox_px:
+    x: 507
+    y: 2612
+    w: 1077
+    h: 838
+  page_dimensions_px:
+    w: 2480
+    h: 3507
+  page_rotation: 0
+  local_photo_rotation: 0
+  rotation_confidence: high
+  caption_raw: null
+  people_confirmed: []
+  people_unknown_count: several
+  identity_status: unknown
+  privacy_status: living_people_review
+  review_status: visually_verified
+  review_notes: Second cemetery group; living_people_review.
+  detection: auto_v3 ph03 + visual
+- photo_id: b02-mp007-ph01
+  batch_id: manuscript-2026-08-01-b02
+  merged_page: 7
+  archive_original_page: 86
+  source_file: samsonovy_new_scans_2026-08-01_corrected.pdf
+  source_page: 7
+  photo_index_on_page: 1
+  object_type: group_photo
+  bbox_px:
+    x: 322
+    y: 2328
+    w: 1134
+    h: 1000
+  context_bbox_px:
+    x: 302
+    y: 2128
+    w: 1174
+    h: 1320
+  page_dimensions_px:
+    w: 2480
+    h: 3507
+  page_rotation: 0
+  local_photo_rotation: 0
+  rotation_confidence: high
+  caption_raw: Маме и папе в гостях у Повстухи. / подписи «папа» «мама» на снимках
+  caption_normalized_ru: Маме и папе в гостях у Повстухи.
+  caption_translation_en: Mama and Papa visiting Povstukha.
+  caption_relation: above_and_below
+  people_confirmed:
+  - Самсонов Тимофей Петрович
+  people_probable:
+  - Самсонова (Морозова) Ева Константиновна
+  people_unknown_count: several
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: manually_adjusted
+  review_notes: Manual split refined; no neighbor bleed.
+  detection: manual
+  published_path_ru: /photos/archive-b02/b02-mp007-ph01.jpg
+  web_width: 1134
+  web_height: 1000
+- photo_id: b02-mp007-ph02
+  batch_id: manuscript-2026-08-01-b02
+  merged_page: 7
+  archive_original_page: 86
+  source_file: samsonovy_new_scans_2026-08-01_corrected.pdf
+  source_page: 7
+  photo_index_on_page: 2
+  object_type: group_photo
+  bbox_px:
+    x: 1438
+    y: 2308
+    w: 933
+    h: 1066
+  context_bbox_px:
+    x: 1418
+    y: 2108
+    w: 973
+    h: 1386
+  page_dimensions_px:
+    w: 2480
+    h: 3507
+  page_rotation: 0
+  local_photo_rotation: 0
+  rotation_confidence: high
+  caption_raw: А на этом снимке …
+  caption_normalized_ru: Маме и папе в гостях у Повстухи.
+  caption_translation_en: Mama and Papa visiting Povstukha.
+  caption_relation: above_and_below
+  people_confirmed:
+  - Самсонов Тимофей Петрович
+  people_probable:
+  - Самсонова (Морозова) Ева Константиновна
+  people_unknown_count: several
+  identity_status: author_caption_confirmed
+  privacy_status: public_historical
+  review_status: manually_adjusted
+  review_notes: Manual split refined; left edge not cutting adjacent print.
+  detection: manual
+  published_path_ru: /photos/archive-b02/b02-mp007-ph02.jpg
+  web_width: 933
+  web_height: 1066

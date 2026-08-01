@@ -1,5 +1,5 @@
 ---
-title: "*Pravda*, 20 June 1929 — “On Dzerzhinsky”"
+title: "*Pravda*, 20 July 1929 — “On Dzerzhinsky” (date from album caption)"
 date: 2026-08-01
 draft: false
 description: "Newspaper clipping: article on F. E. Dzerzhinsky signed SAMSONOV. Family archive."
@@ -14,12 +14,12 @@ cover:
   relative: false
 ---
 
-{{< figure src="/photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg" caption="*Pravda* clipping, 20 June 1929." >}}
+{{< figure src="/photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg" caption="*Pravda*, 20 July 1929 — date from the handwritten album note." >}}
 
 ## Bibliographic note
 
 - Paper: ***Pravda***  
-- Date (album margin): **20 June 1929**  
+- Date from handwritten album note: **20 July 1929** (source_caption_only; newspaper issue not independently verified)  
 - Title: **“On Dzerzhinsky”**  
 - Closing signature: **SAMSONOV**
 

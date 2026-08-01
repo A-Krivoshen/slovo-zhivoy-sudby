@@ -31,7 +31,7 @@ Uncertain or incomplete readings are marked as such.
 | **Apr–Sep 1917** | Britain: Liverpool court; Expulsion Order (Whitehall, 28 Sep 1917) |
 | **16 Jan 1919** | Certificate from Cheka chairman F. E. Dzerzhinsky (personal Colt revolver) |
 | **post-1917 / 1920s** | Order of the Red Banner (VTsIK, M. Kalinin); security service work; photo with Dzerzhinsky |
-| **20 Jun 1929** | *Pravda* article “On Dzerzhinsky,” signed **SAMSONOV** |
+| **20 Jul 1929** | *Pravda* article “On Dzerzhinsky” (date from album caption), signed **SAMSONOV** |
 | **service / later life** | Official portrait with **Bashkir ASSR** Supreme Soviet Presidium stamp |
 | **1955** | Year of death (bust plaque) |
 
@@ -84,7 +84,7 @@ Partial reading of the verses (to be completed from a sharper scan):
 
 ## 1929. *Pravda*
 
-{{< figure src="/photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg" caption="*Pravda*, 20 June 1929. Article “On Dzerzhinsky,” signed SAMSONOV — kept in the family as the father’s text." >}}
+{{< figure src="/photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg" caption="*Pravda*, 20 July 1929 — date from the handwritten album note. Article “On Dzerzhinsky,” signed SAMSONOV — kept in the family as the father’s text." >}}
 
 ## Daughter — the next generation
 

@@ -88,6 +88,26 @@
     Timofey Petrovich Samsonov. (Standalone publication withheld pending a
     person page.)
 
+
+# ---------------------------------------------------------------------------
+# Pravda “On Dzerzhinsky” date — album caption only
+# ---------------------------------------------------------------------------
+- id: pravda-dzerzhinsky-1929-date
+  topic: Date of Pravda article “О Дзержинском” / “On Dzerzhinsky”
+  status: source_caption_only
+  resolved_date: "2026-08-01"
+  preferred_public_value: "20 июля 1929 / 20 July 1929"
+  preferred_source: handwritten album caption on original_page 076
+  not_independently_verified: newspaper issue bibliographic date
+  rules:
+    - Prefer album caption "20 июля 1929" over former public "20 June 1929".
+    - Do not claim full bibliographic verification until the newspaper issue is checked.
+    - Linked to Dzerzhinsky death anniversary 20 July.
+  public_wording_ru: >
+    «Правда», 20 июля 1929 года — дата по рукописной альбомной помете.
+  public_wording_en: >
+    *Pravda*, 20 July 1929 — date from the handwritten album note.
+
 # ---------------------------------------------------------------------------
 # Other open items (not about Tatyana’s civil dates)
 # ---------------------------------------------------------------------------

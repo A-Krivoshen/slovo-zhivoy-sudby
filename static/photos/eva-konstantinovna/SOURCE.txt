@@ -1,0 +1,6 @@
+chart-portrait.jpg / chart-portrait-thumb.jpg
+Source: notebook genealogy / mother leaf (p. 002) and Samsonov chart context.
+Identity: caption on leaf “Моя мама” / Eva Konstantinovna node.
+Processing: crop + web resize only; no generative restore.
+Public: yes (historical).
+Date of photography: unknown.

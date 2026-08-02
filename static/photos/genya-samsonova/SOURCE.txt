@@ -1,0 +1,5 @@
+chart-portrait.jpg / chart-portrait-thumb.jpg
+Source: notebook chart “Самсоновы” (p. 003).
+Identity: caption “Моя сестра Геня” at Evgenia Timofeevna node.
+Processing: crop + web resize only; no generative restore.
+Public: yes (historical).

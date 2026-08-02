@@ -1,0 +1,6 @@
+chart-portrait.jpg / chart-portrait-thumb.jpg
+chart-family-cluster.jpg / chart-family-cluster-thumb.jpg
+Source: notebook chart “Самсоновы” (p. 003).
+Identity: node Timofey Petrovich Samsonov (1888–1955).
+Processing: crop + web resize only; no generative restore.
+Public: yes (historical). Not a duplicate of 05-studio-moscow-oval.jpg.

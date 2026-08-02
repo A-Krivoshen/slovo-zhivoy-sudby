@@ -21,11 +21,13 @@ Related: [Medal “For the Defence of Stalingrad” — T. T. Samsonov](/en/docu
 
 | Date | From | To | Document |
 |------|------|-----|----------|
+| **(insert)** | sister to sister [name needs verification] | “my little sister” | [Insert leaves 089–090](/en/documents/letters-from-the-front/letter-insert-sister-089-090/) |
 | **11 Aug 1943** | Dmitry (signature; surname unknown; **not** Tyoma) | parents and sister Tanya | [Letter from the army in the field](/en/documents/letters-from-the-front/letter-103-1943/) |
 | **28 July 1944** | Dmitry (signature) | parents | [Damaged leaf](/en/documents/letters-from-the-front/letter-104/) |
 | **14 June 1943** | Timosha (T. T. Samsonov) | mother (E. K. Samsonova) | [Face and reverse with address](/en/documents/letters-from-the-front/letter-105-106-to-mother/) |
 | **13 July 1944** | Timosha | parents and Tanya | [Letter from the army in the field](/en/documents/letters-from-the-front/letter-107/) |
 | **20 Apr 1943** | Misha Friolenko (comrade) | Tanya | [Two-page letter](/en/documents/letters-from-the-front/letter-128-129-to-tanya-from-comrade/) |
+| **New Year** | [sender needs verification] | Tanichka | [Postcard leaf 130](/en/documents/letters-from-the-front/postcard-130-new-year/) |
 | **1 March** [year?] | Gennady | Tanyusha | [Short “Tanyusha!”](/en/documents/letters-from-the-front/letter-131-tanyusha/) |
 | **18 Nov 1943** | Gennady Vokhmintsev | Tanya | [Letter](/en/documents/letters-from-the-front/letter-132-gennady-18-11-1943/) |
 | **29 Nov 1943** | Gennady | Tanya | [Letter](/en/documents/letters-from-the-front/letter-133-gennady-29-11-1943/) |
@@ -39,8 +41,8 @@ Related: [Medal “For the Defence of Stalingrad” — T. T. Samsonov](/en/docu
 
 ## In the notebook
 
-The author’s note introducing the comrade’s letter: [“War: evacuation” (p. 127)](/vospominaniya/dnevnik/14-shkola-i-voyna/).  
-Related chapters: [“Brother at the front”](/vospominaniya/dnevnik/12-brat-front-103-108/), [“Wartime letters”](/vospominaniya/dnevnik/15-pisma-voennye-128-133/).
+The author’s note introducing the comrade’s letter: [School and war (p. 127)](/en/memoirs/diary/14-war-evacuation-120-127/).  
+Related chapters: [Uncle Tyoma: documents and Stalingrad](/en/memoirs/diary/12-brother-front-letters-101-108/), [Wartime comrades’ letters](/en/memoirs/diary/15-wartime-letters-128-133/).
 
 ## Related materials
 

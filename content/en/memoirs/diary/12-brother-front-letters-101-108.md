@@ -1,11 +1,11 @@
 ---
-title: "Uncle Tyoma: documents and Stalingrad (pp. 101–108)"
+title: "Uncle Tyoma: documents and Stalingrad"
 date: 2026-08-01
 weight: 130
 ShowReadingTime: false
-draft: true
-description: "Documents of brother Timofey Timofeevich: exam photo, front-line letters, and the medal “For the Defence of Stalingrad.”"
-summary: "Pp. 101–108 — uncle Tyoma’s documents and Stalingrad."
+draft: false
+description: "Civil-defense exam photo, links to front-line letters, and the medal “For the Defence of Stalingrad” — Timofey Timofeevich Samsonov."
+summary: "Uncle Tyoma’s documents and Stalingrad."
 translationKey: "diary-12-brat-front-101-108"
 tags: ["diary", "notebook"]
 categories: ["Memoirs"]
@@ -14,260 +14,95 @@ ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "101-108"
 transcription_status: "first_pass"
-translation_status: "incomplete"
-editorial_status: "working"
-last_verified: "2026-08-01"
+translation_status: "complete"
+editorial_status: "structure_pass"
+last_verified: "2026-08-02"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
+entity_id: "manuscript-chapter-12-brat-front"
 ---
-Documents of **uncle Tyoma** — brother **[Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/)** — from the war years: an exam photograph, letters from the army in the field, and the certificate for the medal “For the Defence of Stalingrad.”
 
-See also: [certificate for the medal “For the Defence of Stalingrad”](/en/documents/stalingrad-defense-medal-samsonov-tt/) · [Letters from the front](/en/documents/letters-from-the-front/) · event [Defence of Stalingrad](/en/events/defense-of-stalingrad/). **Not** father [Timofey Petrovich](/en/people/timofey-petrovich-samsonov/).
+Documents and wartime evidence of brother **[Timofey Timofeevich (Tyoma)](/en/people/timofey-timofeevich-samsonov/)**.
 
-*From the family notebook and inserted papers. The letters are in a front-line voice, not the diary’s.*
+- Front letters — collection [Letters from the front](/en/documents/letters-from-the-front/)  
+- Certificate: [“For the Defence of Stalingrad”](/en/documents/stalingrad-defense-medal-samsonov-tt/)  
+- Event: [Defence of Stalingrad](/en/events/defense-of-stalingrad/)  
+- **Not** to be confused with father [Timofey Petrovich](/en/people/timofey-petrovich-samsonov/) ([biography](/en/parents/timofey-petrovich-samsonov/))
 
-*English translation of the inserted letters and forms is still being prepared; the Russian text of each leaf is given below.*
+*Below — a notebook photograph and pointers to the documents. Full letter and form texts are on separate pages.*
 
 ---
 
 <!-- p. 101 -->
 
+## Civil-defense exam
+
 {{< figure src="/photos/dnevnik-tt/str-101.jpg" caption="Civil-defense exam." >}}
 
-*[Text of the letter or document (Russian):]*
+### Reading
 
+Civil-defense exam.
+
+<details>
+<summary>As in the manuscript (p. 101)</summary>
+
+```
 Экзамен по гражд.
 обороне.
+```
+
+</details>
 
 ---
 
-<!-- p. 102: alternate scan of 101 -->
+<!-- p. 102 -->
 
-*P. 102 is another frame (crop) of the same exam photograph as p. 101; it is not a separate document.*
-
----
-
-<!-- p. 103 -->
-
-{{< figure src="/photos/dnevnik-tt/str-103.jpg" caption="Letter from the front, 11 August 1943." >}}
-
-*[Text of the letter or document (Russian):]*
-
-11.08.43.                    Действующая
-                             армия
-
-Здравствуйте дорогие
-родители и сестрёнка
-Таня!
-
-Вот у меня сейчас есть минута
-свободного времени и я решил
-написать вам письмо. От вас я
-давно не получал писем
-прежних[?]. Правда, и сам я давно
-не писал, т.к. был все время
-занят, да и сейчас времени нет.
-Вы наверное знаете из сообщений
-Совинформбюро[?], что с наших мест
-враг отходит на запад.
-Это вызывает прилив желания у
-меня воевать[?].
-
-Живу я хорошо. Все[?] сейчас
-наш штаб и поэтому в действиях,
-неудач не могу доложить.
-
-Ну вот у меня и все.
-Пишите, если можете.
-Жду от вас писем.
-Крепко целую. Ваш Дмитрий
+*P. 102 is an **alternate scan** of the same photograph as p. 101. It is not shown as a separate public frame.*
 
 ---
 
-<!-- p. 104 -->
+<!-- pp. 103–107 -->
 
-{{< figure src="/photos/dnevnik-tt/str-104.jpg" caption="Letter from the front, 28 July 1944." >}}
+## Front letters (collection)
 
-*[Text of the letter or document (Russian):]*
+Letters from these notebook leaves are published as **separate documents**:
 
-28.VII.44    Здравствуйте дорогие  г. Самсонов
-             родители
+| Leaf | Document |
+|------|----------|
+| 103 | [11 Aug 1943 — signature “Dmitry”](/en/documents/letters-from-the-front/letter-103-1943/) |
+| 104 | [28 July 1944 — “Dmitry”, damaged leaf](/en/documents/letters-from-the-front/letter-104/) |
+| 105–106 | [14 June 1943 — Timosha, face and reverse](/en/documents/letters-from-the-front/letter-105-106-to-mother/) |
+| 107 | [13 July 1944 — Timosha](/en/documents/letters-from-the-front/letter-107/) |
 
-Получил от вас письмо, в котором вы
-пишете, что будто бы скоро Это время
-прийти, что всё ясно. Дед до Машу[?],
-как обо всём. Кажется, не пожелаешь
-ветер[?]. Пишете, что письмо, которое
-я отправил вам домой из старой кухни[?]
-Интересно получили. Простите
-маленькое. Я так люблю слушать
-её[?] рассказы. А теперь мой большой
-вопрос. Кажется, скоро мы соберёмся
-в [неразборчиво] и 4.
+**Dmitry** (103–104): [card](/en/people/dmitry-front-letters/) — surname and exact family link are **not yet established**; do not identify with other Dmitrys and **do not** equate with Timosha / Tyoma.  
+**Timosha** (105–107): name form from the letter; see [Timofey T. Samsonov](/en/people/timofey-timofeevich-samsonov/) — do not automatically merge with the family nickname “Tyoma” without notebook context.
 
-Живу хорошо. Письмишко[?] уже
-не [должны?/ждать?]. Возможно скоро в 8[-й?][?], в
-которой[?] я отвечу. За меня не беспокойтесь. Пишите о том, что интересует
-вас, когда мне пойдёт[?]. Какой год
-опять[?] когда?
-
-Привет Марусе[?], Машеньке, Лёле[?],
-Лиде[?] и Николаю.
-Целую. Дмитрий
-
----
-
-<!-- p. 105 -->
-
-{{< figure src="/photos/dnevnik-tt/str-105.jpg" caption="Letter from the front, 14 June 1943." >}}
-
-*[Text of the letter or document (Russian):]*
-
-14.VI.43.                    Действующая
-                             армия.
-
-Здравствуй родная мама!
-
-Вчера получил от тебя письмо за
-датой от 3.VI.43. В нем ты пишешь мне
-о том, почему я не писал тебе по
-поводу замужества. Скажи[?]. Да, если
-признаться, я и не стараюсь, ибо я
-уже понял свою ошибку ещё в Воробьевске. Я учёл все её хорошие и плохие, знаю, что она не приспособлена к
-самостоятельной трудовой жизни. Она
-создана для замужней разумной
-жизни. Действительно, с моим
-характером, не могущим мириться то[?]
-не только с ней, да и какая женщина
-будет терпеть выходки в нём, если такой
-Заговор[?] меня не может тушить[?], кто
-который не может продолжать трудности и старается свести на
-ничтожество, которое вяжет этому
-человеку руки, какое-либо другое
-и не своей воле и подобно над
-какой силой-трудностью.
-
----
-
-<!-- p. 106 -->
-
-{{< figure src="/photos/dnevnik-tt/str-106.jpg" caption="Reverse of a letter: address and field post." >}}
-
-*[Text of the letter or document (Russian):]*
-
-Так вот, что касается меня
-не приходится, тем более, если
-у меня есть друг, с которым
-я не прощаюсь.
-Привет Жене.
-Галинка[?] целует вас
-Вам всем привет.
-Крепко жму руку
-ваш сын.
-Тимоша
-
-г. Москва
-ул. Серафимовича
-д. Правительства
-12 под.          кв 223
-Самсоновой Е.К.
-
-Действующая армия          18003 «2»
-Самсонову Т.Т.
-
----
-
-<!-- p. 107 -->
-
-{{< figure src="/photos/dnevnik-tt/str-107.jpg" caption="Letter from the front, 13 July 1944." >}}
-
-*[Text of the notebook page (Russian):]*
-
-13.VII.44.                          Действующая
-                                    армия.
-
-Здравствуйте дорогие
-родители и сестрёнка Таня!
-
-Ой, досадно, что я вас мало пишу.
-Мне действительно жаль, что так с письмами
-[неразборчиво / обрыв строки?]. Второе что мне ещё
-нужно сделать, чтобы выздороветь[?]. Теперь
-же буду получать от Вас письма в 2-х.
-
-Теперь немного о себе. Живу я хорошо.
-Ем хорошо, уж я наконец, сколько всего
-скоро буду есть. Мы пьём с чаем, что скоро
-можно взять на столик[?]. В городе я был и
-постарался[?] там погулять, особенно красиво.
-Потом, а в действительности то
-на обочине[?] брошенные[?] танки. Из
-немецких машин увидал, а в развалинах
-[сталинградского?] [вала?]. Там я в [с…?]
-Комсомольской[?] [улице?]. Очень здорово.
-Всех целую, тебя Таня, тоже целую.
-
-Ну, вот пока и всё, что у новости[?].
-Пишите вы, так что мама напишет.
-
-Привет Жене, Маме, Папе, Фале[?],
-Галке, Тане.
-Целую. Ваш Тимоша.
-Саша целует.
+All letters: [Letters from the front](/en/documents/letters-from-the-front/).
 
 ---
 
 <!-- p. 108 -->
 
-{{< figure src="/photos/dnevnik-tt/str-108.jpg" caption="Certificate for the medal “For the Defence of Stalingrad.”" >}}
+## Certificate “For the Defence of Stalingrad”
 
-*[Text of the letter or document (Russian):]*
+Separate document page:  
+[Certificate — Timofey Timofeevich Samsonov](/en/documents/stalingrad-defense-medal-samsonov-tt/)
 
-За нашу Советскую Родину
-
-СС                  СР
-
-★ УДОСТОВЕРЕНИЕ ★
-За участие в героической обороне
-СТАЛИНГРАДА
-
-гв. сержант Самсонов Тимофей
-Тимофеевич
-
-Указом ПРЕЗИДИУМА
-ВЕРХОВНОГО СОВЕТА СССР
-от 22 декабря 1942 г. награжден
-медалью
-
-«ЗА ОБОРОНУ СТАЛИНГРАДА»
-
-★ От имени ПРЕЗИДИУМА
-ВЕРХОВНОГО СОВЕТА СССР
-медаль «За оборону Сталинграда»
-вручена „23“ сентября 1943 г.
-
-II № 34769
-
-КОМАНДИР 79 ГВАРДЕЙСКОГО МИНОМЕТНОГО ПОЛКА
-
-командир 79 ГМП
-
-гв. подполковник   [росчерк]   В. Попов
-
-(должность, военное звание и подпись лица, вручившего медаль)
-
-Standalone document page: [Medal “For the Defence of Stalingrad” — T. T. Samsonov](/en/documents/stalingrad-defense-medal-samsonov-tt/) (brother Tyoma, not father T. P.).
+On the form: decree 22 Dec 1942; presentation entry **23 Sep 1943**; 79th Guards Mortar Regiment.  
+Recipient — **Timofey Timofeevich**, **not** Timofey Petrovich.
 
 ---
 
 ## Related materials
 
 - [Timofey Timofeevich Samsonov (Tyoma)](/en/people/timofey-timofeevich-samsonov/)
-- [Dmitry — letters 103–104](/en/people/dmitry-pisma-front/) (not Tyoma)
+- [Dmitry — letters 103–104](/en/people/dmitry-front-letters/) (not Tyoma)
 - [Letters from the front](/en/documents/letters-from-the-front/)
-- [Stalingrad medal certificate](/en/documents/stalingrad-defense-medal-samsonov-tt/)
+- [Certificate “For the Defence of Stalingrad”](/en/documents/stalingrad-defense-medal-samsonov-tt/)
 - [Defence of Stalingrad](/en/events/defense-of-stalingrad/)
 - **Not** [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/)
 
-*← [Sister Genya and brother Tyoma (pp. 090–098)](/en/memoirs/diary/11-notebook-continued-090-099/) · [Notebook contents](/en/memoirs/diary/) · [Tanya: childhood and school](/en/memoirs/diary/13-school-friends-109-119/) →*
+---
+
+*← [Sister Genya and brother Tyoma](/en/memoirs/diary/11-notebook-continued-090-099/) · [Notebook contents](/en/memoirs/diary/) · [Tanya: childhood and school](/en/memoirs/diary/13-school-friends-109-119/) →*

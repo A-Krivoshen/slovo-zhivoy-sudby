@@ -1,576 +1,87 @@
 ---
-title: "Crimea, family, study (pp. 140–149)"
+title: "Crimea, Sevastopol and the beginning of the family"
 date: 2026-08-01
 weight: 180
 ShowReadingTime: false
-draft: true
-description: "Crimea and Sevastopol, wedding and Mitya’s birth (140–144); study, work, and Sasha’s arrest (145–148); return and family (149)."
-summary: "Crimea, the start of a family, study, trials."
+draft: false
+description: "Crimea with the Krivosheins, Sevastopol after the war, marriage, birth of Mitya."
+summary: "Crimea, Sevastopol, the start of the family."
 translationKey: "diary-17-crimea-family"
-tags: ["diary", "notebook"]
+tags: ["diary", "notebook", "Crimea"]
 categories: ["Memoirs"]
-people: ["Tatyana Timofeevna Krivosheina"]
+people: ["Tatyana Timofeevna Krivosheina", "Aleksandr Dmitrievich Krivoshein"]
 ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
-source_pages_original: "140-149"
-transcription_status: "first_pass"
-translation_status: "incomplete"
-editorial_status: "working"
-last_verified: "2026-08-01"
+source_pages_original: "140-144"
+transcription_status: "editorial_structure"
+translation_status: "complete"
+editorial_status: "reader_chapter"
+last_verified: "2026-08-02"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
-The postwar years: Crimea, marriage, the birth of a child, hard trials for the family, and pasted-in photographs.
 
-*From the handwritten notebook. Full birth dates of living people are not published on the site.*
+*From the handwritten notebook. Tatyana Timofeevna’s voice.*
 
-*English translation of these notebook pages is still being prepared; the Russian transcription is given below.*
+{{< archive_note type="identity" >}}
+**Sasha** in this chapter is **[Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/)**, fiancé / husband.  
+**Dmitry Aleksandrovich** and **Nina Vasilyevna** are his parents (Tatyana’s father- and mother-in-law).
+{{< /archive_note >}}
 
----
+She was good-looking. She smoked, which then was considered terrible, and little plaits above the knees. When the lads saw her they courted and decided to save “Gara” (that was Sasha’s nickname). “Tanya has such a girlfriend; she is a morphine addict; Sashka must be saved!” Later they asked me: “How is it you have changed so. Was something done to you, or you yourself.”
 
-## Crimea, Sevastopol, and the start of a family {#krym-semya}
 
-<!-- p. 140 -->
+## Beginning of the family
 
-{{< figure src="/photos/dnevnik-tt/str-140.jpg" caption="Meeting Sasha’s friends; trip to Crimea, 1946." >}}
+And our first acquaintance with those lads took place at Sasha’s. Then in distant 1945 our football team went to England to play and won. Then there were no televisions, nor radio sets either. At the beginning of the war the population had been told to hand in all radio sets and there were only loudspeakers. And Sasha had a radio set, or was allowed to keep one, and he invited all his lads to listen to the broadcast from England about the match. He also invited me. And I was in a “dashing” mood. That was my first meeting with his lads. They looked at me with interest, and I got angry and began to play the fool. Makhe Ettin says something to me and I answer: “Shut up, fool.” He to me: “That’s only for calculation.” I calmly say to him: “By the holy gods, don’t take offence.” That is how our acquaintance took place. And the lads were good, simple, from working families.
 
-*[Text of the notebook page (Russian):]*
 
-Она была хороша. Покуривала, что в то
-время считалось ужасным, и косиночки выше колен. Когда ребята увидели её, они ухаживали и решили
-спасать "Гару" (это было прозвище
-Саши). "У Таньки такая подруга, она
-морфинистка, Сашку надо спасать!"
-Позже они меня спрашивали: "Как
-это ты так переменилась. Тебе окакто-то, или ты сама."
+## Bakhchisarai, Chufut-Kale, Sudak
 
-А первое наше знакомство с этими
-ребятами произошло у Саши. Тогда
-в далеком 1945 г. наша футбольная
-команда ездила в Англию играть и
-победила. Тогда телевизоров не было,
-радиоприемников тоже. В начале войны
-было предложено населению сдать все
-радиоприемники и были только громкоговорители. И у Саши был радиоприемник, или разрешили оставить,
-и он пригласил всех своих ребят
-послушать передачу из Англии об
-игре. Он так же пригласил меня.
-И у меня было "лихое" настроение.
-Это была моя первая встреча с его ребятами. Они рассматривали меня
-с интересом, а я разозлилась и начинаю
-дурака. Махе Эттин что-то
-говорит мне, а я в ответ: "Заткнудуре". Он мне: "Вот тебе
-только по расчету." Я спокойно
-говорю ему: "На
-святеньких богов, не обижайтесь"
-Вот так состоялось наше знакомство
-А ребята то были хорошие, простые,
-из трудовых семей.
+In summer 1946 the Krivosheins invited me to the Crimea. Then Sasha’s father had been appointed Chairman of the Crimean Regional Executive Committee. My mama telephoned us with the Krivosheins and it was decided I would go to them as a guest in the Crimea. Sasha and I were very glad. We sat exams and went. Dmitry Aleksandrovich sent a salon car for us. True, another family was travelling there too, moving to the Crimea for work. We went: Sasha, Baba Aiya and I. We were met at the station and taken to a hotel, because the Krivosheins lived in a hotel, because the Chairman’s house was occupied by the previous family’s. They were waiting for the Kabanovs to leave and then for the hotel. For some time we lived in Alushta, at the Executive Committee rest house, and then moved to Gurzuf, where there was a two-storey mansion surrounded by a good garden and even a vineyard. The house stood high, and below — the Railway Workers’ sanatorium in a fine park, and further the sea. Along the coast, right on the shore, barbed wire still remained. That year Sasha and I saw the whole Crimea: Bakhchisarai with the famous fountain sung by Pushkin in his poem *The Fountain of Bakhchisarai*; Alupka with the magnificent palace of Count Vorontsov, where he (the count) tried to recreate the Bakhchisarai fountain but could not; Livadia — the summer residence of Nicholas II and where in spring 1945 the famous Yalta Conference took place, to which Roosevelt, Churchill and Stalin came; of course we were in Yalta, in the famous Botanical Garden, where we were treated to extraordinary peaches. Then Massandra. We were shown the famous vineyards, cellars with wine kept in huge oak barrels. And then the tasting began. For that we were taken to a special tasting hall where many glasses of different wines stood on the table before each person. That wine had to be drunk not too much, savouring. And of course we did it at a fast pace. From that we became very merry. Then we visited the Swallow’s Nest, where a blanket was stolen from us. The fact is we travelled in a Willis and the seats were small and we put a blanket under us for comfort. And then we were at Chufut-Kale. That is an ancient city in the mountains. No one has lived there for a long time. The city is cut in the rocks. The next visit — Sudak, where nearby was a champagne works founded by Prince Golitsyn, the founder of Russian champagne. Even before the 1917 Revolution our champagne wine took a prize place in Paris. A monument to Golitsyn still stands there. We were shown the whole process of making wine. And it is stored in cellars made in the mountains. During the war, and the Germans were in the Crimea, those cellars were so camouflaged that they could not be found. That works stood in a very beautiful bay. And after a good tasting we went bathing. That was something “else.”
 
-Летом 1946 г. Кривошеины пригласили
-меня в Крым. Тогда Сашин отец
-был назначен Председателем Облисполкома Крыма. Мама моя позвонила
-нас с Кривошеиными и было решено
-что я поеду к ним в гости в Крым
-Мы с Сашей были очень рады. Сдали
-экзамены и поехали. За нами Дмитрий
-Александрович прислал салон-вагон. Правда
-там еще ехала одна семья, которая
-перебиралась в Крым на работу. Мы
-поехали: Саша, баба Айя и я. Нас встретили
-на вокзале и повезли в гостиницу, т.к.
-Кривошеины жили в гостинице, т.к. дом
-Председателя Облисполкома был занят
-семьей предыдущего. Они ждали, когда
-Кабанов уедут и тогда в гостиницу.
-Мы некоторое время то жили в
-Алуште, в доме-отдыха Исполкома,
+On Navy Day Admiral Oktyabrsky, commander of the fleet, invited Dmitry Aleksandrovich to celebrations in Sevastopol. We went. Sevastopol was completely destroyed. Some buildings survived and, oddly, the city pier near the water itself; the water station survived. And as we drove along the street all the houses looked at us with broken windows. We were also on Malakhov Kurgan. I had the impression we were walking over people’s corpses. Forts from the first defence of Sevastopol still survived. They stand at the entrance to Sevastopol Bay, where we saw the monument to the sunken ships. Dm. Aleks., Nina Vas. and Sasha were invited to breakfast in his wardroom. Baba Nina and I stayed wandering the ruined city, now and then over ruined houses and dead windows.
+
+Simferopol also “well” suffered from the war. Broken houses too, windows without glass, craters not yet filled.
+
+Sasha and I climbed a great deal in the mountains around Alushta and found trenches, and also black death-tokens; small plastic fruitiers that soldiers wore. Name, surname and address were indicated in them.
+
+There were many German prisoners in the Crimea then. They lived in camps, and by day they were taken to work: they restored what they had destroyed, worked the vineyards; in the evening they were taken to bathe in the sea. Those whose camps were not far from the sea.
+
+Toward the end of our stay in the Crimea the Krivosheins moved from the hotel into a separate house on Aksakov Street. Baba Nina and Grandpa Mitya loved the land very much, and wherever they were they always worked the land. They put the yard in order, making a beautiful flower bed there, planted strawberries, and behind the house made a kitchen garden with a small hotbed. The house was repaired. It had 6 rooms (one small for the houseworker). The Krivosheins’ neighbours were the Commander of the Taurida Military District M. M. Popov. He lived with his young wife Serafima and a little son. N.V. and Serafima kept up friendly relations.
+
+At the end of August we left for Moscow.
+
+In Moscow routine life began again: institute, classes, household affairs. And again our meetings with Sasha. Our friendship grew stronger. I was in the 2nd year, Sasha in the 4th. So our life flowed.
+
+We saw in the New Year 1947 at Sasha’s, almost alone together. True, Sasha’s grandmother was still there. Having sat exams, we went for the holidays to Simferopol. There we often went to the theatre, walked much, read. We even went to the sea. To my surprise the sea near the shore was frozen. That was in Alushta.
+
+And a funny thing happened to me. At our institute there was an evening and at that evening I met Ren Merkulov (once we studied at the same school, lived in the same entrance, met at Inna Kobulova’s). Ren took my telephone and promised to call. Ren was lively. He was handsome. He studied at the Zhukovsky Academy. He telephoned and suggested meeting at Library of Lenin metro. I pass Papa and say: “I’m going on a date with the son of the Minister of State Security.” Papa looked at me and said: “We won’t go.” That was the first time Papa imposed his parental ban. I was surprised, because Papa had never forbidden me to choose my acquaintances. I obeyed. But a father’s word was law for me. Ren did not telephone me again. Then I did not understand this, and now everything has fallen into place.
+
+Sasha and I went to the rink, to the cinema (our Udarnik), to the Council of Ministers club (now the Estrada Theatre), met friends, danced. In general we led a life characteristic of young people.
+
+
+## Magnitogorsk
+
+In spring Sasha left for Magnitogorsk for practical work, and I sat exams. I made an exam timetable for Sasha, and he worried with me.
+
+And after that we went to Simferopol, where Sasha announced to his parents that we had decided to marry.
+
+My parents agreed; his parents agreed too. But what wedding? We had no [church wedding?]. We went to Yalta, and [filed?] [application?], that summer in Gurzuf, and registered our marriage. When we rode back to Gurzuf, our Fedor joked: “Wonder — I had a daughter to take, and back — now a daughter and a son.” Then there was a dinner; we were congratulated; Sasha’s grandmother, having drunk, smashed a glass for luck.
+
+That is how our life with him began.
+
+Arriving in Moscow, we began to live at Sasha’s in that very room where I am sitting now. Baba Lena, Sasha’s aunt, lived with us. She ran the household. A splendid woman. She loved Sasha very much. We studied; I was in the 3rd year; Sasha was finishing and doing his diploma. I went on practical work to Zhdanov (now Mariupol) on the Sea of Azov. I was dreary without him. I was already expecting a child. He was to appear at the end of May. I sat some exams in advance; I did not want to take an academic leave. Leave. Birth — the main thing — antibiotics. The Krivosheins suggested I give birth in Simferopol. And so in mid-May I went to the Crimea, and Sasha stayed in Moscow to defend his diploma. Nina Vasilyevna met me at the aerodrome and we went home.
+
+Mitya. In 1948 our son was born and we named him Dmitry (Mitya). Sasha was still in Moscow, and after defending his diploma he came to Simferopol. Sasha was already a qualified engineer, and I still a student.
+
+Then we returned to Moscow. I still had exams to sit. At that time my mama came and sat with Mitya, and Baba Lena ran the household. I still had to study, one more course — the IVth. And Mitya grew; he was an amusing little boy, but the institute took much of my time.
+
+That year passed in cares. Mitya grew. Baba Lena and Baba Lina (Agrippina Dmitrievna), Sasha’s great-grandmother, sat with him. I studied in the last
 
 ---
 
-<!-- p. 141 -->
+*Continues in [Study, work, and class reunions](/en/memoirs/diary/18-study-work-reunions/). Full manuscript reading: [Russian chapter](/vospominaniya/dnevnik/17-krym-sevastopol-semya/).*
 
-{{< figure src="/photos/dnevnik-tt/str-141.jpg" caption="Crimea: Gurzuf, Bakhchisarai, Livadia, Massandra, Sudak." >}}
-
-*[Text of the notebook page (Russian):]*
-
-а потом переехали в Гурзуф, где был
-2-х этажный особняк, окруженный хорошим
-садом и там даже был виноградник. Дом
-стоял высоко, а внизу - санаторий Железнодорожников в прекрасном парке, а дальше море.
-Вдоль побережья, на самом берегу еще
-оставалась колючая проволока. В этот
-год мы с Сашей повидали весь Крым:
-Бахчисарай с знаменитым фонтаном, воспетый
-Пушкиным в своей поэме "Бахчисарайский
-фонтан", Алупку с великолепным дворцом
-графа Воронцова, где он (граф) пытался
-воссоздать Бахчисарайский фонтан, но не
-сумел; Ливадию - летнюю резиденцию Николая II
-и где весною 1945 года проходила знаменитая Ялтинская конференция, куда прибыли
-Рузвельт, Черчилль, Сталин; ну, конечно
-были в Ялте, в знаменитом Ботаническом
-саду, где нас угощали необыкновенными
-персиками. Потом была Массандра. Нам
-показали знаменитые виноградники,
-подвалы с вином, которое хранилось в
-громадных дубовых бочках. А потом
-началось дегустирование. Для этого нас
-провели в специальный зал для дегустации,
-где на столе перед каждым поставлено
-множество рюмок с разными винами.
-Это вино нужно было пить не очень,
-смакуя. А мы, конечно, сделали это в
-быстром темпе. От этого нам стало
-очень весело.
-Затем мы навестили "Ласточкино
-гнездо", где у нас украли одеяло. Дело
-в том, что мы путешествовали на
-"Виллисе" а сидений там небольшие и
-мы подкладывали одеяло для удобства.
-А потом мы побывали в Чуфут-Кале.
-Это древний город в горах. Там уже
-никто давно не живет. Город вырублен
-в скалах.
-Следующее посещение - Судак, где неподалеку
-был завод шампанских вин, основанный
-еще князем Голицыным, родоначальником
-русского шампанского. Еще до революции
-1917 года наше шампанское вино
-занимало призовое место в Париже.
-Там до сих пор стоит памятник
-Голицыну. Нам показали весь процесс
-создания вина. И хранится оно в
-подвалах, сделанных в горах. Во время
-войны, а в Крыму были немцы,
-эти подвалы были так замаскированы,
-что их не могли найти.
-Этот завод располагался в очень
-красивой бухте. И вот после хорошей
-
----
-
-<!-- p. 142 -->
-
-{{< figure src="/photos/dnevnik-tt/str-142.jpg" caption="Sevastopol after the war; POWs; house on Aksakov Street." >}}
-
-*[Text of the notebook page (Russian):]*
-
-дегустации мы пошли купаться.
-Это было что-то "нечто".
-
-В день Морского флота Дмитрию Александровичу адмирал Октябрьский, командующий флотом, пригласил на
-торжества в Севастополь. Мы поехали.
-Севастополь был разбит полностью.
-Сохранились кое-какие здания и как
-не странно городская пристань около
-самой воды, сохранилась водная станция.
-А мы так мы ехали по улице,
-где все дома смотрели на нас
-разбитыми окнами. Были мы и
-на Малаховом кургане. У меня
-сложилось впечатление, что мы ходили
-по трупам людей. Сохранились еще
-и форты от первой обороны Севастополя. Они стоят при входе в
-Севастопольскую бухту, где мы видели
-памятник погибшим кораблям.
-Дм. Алекс. Нину Вас. и Сашу пригласили на завтрак в свою кают-компанию.
-Мы с бабой Ниной остались бродить по
-разрушенному городу, то и дело на разрушенные дома и мертвые окна.
-
-Симферополь тоже "хорошо" пострадал
-от войны. Тоже разбитые дома,
-окна без стекол, воронки еще не засыпаны.
-
-Мы с Сашей много лазали по горам
-вокруг Алушты и находили окопы,
-а также черные смертники; маленькие
-фрутиерки из пластмассы, которые носили солдаты. В них указывалось имя,
-фамилия и адрес.
-
-Было в Крыму в то время много
-пленных немцев. Они жили в лагерях,
-а днем их водили на работу: они
-восстанавливали то, что разрушили,
-обрабатывали виноградники, вечером
-их возили купаться в море. Это тех,
-которые лагеря которых находились недалеко от моря.
-
-К концу нашего пребывания в Крыму
-Кривошеины переехали из гостиницы
-в отдельный дом на ул. Аксакова.
-Баба Нина и деда Митя очень любили
-землю, и где бы они ни были всегда
-работали на земле. Они привели в
-порядок двор, разбив там красивый
-цветник, посадили клубнику, а за домом
-разбили огород с небольшим парником.
-Дом отремонтировали. В нем было 6
-комнат (одно небольшое для дом. работницы
-
----
-
-<!-- p. 143 -->
-
-{{< figure src="/photos/dnevnik-tt/str-143.jpg" caption="Moscow 1946–47; New Year; decision to marry." >}}
-
-*[Text of the notebook page (Russian):]*
-
-Соседями Кривошеиных был Командующий Таврическим военным округом М. М. Попов. Он жил со
-своей молодой женой Серафимой и маленьким
-сыном. Н.В. и Серафима поддерживали приятельские отношения.
-
-В конце августа мы уехали в Москву.
-
-В Москве опять началась рутинная жизнь:
-институт, занятия, домашние дела. И опять
-наши встречи с Сашей. Дружба наша крепла.
-Я училась на 2-ом курсе, а Саша - на 4-ом.
-Вот так и текла наша жизнь.
-
-Новый 1947 год мы встречали у Саши, считай
-вдвоем. Правда была еще Сашина бабушка.
-Сдав экзамены, мы поехали на каникулы
-в Симферополь. Там мы часто ходили в
-театр, много гуляли, читали. Даже съездили
-к морю. К моему удивлению море около
-берега замерзло. Это было в Алуште.
-
-А со мной произошел забавный случай. У нас
-в институте был вечер и на этом вечере
-я встретила Рена Меркулова (когда-то
-мы учились в одной школе, жили в одном
-подъезде, встречались у Инны Кобуловой). Рен
-взял мой телефон и пообещал позвонить.
-Рена был живой. Красивый был. Он учился
-в академии им. Жуковского. Он позвонил
-и предложил встретиться у м. "Библиотека Ленина".
-Я прохожу мимо папы и говорю: "Я иду
-на свидание с сыном министра госбезопасности".
-Папа посмотрел на меня и сказал: "Не
-пойдем". Это в первый раз папа наложил
-свой родительский запрет. Я была удивлена,
-т.к. папа никогда не запрещал мне
-выбирать своих знакомых. Я послушалась.
-Но слово отца было для меня законом.
-Больше Рена мне не звонил. Тогда я не
-понимала этого, а теперь всё встало на
-свои места.
-
-Мы с Сашей ходили на каток, в кино,
-(наш "Ударник") в клуб Совмина (теперь
-это театр Эстрады), встречались с
-друзьями, танцевали. В общем вели
-жизнь характерную для молодежи.
-
-Весной Саша уехал в Магнитогорск на
-практику, а я сдавала экзамены. Я
-составила для Саши расписание экзаменов,
-и он волновался вместе со мной.
-
-А после этого мы поехали в Симферополь, где Саша объявил своим родителям,
-что мы решили пожениться.
-
----
-
-<!-- p. 144 -->
-
-{{< figure src="/photos/dnevnik-tt/str-144.jpg" caption="Wedding; start of married life; Mitya’s birth, 1948." >}}
-
-*[Text of the notebook page (Russian):]*
-
-Мои родители были согласны, его родители
-соглашались тоже. Но какой свадьбы?
-Никаких [венчаний?] у нас не было.
-Мы поехали в Ялту, а [написали?] [заяв.?], в
-то лето в Гурзуфе, и зарегистрировали
-наш брак. Когда мы ехали обратно
-в Гурзуф, наш Федор шутил: «Чудо —
-мне дочь ехать было, а обратно — теперь
-дочь и сын.» Потом был обед, нас
-поздравили, Сашкина бабушка, выпив,
-разбила на счастье рюмку.
-
-Вот так и началась наша с ним
-жизнь.
-
-Приехав в Москву, мы стали жить
-у Саши в той самой комнате, где я
-сижу сейчас. С нами жила баба Лена,
-Сашина тетушка. Она вела хозяйство.
-Славная была женщина. Она очень любила Сашу. Мы учились, я на — 3-ем курсе,
-Саша кончал и делал диплом. Я ездила
-на практику в Жданов (теперь Мариуполь) на Азовское море. Мне было
-тоскливо без него. Я уже ждала ребенка.
-Он должен был появиться в конце мая.
-Часть экзаменов я сдала заранее, не
-хотела брать академию. Отпуск. Роды —
-самое главное — антибиотики.
-Кривошеины предложили, чтобы я рожала
-в Симферополе. И вот в середине мая
-я поехала в Крым, а Саша остался
-в Москве, чтобы защитить диплом.
-Встретила меня на аэродроме Нина
-Васильевна и мы поехали домой.
-
-                    Митя
-В 1948 г. у нас родился сын и
-назвали его Дмитрием (Митей). Саша
-еще был в Москве, а после защиты
-диплома приехал в Симферополь.
-Саша уже был дипломированным
-инженером, а я еще — студентка.
-
-Затем мы вернулись в Москву. Мне
-надо было сдавать еще экзамены.
-В это время приходила моя мама и
-сидела с Митей, а баба Лена занималась хозяйством. Мне предстояло еще
-учиться, еще один курс — IV-ый.
-Вот Митя-то рос, был забавным мальчуганом, но у меня много времени занимал институт.
-
-Этот год прошел в заботах. Митька
-рос. С ним сидели баба Лена и баба
-Лина (Агриппина Дмитриевна), сашина
-прабабушка. Я училась на последнем
-
----
-
-## Study, work, and class reunions {#ucheba-vypuskniki}
-
-<!-- p. 145 -->
-
-{{< figure src="/photos/dnevnik-tt/str-145.jpg" caption="State exams; Censorship; Sasha’s arrest on 2 September." >}}
-
-*[Text of the notebook page (Russian):]*
-
-курсе, а Саша уже работал в Стальпроекте.
-Так и шла наша жизнь. В июне месяце
-я сдала гос. экзамены и меня оставили в
-Москве, т.к. Саша работал в Москве. Меня направили работать в Цензуру (иностранный
-отдел). В это время баба Лена, Митя и
-баба Лина уехали в Симферополь.
-Мы с Сашей оставались вдвоем, это было
-так редко, когда нам приходилось быть вдвоем.
-В это время в Москву приезжал Поль
-Рабсон (знаменитый американский бас), мы ходили его слушать.
-
-Потом у Саши был отпуск, и мы
-полетели в Симферополь, а потом у нас
-были путевки в д/о в Рабочем уголке Алушты.
-А Кривошеины собирались ехать в
-Благовещенск, куда Дм. Ал. назначали председ.
-Облисполкома. А они отправились в Москву.
-Я должна пойти на работу, с нами осталась баба Лина.
-
-И вот пришло 2-ое сентября, когда наша
-жизнь полностью изменилась. В ночь на 2/IX
-был арестован Саша. Что и как, почему?
-Тогда мы понять не могли. Никто помочь не мог: ни мои родители, ни Сашины.
-Работать я уже не помнила, т.к. была
-персона «нон-грата».
-
-Я позвонила в Благовещенск Дм. Ал. и
-рассказала ему о случившемся. Через некоторое время они выехали в Москву.
-Я каждую среду ходила на Лубянку в
-справочное бюро, наводя справки о Саше.
-Мне ответили, что идет следствие.
-Потом мне разрешили передать ему
-некоторые теплые вещи и сто рублей.
-
-У Дм. Ал. начались неприятности: его сняли
-с должности председ. облисполкома Амурской обл. и поставили в резерв ЦК.
-Ему еще был вынесен строгий выговор
-за сына.
-
-В ноябре или начале декабря меня уведомили, что Саша осужден по 58 ст.
-на 10 лет. Я сначала ничего не могла
-понять, и Дм. Ал. и Нина Вас. пошли
-туда в справочное бюро и еще
-раз узнать! Оказалось, что это так.
-Сашу перевели в Бутырки, куда мы с Н.В.
-носили передачу а потом их отправили
-в Воркуту. Первое письмо я получила
-из Воркуты.
-С работой у меня ничего не получилось,
-т.к. в Цензуру меня не могли взять.
-Я год сидела без работы.
-
----
-
-<!-- p. 146 -->
-
-{{< figure src="/photos/dnevnik-tt/str-146.jpg" caption="School in Lyublino; former pupils; 30 years later." >}}
-
-*[Text of the notebook page (Russian):]*
-
-Все. Ал. предложили стать директором
-совхоза «Люберецкие поля орошения», они
-поехали в Косино, а я с Митей! поехала
-к маме, на Б. Калужскую (Ленинск. пр) д. 4
-С Кривошеиными мы все время поддерживали отношения, Митя часто бывал там
-и все лето проводил в Москве. Год я не работала, т.к. на работу в цензуру меня не взяли из-за Саши.
-Потом меня мама устроила на работу
-в телевизор. школы № 50 г. Люблино (она в
-то время работала в МПС), где я проработала 5 лет, до Сашиного возвращения.
-
-В школе дети меня любили, да и весь
-коллектив относился ко мне очень
-хорошо. В классе, где я была кл. руководителем, до сих пор поддерживает
-со мной отношение. Они выпускали
-журнал литературный, где было написано мне много стихов. Каждый новый
-год они звонят мне и поздравляют.
-Иногда они заходят ко мне. Когда еще
-была жива мама, она спрашивала: «Кто
-пришел?» Я отвечала: «Девочки.» «Татьян
-Тимофеевна, какие мы девочки? У нас уже есть
-внуки.» Встречались в связи с 30-летием
-окончания школы, у Риты Истлиной.
-
-А 13 апреля 2003 года собрались отметить 50
-летие со дня окончания. Уже звонили.
-
-Май 1983г. Прошло 30 лет со дня окончания
-школы. Я со своими «девочками»
-
----
-
-<!-- p. 147 -->
-
-{{< figure src="/photos/dnevnik-tt/str-147.jpg" caption="Photos: Pasha 1930; Tanya 1938; Pestovo 1945." >}}
-
-*[Text of the letter or document (Russian):]*
-
-Это Паша. 1930 г
-
-Мне 12 лет.
-
-Моя фотография. 1938.
-Паша и я в нашей
-столовой в кв. 223
-12 подъезд.
-
-Лето 1945 г. Пестово.
-д/о ИХТИ'а
-
----
-
-<!-- p. 148 -->
-
-{{< figure src="/photos/dnevnik-tt/str-148.jpg" caption="Class 203, June 1949; life without Sasha; return in 1954." >}}
-
-*[Text of the notebook page (Russian):]*
-
-Наш выпуск. Гр. 203. Июнь 1949г.
-
-Стоят: 1. - Я.
-       2. - Кира Федорова
-       3. - Сора Бергская
-       4. - Люся Палухина.
-
-Сидят: 1 - Римма Ионова
-              Кипар.
-        2 - Ира Гофман
-        3 - Гарри Михай-
-              Уайзер.
-        4 - Лена Егорова
-        5 - Нина Саулкова
-
-Как жилось без Саши? Тоскливо, всё
-всегда нехватало. Особенно я не любила
-выходные дни и праздники. Когда видишь,
-что идет семья, а я одна с Митей.
-Плохо было.
-
-Ну вот настал март 1953 года. Умер
-Сталин. Затем последовал 20-ый съезд
-и знаменитое письмо Хрущева о культе личности. Это было страшное известие.
-Папа очень нервничал и всё спрашивал
-маму: «Ты понимаешь, что такое „культ
-личности"?» Мама отвечала: «Конечно, понимаю!» А папа ей говорил: «Ни черта
-ты не понимаешь, он долго будет нам
-отравиваться.»
-
-Потом М. и М. обратились в Ген. прокуратуру с просьбой пересмотреть Сашино дело, а также просили своих старых
-товарищей ускорить рассмотрение.
-
-И вот в июне 1954 г. Саша вернулся.
-Ведь сначала он был в Воркуте, потом его
-перевели в район Семипалатинска (они
-что-то там строили. Он был уже
-главным инженером бетонного завода.)
-Ему дали предложение привезти свою
-
----
-
-## Family and children {#semya-deti}
-
-<!-- p. 149 -->
-
-{{< figure src="/photos/dnevnik-tt/str-149.jpg" caption="Sasha returns; Kosino; father’s illness." >}}
-
-*[Text of the notebook page (Russian):]*
-
-семью туда, но без выезда. Он не согласился.
-А потом его перевели в Актюбинск, а потом
-в Москву. Как вспоминает Саша на этот
-раз в Москве было вежливое отношение, и
-следователь говорил ему «Вы». Предлагали
-папиросы.
-Однажды его вызвал следователь и сказал:
-«Ну, вот Саша, дело закончено. Идите и
-собирайте свои вещи, вас внизу ждет отец.
-Но побыстрее, мы выпускаем до 18⁰⁰, поспешите. А то, если хотите, можете переночевать
-у нас.» Саша, конечно, отказался.
-
-И вот он вышел. А ждали его в машине
-Дм. Алекс., Нина Вас., я и моя мама. Дело было
-на М. Лубянке. Саша — в кирзовых сапогах,
-коротко пострижен, в ватнике с деревянным
-чемоданом. Он, по-моему, плохо понимал,
-что происходит и кого он видит, он только
-«тихнул» нас, сел в машину и сказал: «Поехали
-отсюда!» Моя мама не смогла поехать с
-нами, т.к. не было места. Мы приехали в
-Косино и устроили Саше сразу душ. А
-душ был летний. Я принесла ему белье,
-и он спросил меня: «соскучилась?» Этим было
-всё сказано, как-будто не было 5 лет
-разлуки. Мы опять оказались вместе.
-
-Саше выдали паспорт. И он стал человеком с
-паспортом! Немного отдохнув, он поехал на
-работу в «Стальпроект», где его восстановили
-на работе. Всё лето мы провели в Косино.
-Туда приезжали его институтские товарищи.
-Вообще жизнь ~~тихо~~ потихоньку восстанавливалась.
-
-Надо отдать Саше справедливость, что
-он никогда меня не спрашивал, как я
-жила эти 5 лет. Ни вопроса, ни упрека.
-Как он сказал: «То, что было, меня не
-интересует.» Всё. Не такое был способен
-только «мой Санечка», который очень любил
-меня, да и я тоже. И очень мало рассказывал
-о тех ужасах, которые он пережил.
-Осенью мы переехали в Москву, пошли на
-работу: я в школу, он — в Стальпроект.
-
-В декабре 1954 у нас случилось несчастье: заболел
-мой папа. Сначала у него был малый инсульт,
-думали, что дело пойдет на поправку.
-А в январе случился второй инсульт — очень
-тяжелый. Папу отправили в больницу.
-Мама пропадала там, хотя больница
-была хорошей (Кремлёвка), но отец её не
-отпускал. В больнице он был долго.
-А после этого его отправили в санаторий
-«Кратово» (для старых большевиков).
-Мама поехала с ним. Дело шло к осени.
-Я навещала их, но папа не очень был
-
----
-
----
-
-*← [Youth and meeting Sasha (pp. 134–139)](/en/memoirs/diary/16-friends-victory-134-139/) · [Notebook contents](/en/memoirs/diary/) · [Family and children (pp. 150–161)](/en/memoirs/diary/18-sons-150-161/) →*
+*← [Youth and meeting Sasha](/en/memoirs/diary/16-friends-victory-134-139/) · [Notebook contents](/en/memoirs/diary/) · [Study, work, and reunions](/en/memoirs/diary/18-study-work-reunions/) →*

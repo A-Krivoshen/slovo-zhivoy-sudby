@@ -1,11 +1,11 @@
 ---
-title: "Friends’ front-line letters (pp. 128–133)"
+title: "Wartime comrades’ letters"
 date: 2026-08-01
 weight: 160
 ShowReadingTime: false
-draft: true
-description: "Letters and a postcard from wartime friends addressed to Tanya."
-summary: "Pp. 128–133 — friends’ front-line letters."
+draft: false
+description: "Context for the collection of friends’ front letters and a New Year postcard; the letters themselves are under Documents."
+summary: "Comrades’ letters — document collection."
 translationKey: "diary-15-pisma-128-133"
 tags: ["diary", "notebook"]
 categories: ["Memoirs"]
@@ -14,227 +14,57 @@ ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
 source_pages_original: "128-133"
 transcription_status: "first_pass"
-translation_status: "incomplete"
-editorial_status: "working"
-last_verified: "2026-08-01"
+translation_status: "complete"
+editorial_status: "structure_pass"
+last_verified: "2026-08-02"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
-**Friends’ front-line letters** inserted in the notebook: wartime voices addressed to Tanya.
 
-**Letters** are also in the document collection: [Letters from the front](/en/documents/letters-from-the-front/).
+**Wartime letters** and a postcard inserted in the notebook. Full texts with reading and diplomatic transcription are in the collection [Letters from the front](/en/documents/letters-from-the-front/).
 
-*Letter texts as on the leaves; uncertain places are marked.*
-
-*English translation of the letter texts is still being prepared; the Russian transcription of each leaf is given below.*
+The author’s bridge to a comrade’s letter is in the chapter [School and war](/en/memoirs/diary/14-war-evacuation-120-127/) (leaf 127).
 
 ---
 
-<!-- p. 128 -->
+## Letters (separate documents)
 
-{{< figure src="/photos/dnevnik-tt/str-128.jpg" caption="A wartime letter." >}}
-
-*[Text of the letter or document (Russian):]*
-
-Здравствуй, Таня!
-Я получил от тебя письмо. По размерам и содержанию оно очень маленькое и краткое, собственно ты ничего не написала, я не знаю почему и может быть
-после моего ты напишешь более задушевное и веселое
-письмо, которое так могут излагать москвичи.
-Твое письмо, безусловно, произвело на меня особое впечатление так как я не ожидал его от тебя.
-Да, ведь это вполне естественно.
-Таня! Ты изъявила желание иметь со мной
-переписку, которая должна быть продолжением
-нашей дружбы ....
-Правда, когда я был у вас ты держала себя
-слишком гордо и оставила себя неприступной девой
-.... Я вас люблю к чему лукавить?
-Но я другому отдана
-И буду век ему верна.
-Таня! Простите я тебя не так понял, во
-всяком случае в этом хотя сколько нибудь
-имеется правды.
-Я должен признаться от чистого сердца, что
-когда впервые увидел тебя, ты мне очень
-понравилась. Твое появление в комнате,
-твой тайный взгляд всегда приводили меня
-в волнение, я старался поговорить с тобой
-но все это как-то не получалось и при том
-ты держала себя слишком дерзко, называя, злой
-Я это, конечно, принимал в шутку.
-Таня! Сейчас наступила весна. Самое веселое
-самое наилучшее время для молодых людей
-
----
-
-<!-- p. 129 -->
-
-{{< figure src="/photos/dnevnik-tt/str-129.jpg" caption="Continuation of the letter." >}}
-
-*[Text of the letter or document (Russian):]*
-
-ведь весна - по существу, есть символ молодости,
-счастья, веселья. Что может быть приятней как в один
-из таких очаровательных апрельских и в особенности
-майских, вечеров пойти погулять с любимой девушкой.
-Приятный свежий воздух, тихое синее небо со многими
-твоими неведомыми звездами, какой-то особенный шум
-города, все это очаровывает и вносит в сердце каждого человека бодрость, стремление к жизни с весны
-Сейчас, Таня, нет возможности встретить тебя,
-но я надеюсь что в недалеком будущем в Москве
-мы встретимся снова, при условии если ты будешь
-согласна.
-Таня! Я очень тебя прошу, вот[?] чтобы ты мне
-прислала свою фотокарточку, тогда я тоже
-пришлю тебе.
-Таня! твой брат Геша и друзья Витя, Коля
-живы и здоровы и передают тебе привет.
-Прости что моей вине плохо написал.
-Жду с нетерпением ответа.
-Крепко жму твои руки и желаю всего наилучшего
-в твоей молодой жизни.
-              С приветом Миша Фриоленко
-Пиши теперь ответ только по такому адресу:
-Полевая почта 18003 „г.“
-Фриоленко Михаилу Макаровичу.
-20 апреля 1943г.
-
-[тёмным: зачёркнуто / штрихи — не читается]
-[красным:] Скоро[?] всех обниму!
+| Leaf | Document |
+|------|----------|
+| 128–129 | [20 Apr 1943 — Misha Friolenko to Tanya](/en/documents/letters-from-the-front/letter-128-129-to-tanya-from-comrade/) (**not** brother Tyoma) |
+| 131 | [“Tanyusha!” — Gennady](/en/documents/letters-from-the-front/letter-131-tanyusha/) |
+| 132 | [18 Nov 1943 — Gennady from hospital](/en/documents/letters-from-the-front/letter-132-gennady-18-11-1943/) |
+| 133 | [29 Nov 1943 — Gennady](/en/documents/letters-from-the-front/letter-133-gennady-29-11-1943/) |
 
 ---
 
 <!-- p. 130 -->
 
+## New Year postcard
+
+Separate page: [New Year postcard (leaf 130)](/en/documents/letters-from-the-front/postcard-130-new-year/).
+
 {{< figure src="/photos/dnevnik-tt/str-130.jpg" caption="New Year postcard." >}}
 
-*[Text of the letter or document (Russian):]*
+### Reading
 
-Levelezö-Lap — Postkarte — Correspondenzkarte
-Cartolina postale — Carte postale — Briefkaart
-Union postale universelle — Weltpostverein — Union postale universelle
+Multilingual postcard form (Levelezö-Lap / Postkarte / Carte postale…).  
+“Tanichka! Happy New Year…” — a verse greeting; address and signature need further verification.
 
-Таничка!
-Поздравляю
+<details>
+<summary>As in the manuscript (p. 130)</summary>
 
-С
-НОВЫМ
-ГОДОМ
+```
+Таничка! Поздравляю
+С НОВЫМ ГОДОМ
+…
+```
 
-Дорогая
-п-я 1 п/я № 268 „п“
+*Full line-by-line reading is by the scan; illegible places marked [?].*
 
-За новый год поздравляю
-Я от души тебя целую
-За то, чтоб жизнь нашей
-милой
-прошла без горя и
-печали.
-— // —
-
-За жизнь и счастье
-желания
-За юность - молодость
-твою
-За чувства нежные
-вечные[?]
-Очень целую и люблю
-— // —
-
-[?] счастья[?]
-В море[?] нежных чувств
-любви
-Я о тебе думаю милая
-Целую, любящий мой.
+</details>
 
 ---
 
-<!-- p. 131 -->
-
-{{< figure src="/photos/dnevnik-tt/str-131.jpg" caption="Letter: “Tanyusha!”" >}}
-
-*[Text of the letter or document (Russian):]*
-
-Танюша!
-
-Что-то уже давно
-от тебя не получаю
-писем. Мне не смешно
-и остаюсь должником.
-Я жив, здоров.
-
-Желаю здоровья, привет
-папе и маме с
-приветом -
-— Геннадий.
-
-Жду писем.
-
-1 марта «С весной!».
-
----
-
-<!-- p. 132 -->
-
-{{< figure src="/photos/dnevnik-tt/str-132.jpg" caption="Letter from Gennady Vokhmintsev, 18 Nov 1943." >}}
-
-*[Text of the letter or document (Russian):]*
-
-Письмо от Геннадия
-Вохминцева                    18-11-43.
-
-Дорогая Таня!
-Получил твое письмо и прочитав
-его я хотел тебе в таком же тоне
-ответить, а именно нехорошо и
-я испугался не ответить на ряд
-твоих писем, но у меня есть
-причина - был занят по делам.
-Ну ничего ты, я думаю, друг
-друга извиним.
-Танюша! Про окончание какого
-учебного заведения ты пишешь
-с таким восторгом и всеми,
-что ты думаешь дальше?
-Я живу по старому без перемен.
-- погода у нас скверная.
-Твои очки[?] Кале[?] остановили
-твои[?] смотрели. Когда ты мне
-описала как в театре немецкий[?]
-взятие Харькова я очень смеялся
-и рассказывал про это своим
-боевым товарищам.
-Вот и все. Танечке пиши
-привет папе и маме —
-                    — Геннадий.
-
----
-
-<!-- p. 133 -->
-
-{{< figure src="/photos/dnevnik-tt/str-133.jpg" caption="Letter from Gennady, 29 Nov 1943." >}}
-
-*[Text of the letter or document (Russian):]*
-
-29-11-43.
-
-Танюша, как ты можешь убедиться
-по этому письму написал я тебе
-давно, но т.к. не было возможности
-найти конверт то задержал его
-с отправлением на целых одиннадцать[?]
-дней, но даже за столь продолжительное время в жизни никаких перемен
-не произошло. Кругом снега - зима а
-мы переживаем еще период осени
-и снега еще не видим.
-Таня, ну дорогая моя. будь
-здорова пиши, что будешь
-я все буду, читать с большим удовольствием.
-Целую досвидания[?]
-                    — Геннадий.
-
----
-
----
-
-*← [School and war: evacuation (pp. 120–127)](/en/memoirs/diary/14-war-evacuation-120-127/) · [Notebook contents](/en/memoirs/diary/) · [Youth and meeting Sasha (pp. 134–139)](/en/memoirs/diary/16-friends-victory-134-139/) →*
+*← [School and war](/en/memoirs/diary/14-war-evacuation-120-127/) · [Notebook contents](/en/memoirs/diary/) · [Youth and meeting Sasha](/en/memoirs/diary/16-friends-victory-134-139/) →*

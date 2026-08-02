@@ -1,463 +1,97 @@
 ---
-title: "School and war: evacuation (pp. 120–127)"
+title: "School and war"
 date: 2026-08-01
 weight: 150
 ShowReadingTime: false
-draft: true
-description: "1941–1942: evacuation, life with relatives, return to Moscow, school."
-summary: "Evacuation, return, and school in wartime."
+draft: false
+description: "The last pre-war form, 22 June 1941, evacuation to Kuibyshev, return to Moscow, and meeting classmates — including Sasha Krivoshein."
+summary: "School and the war years."
 translationKey: "diary-14-school-and-war"
-tags: ["diary", "notebook"]
+tags: ["diary", "notebook", "war"]
 categories: ["Memoirs"]
-people: ["Tatyana Timofeevna Krivosheina"]
+people: ["Tatyana Timofeevna Krivosheina", "Aleksandr Dmitrievich Krivoshein"]
 ShowToc: true
 source_title: "Our genealogy: the Samsonovs"
-source_pages_original: "120-127"
-transcription_status: "first_pass"
-translation_status: "incomplete"
-editorial_status: "working"
-last_verified: "2026-08-01"
+source_pages_original: "118-127"
+transcription_status: "editorial_structure"
+translation_status: "complete"
+editorial_status: "reader_chapter"
+last_verified: "2026-08-02"
 source_type: "manuscript"
 privacy_reviewed: true
 batch_id: "manuscript-2026-08-01-b02"
 ---
-Continuation of the “School and war” line: evacuation, the journey, life with relatives, return to an emptied Moscow, and school again.
 
-*From the handwritten notebook.*
+*From the handwritten notebook. Tatyana Timofeevna’s voice.*
 
-*English translation of these notebook pages is still being prepared; the Russian transcription is given below.*
+## The pre-war form
 
----
+7th form (the last pre-war). (1940–1941)
 
-## School and war {#shkola-i-voyna}
+In June I went to Inna’s dacha at Gorkina. Next to her dacha was the dacha of Hero of the Soviet Union Filippov (he was the second pilot of M. M. Gromov’s crew, which after Chkalov flew to America over the North Pole). He had a son whom everyone for some reason called Buba or Bulka. Not far from them were also the Khramovs’ and Maya’s dachas, and we were friends with Bulka. Well, you know well: Inna and I together “fell in love” with Bulka. But he paid us no attention, and we tried with all our might to be in their company. But we had talked ourselves into being “in love” with him.
 
-<!-- p. 120 -->
+Then lessons began. At our school a new physical-education teacher appeared. He had just finished a PE technical school and came to our school with his daughter Valentina. She was also a PE teacher. They were very young. His name was James Ambatsu[?]; he was Persian by nationality, handsome, with black eyes and hair, and Valya was a small blonde. And our new PE teacher developed vigorous activity. He himself played volleyball very well; he played for Spartak. He infected us with volleyball. I was ready to play every day; I played not badly, given dacha experience. On our team also played Stella Burgshaft[?], Olya Kazakova; I remember no one else. We also had a boys’ team with whom we played. On their team was one boy, Borya Medvedev. He was in the 9th form of the higher conversation[?] with the school’s art section. Apparently I pleased him. He singled me out from the other girls. And when I took up gymnastics he once said to me: “Valya Bolenko, modesty suits you better than gymnastics!” I am very sorry for him; he was killed at the front. Many of our boys were killed at the front. How terrible to leave life so young.
 
-{{< figure src="/photos/dnevnik-tt/str-120.jpg" caption="Evacuation: air raids, the road to Kuybyshev." >}}
+We / our girls’ and boys’ team [struck through: went to the r. r.[?]] played in district and city competitions. We played well.
 
-*[Text of the notebook page (Russian):]*
+Along with that I took up gymnastics. I was even a member of Spartak (PE). He got us Spartak kit there and we proudly wore those red cubes. Things went well for me here too; I also competed in district gymnastics. I liked the uneven bars best. Our PE teacher (James) was reproached that many children who did sport studied poorly. And in defence he always named my surname (Samsonova), saying that she studies well.
 
-3-го июля по радио выступил Сталин.
-Мы с девочками отправились в соседнее с тетей, чтобы тоже оказать помощь[?]. Нам дали участок с огурцами и сказали: «Помоги!» Мы стали полоть, а грядки были длиннющие, конца краю не видно. Солнечно немцки[?], но мы не сдавались. К
-концу дня нам удалось прополоть несколько грядок, да и все мы сопели свои силы[?]. На следующий день мы уже не пошли.
-Вскоре мы уехали с дачи и стали собираться в Куйбышев, где служил зять
-мой Николай.
+In winter Kira Pronyukai had a birthday and she always invited her girlfriends. Among them was I. And she lived in Zaryadye, in Elokhov[?] Lane. That is gone now — demolished. And so we arranged dances to the gramophone. And for the first time I danced a tango with a boy, “Voyage[?] goes.” To this day I remember that music. In short — we had grown up.
 
-Всё. Мирная жизнь кончилась. Если я
-не ошибаюсь уже в июле случилось
-несколько налетов немцев. Самолетов на
-Москву.
+On 1 March Inna Grebneva turned 15. And she was admitted to the Komsomol. How we envied her, but we were still 14.
 
-Мои родители решили отправить нас
-и бабушку вместе с Женей. Мама поехала нас провожать. Ехали мы долго, очень
-обидно. Пропускали военные эшелоны.
-На одной из станций мы видели проводы мужчин, которых призывали. Женщины,
-которые их провожали, кричали так, что этот крик я запомнила на всю жизнь.
+We were finishing the 7th form. We sat exams. There were many exams. And then Trouble struck: Nora, coming to exams, said her head hurt and she had a temperature, but she came to sit them; she studied well. And on some day she did not come, and we learned she had been put in hospital. Our team, learning where she was, went there. But they would not let us all to her; we seconded Inna. Nora was bad. She had meningitis. Soon she died. Such a beautiful and clever girl she was. Life was only just beginning and suddenly the end. We could not accept it. That was the first death for us. Poor Nora. We were at her funeral, and we could not believe she was gone. That funeral made a terrible impression on me. I saw it for the first time, and it was toward evening. We sat the exams, went into the 8th form; many had already left for the dacha. That year we were late leaving. A sick aunt arrived with a child; Petya was sitting exams for the 10th form. Exactly on 22 June we gathered for the dacha. It was Sunday. And at 12 noon we heard the terrible announcement: war had begun! We sat by the radio as a whole family. Aunt Zatsepskaya, because her husband was a military man, but we still went. Grandmother, Dusya, Zhenya’s son and I; they put the aunt in hospital because she was unwell. Mama came to us.
 
-И вот мы доехали до Куйбышева (Самара[?]). Нас встретил Николай и как ни странно там были еще извозчики, и мы доехали до дома на извозчике.
+On 3 July Stalin spoke on the radio. The girls and I set off to the neighbour with the aunt, also to give help[?]. We were given a plot with cucumbers and told: “Help!” We began weeding, and the beds were endless. Sunny German[?], but we did not give up. By the end of the day we had managed to weed several beds, and we had all spent our strength[?]. The next day we did not go. Soon we left the dacha and began to prepare for Kuibyshev, where my brother-in-law Nikolai served.
 
-Дом этот находился в центре города,
-на Некрасовской улице, она была направлена[?]
-перпендикулярно главной улице и шла
-круто вниз к Волге. Дом был 4х этажный.
-Это были вечные общежития: вписанные[?]
-коридоры, а по сторонам были клеточки.
-Наша камера находилась на 3-ем этаже.
-Эту большую комнату с двумя окнами
-перегородили, сделав так, что получилось
-2 жилые комнаты и маленькая прихожая. Отопление было печное. Кухня была
-общая, большая с большой плитой, которая отапливалась дровами.
+That is all. Peaceful life was over. If I am not mistaken, already in July there were several German air raids. Aircraft on Moscow.
 
-Вскоре мама нашла нам помощницу,
-договорилась с ней, т. к. надо было ухаживать за мальчиком. Женю скоро определили
-в больницу, я ходила к ней, что-то покупала ей на рынке.
-Потом мама уехала. И мы остались с
-Николай пока был в городе. Вскоре эта
-помощница ушла, и мы с бабушкой
-остались с мальчиком. Я что-то дала
-бабушке[,] менялась с маленьким, но
-вскоре он заболел дизентерией и его
-взяли в больницу, оттуда он не вернулся.
-Это было в начале сентября.
+My parents decided to send us and Grandmother together with Zhenya. Mama came to see us off. We travelled a long time, very painfully. Military trains were let through. At one station we saw men being seen off who had been called up. The women who saw them off cried out so that I remembered that cry all my life.
 
----
+And so we reached Kuibyshev (Samara[?]). Nikolai met us and, strangely, there were still cabmen there, and we rode home in a cab.
 
-<!-- p. 121 -->
+That house was in the centre of the city, on Nekrasovskaya Street; it ran[?] perpendicular to the main street and went steeply down to the Volga. The house was four storeys. These were eternal hostels: inscribed[?] corridors, and cells on the sides. Our chamber was on the 3rd floor. This large room with two windows had been partitioned so that there were two living rooms and a small entrance hall. Heating was by stove. The kitchen was common, large, with a large range heated by wood.
 
-{{< figure src="/photos/dnevnik-tt/str-121.jpg" caption="Kuybyshev: ration cards, school, housework, Komsomol." >}}
+Soon Mama found us a helper; she arranged with her, because the boy had to be looked after. Zhenya was soon put in hospital; I went to her, bought her things at the market. Then Mama left. And we stayed with Nikolai while he was in the city. Soon that helper left, and Grandmother and I were left with the boy. I gave Grandmother something, changed with the little one, but soon he fell ill with dysentery and was taken to hospital; from there he did not return. That was at the beginning of September.
 
-*[Text of the notebook page (Russian):]*
+With Nikolai came his sister Valentina, a charming person. Then in October Zhenya died. We did not tell her of the little one’s death.
 
-С Николаем приехала его сестра Валентина,
-очаровательная личность. Потом в октябре умерла
-Женя. Мы ей не говорили о смерти маленького.
+And so Grandmother and I were left alone. Two dependent ration cards. On them we received 400 grams of bread a day, 200 g of sugar a month, 600 g of cereals and that was all. I enrolled at school No. 74 near home in the 8th form. But soon that school building was taken for a hospital, and we were moved to some school far from home, in the 3rd shift. I came home about 11. But I studied.
 
-Вот так мы остались с бабушкой одни.
-2 иждивенческие карточки. На них мы получали 400 граммов хлеба в день, 200 гр сахара
-в месяц, 600 гр крупы и всё.
-Я записалась в школу №74 недалеко от дома
-в 8-ой класс. Но вскоре это помещение школы заняли под госпиталь, а нас перевели
-в какую-то школу, далекую от дома, в
-3-ю смену. Я приходила домой часов в 11.
-Но училась.
+I had great difficulties with the household. I did not know how to heat the stove; the wood was wet; sometimes kerosene was brought into the yard… I forgot to mention that at the entrance to the house there were duty personnel, students of the military medical academy. The house belonged to the Military Medical Academy. Somehow I managed the household; I no longer remember what I did. Washed, made tea, somehow heated the stove. There was nowhere to wash except the bathhouse. The lavatory was rather far from our room. Alone with Grandmother it was hard and hungry. Then Nikolai left, but before leaving he brought us potatoes and cabbage. I went to the market, but the market was expensive. Parents sent money, but it was always hard for me to get it, because I had no passport; I had turned 15. Each time I went to the headmaster so he would sign a certificate for receiving money. Then Papa arranged at the People’s Commissariat (Ministry) that at an analogous plant subordinated to that Commissariat I should be given 600 rubles monthly, and those sums were deducted from his salary in Moscow. That eased my existence a little. But money was catastrophically short. At the market, I remember, a loaf of bread cost 70 rubles. Mama also sent money.
 
-Были большие трудности у меня по хозяйству. Печь я топить не умела, дрова
-были сырые, иногда во двор привозили
-керосин…
-Я забыла упомянуть о том, что при
-входе в дом стояли дежурные, слушатели
-военной мед. академии. Дом принадлежал
-Военно-мед. академии.
-Я как-то занималась хозяйством, уж не
-помню, что делала. Стирала, чай-ли варила, как-то топила печь. Помыться
-было негде, только в бане. Туалет был
-далековато от нашей комнаты. Нам одним
-с бабушкой трудновато и голодовато.
-Потом Николай уехал, но перед отъездом
-он привез нам картошки и капусты.
-Я ходила на рынок, но рынок был дорогой.
-Деньги родители присылали, но мне
-всегда было их трудно получить, т. к. у
-меня не было паспорта, мне исполнилось
-15 лет. Каждый раз я ходила к директору школы с тем, чтобы он подписывал мне справку на получение денег.
-Потом папа договорился в Наркомате
-(Министерстве) о том, чтобы мне выдавали
-на аналогичном заводе, который подчинялся
-этому Наркомату, ежемесячно 600 рублей,
-а эти деньги у отца высчитывали из
-его зарплаты в Москве. Это немного
-облегчило мне существование. Но денег
-нехватало катастрофически. На рынке, помню,
-буханка хлеба стоила 70 рублей. Мама
-тоже присылала деньги.
+Being an active girl, I joined the Komsomol and took part in all events. I studied well. Here in Kuibyshev I met Lilya Kabulova, but they lived in quite different conditions. Your mama, houseworker Galya, papa’s brother, a good flat, good food. They then studied at a special school where Svetlana (Stalin’s daughter), Valya Merkulov and the like studied.
 
-Будучи активной девочкой, я вступила в
-комсомол, принимала участие во всех
-мероприятиях. Училась хорошо.
-Здесь, в Куйбышеве, я встретила Лилю Кабулову,
-но они жили совсем в других условиях.
-Ваша мама, домработница Галя, папа
-брата, хорошая квартира, хорошая еда.
-Учились они тогда в спец. школе, где
-училась Светлана (дочь Сталина), Валя Меркулов
-и тому подобные.
+I met my friend Irina Grebneva, but she lived far from me, on Polevaya Street. They had evacuated with the Hospital where her sister worked. They were somehow settled. With her were Mama, Grandmother, sister, and I was alone in that Kuibyshev city. And the winter was cold.
+
+So we lived. At the academy there were concerts (D. Krasnoman[?]’s jazz and others), and after that dances. I sometimes went there with Valentina and danced too. I had an admirer there (a student). His name was Vanya. And after the concert he walked us home. Sometimes I went to the theatre. There was a German drama theatre. I remember seeing Arbuzov’s play *Tanya* there and something else. We went to the cinema with girlfriends. It was good that our house was in the centre, so walking was not far.
+
+New Year 1942 I saw in at a classmate’s, Lyusya Mamykina. There were other girls too: Lyuda Ermolenko, Lida Samkharlieva[?]. There I first tried beer.
+
+Next to our room lived the Blokhin family. They had a son Mark, and also their relative — a girl from Belorussia. His mother was a doctor, and his father (also a doctor) was at the front. We were a little friendly. We even sometimes cooked potatoes in one pot if I had no kerosene. So his potatoes lay at the bottom of the pot and mine on top.
+
+By spring we were hungry. And somehow Valentina brought some millet, and I exchanged a length of paper cloth for eggs.
+
+In spring Mama came to us with Dusya. Mama had changed greatly, grown thin, aged, and she was only 42. She had difficulty getting into Kuibyshev. At that time Kuibyshev was a closed city. With Mama’s arrival it became easier for us. Mama organized food. I sat exams and went into the 9th form. In summer we had to work somewhere a month or a month and a half. I was taken on at a prosthetic factory, where I worked in the shop and processed[?] orders. Every morning I walked to the factory. Here for the first time I heard people swear. One woman who glared[?] at me told me not to take offence or worry; it was just how they did things. So I worked a little over a month. And at that time Mama was trying to get a pass to Moscow. She wrote to Father, to her district committee, but got no positive answer. What did we live on? I don’t know. Mama had brought some food; then we exchanged things at the market. But as I already wrote, Mama met a colleague from the District Committee. He was their house manager. And he had come to Kuibyshev to take out the family of the 1st secretary of the District Committee. They had a special carriage. Mama asked him to take us to Moscow, but he was afraid because we had no pass. Then Mama decided we would go with them as far as a station in Ryazan province, from which my grandmother and Dusya came. That is the village of Popsunovo (Bogoslovo). Grandmother’s brother and two sisters lived there. So farewell, Kuibyshev. Ahead — Moscow! Behind — unsettled and hungry life, but life: with its sorrows and small joys.
+
+We were put in a salon car that was thoroughly crowded. There were not enough sleeping places for us. Where did we sleep? I don’t remember. I only remember that Grandmother sat the whole time in an armchair. How long did we travel? I don’t remember. I remember that at night we approached some station in Ryazan province. We unloaded quickly and were left alone. The train left. Darkness. No station visible. Suddenly we saw a railwayman walking, checking the rails (stepping on them). From him we learned that the station had been bombed and there was a carriage for those waiting. We decided not to go there but to cross the rails and go into the field. We dragged the things — and there were rather many. We dragged Grandmother and sat on the things waiting for dawn. Suddenly we hear an aircraft roar, such an unhealthy one, and see right above us a fascist plane with crosses. It flew right over our heads, very low. Later we learned that that was how they flew to bomb an airfield not far from Ryazan and Solotcha. It began to grow light and we saw several little houses. Mama and I went there, and Mama asked permission to wait some time with them while Dusya and I went to Popsunovo (Grandmother’s and Dusya’s native village); we arranged that someone would come by horse for Mama and Grandmother and fetch them. We set off. It was a long way, about 18 km. At last we reached the house of Grandmother’s brother, Uncle Misha. He was surprised to see us. We were fed and I went into the garden, lay on the grass and fell asleep. And Uncle Misha went to the board to ask for a horse to bring those left at the station. He left. Toward evening Mama and Grandmother arrived. It must be said that Grandmother had not been in her homeland since she was taken to Moscow and put as a nanny to Germans. He was the manager of brewing plants. So we found ourselves in the village. At the kolkhoz we were given a little bread. And otherwise we mainly ate sorrel soup whitened with milk. Mama at once began to write and telegraph to Moscow to Father and to the district committee asking for a pass to Moscow. And at that time I was “called up” once for work at the kolkhoz. With the girls we weeded cabbage and something else, then bathed in the Oka. This village stands on the high bank of the Oka. In the village there was also a monastery, then not working. The bell tower was higher than the kolkhoz[?], and it served the Germans as a landmark. At night there were sometimes air-raid alarms. They struck a hung old rail. At first we left the hut, then we stopped. Mama and I went to the town, but we lacked food, and Mama and I set off to a neighbouring village market to sell some things and buy food. Mama and I stood in a row, hanging out our things. One had to see Mama’s face[?] at that time. We almost wept. But by midday we had sold our stuff. We bought potatoes, rye flour and set off back. And it was rather far to walk. Well, at last we reached home. Now we began to bake our own bread. And at last the long-awaited pass came from her District Committee, but only Mama’s name was on it, not mine. But we decided to go together, and left Grandmother for a time with her sister Aunt Larisa.
+
+Mama and I went to Moscow, though Mama had a pass and I had none. Tickets were hard to get. A huge queue before the ticket office. But Mama still had a document confirming that she was connected with railway transport. And she was given a ticket out of turn. We had much luggage. We travelled not by a local train from station to station, changing at each station. We unloaded all the things; Mama went to the ticket office and I stood on the platform. So from station to station. At last we reached Ramenskoe. There we took an electric train and reached Moscow. We pulled out our luggage, left it in left luggage and went to the exit. We were nervous because I had no pass. Then Mama had an idea and said: “You have a birth certificate confirming that you are from Moscow and live, that you lost Mama.” So we did, and they let us through.
+
+While in Kuibyshev I longed terribly for Moscow. It seemed to me that when I arrived in Moscow I would simply lie on the roadway.
+
+We took the metro and reached home. Father was home; he gave us a smile that somehow did not suit him. He met us coldly. Our flat was quite unlike ours. Two rooms were temporarily occupied by Sovnarkom staff. And then, as I already mentioned, many of our things had disappeared: bed linen, curtains, crockery, a good carpet from the dining room, a fine walnut dining table, books, music and other small things. We returned to a plundered nest…
+
+We did not yet have ration cards. It was good that Mama was treated very kindly in the district. The bread factory gave us black rye rusks they made for the front, several loaves of bread. The Babayev confectionery factory gave Mama a couple of bottles of some syrup, and so on. And then we received cards: Mama a worker’s, I a dependent’s. So began our new life in Moscow.
+
+Our yard was not like the pre-war one; there were few acquaintances; few had yet returned. But one had to live under new conditions. No one. None of the old acquaintances. The school was closed. Then Ira Baranova and I (I had met her; they lived in a “mobile” house) decided to go to the external school; it was in the Mining Institute building. There we began to study, but somehow I did not adapt to such studies. There I met the Leksov brothers: Yura and Valera. And then it turned out our school[?] would work. We went there and I found myself in the 9th form. Lessons almost began; almost none of our old ones were there. The school was cold; it was not heated. And once on a Sunday we were asked to unload firewood that was in the school shed. We came and I saw a boy in boots[?] who had climbed to the very top of the wood and begun kicking the logs down with his feet. He was dark, curly[?]. It turned out he was also from our class. His name was Krivoshein Sasha. In our class studied Yurko Leksov[?], Yura Subbotin. We elected a monitor[?]. The boys played pranks, and I even apologized for them to the teachers. In the classroom it was the same[?], and during lessons we sometimes stood up and threw wood into the stove. Our boys did not listen to us — they were wholly taken with the 10th-form girls. Yura — only Lidiya[?], Yura Subbotin — Elya[?], Sasha — Tamara. In our class there was almost no one from our old class. Then new ones began to appear: Inna Greis[?], Marina Takser (Chaeva’s daughter), Raya Fisher and others. The teachers too were new. Only the chemistry teacher remained (“Uncle Vanya”), physics (Chaev VaPechnikov[?] — a splendid man), mathematics (Postnikov Vasily Mikhailovich, who was also headmaster. He was called “Karakatitsa”). In physics lessons I copied tests from Krivoshein, who sat behind me). I also gave him a recommendation for the Komsomol and then he was elected Komsomol organizer of our class. The boys treated me with respect, and that was all. At that time I was taken with a naval pilot, Hero of the Soviet Union, Gennady Tsokolaev[?]. He was the son of Mama’s friend Zinaida Aleksandrovna. He was near Leningrad. I became very friendly with Zinaida Al. In her flat lived Mama and Zina’s[?] sister.
+
+Also a letter from the front. This letter is from a wounded comrade who came to us with Father’s other friends when their regiment was re-forming after the battle of Stalingrad. I was then in the 9th form. 1943.
+
+Further — the collection [Letters from the front](/en/documents/letters-from-the-front/).
 
 ---
 
-<!-- p. 122 -->
+*The full line-oriented manuscript reading is on the [Russian chapter](/vospominaniya/dnevnik/14-shkola-i-voyna/).*
 
-{{< figure src="/photos/dnevnik-tt/str-122.jpg" caption="New Year 1942; hunger; mother’s arrival; prosthetic factory." >}}
-
-*[Text of the notebook page (Russian):]*
-
-Встретила свою подругу Ирину Гребневу,
-но она жила далеко от меня, на
-Полевой улице. Они эвакуировались с
-Госпиталем, где работала её сестра. Они
-как-то были устроены. С ней была
-мама, бабушка, сестра, а я была одна
-в этом куйбышевском городе. Да и зима
-была холодная.
-
-Вот так мы и жили. В академии бывали концерты (джаз Д. Красномань[?] и др), а
-после этого были танцы. Я иногда ходила
-туда вместе с Валентиной и тоже танцевала. У меня там был поклонник (слушатель).
-Звали его Ваня. И после концерта он
-провожал нас домой.
-Иногда я ходила в театр. Там был
-немецкий драматический театр. Помню,
-смотрела там пьесу «Таня» Арбузова и ещё
-что-то. Ходили с подружками в кино.
-Хорошо, что наш дом находился в центре,
-так что ходить было недалеко.
-
-Новый год 1942 я встретила у одной
-одноклассницы Люси Мамыкиной. Были ещё
-другие девочки: Люда Ермоленко, Лида Самхарлиева[?].
-Там я впервые попробовала пиво.
-
-Рядом с нашей комнатой жила
-семья Блохинных. У них был сын Марк,
-да ещё жила их родственница-девочка
-из Белоруссии. Мать его была врачом, а
-отец (тоже врач) был на фронте. Мы
-немного дружили. Даже картошку иногда
-варили в одной кастрюле, если у меня
-не было керосина. Итак, его картошка
-лежала внизу кастрюли, а моя — наверху.
-
-К весне стало голодно. И как-то
-Валентина привезла какую-то пшенку,
-и я обменяла отрез бумазеи на яйца.
-
-Весной к нам приехала мама с Дусей.
-Мама очень изменилась, похудела, постарела, а ей было всего 42 года. Она с
-трудом пробралась в Куйбышев. В это
-время Куйбышев был закрытым городом.
-С приездом мамы нам стало легче.
-Мама организовала питание.
-Я сдавала экзамены и перешла в 9-ый
-класс.
-Летом мы должны были отработать
-где-нибудь месяц или полтора.
-Меня взяли на протезный завод,
-где я работала в цеху и оформляла[?]
-заказы. Каждое утро я шла на завод
-
----
-
-<!-- p. 123 -->
-
-{{< figure src="/photos/dnevnik-tt/str-123.jpg" caption="Farewell to Kuybyshev; night unload; road to Popushnovo." >}}
-
-*[Text of the notebook page (Russian):]*
-
-Здесь впервые я услышала, как люди матерились. Одна женщина, которая меня оскалила[?],
-говорила мне, чтобы я не обижалась и
-не волновалась, вроде это так у них принято.
-Так я проработала месяц с небольшим.
-А в это время мама старалась достать
-пропуск в Москву. Она писала отцу, в свой
-райком, но положительного ответа не получала. Чем мы жили? Не знаю. Мама привезла с собой какие-то продукты, потом
-меняли вещи на рынке.
-Но как я уже писала, мама встретила
-своего сослуживца из Райкома. Он был завхозом
-у них. И он приехал в Куйбышев с тем,
-чтобы вывезти семью 1-го секретаря Райкома.
-У них был специальный вагон. Мама просила
-его взять нас в Москву, но он побоялся, т.к.
-у нас не было пропуска.
-Тогда мама решила, что мы поедем вместе
-с ними до станции в Рязанской области,
-откуда моя бабушка и Дуся были родом.
-Это — село Попсуново (Богослово). У бабушки
-там жили её брат и две сестры.
-Итак, прощай Куйбышев. Впереди Москва!
-Позади неустроенная и голодовская жизнь,
-но жизнь: с её горестями и небольшими радостями.
-
-Нас посадили в салон-вагон, который был
-основательно запружен. Нам спальных мест
-нехватило. Где мы спали? Не помню. Помню
-только что бабушка все время сидела в
-кресле.
-Сколько мы ехали? Не помню. Помню то,
-что ночью мы подъехали к какой-то
-станции в Рязанской области. Быстро выгрузились и остались одни. Поезд ушел.
-Темнота. Никакой станции не видно. Вдруг
-мы увидели железнодорожника, который шел
-проверяя рельсы (ступая по ним). У него
-мы узнали, что станцию разбомбили и
-есть вагон для ожидающих. Мы решили, что
-не пойдем туда, а решили перейти через
-рельсы и пойти в поле. Перетащили вещи,
-а вещей было многовато. Перетащили бабушку
-и сели на вещах ждать рассвета. Вдруг
-слышим гул самолета, такой нездоровый,
-и видим прямо над нами фашистский самолет с крестами. Он пролетел прямо
-над нашими головами, очень низко летел.
-Потом мы узнали, что таким путем
-они летали бомбить аэродром, который
-находился недалеко от Рязани и Солотчи.
-Стало светать и мы увидели несколько
-домиков. Мы с мамой пошли туда, и
-мама попросила разрешения переждать
-какое-то время у них, пока мы с Дусей
-уйдём до Попсуново (родное село бабушки и
-Дуси), договорились о том, чтобы все
-
----
-
-<!-- p. 124 -->
-
-{{< figure src="/photos/dnevnik-tt/str-124.jpg" caption="Village with relatives; collective farm; pass to Moscow." >}}
-
-*[Text of the notebook page (Russian):]*
-
-мамой и бабушкой приехали бы на
-лошади и забрали их.
-Мы отправились в путь. Идти было
-далеко, км 18. Наконец мы добрались до
-дома, бабушкиного брата, дяди Миши.
-Он был удивлен, увидев нас. Нас покормили
-и я пошла в сад, легла на траву и
-заснула. А дядя Миша отправился в
-правление попросить лошадь, чтобы привезти
-оставшихся на станции. Он уехал.
-Ну к вечеру приехали мама и бабушка.
-Надо сказать, что бабушка не была у себя
-на родине с тех пор, когда её увезли в
-Москву и определили няней к немцам.
-Он был управляющим пивоваренных заводов.
-Итак мы очутились в деревне. В колхозе
-нам дали немного хлеба. А так мы
-ели в основном щавелевый суп, подбеленный молоком. Мама стала сразу писать и
-телеграфировать в Москву отцу и в райком с просьбой о пропуске в Москву. А в это
-время меня «призвали» раз на работу
-в колхозе. Мы с девочками пололи
-капусту и еще что-то, а потом
-купались в Оке. Это село расположено
-на высоком берегу Оки. В селе был еще
-монастырь, тогда не работающий. Колокольня
-была выше колхоза[?], и она служила
-немцам ориентиром. Ночью иногда были
-воздушные тревоги. Били в подвешенный
-старый рельс. Сначала мы выходили
-из избы, а потом перестали.
-Мы с мамой поехали в город, но
-продуктов нам нехватало, и мы с
-мамой отправились в соседнее село
-на рынок, продавать кое-какие вещи
-и купить [все/?] продукты. Мы встали с
-мамой в ряд, развесив наши вещи.
-Надо было видеть мамину мимику[?] в
-это время. Все чуть не плакали. Но
-к середине дня мы распродали
-своё барахло. Купили картошки, ржаной муки и отправились в обратный
-путь. А идти было далековато.
-Ну, наконец мы дошли до дома.
-Теперь мы стали печь свой хлеб.
-И вот, наконец, пришел долгожданный
-пропуск в[?] ее Райкома, но там указано только мамино имя, а меня не
-было. Но мы решили ехать вместе,
-а бабушку на время оставили со ее
-сестрой тетей Ларисой.
-
-Мы с мамой поехали в Москву, да
-в том, что у мамы был пропуск, а
-у меня нет. Билеты достать трудно.
-Перед кассой огромная очередь. Но ма-
-
----
-
-<!-- p. 125 -->
-
-{{< figure src="/photos/dnevnik-tt/str-125.jpg" caption="Return to the looted Moscow flat." >}}
-
-*[Text of the notebook page (Russian):]*
-
-ме, что у нее сохранился документ,
-подтверждающий, что она имеет отношение
-к Ж/д транспорту. И билет ей давали вне
-очереди. У нас было много багажа. Мы ехали
-не местным поездом от станции к станции,
-пересаживаясь на каждой станции. Мы
-выгружали все вещи, мама шла в кассу,
-а я стояла на перроне. Итак от станции
-к станции. Наконец мы доехали до Раменского.
-Там мы сели на электричку и доехали до
-Москвы. Вытащили свой багаж, сдали в
-камеру хранения и на выход. Волновались,
-т.к. у меня пропуска не было. Тогда мама сообразила и говорит: «У тебя есть
-метрика, подтверждающая, что ты из Москвы
-и живешь, что потеряла маму.» Так мы
-и сделали, нас пропустили.
-
-Будучи в Куйбышеве, я очень тосковала
-по Москве. Мне казалось, что когда я
-приеду в Москву, то просто лежу на
-мостовую.
-
-Сели на метро и добрались до дома.
-Отец был дома, он подал нам улыбку,
-которая ему что-то не шла. Встретил
-нас холодно. Наша квартира
-была совсем не похожа на нашу. 2
-комнаты были заняты временно
-работниками Совнаркома. А потом, я
-уже упоминала, у нас пропало много
-вещей: постельное белье, занавески, посуда,
-хороший ковер из столовой, прекрасный
-обеденный стол из ореха, книги, ноты
-и прочая мелочь. Мы вернулись в разграбленное гнездо…
-
-Карточек у нас еще не было. Хорошо,
-что к маме отнеслись очень добро
-в районе. Хлебзавод дал нам черные
-ржаные сухари, которые они делали для
-фронта, несколько буханок хлеба. Кондитер.
-фабрика им. Бабаева дала маме
-бутылки 2 какого-то сиропа и. т. д.
-А потом мы получили карточки: маме —
-рабочую, а я — иждивенческую. Так началась
-наша новая жизнь в Москве.
-
-Наш двор не был похож на довоенный,
-знакомых было мало, мало кто еще
-вернулся. Но надо было жить в новых
-условиях. Никого. Никого из старых знакомых не было. Школа закрыта. Тогда
-я и Ира Баранова (я встретила её,
-они жили в доме-«передвижке») решили
-пойти в экстерн, они был в помещении Горного института. Там мы начали заниматься, но я как-то не
-
----
-
-<!-- p. 126 -->
-
-{{< figure src="/photos/dnevnik-tt/str-126.jpg" caption="School again: 9th form; meeting Sasha Krivoshein." >}}
-
-*[Text of the notebook page (Russian):]*
-
-приспособилась к таким занятиям.
-Там я познакомилась с братьями
-Лекшевыми: Юрой и Валерой.
-А потом оказалось, что наше имя[?]
-будет работать. Мы пошли туда
-я очутилась в 9-м классе. Почти
-начались занятия, наших старых
-почти никого не было. В школе
-холодно, она не отапливалась.
-И вот однажды в воскресенье нас
-попросили разгрузить дрова, которые в сарае школы. Мы пришли
-и я увидела мальчишку в сапогах[?], который влез на самый верх дров и ногами начал скидывать дрова. Он был чернявый, вьющиеся[?].
-Оказалось, что он тоже из нашего
-класса. Звали его Кривошеин Саша. В нашем классе учился Юрко Лекшев[?], Юра Субботин. Мы выбрали старосту[?]. Мальчишки проказничали, а я даже извинялась за них перед
-учителями. В классе было одинаково[?], и мы во время уроков
-иногда вставали, подкидывали дрова в печку. Наши мальчики
-нас не слушались — всецело они
-были увлечены девочками из 10класса. Юра — только Лидия[?], Юра
-Субботин — Эля[?], Саша — Тамара.
-В нашем классе почти не было
-никого из нашего старого класса.
-Потом стали появляться новые:
-Инна Грейс[?], Марина Таксер (дочь
-Чаева), Рая Фишер и др.
-Учителя тоже были новые.
-Остались только учитель химии
-(«дядя Ваня») физики (Чаев ВаПечников[?] — славный был человек),
-математики (Постников Василий
-Михайлович, он же был и директор. Его звали «Каракатица»).
-На уроках физики я списывала
-контрольные у Кривошеина, который сидел за мной). Ему же
-дала рекомендацию в Комсомол
-а потом он был избран комсоргом нашего класса. Мальчики относились с уважением, да и только.
-Я в это время была увлечена
-морским летчиком, Героем Советского Союза, Геннадием Цоколаевым[?].
-Он сын маминой подруги
-Зинаиды Александровны. Он был
-под Ленинградом. Я очень подружилась с Зинаидой Ал. В ее квартире жили мама и сестра Зины[?].
-
----
-
-<!-- p. 127 -->
-
-{{< figure src="/photos/dnevnik-tt/str-127.jpg" caption="Introductory note to a front letter (1943)." >}}
-
-*[Text of the letter or document (Russian):]*
-
-Тоже письмо с фронта.
-Это письмо от раненного
-товарища, который приходил
-к нам вместе с другими
-друзьями папы, это было
-в то время, когда их полк
-пребывал на переформировании
-после битвы под Сталинградом.
-Тогда я училась в 9-ом
-классе. 1943 год.
-
----
-
----
-
-*← [Tanya: childhood and school (pp. 109–119)](/en/memoirs/diary/13-school-friends-109-119/) · [Notebook contents](/en/memoirs/diary/) · [Friends’ front-line letters (pp. 128–133)](/en/memoirs/diary/15-wartime-letters-128-133/) →*
+*← [Tanya: childhood and school](/en/memoirs/diary/13-school-friends-109-119/) · [Notebook contents](/en/memoirs/diary/) · [Wartime comrades’ letters](/en/memoirs/diary/15-wartime-letters-128-133/) →*

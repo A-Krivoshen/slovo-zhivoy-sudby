@@ -615,7 +615,7 @@ I don’t know whether it interests you to read
 about your grandma? But all the same I decided  
 to continue. So I am 4 years old, and  
 we are moving to a new house, the one on  
-Serafimovich Street. Our flat No. 23  
+Serafimovich Street. Our flat No. 223  
 was on the 4th floor, and the windows  
 looked out onto the Moskva River and onto the back  
 courtyard, which for some reason we  
@@ -664,7 +664,7 @@ Only one remained — Inna.
 ### Places
 - **Serebryany Bor**, dacha from **1927**: 1st prosek (line), **house No. 2**, circle of bus stop **bus No. 4**; nearby a school (pre-rev., one-storey, of century-old pines) — a camp in summer.
 - Dacha: log, 2 storeys; balcony, billiards, 2 entrances (main onto the balcony / back); plot, flower garden, kitchen garden.
-- **Serafimovich Street**, **flat No. 23**, **4th floor**; windows onto the **Moskva River** and the courtyard “**Stinky**”; originally **6 rooms**, then reconfigured (a 2nd flat on the floor).
+- **Serafimovich Street**, **flat No. 223**, **4th floor**; windows onto the **Moskva River** and the courtyard “**Stinky**”; originally **6 rooms**, then reconfigured (a 2nd flat on the floor).
 - **Kislovodsk**, sanatorium “**10 Years of October**”; Lermontov’s grave; rest houses “**Vasilyevka**,” “**Zinovyevka**” (Sochi / the south).
 - **Leningrad**, Hotel “**Evropeiskaya**”; **Gostiny Dvor**.
 - **Sochi** — parents’ summer trips with the children in turn.

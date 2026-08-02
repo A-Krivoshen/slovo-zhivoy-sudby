@@ -4,8 +4,8 @@ date: 2026-08-01
 weight: 100
 ShowReadingTime: false
 draft: false
-description: "Portraits, Dzerzhinsky’s certificate, citations, the Alexandrovsk central."
-summary: "Portraits, Dzerzhinsky’s certificate, citations, the Alexandrovsk central."
+description: "Portraits, Dzerzhinsky’s certificate, citations (notebook pp. 072–079). Alexandrovsk Central is in the next chapter."
+summary: "Portraits, Dzerzhinsky’s certificate, citations (pp. 072–079)."
 translationKey: "diary-09-dokumenty-v-tetradi"
 tags: ["diary", "notebook"]
 categories: ["Memoirs"]

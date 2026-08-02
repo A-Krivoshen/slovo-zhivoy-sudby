@@ -1,7 +1,7 @@
 ---
 title: "Diary / notebook"
-description: "Transcription of Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs” — chapter by chapter, first person; new pages are published in blocks."
-summary: "Notebook chapters; the archive is growing (incl. pp. 080–161)"
+description: "Transcription of Tatyana Timofeevna’s handwritten notebook “Our genealogy: the Samsonovs” — chapter by chapter, first person; pages 001–161."
+summary: "Notebook chapters from cover through family years (pp. 001–161)"
 translationKey: "diary"
 ---
 
@@ -27,21 +27,22 @@ The text is prepared from family scans. Unclear places are marked in square brac
 7. [Documents and congresses](/en/memoirs/diary/06-documents-congresses/) — delegate lists, certificates, newspaper clippings  
 8. [Dacha, rest, anniversaries](/en/memoirs/diary/07-dacha-anniversaries/) — Serebryany Bor, flowers, verse for Tanya and Sasha  
 9. [Father’s character](/en/memoirs/diary/08-father-character/) — principles, gifts, garden, students, 1951  
-10. [Documents in the notebook](/en/memoirs/diary/09-documents-in-notebook/) — portraits, Dzerzhinsky certificate, awards, Alexandrovsky Central  
-
-### Continuation (pp. 080–161)
-
-English text for the continuation is still being prepared. **Published in English now:**
-
+10. [Documents in the notebook](/en/memoirs/diary/09-documents-in-notebook/) — portraits, Dzerzhinsky certificate, awards  
 11. [Timofey Petrovich’s story continued; sister Genya](/en/memoirs/diary/10-notebook-continued-080-089/) — Father; beginning of sister Genya  
 12. [Sister Genya and brother Tyoma](/en/memoirs/diary/11-notebook-continued-090-099/) — Genya’s fate; brother Tyoma  
+13. [Uncle Tyoma: documents and Stalingrad](/en/memoirs/diary/12-brother-front-letters-101-108/) — exam photo, front letters, Stalingrad medal  
+14. [Tanya: childhood and school](/en/memoirs/diary/13-school-friends-109-119/) — birth, yard, school, friends  
+15. [School and war](/en/memoirs/diary/14-war-evacuation-120-127/) — 1941, Kuibyshev, return, classmates  
+16. [Wartime comrades’ letters](/en/memoirs/diary/15-wartime-letters-128-133/) — Friolenko, Gennady, New Year postcard  
+17. [Youth and meeting Sasha](/en/memoirs/diary/16-friends-victory-134-139/) — sixteenth birthday, love for life  
+18. [Crimea, Sevastopol and the beginning of the family](/en/memoirs/diary/17-crimea-family-140-149/) — Crimea, marriage, Mitya  
+19. [Study, work, and class reunions](/en/memoirs/diary/18-study-work-reunions/) — diploma, arrest of 1949, teaching  
+20. [Family and children](/en/memoirs/diary/18-sons-150-161/) — Sasha’s return, sons, later years  
 
-**Documents already in English** (not diary bulk dumps):
+### Documents and photos
 
-- [Letters from the front](/en/documents/letters-from-the-front/) — wartime correspondence collection  
+- [Letters from the front](/en/documents/letters-from-the-front/)  
 - [Stalingrad medal certificate (Timofey Timofeevich)](/en/documents/stalingrad-defense-medal-samsonov-tt/)  
 - [Family photo album (continuation)](/en/photos/notebook-family-continued/)  
-
-Russian chapters for school, war, youth, Crimea, and family (notebook pp. 101–161) remain on the [Russian site](/vospominaniya/dnevnik/) until full English translation is ready. Incomplete English drafts with Russian body text are **not** published.
 
 See also: [Places on the map](/en/places/family-moscow/) · [Timofey P. Samsonov](/en/parents/timofey-petrovich-samsonov/) · [Eva Konstantinovna](/en/parents/eva-konstantinovna/) · [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/)

@@ -184,7 +184,7 @@ letters:
     source_pages: [89, 90]
     scan_ids: [str-089, str-090]
     url_ru: /dokumenty/pisma-s-fronta/pismo-vstavka-sestre-089-090/
-    url_en: null
+    url_en: /en/documents/letters-from-the-front/letter-insert-sister-089-090/
     date: null
     date_on_leaf: null
     author_id: null
@@ -204,7 +204,7 @@ letters:
     source_pages: [130]
     scan_ids: [str-130]
     url_ru: /dokumenty/pisma-s-fronta/otkrytka-130-novyj-god/
-    url_en: null
+    url_en: /en/documents/letters-from-the-front/postcard-130-new-year/
     date: null
     date_on_leaf: null
     author_id: null

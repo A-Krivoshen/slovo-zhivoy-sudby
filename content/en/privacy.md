@@ -43,3 +43,8 @@ Please include the page URL and, if possible, the text fragment. We will try to 
 ## Limitation
 
 This page is a **practical** description of a family website, not legal advice and not an offer.
+
+## Historical addresses in the manuscript
+
+Addresses from the **1930s–1940s** notebook (including the house on Serafimovich Street, historical flat **223**, entrance **12**) are **past** addresses from memoirs and wartime letters, not current locations of living people. Present-day entrance/flat numbers of living people are **not** published on public pages.
+

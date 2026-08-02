@@ -155,9 +155,13 @@ python3 scripts/check_orphan_images.py    # OK exit 0; privacy paths gone from d
 
 | Item | Value |
 |------|--------|
-| Commits | See `git log origin/main..main` after push |
+| Final `main` HEAD | `789d830a57b9b83c768e27399797370d85aeefdd` |
+| Push | `origin/main` updated `ba15cf6..789d830` (one push after local commits) |
+| Pages | Deploy Hugo site to Pages run **success** (SHA `789d830…`) |
 | Force push | **Not used** |
-| Branches | Cleanup of fully-merged task branches only after Pages success |
+| Branches removed | `task/archive-seo-ai-knowledge-graph`, `task/b02-editorial-coverage-fix`, `task/final-archive-editorial-fixes-2026-08` (all ancestors of main) |
+| Backup tag kept | `backup-before-final-pdf-reconcile-2026-08-02` |
+| Production smoke | https://сжс.рф — key URLs **200**; private str-099/155 **404**; flat **№223** live |
 
 ## Repository size (no history rewrite)
 

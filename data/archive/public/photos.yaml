@@ -302,3 +302,64 @@ photos:
   - /foto/tatyana-timofeevna-2019/
   confidence: editorial_curated
   public: true
+
+# Family-confirmed portraits (not notebook leaves). Confirmed 2026-08-02 by Aleksei Krivoshein.
+- entity_id: photo-tatyana-timofeevna-garden-portrait-undated
+  type: photograph
+  src: /photos/tatyana-tt/garden-portrait.jpg
+  src_md: /photos/tatyana-tt/garden-portrait-md.jpg
+  src_thumb: /photos/tatyana-tt/garden-portrait-thumb.jpg
+  caption_ru: "Татьяна Тимофеевна Кривошеина (урождённая Самсонова). Семейная фотография; дата и место съёмки пока не установлены."
+  caption_en: "Tatyana Timofeevna Krivosheina (née Samsonova). Family photograph; the date and location have not yet been established."
+  alt_ru: "Татьяна Тимофеевна Кривошеина в светлой шляпе и платье среди садовых растений"
+  alt_en: "Tatyana Timofeevna Krivosheina wearing a light-coloured hat and dress in a garden setting"
+  depicted_people:
+  - person-krivosheina-tt
+  - person-tatyana-timofeevna-krivosheina
+  related_people:
+  - person-alexander-krivoshein
+  identity_status: family_confirmed
+  date_status: unknown
+  location_status: unknown
+  privacy_status: public_family_approved
+  source_ref:
+  - source-family-confirmation-2026-08-02-tatyana-aleksandr-portraits
+  related_urls:
+  - /lyudi/tatyana-timofeevna-krivosheina/
+  - /lyudi/aleksandr-krivoshein/
+  - /foto/tetrad-semya-prodolzhenie/
+  - /en/people/tatyana-timofeevna-krivosheina/
+  - /en/people/aleksandr-krivoshein/
+  - /en/photos/notebook-family-continued/
+  confidence: family_confirmed
+  public: true
+
+- entity_id: photo-aleksandr-dmitrievich-portrait-undated
+  type: photograph
+  src: /photos/aleksandr-krivoshein/portrait.jpg
+  src_md: /photos/aleksandr-krivoshein/portrait-md.jpg
+  src_thumb: /photos/aleksandr-krivoshein/portrait-thumb.jpg
+  caption_ru: "Александр Дмитриевич Кривошеин, муж Татьяны Тимофеевны. Семейная фотография; дата съёмки пока не установлена."
+  caption_en: "Aleksandr Dmitrievich Krivoshein, husband of Tatyana Timofeevna. Family photograph; the date has not yet been established."
+  alt_ru: "Портрет Александра Дмитриевича Кривошеина в светлой рубашке и галстуке"
+  alt_en: "Portrait of Aleksandr Dmitrievich Krivoshein wearing a light shirt and tie"
+  depicted_people:
+  - person-alexander-krivoshein
+  - person-aleksandr-krivoshein
+  related_people:
+  - person-krivosheina-tt
+  identity_status: family_confirmed
+  date_status: unknown
+  location_status: unknown
+  privacy_status: public_family_approved
+  source_ref:
+  - source-family-confirmation-2026-08-02-tatyana-aleksandr-portraits
+  related_urls:
+  - /lyudi/aleksandr-krivoshein/
+  - /lyudi/tatyana-timofeevna-krivosheina/
+  - /foto/tetrad-semya-prodolzhenie/
+  - /en/people/aleksandr-krivoshein/
+  - /en/people/tatyana-timofeevna-krivosheina/
+  - /en/photos/notebook-family-continued/
+  confidence: family_confirmed
+  public: true

@@ -49,11 +49,16 @@ Parent bios: [Parents](/en/parents/) · [Father and mother](/en/parents/father-a
 - Notebook (public chapters): [Diary](/en/memoirs/diary/) — EN chapters 00–11 are published; later EN chapters may still be drafts.
 - RU full reader path for later years: [Childhood and school](/vospominaniya/dnevnik/13-tanya-detstvo-i-shkola/), [School and war](/vospominaniya/dnevnik/14-shkola-i-voyna/), [Youth and Sasha](/vospominaniya/dnevnik/16-yunost-i-sasha/), [Crimea and family](/vospominaniya/dnevnik/17-krym-sevastopol-semya/), [Family and children](/vospominaniya/dnevnik/19-semya-i-deti/).
 - Letters addressed to Tanya: [Letters from the front](/en/documents/letters-from-the-front/).
-- Photos: [Tatyana Timofeevna, 2019](/en/photos/tatyana-timofeevna-2019/) · [Notebook family continued](/en/photos/notebook-family-continued/).
+- Photos: [garden portrait (family-confirmed)](/photos/tatyana-tt/garden-portrait.jpg) · [Tatyana Timofeevna, 2019](/en/photos/tatyana-timofeevna-2019/) · [Notebook family continued](/en/photos/notebook-family-continued/).
+- Husband: [Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/) (**Sasha** in the notebook — not the “Sasha” on front letter 107).
 - Related events: [School 1940–1941](/en/events/school-1940-1941/), [Evacuation 1941](/en/events/evacuation-1941/), [Meeting Sasha](/en/events/meeting-sasha/), [Crimea trips](/en/events/crimea-trips/), [Beginning of the family](/en/events/family-beginning/).
 - Places: [Family Moscow](/en/places/family-moscow/).
 
 ## Photographs
+
+{{< figure src="/photos/tatyana-tt/garden-portrait.jpg" alt="Tatyana Timofeevna Krivosheina wearing a light-coloured hat and dress in a garden setting" caption="Tatyana Timofeevna Krivosheina (née Samsonova). Family photograph; the date and location have not yet been established." >}}
+
+Portrait **confirmed by the family** (Aleksei Krivoshein, 2 August 2026) as Tatyana Timofeevna. Husband: [Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/).
 
 {{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="Tatyana Timofeevna at home, 15 April 2019. Family archive." >}}
 

@@ -19,12 +19,16 @@ source_type: "mixed"
 privacy_reviewed: true
 editorial_status: "publishable"
 cover:
-  image: "/photos/archive-b02/b02-mp072-ph01.jpg"
-  alt: "Sasha (A. D. Krivoshein) — “Sasha returned. Summer 1954”"
+  image: "/photos/aleksandr-krivoshein/portrait.jpg"
+  alt: "Portrait of Aleksandr Dmitrievich Krivoshein wearing a light shirt and tie"
   relative: false
-  caption: "“Sasha returned. Summer 1954.” Sasha = A. D. Krivoshein, husband of T. T."
+  caption: "Aleksandr Dmitrievich Krivoshein, husband of Tatyana Timofeevna. Family photograph; the date has not yet been established."
 ---
 ## Photographs
+
+{{< figure src="/photos/aleksandr-krivoshein/portrait.jpg" alt="Portrait of Aleksandr Dmitrievich Krivoshein wearing a light shirt and tie" caption="Aleksandr Dmitrievich Krivoshein, husband of Tatyana Timofeevna. Family photograph; the date has not yet been established." >}}
+
+Portrait **confirmed by the family** (Aleksei Krivoshein, 2 August 2026) as Aleksandr Dmitrievich. Wife: [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/).
 
 {{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="“Sasha returned. Summer 1954. By Petrovsky forest.” Sasha = A. D. Krivoshein, husband of T. T." >}}
 
@@ -32,10 +36,10 @@ cover:
 
 {{< figure src="/photos/archive-b02/b02-mp075-ph03.jpg" caption="Kosino, 1954. Mitya and Sasha (A. D. Krivoshein)." >}}
 
-[Album continued](/en/photos/notebook-family-continued/)
+[Album continued](/en/photos/notebook-family-continued/) · [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/)
 
 
-**Aleksandr Dmitrievich Krivoshein** (1926–1988) is the **husband** of **[Tatyana Timofeevna Krivosheina](/en/memoirs/about-tatyana-timofeevna/)**.
+**Aleksandr Dmitrievich Krivoshein** (1926–1988) is the **husband** of **[Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/)**.
 
 **Site canon:** in the manuscript, photo captions and family speech he is **Sasha**. That is not a vague nickname for someone else: **Sasha = Aleksandr Dmitrievich Krivoshein**, her husband. The **full name** comes from the **genealogy chart** and aligned person pages.
 
@@ -50,9 +54,10 @@ cover:
 {{< archive_note type="source" >}}
 **Do not confuse:**
 
-- **D. A. Krivoshein** — **[Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/)** (1905–1979), **father** of Aleksandr (Tatyana Timofeevna’s father-in-law).  
-- **A. D. Krivoshein** — this person, **husband** of Tatyana Timofeevna.  
+- **D. A. Krivoshein** — **[Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/)** (1905–1979), **father** of Aleksandr (Tatyana Timofeevna’s father-in-law).
+- **A. D. Krivoshein** — this person, **husband** of Tatyana Timofeevna.
 - A grandson also named **Aleksandr Dmitrievich** (b. 1976) appears on the children’s chart — a **different** person; for the living, the site publishes birth **year** only.
+- The name **“Sasha”** on front letter **107** (Timosha’s wartime letter) is **not** automatically this husband.
 
 The patronymic **Dmitrievich** is **on the site** (chart and father-in-law / wife pages). We do **not** invent other patronymics or treat the husband’s given name as “Dmitry.”
 {{< /archive_note >}}
@@ -76,16 +81,16 @@ Children and grandchildren: [genealogy charts](/en/memoirs/diary/00-cover-and-ch
 
 English diary chapters for this stretch may still be draft; the **Russian** reader chapters are the public narrative:
 
-- **[Youth and meeting Sasha](/vospominaniya/dnevnik/16-yunost-i-sasha/)** (pp. 134–139)  
-- **[Crimea, Sevastopol, and the start of family life](/vospominaniya/dnevnik/17-krym-sevastopol-semya/)** (pp. 140–144)  
-- **[Study and work](/vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki/)** — work, arrest 2 Sept 1949, return 1954  
-- **[Family and children](/vospominaniya/dnevnik/19-semya-i-deti/)**  
+- **[Youth and meeting Sasha](/vospominaniya/dnevnik/16-yunost-i-sasha/)** (pp. 134–139)
+- **[Crimea, Sevastopol, and the start of family life](/vospominaniya/dnevnik/17-krym-sevastopol-semya/)** (pp. 140–144)
+- **[Study and work](/vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki/)** — work, arrest 2 Sept 1949, return 1954
+- **[Family and children](/vospominaniya/dnevnik/19-semya-i-deti/)**
 
 ### Father-in-law, chart, photos (EN)
 
-- [Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) — husband’s father  
-- [Cover and genealogy charts](/en/memoirs/diary/00-cover-and-charts/) — husband and children  
-- [Family photos from the notebook continuation](/en/photos/notebook-family-continued/) — “Sasha came back. Summer 1954…”  
+- [Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) — husband’s father
+- [Cover and genealogy charts](/en/memoirs/diary/00-cover-and-charts/) — husband and children
+- [Family photos from the notebook continuation](/en/photos/notebook-family-continued/) — “Sasha came back. Summer 1954…”
 
 Short note on the son’s arrest (2 September 1949; rehabilitated 1954) is on the **father-in-law** page and in the study/work chapter; this card does **not** add court detail beyond what is already published.
 

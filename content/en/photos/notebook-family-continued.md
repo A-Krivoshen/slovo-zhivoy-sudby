@@ -8,7 +8,7 @@ translationKey: "photos-notebook-family-b02"
 entity_id: collection-notebook-family-photos
 tags: ["photos", "notebook", "family"]
 categories: ["Photos"]
-people: ["Tatyana Timofeevna Krivosheina", "Timofey Petrovich Samsonov"]
+people: ["Tatyana Timofeevna Krivosheina", "Aleksandr Dmitrievich Krivoshein", "Timofey Petrovich Samsonov"]
 ShowToc: true
 weight: 10
 cover:
@@ -24,6 +24,19 @@ Photographs pasted into the continuation of the notebook “Our genealogy: the S
 
 See also the notebook chapters: [Family and children (pp. 150–161)](/vospominaniya/dnevnik/19-semya-i-deti/) · [Crimea, family, study (pp. 140–149)](/vospominaniya/dnevnik/17-krym-sevastopol-semya/).  
 People in the archive: [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) · [T. P. Samsonov](/en/people/timofey-petrovich-samsonov/).
+
+
+## Confirmed family portraits
+
+Separate prints (not notebook leaves). Identities **confirmed by the family** on 2 August 2026 (Aleksei Krivoshein). Date and place of photography have **not yet been established**.
+
+{{< figure src="/photos/tatyana-tt/garden-portrait.jpg" alt="Tatyana Timofeevna Krivosheina wearing a light-coloured hat and dress in a garden setting" caption="Tatyana Timofeevna Krivosheina (née Samsonova). Family photograph; the date and location have not yet been established." >}}
+
+→ [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) · [Aleksandr Dmitrievich (husband)](/en/people/aleksandr-krivoshein/)
+
+{{< figure src="/photos/aleksandr-krivoshein/portrait.jpg" alt="Portrait of Aleksandr Dmitrievich Krivoshein wearing a light shirt and tie" caption="Aleksandr Dmitrievich Krivoshein, husband of Tatyana Timofeevna. Family photograph; the date has not yet been established." >}}
+
+→ [Aleksandr Dmitrievich](/en/people/aleksandr-krivoshein/) · [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) · [Youth and Sasha](/en/memoirs/diary/16-friends-victory-134-139/) · [Crimea and family](/en/memoirs/diary/17-crimea-family-140-149/)
 
 ## Father and the historical circle
 

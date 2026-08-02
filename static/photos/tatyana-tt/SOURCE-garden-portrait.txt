@@ -1,0 +1,3 @@
+Restored family portrait masters (inbox/photos/family/*-restored.jpg).
+Identity: family confirmation 2026-08-02 Aleksei Krivoshein.
+Web derivatives only under static/photos/; do not re-apply generative restore.

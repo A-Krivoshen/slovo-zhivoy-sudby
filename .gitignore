@@ -11,6 +11,9 @@ inbox/transcripts/**
 !inbox/transcripts/README.md
 inbox/notes/**
 !inbox/notes/README.md
+inbox/photos/**/*
+!inbox/photos/**/
+!inbox/photos/**/README.md
 *.heic
 *.HEIC
 

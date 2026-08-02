@@ -155,15 +155,23 @@ relations:
   - subject: person-krivosheina-tt
     predicate: spouse_of
     object: person-alexander-krivoshein
-    source_ref: content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
-    confidence: manuscript_stated
+    source_ref:
+      - content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
+      - content/ru/vospominaniya/dnevnik/16-yunost-i-sasha.md
+      - content/ru/vospominaniya/dnevnik/17-krym-sevastopol-semya.md
+      - source-family-confirmation-2026-08-02-tatyana-aleksandr-portraits
+    confidence: family_confirmed
     public: true
 
   - subject: person-alexander-krivoshein
     predicate: spouse_of
     object: person-krivosheina-tt
-    source_ref: content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
-    confidence: manuscript_stated
+    source_ref:
+      - content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
+      - content/ru/vospominaniya/dnevnik/16-yunost-i-sasha.md
+      - content/ru/vospominaniya/dnevnik/17-krym-sevastopol-semya.md
+      - source-family-confirmation-2026-08-02-tatyana-aleksandr-portraits
+    confidence: family_confirmed
     public: true
 
   - subject: person-alexander-krivoshein

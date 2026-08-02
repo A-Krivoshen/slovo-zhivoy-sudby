@@ -8,7 +8,7 @@ translationKey: "photos-notebook-family-b02"
 entity_id: collection-notebook-family-photos
 tags: ["фото", "тетрадь", "семья"]
 categories: ["Фото"]
-people: ["Кривошеина Татьяна Тимофеевна", "Самсонов Тимофей Петрович"]
+people: ["Кривошеина Татьяна Тимофеевна", "Кривошеин Александр Дмитриевич", "Самсонов Тимофей Петрович"]
 ShowToc: true
 weight: 10
 cover:
@@ -24,6 +24,19 @@ cover:
 
 См. также главы тетради: [Семья и дети](/vospominaniya/dnevnik/19-semya-i-deti/) · [Крым, Севастополь, семья](/vospominaniya/dnevnik/17-krym-sevastopol-semya/) · [Учёба, работа, выпускники](/vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki/).  
 Люди архива: [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/) · [Самсонов Т. П.](/lyudi/timofey-petrovich-samsonov/).
+
+
+## Подтверждённые семейные портреты
+
+Отдельные снимки (не листы рукописной тетради). Личности **подтверждены семьёй** 2 августа 2026 года (Алексей Кривошеин). Дата и место съёмки **пока не установлены**.
+
+{{< figure src="/photos/tatyana-tt/garden-portrait.jpg" alt="Татьяна Тимофеевна Кривошеина в светлой шляпе и платье среди садовых растений" caption="Татьяна Тимофеевна Кривошеина (урождённая Самсонова). Семейная фотография; дата и место съёмки пока не установлены." >}}
+
+→ [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/) · [Александр Дмитриевич (муж)](/lyudi/aleksandr-krivoshein/)
+
+{{< figure src="/photos/aleksandr-krivoshein/portrait.jpg" alt="Портрет Александра Дмитриевича Кривошеина в светлой рубашке и галстуке" caption="Александр Дмитриевич Кривошеин, муж Татьяны Тимофеевны. Семейная фотография; дата съёмки пока не установлена." >}}
+
+→ [Александр Дмитриевич](/lyudi/aleksandr-krivoshein/) · [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/) · [Юность и Саша](/vospominaniya/dnevnik/16-yunost-i-sasha/) · [Крым, начало семьи](/vospominaniya/dnevnik/17-krym-sevastopol-semya/)
 
 ## Отец и исторический круг
 

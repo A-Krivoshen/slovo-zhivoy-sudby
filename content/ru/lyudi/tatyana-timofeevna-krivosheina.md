@@ -37,10 +37,10 @@ cover:
 
 ## Связи в семье
 
-- Отец — [Самсонов Тимофей Петрович](/lyudi/timofey-petrovich-samsonov/) (1888–1955)  
-- Мать — [Ева (Евдокия) Константиновна Самсонова](/lyudi/eva-konstantinovna-samsonova/) (1900–1981)  
-- Брат — [Самсонов Тимофей Тимофеевич](/lyudi/timofey-timofeevich-samsonov/) (Тёма; р. 1923)  
-- Муж — **[Кривошеин Александр Дмитриевич](/lyudi/aleksandr-krivoshein/)** (1926–1988); в тетради и на фото — **Саша**. См. схемы в [обложке и родословных](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/)  
+- Отец — [Самсонов Тимофей Петрович](/lyudi/timofey-petrovich-samsonov/) (1888–1955)
+- Мать — [Ева (Евдокия) Константиновна Самсонова](/lyudi/eva-konstantinovna-samsonova/) (1900–1981)
+- Брат — [Самсонов Тимофей Тимофеевич](/lyudi/timofey-timofeevich-samsonov/) (Тёма; р. 1923)
+- Муж — **[Кривошеин Александр Дмитриевич](/lyudi/aleksandr-krivoshein/)** (1926–1988); в тетради и на фото — **Саша**. См. схемы в [обложке и родословных](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/)
 
 Дети и внуки в рукописи есть; **полные даты рождения живущих на сайте не публикуются**.
 
@@ -48,11 +48,11 @@ cover:
 
 Ей (и семье) адресованы, среди прочего, письма коллекции [«Письма с фронта»](/dokumenty/pisma-s-fronta/):
 
-- [11.08.1943 — Дмитрий, родителям и Тане](/dokumenty/pisma-s-fronta/pismo-103-1943/)  
-- [28.07.1944 — Дмитрий, родителям](/dokumenty/pisma-s-fronta/pismo-104/)  
-- [13.07.1944 — Тимоша, родителям и Тане](/dokumenty/pisma-s-fronta/pismo-107/)  
-- [20.04.1943 — Миша Фриоленко к Тане](/dokumenty/pisma-s-fronta/pismo-128-129-tane-ot-tovarishcha/)  
-- [письма Геннадия (131–133)](/dokumenty/pisma-s-fronta/pismo-132-gennadiy-18-11-1943/)  
+- [11.08.1943 — Дмитрий, родителям и Тане](/dokumenty/pisma-s-fronta/pismo-103-1943/)
+- [28.07.1944 — Дмитрий, родителям](/dokumenty/pisma-s-fronta/pismo-104/)
+- [13.07.1944 — Тимоша, родителям и Тане](/dokumenty/pisma-s-fronta/pismo-107/)
+- [20.04.1943 — Миша Фриоленко к Тане](/dokumenty/pisma-s-fronta/pismo-128-129-tane-ot-tovarishcha/)
+- [письма Геннадия (131–133)](/dokumenty/pisma-s-fronta/pismo-132-gennadiy-18-11-1943/)
 
 ## Документы
 
@@ -60,6 +60,9 @@ cover:
 
 ## Фото
 
+{{< figure src="/photos/tatyana-tt/garden-portrait.jpg" alt="Татьяна Тимофеевна Кривошеина в светлой шляпе и платье среди садовых растений" caption="Татьяна Тимофеевна Кривошеина (урождённая Самсонова). Семейная фотография; дата и место съёмки пока не установлены." >}}
+
+Портрет **подтверждён семьёй** (Алексей Кривошеин, 2 августа 2026) как изображение Татьяны Тимофеевны. Муж — [Александр Дмитриевич Кривошеин](/lyudi/aleksandr-krivoshein/).
 
 {{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="Татьяна Тимофеевна дома, 15 апреля 2019. Семейный архив." >}}
 
@@ -74,16 +77,17 @@ cover:
 
 Начать чтение:
 
-- [О тетради](/vospominaniya/dnevnik/o-tetradi/)  
-- [Моя мама](/vospominaniya/dnevnik/01-moya-mama/)  
-- [Отец, брак, дети](/vospominaniya/dnevnik/02-otec-brak-deti/)  
-- [Школа и война](/vospominaniya/dnevnik/14-shkola-i-voyna/)  
-- [Письма товарищей военных лет](/vospominaniya/dnevnik/15-pisma-voennye-128-133/)  
-- [Оглавление тетради](/vospominaniya/dnevnik/)  
+- [О тетради](/vospominaniya/dnevnik/o-tetradi/)
+- [Моя мама](/vospominaniya/dnevnik/01-moya-mama/)
+- [Отец, брак, дети](/vospominaniya/dnevnik/02-otec-brak-deti/)
+- [Школа и война](/vospominaniya/dnevnik/14-shkola-i-voyna/)
+- [Письма товарищей военных лет](/vospominaniya/dnevnik/15-pisma-voennye-128-133/)
+- [Оглавление тетради](/vospominaniya/dnevnik/)
 
 ## Источники
 
-- [О Татьяне Тимофеевне](/vospominaniya/o-tatyane-timofeevne/) — даты жизни, семья, труд  
-- [Обложка и родословные схемы](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/)  
-- Коллекция [«Письма с фронта»](/dokumenty/pisma-s-fronta/)  
-- Фото: [2019](/foto/tatyana-timofeevna-2019/), [альбом продолжения](/foto/tetrad-semya-prodolzhenie/)  
+- [О Татьяне Тимофеевне](/vospominaniya/o-tatyane-timofeevne/) — даты жизни, семья, труд
+- [Обложка и родословные схемы](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/)
+- Коллекция [«Письма с фронта»](/dokumenty/pisma-s-fronta/)
+- Фото: [садовый портрет (подтверждён семьёй)](/photos/tatyana-tt/garden-portrait.jpg), [2019](/foto/tatyana-timofeevna-2019/), [альбом продолжения](/foto/tetrad-semya-prodolzhenie/)
+- Муж: [Кривошеин Александр Дмитриевич](/lyudi/aleksandr-krivoshein/)

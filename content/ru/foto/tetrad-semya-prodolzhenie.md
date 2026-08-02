@@ -42,6 +42,22 @@ cover:
 
 → [Нина Васильевна](/lyudi/nina-vasilievna-krivosheina/) · [Д. А. Кривошеин](/roditeli/krivoshein-dmitriy-aleksandrovich/) · [А. Д. Кривошеин](/lyudi/aleksandr-krivoshein/) · [схема](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/)
 
+{{< figure src="/photos/eva-konstantinovna/chart-portrait.jpg" alt="Портрет Евы Константиновны в платье в горошек" caption="«Моя мама» — Ева Константиновна. Портрет из тетради (стр. 002)." >}}
+
+→ [Ева Константиновна](/lyudi/eva-konstantinovna-samsonova/) · [схема](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/)
+
+{{< figure src="/photos/samsonov-tp/chart-portrait.jpg" alt="Портрет Т. П. Самсонова со схемы" caption="Тимофей Петрович на схеме «Самсоновы» (стр. 003)." >}}
+
+→ [Самсонов Т. П.](/lyudi/timofey-petrovich-samsonov/) · [альбом Т. П.](/foto/samsonov-timofey-petrovich/)
+
+{{< figure src="/photos/genya-samsonova/chart-portrait.jpg" alt="Портрет Гени, «Моя сестра Геня»" caption="«Моя сестра Геня». Портрет со схемы (стр. 003)." >}}
+
+→ [Геня (Евгения) Самсонова](/lyudi/genya-samsonova/)
+
+{{< figure src="/photos/aleksandr-krivoshein/chart-young-portrait.jpg" alt="Молодой А. Д. Кривошеин со схемы" caption="«Муж Самсоновой Т.Т.» — портрет со схемы (стр. 004). Дата съёмки не установлена." >}}
+
+→ [А. Д. Кривошеин](/lyudi/aleksandr-krivoshein/) · [формальный портрет](/lyudi/aleksandr-krivoshein/)
+
 ## Отец и исторический круг
 
 {{< figure src="/photos/archive-b02/b02-mp001-ph01.jpg" caption="Ф. Э. Дзержинский; Беленький (Виленский?); папа. Подписи автора справа от снимка." >}}

@@ -397,3 +397,147 @@ photos:
   confidence: family_confirmed
   public: true
   note: "Crop from chart master c-005; small archival source; not generative restore."
+
+# Chart crops from genealogy leaves (notebook p. 002–005). Identity by node caption only.
+# Living-person portraits on p. 004 (Dmitry, Sergey, spouses, grandchildren) are NOT published.
+# Three unlabeled male portraits at lower right of p. 005 remain candidates (not entities).
+
+- entity_id: photo-eva-konstantinovna-chart-portrait
+  type: photograph
+  src: /photos/eva-konstantinovna/chart-portrait.jpg
+  src_thumb: /photos/eva-konstantinovna/chart-portrait-thumb.jpg
+  page_scan_src: /photos/dnevnik-tt/str-002.jpg
+  caption_ru: "«Моя мама» — Самсонова (Морозова) Ева Константиновна. Портрет из тетради (стр. 002) и схемы рода."
+  caption_en: "“My mother” — Samsonova (Morozova) Eva Konstantinovna. Portrait from the notebook (p. 002) and family chart."
+  alt_ru: "Портрет Евы Константиновны в платье в горошек"
+  alt_en: "Portrait of Eva Konstantinovna in a polka-dot dress"
+  depicted_people:
+  - person-samsonova-ek
+  - person-eva-konstantinovna
+  identity_status: chart_caption_confirmed
+  date_status: unknown
+  location_status: unknown
+  privacy_status: public_historical
+  source_page: 2
+  source_ref:
+  - content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+  related_urls:
+  - /lyudi/eva-konstantinovna-samsonova/
+  - /roditeli/eva-konstantinovna/
+  - /vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/
+  - /en/people/eva-konstantinovna-samsonova/
+  - /en/memoirs/diary/00-cover-and-charts/
+  confidence: manuscript_stated
+  public: true
+  note: "Crop from notebook leaf; small archival source; not generative restore. Distinct print from album eva-portrait."
+
+- entity_id: photo-samsonov-tp-chart-portrait
+  type: photograph
+  src: /photos/samsonov-tp/chart-portrait.jpg
+  src_thumb: /photos/samsonov-tp/chart-portrait-thumb.jpg
+  context_src: /photos/samsonov-tp/chart-family-cluster.jpg
+  page_scan_src: /photos/dnevnik-tt/str-003.jpg
+  caption_ru: "Портрет Самсонова Тимофея Петровича на схеме «Самсоновы» (тетрадь, стр. 003)."
+  caption_en: "Portrait of Timofey Petrovich Samsonov on the “Samsonovs” chart (notebook p. 003)."
+  alt_ru: "Портрет Т. П. Самсонова в костюме со схемы"
+  alt_en: "Portrait of T. P. Samsonov in a suit from the chart"
+  depicted_people:
+  - person-samsonov-tp
+  identity_status: chart_caption_confirmed
+  date_status: unknown
+  location_status: unknown
+  privacy_status: public_historical
+  source_page: 3
+  source_ref:
+  - content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+  related_urls:
+  - /lyudi/timofey-petrovich-samsonov/
+  - /roditeli/samsonov-timofey-petrovich/
+  - /vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/
+  - /en/people/timofey-petrovich-samsonov/
+  - /en/memoirs/diary/00-cover-and-charts/
+  confidence: manuscript_stated
+  public: true
+  note: "Chart crop; studio oval portrait remains primary album cover; not a duplicate of 05-studio."
+
+- entity_id: photo-genya-samsonova-chart-portrait
+  type: photograph
+  src: /photos/genya-samsonova/chart-portrait.jpg
+  src_thumb: /photos/genya-samsonova/chart-portrait-thumb.jpg
+  page_scan_src: /photos/dnevnik-tt/str-003.jpg
+  caption_ru: "«Моя сестра Геня». Портрет Самсоновой Евгении Тимофеевны на схеме «Самсоновы» (стр. 003)."
+  caption_en: "“My sister Genya.” Portrait of Evgenia Timofeevna Samsonova on the “Samsonovs” chart (p. 003)."
+  alt_ru: "Портрет Гени Самсоновой со схемы"
+  alt_en: "Portrait of Genya Samsonova from the chart"
+  depicted_people:
+  - person-genya-samsonova
+  identity_status: chart_caption_confirmed
+  date_status: unknown
+  location_status: unknown
+  privacy_status: public_historical
+  source_page: 3
+  source_ref:
+  - content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+  related_urls:
+  - /lyudi/genya-samsonova/
+  - /vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/
+  - /en/people/genya-samsonova/
+  - /en/memoirs/diary/00-cover-and-charts/
+  confidence: manuscript_stated
+  public: true
+  note: "Individual chart portrait; B02 group prints remain alternate album photos."
+
+- entity_id: photo-aleksandr-dmitrievich-chart-young-portrait
+  type: photograph
+  src: /photos/aleksandr-krivoshein/chart-young-portrait.jpg
+  src_thumb: /photos/aleksandr-krivoshein/chart-young-portrait-thumb.jpg
+  context_src: /photos/aleksandr-krivoshein/chart-young-context.jpg
+  caption_ru: "«Кривошеин Александр Дмитриевич — муж Самсоновой Т.Т.» Портрет из родословной схемы (стр. 004); дата съёмки не установлена."
+  caption_en: "“Krivoshein Aleksandr Dmitrievich — husband of Samsonova T.T.” Portrait from the genealogy chart (p. 004); date of photography not established."
+  alt_ru: "Молодой А. Д. Кривошеин со схемы в кепке/фуражке"
+  alt_en: "Young A. D. Krivoshein from the chart in a cap"
+  depicted_people:
+  - person-alexander-krivoshein
+  - person-aleksandr-krivoshein
+  related_people:
+  - person-krivosheina-tt
+  identity_status: chart_caption_confirmed
+  date_status: unknown
+  location_status: unknown
+  privacy_status: public_historical
+  source_page: 4
+  source_ref:
+  - content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+  related_urls:
+  - /lyudi/aleksandr-krivoshein/
+  - /lyudi/tatyana-timofeevna-krivosheina/
+  - /vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/
+  - /en/people/aleksandr-krivoshein/
+  - /en/memoirs/diary/00-cover-and-charts/
+  confidence: manuscript_stated
+  public: true
+  note: "Crop from chart p.004 node only; full p.004 leaf not published (living relatives' portraits on same leaf). Distinct from family-confirmed formal portrait."
+
+- entity_id: photo-chart-krivosheins-leaf-005
+  type: photograph
+  src: /photos/dnevnik-tt/str-005.jpg
+  caption_ru: "Полный лист схемы «Кривошеины» (тетрадь, стр. 005) — контекст портрета Нины Васильевны."
+  caption_en: "Full “Krivosheins” chart leaf (notebook p. 005) — context for Nina Vasilievna’s portrait."
+  alt_ru: "Лист родословной схемы Кривошеины"
+  alt_en: "Krivosheins genealogy chart leaf"
+  depicted_people:
+  - person-nina-vasilievna-krivosheina
+  related_people:
+  - person-krivoshein-da
+  - person-alexander-krivoshein
+  identity_status: chart_context
+  privacy_status: public_historical
+  source_page: 5
+  related_urls:
+  - /vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/
+  - /lyudi/nina-vasilievna-krivosheina/
+  - /en/memoirs/diary/00-cover-and-charts/
+  confidence: manuscript_stated
+  public: true
+  role: page_scan_context
+  note: "Full leaf; individual Nina crop is photo-nina-vasilievna-chart-portrait. Three lower-right male portraits not cropped as entities."

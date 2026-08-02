@@ -42,6 +42,22 @@ Separate prints and chart portraits. Identities **confirmed by the family** (Ale
 
 → [Nina Vasilievna](/en/people/nina-vasilievna-krivosheina/) · [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) · [A. D. Krivoshein](/en/people/aleksandr-krivoshein/) · [chart](/en/memoirs/diary/00-cover-and-charts/)
 
+{{< figure src="/photos/eva-konstantinovna/chart-portrait.jpg" alt="Portrait of Eva Konstantinovna in a polka-dot dress" caption="“My mother” — Eva Konstantinovna. Portrait from the notebook (p. 002)." >}}
+
+→ [Eva Konstantinovna](/en/people/eva-konstantinovna-samsonova/) · [chart](/en/memoirs/diary/00-cover-and-charts/)
+
+{{< figure src="/photos/samsonov-tp/chart-portrait.jpg" alt="T. P. Samsonov chart portrait" caption="Timofey Petrovich on the “Samsonovs” chart (p. 003)." >}}
+
+→ [T. P. Samsonov](/en/people/timofey-petrovich-samsonov/) · [T. P. album](/en/photos/samsonov-timofey-petrovich/)
+
+{{< figure src="/photos/genya-samsonova/chart-portrait.jpg" alt="Portrait of Genya, “My sister Genya”" caption="“My sister Genya.” Portrait from the chart (p. 003)." >}}
+
+→ [Genya (Evgenia) Samsonova](/en/people/genya-samsonova/)
+
+{{< figure src="/photos/aleksandr-krivoshein/chart-young-portrait.jpg" alt="Young A. D. Krivoshein from the chart" caption="“Husband of Samsonova T.T.” — chart portrait (p. 004). Date of photography not established." >}}
+
+→ [A. D. Krivoshein](/en/people/aleksandr-krivoshein/)
+
 ## Father and the historical circle
 
 {{< figure src="/photos/archive-b02/b02-mp001-ph01.jpg" caption="F. E. Dzerzhinsky; Belenky (Vilensky?); Papa. Author’s captions to the right of the print." >}}

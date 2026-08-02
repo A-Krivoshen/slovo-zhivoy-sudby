@@ -14,8 +14,8 @@ source_type: "mixed"
 privacy_reviewed: true
 editorial_status: "publishable"
 cover:
-  image: "/photos/archive-b02/b02-mp013-ph01.jpg"
-  alt: "Женя и Тёма Самсоновы — дети в матросских костюмах"
+  image: "/photos/genya-samsonova/chart-portrait.jpg"
+  alt: "Портрет Гени (Евгении) Самсоновой со схемы «Моя сестра Геня»"
   relative: false
   caption: "Самсонова Евгения (Геня) Тимофеевна. Семейный архив."
 ---
@@ -63,6 +63,9 @@ cover:
 ## Где читать в архиве
 
 ### Фото
+
+{{< figure src="/photos/genya-samsonova/chart-portrait.jpg" alt="Портрет Гени, «Моя сестра Геня»" caption="«Моя сестра Геня». Портрет со схемы (стр. 003)." >}}
+
 
 {{< figure src="/photos/archive-b02/b02-mp013-ph01.jpg" caption="Женя и Тёма Самсоновы. «Мой брат и сестра… Меня ещё не было»." >}}
 

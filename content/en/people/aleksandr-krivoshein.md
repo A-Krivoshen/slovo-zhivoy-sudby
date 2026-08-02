@@ -26,6 +26,8 @@ cover:
 ---
 ## Photographs
 
+{{< figure src="/photos/aleksandr-krivoshein/chart-young-portrait.jpg" alt="Young A. D. Krivoshein from the chart" caption="“Husband of Samsonova T.T.” — portrait from the chart (p. 004)." >}}
+
 {{< figure src="/photos/aleksandr-krivoshein/portrait.jpg" alt="Portrait of Aleksandr Dmitrievich Krivoshein wearing a light shirt and tie" caption="Aleksandr Dmitrievich Krivoshein, husband of Tatyana Timofeevna. Family photograph; the date has not yet been established." >}}
 
 Portrait **confirmed by the family** (Aleksei Krivoshein, 2 August 2026) as Aleksandr Dmitrievich. Wife: [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/).

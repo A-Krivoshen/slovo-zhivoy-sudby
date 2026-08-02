@@ -50,6 +50,9 @@ The Stalingrad defence medal on this site belongs to **Timofey Timofeevich**, no
 
 ## Photographs
 
+{{< figure src="/photos/samsonov-tp/chart-portrait.jpg" alt="T. P. Samsonov chart portrait" caption="Portrait from the “Samsonovs” chart (notebook p. 003)." >}}
+
+
 {{< figure src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" caption="Timofey Petrovich Samsonov — studio portrait. Family archive." >}}
 
 {{< figure src="/photos/samsonov-tp/01-cabinet-desk.jpg" caption="At his desk." >}}

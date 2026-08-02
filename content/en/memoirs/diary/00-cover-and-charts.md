@@ -41,11 +41,9 @@ The Samsonovs
 
 <!-- p. 002 -->
 
-**[photo]** Portrait of a middle-aged woman in a polka-dot dress, short wavy hair.  
-Caption on the photo: **My mother.**
+{{< figure src="/photos/eva-konstantinovna/chart-portrait.jpg" alt="Portrait of Eva Konstantinovna in a polka-dot dress" caption="Caption on the leaf: “My mother” — Samsonova (Morozova) Eva Konstantinovna. Portrait from the notebook (p. 002)." >}}
 
-**My mother** — Samsonova (Morozova)  
-Eva Konstantinovna.
+**My mother** — [Samsonova (Morozova) Eva Konstantinovna](/en/people/eva-konstantinovna-samsonova/).
 
 **[margin notes, blue ink — phone numbers and personal contacts: redacted by the editors]**
 
@@ -67,7 +65,9 @@ b. Bessarabia, village of Mikhaylyony
 Khotin uyezd.  
 d. 28/X–55, bur. Novodevichy Cemetery.
 
-**[photo]** A balding man in a dark suit and tie, a pin on the lapel — portrait of Timofey Petrovich.
+{{< figure src="/photos/samsonov-tp/chart-portrait.jpg" alt="Portrait of Timofey Petrovich Samsonov in a suit" caption="Portrait on the “Samsonovs” chart (p. 003) at Timofey Petrovich’s node (1888–1955)." >}}
+
+→ [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/)
 
 *“wife” link ↓*
 
@@ -77,7 +77,7 @@ d. 28/X–55, bur. Novodevichy Cemetery.
 b. 14/III in Moscow  
 d. 17/V, bur. Novodevichy Cemetery.
 
-**[photo, right]** Four portraits: woman in a polka-dot dress; man in glasses; woman with dark hair; woman with wavy hair.
+{{< figure src="/photos/samsonov-tp/chart-family-cluster.jpg" alt="Cluster of four portraits on the Samsonovs chart" caption="Four portraits on the right of the “Samsonovs” chart (p. 003): context crop (incl. Eva Konstantinovna and Timofey Petrovich). Individual portraits appear above and on person pages." >}}
 
 ### her parents
 **Morozov Konstantin Mikhailovich**  
@@ -90,22 +90,25 @@ d. 1942.
 
 ### their children
 
-1. **Samsonova Evgenia Timofeevna**  
+1. **[Samsonova Evgenia Timofeevna](/en/people/genya-samsonova/)**  
    daughter of Samsonov T. P.  
    from his first marriage  
    [Moscow] 1930–1941  
    *caption by the photo: “My sister Genya”*  
-   **[photo]** A young smiling woman (girl) outdoors.
 
-2. **Samsonov Timofey Timofeevich** (son)  
+{{< figure src="/photos/genya-samsonova/chart-portrait.jpg" alt="Portrait of Genya (Evgenia) Samsonova with caption “My sister Genya”" caption="“My sister Genya.” Portrait on the “Samsonovs” chart (p. 003)." >}}
+
+2. **[Samsonov Timofey Timofeevich](/en/people/timofey-timofeevich-samsonov/)** (son)  
    b. Moscow  
    1923
 
-3. **Samsonova (Krivosheina) Tatyana Timofeevna**  
+3. **[Samsonova (Krivosheina) Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/)**  
    b. 21/IV–1926  
    Moscow [? / part of the date at the cut edge]
 
 *On the chart is written: 21/IV–1926. That line belongs to the source text and is not used as a biographical date. Biographical life dates: [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/).*
+
+{{< figure src="/photos/dnevnik-tt/str-003.jpg" alt="Full Samsonov genealogy chart leaf, p. 003" caption="Full “Samsonovs” chart leaf (p. 003) — portrait context." >}}
 
 *(lower edge of the page partly cut off)*
 
@@ -118,9 +121,10 @@ d. 1942.
 **[continuation of the line: the Krivoshein family — husband and children of Tatyana Timofeevna]**
 
 ### Husband
-**Krivoshein Alexander Dmitrievich** — husband of Samsonova T. T.  
-**[photo]** Young man in a cap/forage cap, portrait.  
+**[Krivoshein Aleksandr Dmitrievich](/en/people/aleksandr-krivoshein/)** — husband of Samsonova T. T.  
 b. town of Kirsanov, Tambov region (1926–1988)
+
+{{< figure src="/photos/aleksandr-krivoshein/chart-young-portrait.jpg" alt="Young Aleksandr Dmitrievich Krivoshein, chart portrait" caption="Chart caption (p. 004): “Krivoshein Aleksandr Dmitrievich — husband of Samsonova T.T.” Portrait from the genealogy chart; date of photography not established." >}}
 
 ### Related entry
 **Samsonova (Vasenina) Serafima Igorevna**  
@@ -131,6 +135,8 @@ d. 1987.
 
 {{< archive_note type="privacy" >}}
 For **living** relatives the site publishes only the **year** of birth (no day or month) and the family relationship. Full dates from the manuscript are kept in a local family archive and are not published.
+
+**Portraits of living people** glued on chart p. 004 (including sons **Dmitry** and **Sergey**, spouses and grandchildren) are **not published** as separate images until a further family decision. Chart text is retained; the photographs remain only in the family master archive.
 {{< /archive_note >}}
 
 #### 1. **Krivoshein Dmitry Alexandrovich**
@@ -149,11 +155,11 @@ b. **1948**
 - **Krivoshein Andrey Dmitrievich**, son  
   b. **1982**, Moscow  
 
-**[photo]** Portraits of Dmitry and Bella (young).
+*Portraits “Dmitry and Bella, young” — **not shown** (privacy, living).*
 
 #### 2. **Krivoshein Sergey Alexandrovich**
 b. **1957**, Moscow  
-**[photo]** Portrait of Sergey (dark hair).  
+*Portrait of Sergey — **not shown** (privacy, living).*
 
 **wife:** **Krivosheina (Valueva) Tatyana Alexandrovna**  
 b. **1957**, settlement of Kratovo  
@@ -187,7 +193,9 @@ b. Tambov
 1907–1991  
 (bur. Lyubertsy Cemetery)  
 
-**[photo on the chart node]** — portrait of **[Nina Vasilievna Krivosheina](/en/people/nina-vasilievna-krivosheina/)**: glued next to her written name (1907–1991); identity from chart context, not from face matching.
+{{< figure src="/photos/nina-vasilievna-krivosheina/portrait.jpg" alt="Portrait of Nina Vasilievna Krivosheina from the Krivosheins chart" caption="Portrait at the node “Krivosheina (Petrova) Nina Vasilievna” (1907–1991), “Krivosheins” chart, p. 005. Identity from the node label, not from face matching." >}}
+
+→ [Nina Vasilievna Krivosheina](/en/people/nina-vasilievna-krivosheina/)
 
 ### her mother
 **Arkhipnikova Agrippina Dmitrievna**  
@@ -215,7 +223,9 @@ b. 1936
 **Kruglov Yury [Mikhail.? / Nikit.?]**  
 1937–1999  
 
-**[photo, lower right]** Three male portraits (different ages).
+*Three male portraits at lower right on the chart (different ages) — **candidates**: individual crops are not published without family confirmation.*
+
+{{< figure src="/photos/dnevnik-tt/str-005.jpg" alt="Full Krivosheins genealogy chart leaf, p. 005" caption="Full “Krivosheins” chart leaf (p. 005) — context for Nina Vasilievna’s portrait." >}}
 
 ---
 
@@ -227,7 +237,7 @@ b. 1936
 A second scan of the same Krivoshein family chart leaf; a full second transcription is not repeated.
 {{< /archive_note >}}
 
-*(Content matches the chart on p. 005. Photos: woman with curly hair; three male portraits.)*
+*(Content matches the chart on p. 005. Photos: [Nina Vasilievna](/en/people/nina-vasilievna-krivosheina/) at her node; three male portraits — candidates only.)*
 
 - **Krivoshein Dmitry Alexandrovich** (1905–1979), Tambov; Lyubertsy Cemetery  
 - **[Krivosheina (Petrova) Nina Vasilievna](/en/people/nina-vasilievna-krivosheina/)** (1907–1991), Tambov; Lyubertsy  

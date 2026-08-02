@@ -45,6 +45,9 @@ cover:
 
 ## Фото
 
+{{< figure src="/photos/eva-konstantinovna/chart-portrait.jpg" alt="Портрет Евы Константиновны в платье в горошек (тетрадь)" caption="«Моя мама». Портрет из тетради (стр. 002) и схемы рода." >}}
+
+
 
 {{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Ева Константиновна — портрет из семейного архива / тетради." >}}
 

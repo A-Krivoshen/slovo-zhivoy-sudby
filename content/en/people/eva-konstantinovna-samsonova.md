@@ -42,6 +42,9 @@ Main first-person account: [My mother](/en/memoirs/diary/01-my-mother/).
 
 ## Photographs
 
+{{< figure src="/photos/eva-konstantinovna/chart-portrait.jpg" alt="Portrait of Eva Konstantinovna in a polka-dot dress (notebook)" caption="“My mother.” Portrait from the notebook (p. 002) and family chart." >}}
+
+
 {{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Eva Konstantinovna — portrait from the family archive." >}}
 
 {{< figure src="/photos/archive-b02/b02-mp013-ph03.jpg" caption="November 1925. Samsonov family group (notebook)." >}}

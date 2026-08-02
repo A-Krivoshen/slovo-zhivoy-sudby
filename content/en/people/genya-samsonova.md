@@ -14,12 +14,15 @@ source_type: "mixed"
 privacy_reviewed: true
 editorial_status: "publishable"
 cover:
-  image: "/photos/archive-b02/b02-mp013-ph01.jpg"
-  alt: "Zhenya and Tyoma Samsonov as children in sailor suits"
+  image: "/photos/genya-samsonova/chart-portrait.jpg"
+  alt: "Portrait of Genya (Evgenia) Samsonova from the chart “My sister Genya”"
   relative: false
-  caption: "Evgenia (Genya) Timofeevna Samsonova. Family archive scan."
+  caption: "“My sister Genya.” Portrait from the Samsonovs chart (notebook p. 003)."
 ---
 ## Photographs
+
+{{< figure src="/photos/genya-samsonova/chart-portrait.jpg" alt="Portrait of Genya, “My sister Genya”" caption="“My sister Genya.” Portrait from the chart (p. 003)." >}}
+
 
 {{< figure src="/photos/archive-b02/b02-mp013-ph01.jpg" caption="Zhenya and Tyoma Samsonov." >}}
 

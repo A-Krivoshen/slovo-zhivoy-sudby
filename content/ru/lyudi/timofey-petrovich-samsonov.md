@@ -48,6 +48,9 @@ cover:
 
 ## Фото
 
+{{< figure src="/photos/samsonov-tp/chart-portrait.jpg" alt="Портрет Т. П. Самсонова со схемы" caption="Портрет со схемы «Самсоновы» (тетрадь, стр. 003)." >}}
+
+
 
 {{< figure src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" caption="Самсонов Тимофей Петрович — студийный портрет. Семейный архив." >}}
 

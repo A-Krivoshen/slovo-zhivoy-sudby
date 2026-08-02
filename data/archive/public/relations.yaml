@@ -497,6 +497,55 @@ relations:
     confidence: editorial_curated
     public: true
 
+  - subject: person-samsonova-ek
+    predicate: depicted_in
+    object: photo-eva-konstantinovna-chart-portrait
+    source_ref: content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: depicted_in
+    object: photo-samsonov-tp-chart-portrait
+    source_ref: content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-genya-samsonova
+    predicate: depicted_in
+    object: photo-genya-samsonova-chart-portrait
+    source_ref: content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-alexander-krivoshein
+    predicate: depicted_in
+    object: photo-aleksandr-dmitrievich-chart-young-portrait
+    source_ref: content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-alexander-krivoshein
+    predicate: depicted_in
+    object: photo-aleksandr-dmitrievich-portrait-undated
+    source_ref: content/ru/lyudi/aleksandr-krivoshein.md
+    confidence: family_confirmed
+    public: true
+
+  - subject: person-nina-vasilievna-krivosheina
+    predicate: depicted_in
+    object: photo-nina-vasilievna-chart-portrait
+    source_ref: content/ru/lyudi/nina-vasilievna-krivosheina.md
+    confidence: family_confirmed
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: depicted_in
+    object: photo-tatyana-timofeevna-garden-portrait-undated
+    source_ref: content/ru/lyudi/tatyana-timofeevna-krivosheina.md
+    confidence: family_confirmed
+    public: true
+
   # ---------------------------------------------------------------------------
   # Chapter mentions (key people ↔ manuscript chapters)
   # ---------------------------------------------------------------------------

@@ -33,7 +33,18 @@ cover:
 
 **Evgenia Timofeevna Samsonova** is the elder sister of **[Tatyana Timofeevna Krivosheina](/en/memoirs/about-tatyana-timofeevna/)** in the family notebook “Our genealogy: the Samsonovs.”
 
-This site states **only what the manuscript and charts already say**. There is no separate external biography.
+This site states **only what the manuscript and charts already say**. There is no separate external biography: gaps are **not** filled with general phrasing.
+
+## Chronology (as in the sources)
+
+| | Per manuscript / chart |
+|---|---|
+| **Birth** | Moscow, **February 1920** (narrative); chart range **“1930–1941”** (conflict of readings) |
+| **Kinship** | Daughter of **T. P. from his first marriage**; Eva raised her as her own |
+| **Childhood** | Photos “Zhenya and Tyoma”; family **November 1925** |
+| **1936** | Verses / letter anchor in [ch. 10](/en/memoirs/diary/10-notebook-continued-080-089/) |
+| **1939–1941** | Fate narrative ([ch. 11](/en/memoirs/diary/11-notebook-continued-090-099/)); **death 1941** (October in the text, “age 21”) |
+| **Death detail** | **Not** expanded beyond chapters 10–11 |
 
 ## Name forms
 

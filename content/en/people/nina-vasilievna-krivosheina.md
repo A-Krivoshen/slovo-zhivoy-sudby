@@ -40,6 +40,19 @@ cover:
 
 In Tatyana Timofeevna’s manuscript she appears as **“Nina Vasilievna”**, **“N. V.”**, **“Baba Nina”** (Crimea, household).
 
+## Biography (from available sources)
+
+| | |
+|---|---|
+| **Birth** | **1907**, Tambov (chart; museum) |
+| **Marriage** | [Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) (1905–1979) |
+| **Son** | [Aleksandr](/en/people/aleksandr-krivoshein/) (1926–1988) |
+| **1949** | After the son’s arrest on 2 Sept 1949 — parcels with Tatyana (Butyrka); information bureau ([ch. 18](/en/memoirs/diary/18-study-work-reunions/)) |
+| **Crimea** | “Baba Nina,” house, household ([ch. 17](/en/memoirs/diary/17-crimea-family-140-149/)) |
+| **Death** | **1991**; Lyubertsy Cemetery (chart) |
+
+Museum page (not copied): [museumdom.narod.ru/bio07](https://museumdom.narod.ru/bio07/krivosheina.html). Full personnel biography is not reconstructed without documents.
+
 ## Portrait: why this image
 
 Identity is fixed by **chart context**, not by facial recognition:

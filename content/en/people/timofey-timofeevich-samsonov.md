@@ -1,56 +1,86 @@
 ---
 title: "Timofey Timofeevich Samsonov"
 date: 2026-08-01
+lastmod: 2026-08-02
 draft: false
-description: "Timofey Timofeevich Samsonov (Tyoma; b. 1923) — brother of Tatyana Timofeevna; Stalingrad defence medal; wartime letters signed Timosha."
-summary: "Brother Tyoma (b. 1923). Not father Timofey Petrovich. Stalingrad medal T. T."
+description: "Biography of Timofey Timofeevich Samsonov (Tyoma, b. 1923) — Tatyana’s brother: childhood, front, “Timosha” letters, Medal for the Defence of Stalingrad."
+summary: "Brother (Tyoma / Timosha). Moscow 1923; Stalingrad; letters. Not father T. P."
 translationKey: "person-timofey-timofeevich-samsonov"
 entity_id: "person/timofey-timofeevich-samsonov"
-tags: ["people", "Samsonov", "Tyoma", "front"]
+schema_type: "Person"
+birth_year: 1923
+alternateName: ["Tyoma", "Timosha", "Uncle Tyoma", "Zhenya (after p. 093)"]
+keywords: ["Timofey Timofeevich Samsonov", "Tyoma", "Stalingrad", "front"]
+tags: ["people", "Samsonov", "Tyoma", "front", "biography"]
 categories: ["People"]
 people: ["Timofey Timofeevich Samsonov"]
 ShowToc: true
+source_type: "mixed"
+privacy_reviewed: true
+editorial_status: "publishable"
+cover:
+  image: "/photos/archive-b02/b02-mp014-ph01.jpg"
+  alt: "Timofey Timofeevich Samsonov — “After the war”"
+  relative: false
+  caption: "Brother — T. T. Samsonov. “After the war.”"
 ---
-
-# Timofey Timofeevich Samsonov
-
-## Brief note
-
-**Timofey Timofeevich Samsonov** — brother of [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/); in the family often **Tyoma**; born **1923** (notebook).
-
-**Not** his father [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/) (1888–1955). Patronymic on the Stalingrad form is **Timofeevich**, not Petrovich.
-
-Wartime letters in the collection are signed **Timosha** — the form on the source. The archive does not force every “Timosha” occurrence into a nickname merge without notebook context; for letters 105–107 the reverse address names **Samsonov T. T.**
-
-## Family links
-
-| Relation | Person |
-|----------|--------|
-| Father | [Timofey Petrovich](/en/people/timofey-petrovich-samsonov/) |
-| Mother | [Eva Konstantinovna](/en/people/eva-konstantinovna-samsonova/) |
-| Sisters | Genya; [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) |
-
-## Documents and chapters
-
-- Medal certificate: [“For the Defence of Stalingrad” — Samsonov T. T.](/en/documents/stalingrad-defense-medal-samsonov-tt/) (decree 22 Dec 1942; presentation date on the form **23 September 1943**; 79th Guards Mortar Regiment).
-- Letters signed Timosha: [14 June 1943 to mother](/en/documents/letters-from-the-front/letter-105-106-to-mother/), [13 July 1944](/en/documents/letters-from-the-front/letter-107/).
-- Collection: [Letters from the front](/en/documents/letters-from-the-front/).
-- Notebook: [Uncle Tyoma: documents and Stalingrad](/en/memoirs/diary/12-brother-front-letters-101-108/) · siblings: [Sister Genya and brother Tyoma](/en/memoirs/diary/11-notebook-continued-090-099/).
-- Event: [Defence of Stalingrad](/en/events/defense-of-stalingrad/).
 
 ## Photographs
 
-{{< figure src="/photos/archive-b02/b02-mp014-ph01.jpg" caption="Brother Timofey Timofeevich. Caption: “After the war.”" >}}
+{{< figure src="/photos/archive-b02/b02-mp014-ph01.jpg" caption="Brother — Timofey Timofeevich Samsonov. Caption: “After the war.”" >}}
 
 {{< figure src="/photos/archive-b02/b02-mp013-ph01.jpg" caption="Zhenya and Tyoma Samsonov (childhood)." >}}
 
-{{< figure src="/photos/dnevnik-tt/str-108.jpg" caption="Certificate for the medal “For the Defence of Stalingrad” — T. T. Samsonov." >}}
+{{< figure src="/photos/dnevnik-tt/str-108.jpg" caption="Certificate for the Medal for the Defence of Stalingrad — Samsonov T. T." >}}
 
-Document: [Stalingrad medal](/en/documents/stalingrad-defense-medal-samsonov-tt/) · [album](/en/photos/notebook-family-continued/)
+[Medal document](/en/documents/stalingrad-defense-medal-samsonov-tt/) · [album](/en/photos/notebook-family-continued/)
 
-## Sources
+---
 
-- Medal form text as published on the document page.
-- Letters with signature **Timosha** and reverse address Samsonov T. T.
-- Daughter’s notebook chapters on brother and wartime documents.
-- Private materials (e.g. notebook pages 099–100) are **not** published here.
+**Timofey Timofeevich Samsonov** is the **brother** of [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/); in the family — **Uncle Tyoma**.
+
+### Not the father
+
+This is **not** [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/) (1888–1955). The medal form uses the patronymic **Timofeevich**.
+
+## Origins (from the manuscript)
+
+| | |
+|---|---|
+| **Birth** | **27 April 1923**, **Moscow** (notebook p. 093) |
+| **Father** | [T. P. Samsonov](/en/people/timofey-petrovich-samsonov/) |
+| **Mother** | [Eva Konstantinovna](/en/people/eva-konstantinovna-samsonova/) |
+| **Sisters** | [Genya](/en/people/genya-samsonova/); [Tatyana](/en/people/tatyana-timofeevna-krivosheina/) |
+
+## Childhood (sister’s testimony)
+
+[Ch. 11](/en/memoirs/diary/11-notebook-continued-090-099/): three children; home games; school on Frunze (Znamenka), then Menzhinsky school after the move to Serafimovich St. After p. 093 the brother is often called **“Zhenya”** — **not** the sister Genya.
+
+## War
+
+- Form: **guards sergeant**; Medal for the **Defence of Stalingrad** (certificate date **23 Sept 1943**; 79th Guards Mortar Regiment) — [document](/en/documents/stalingrad-defense-medal-samsonov-tt/).
+- Chapter: [Uncle Tyoma: documents and Stalingrad](/en/memoirs/diary/12-brother-front-letters-101-108/).
+
+## Letters (“Timosha”)
+
+- [14 June 1943 — to Mama](/en/documents/letters-from-the-front/letter-105-106-to-mother/)
+- [13 July 1944 — to parents and Tanya](/en/documents/letters-from-the-front/letter-107/)
+
+Letters **103–104** (signed “Dmitry”) — [separate card](/en/people/dmitry-front-letters/); **not** merged with Timosha.
+
+## After the war
+
+Portrait “**After the war**” in the notebook; further civil biography is **not** expanded beyond the manuscript (public **death date** not established).
+
+## Confirmed anchors
+
+| Fact | Source | Confidence |
+|------|--------|------------|
+| Timofey Timofeevich; b. 27 Apr 1923, Moscow | manuscript p. 093 | high *as manuscript* |
+| Brother of Tatyana | manuscript; chart | high |
+| Stalingrad defence medal | certificate form | document_confirmed |
+| Signature “Timosha” | letters 105–107 | high *as source* |
+
+---
+
+See also: [Genya](/en/people/genya-samsonova/) · [Tatyana](/en/people/tatyana-timofeevna-krivosheina/) · [ch. 11](/en/memoirs/diary/11-notebook-continued-090-099/) · [ch. 12](/en/memoirs/diary/12-brother-front-letters-101-108/)

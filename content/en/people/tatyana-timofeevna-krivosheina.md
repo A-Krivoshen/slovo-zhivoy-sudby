@@ -1,82 +1,122 @@
 ---
 title: "Tatyana Timofeevna Krivosheina"
 date: 2026-08-01
+lastmod: 2026-08-02
 draft: false
-description: "Tatyana Timofeevna Krivosheina (1926–2021) — author of the notebook “Our genealogy: the Samsonovs,” central figure of the family archive."
-summary: "1926–2021. Notebook author; daughter of T. P. Samsonov and Eva Konstantinovna."
+description: "Biography of Tatyana Timofeevna Krivosheina (1926–2021): Samsonov family, notebook, war, marriage to A. D. Krivoshein, work, memory. Centre of the family archive."
+summary: "1926–2021. Author of “Our genealogy: the Samsonovs”; daughter of the Samsonovs; wife of A. D. Krivoshein."
 translationKey: "person-tatyana-timofeevna-krivosheina"
 entity_id: "person/tatyana-timofeevna-krivosheina"
 schema_type: "Person"
 birth_date: "1926-09-02"
 death_date: "2021-09-24"
-alternateName: ["Tatyana Timofeevna", "T. T. Krivosheina", "Кривошеина Татьяна Тимофеевна"]
-keywords: ["Tatyana Timofeevna Krivosheina", "memoirs", "family archive", "Samsonov", "Word of a Living Fate"]
-tags: ["people", "Krivosheina", "notebook"]
+alternateName: ["Tatyana Timofeevna", "T. T. Krivosheina", "Tanya", "Samsonova Tatyana Timofeevna"]
+keywords: ["Tatyana Timofeevna Krivosheina", "memoirs", "family archive", "Samsonov"]
+tags: ["people", "Krivosheina", "notebook", "biography"]
 categories: ["People"]
 people: ["Tatyana Timofeevna Krivosheina", "Aleksandr Dmitrievich Krivoshein"]
 ShowToc: true
+source_type: "mixed"
+privacy_reviewed: true
+editorial_status: "publishable"
 cover:
-  image: "/photos/tatyana-tt/2019-home-last-year.jpg"
-  alt: "Tatyana Timofeevna at home, 2019"
+  image: "/photos/tatyana-tt/garden-portrait.jpg"
+  alt: "Tatyana Timofeevna Krivosheina in a light hat and dress among garden plants"
   relative: false
-  caption: "Tatyana Timofeevna Krivosheina. Family archive scan."
+  caption: "Tatyana Timofeevna Krivosheina. Family archive."
 ---
-
-# Tatyana Timofeevna Krivosheina
-
-## Brief note
-
-**Tatyana Timofeevna Krivosheina** (née Samsonova), **2 September 1926 — 24 September 2021**.
-
-Central figure of this family archive: first-person author of the handwritten notebook *[“Our genealogy: the Samsonovs”](/en/memoirs/diary/)*, daughter of the Samsonovs, later wife of **Aleksandr Dmitrievich Krivoshein**.
-
-Full introduction: [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/).
-
-## Family links
-
-| Relation | Person |
-|----------|--------|
-| Father | [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/) (1888–1955) |
-| Mother | [Eva Konstantinovna Samsonova](/en/people/eva-konstantinovna-samsonova/) (1900–1981) |
-| Brother | [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/) (Tyoma; b. 1923) |
-| Sister | Evgenia (Genya) Timofeevna — in the notebook |
-| Husband | [Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/) (1926–1988) — **Sasha** in the notebook |
-| Mother-in-law | [Nina Vasilievna Krivosheina](/en/people/nina-vasilievna-krivosheina/) (1907–1991) |
-| Father-in-law | [Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) (1905–1979) |
-
-Parent bios: [Parents](/en/parents/) · [Father and mother](/en/parents/father-and-mother/).
-
-## Chapters, documents, photos
-
-- Notebook: all published English reader chapters are available from the [Diary](/en/memoirs/diary/) index, including later years:
-  - [Childhood and school](/en/memoirs/diary/13-school-friends-109-119/)
-  - [School and war](/en/memoirs/diary/14-war-evacuation-120-127/)
-  - [Youth and meeting Sasha](/en/memoirs/diary/16-friends-victory-134-139/)
-  - [Crimea, Sevastopol, and the start of family life](/en/memoirs/diary/17-crimea-family-140-149/)
-  - [Study, work, and alumni meetings](/en/memoirs/diary/18-study-work-reunions/)
-  - [Family and children](/en/memoirs/diary/18-sons-150-161/)
-- Letters addressed to Tanya: [Letters from the front](/en/documents/letters-from-the-front/).
-- Photos: [garden portrait (family-confirmed)](/photos/tatyana-tt/garden-portrait.jpg) · [Tatyana Timofeevna, 2019](/en/photos/tatyana-timofeevna-2019/) · [Notebook family continued](/en/photos/notebook-family-continued/).
-- Husband: [Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/) (**Sasha** in the notebook — not the “Sasha” on front letter 107).
-- Related events: [School 1940–1941](/en/events/school-1940-1941/), [Evacuation 1941](/en/events/evacuation-1941/), [Meeting Sasha](/en/events/meeting-sasha/), [Crimea trips](/en/events/crimea-trips/), [Beginning of the family](/en/events/family-beginning/).
-- Places: [Family Moscow](/en/places/family-moscow/).
 
 ## Photographs
 
-{{< figure src="/photos/tatyana-tt/garden-portrait.jpg" alt="Tatyana Timofeevna Krivosheina wearing a light-coloured hat and dress in a garden setting" caption="Tatyana Timofeevna Krivosheina (née Samsonova). Family photograph; the date and location have not yet been established." >}}
-
-Portrait **confirmed by the family** (Aleksei Krivoshein, 2 August 2026) as Tatyana Timofeevna. Husband: [Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/).
+{{< figure src="/photos/tatyana-tt/garden-portrait.jpg" alt="Tatyana Timofeevna Krivosheina in a light-coloured hat and dress in a garden" caption="Tatyana Timofeevna Krivosheina (née Samsonova). Family photograph; date and place not yet established. Confirmed by the family (2026-08-02)." >}}
 
 {{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="Tatyana Timofeevna at home, 15 April 2019. Family archive." >}}
 
 {{< figure src="/photos/archive-b02/b02-mp068-ph02.jpg" caption="“I am 12” — portrait of Tatyana (from the notebook)." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp038-ph01.jpg" caption="Class 6A. Tanya Samsonova among classmates." >}}
+{{< figure src="/photos/archive-b02/b02-mp038-ph01.jpg" caption="Class 6 “A”. Tanya Samsonova among classmates." >}}
 
-More: [2019 album](/en/photos/tatyana-timofeevna-2019/) · [family album continued](/en/photos/notebook-family-continued/)
+{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="T. T. Krivosheina — senior lecturer, Institute of Steel and Alloys. Family archive." >}}
+
+Also: [2019 album](/en/photos/tatyana-timofeevna-2019/) · [notebook family album](/en/photos/notebook-family-continued/)
+
+---
+
+**Tatyana Timofeevna Krivosheina** (2 September 1926 — 24 September 2021) is the **author** of the handwritten notebook [“Our genealogy: the Samsonovs”](/en/memoirs/diary/) and the **centre** of this family archive.
+
+Essay with life dates and memory: **[About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/)**. Below is a continuous biography from the **manuscript**, **family documents**, and **confirmed archive links**. Gaps are **not** filled by guesswork.
+
+## Origins
+
+| | |
+|---|---|
+| **Birth** | **2 September 1926** (official family documents; burial plaque) |
+| **Death** | **24 September 2021**, age 95 |
+| **Father** | [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/) (1888–1955) |
+| **Mother** | [Eva (Evdokia) Konstantinovna Samsonova](/en/people/eva-konstantinovna-samsonova/) (1900–1981) |
+| **Childhood** | Moscow (notebook: Vozdvizhenka, Mokhovaya, Serafimovich St. — [ch. 03](/en/memoirs/diary/03-childhood-moscow/)) |
+
+{{< archive_note type="source" >}}
+The **genealogy chart** records “21/IV–1926” by her name. The site does **not** replace the biographical date **2 Sept 1926** from family documents with that chart reading; the chart is kept as **source content**.
+{{< /archive_note >}}
+
+## Siblings
+
+- Sister — [Evgenia (Genya) Timofeevna Samsonova](/en/people/genya-samsonova/) — “My sister” ([ch. 10–11](/en/memoirs/diary/11-notebook-continued-090-099/)).
+- Brother — [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/) (Tyoma / Timosha) — childhood, front, Stalingrad ([ch. 11–12](/en/memoirs/diary/12-brother-front-letters-101-108/)).
+
+## War, school, letters
+
+- [School and war](/en/memoirs/diary/14-war-evacuation-120-127/)
+- [Wartime comrades’ letters](/en/memoirs/diary/15-wartime-letters-128-133/)
+- [Letters from the front](/en/documents/letters-from-the-front/)
+
+## Youth, Sasha, Crimea, family
+
+Husband — **[Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/)** (1926–1988); in the notebook — **Sasha**. Full biography (work, 1949 arrest, rehabilitation, 1989 prize) is on **his** page.
+
+- [Youth and meeting Sasha](/en/memoirs/diary/16-friends-victory-134-139/)
+- [Crimea, Sevastopol, start of family](/en/memoirs/diary/17-crimea-family-140-149/)
+- [Family and children](/en/memoirs/diary/18-sons-150-161/)
+
+Mother-in-law — [Nina Vasilievna](/en/people/nina-vasilievna-krivosheina/); father-in-law — [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/).
+
+Children and grandchildren: [charts](/en/memoirs/diary/00-cover-and-charts/); for the **living** — birth **year** only.
+
+## Study, work, husband’s arrest
+
+From [ch. 18](/en/memoirs/diary/18-study-work-reunions/): state exams; kept in Moscow because **Sasha worked** there (“Stalproekt”); **2 September 1949** — Sasha arrested; Lubyanka inquiries; about a year without work; **School No. 50 in Lyublino** until his return (**June 1954**); class reunions.
+
+Family captions: teaching at the **Institute of Steel and Alloys**. Full personnel chronology is **not** published without documents.
+
+## The notebook
+
+She left **[“Our genealogy: the Samsonovs”](/en/memoirs/diary/)** — first-person voice, charts, pasted photos, letters.
+
+Start: [About the notebook](/en/memoirs/diary/about-the-notebook/) · [My mother](/en/memoirs/diary/01-my-mother/) · [Contents](/en/memoirs/diary/).
+
+## Later years and memory
+
+{{< figure src="/photos/tatyana-tt/grave-plaque-2021.jpg" alt="Memorial plaque for Tatyana Timofeevna Krivosheina" caption="Burial place. Plaque: 2 September 1926 — 24 September 2021." >}}
+
+## Confirmed anchors
+
+| Fact | Source | Confidence |
+|------|--------|------------|
+| 2 Sept 1926 — 24 Sept 2021 | family documents; plaque | established |
+| Daughter of T. P. and E. K. | manuscript; charts | high |
+| Notebook author | manuscript | high |
+| Husband A. D. Krivoshein (Sasha) | chart; ch. 16–19 | high |
+| Lecturer (MISIS / Steel and Alloys) | family portrait/caption | medium–high |
+| Lived through husband’s 1949–1954 arrest | ch. 18 | high *as testimony* |
 
 ## Sources
 
-- Official family dates of life (birth / death) as stated on [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/).
-- Manuscript notebook and family photographs published on this site.
-- No invented identity for living relatives; for living people only years are published where needed.
+- [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/)
+- [Diary](/en/memoirs/diary/)
+- [Letters from the front](/en/documents/letters-from-the-front/)
+- [A. D. Krivoshein](/en/people/aleksandr-krivoshein/)
+
+---
+
+See also: [People](/en/people/) · [Parents](/en/parents/) · [Charts](/en/memoirs/diary/00-cover-and-charts/)

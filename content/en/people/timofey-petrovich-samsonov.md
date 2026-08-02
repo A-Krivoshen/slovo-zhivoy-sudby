@@ -21,11 +21,27 @@ cover:
 
 ## Brief note
 
-**Timofey Petrovich Samsonov** (**1888–1955**) — father of [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/).
+**Timofey Petrovich Samsonov** (**1888–1955**) — father of [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/), husband of [Eva Konstantinovna](/en/people/eva-konstantinovna-samsonova/).
 
-Full biography with album photographs and documents: **[Timofey Petrovich Samsonov (Parents)](/en/parents/timofey-petrovich-samsonov/)**.
+**Full biography** with chronology, documents and album:
 
-**Do not confuse** with his son [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/) (Tyoma) — different patronymic, different generation.
+→ **[Timofey Petrovich Samsonov (Parents)](/en/parents/timofey-petrovich-samsonov/)**
+
+### Biographical outline (from site materials)
+
+| Period | From archive materials |
+|---|---|
+| **1888** | Birth; chart — Bessarabia, Mikhayleny; years **1888–1955** |
+| **1910** | Alexandrovsky Central (Siberia) — notebook caption |
+| **1917** | Expulsion from Britain — [document](/en/documents/expulsion-uk-1917/) |
+| **1919+** | Dzerzhinsky circle; [Colt](/en/documents/colt-certificate-1919/), [GPU badge](/en/documents/gpu-badge-samsonov/) |
+| **Order** | [Red Banner](/en/documents/order-of-the-red-banner-samsonov/) |
+| **1929** | [*Pravda* on Dzerzhinsky](/en/documents/pravda-on-dzerzhinsky-1929/) |
+| **1955** | Death; Novodevichy (chart); bust in native village (daughter’s account, [ch. 05](/en/memoirs/diary/05-father-cheka-verses/)) |
+
+Daughter’s voice: [ch. 02](/en/memoirs/diary/02-father-marriage-children/), [05](/en/memoirs/diary/05-father-cheka-verses/), [08](/en/memoirs/diary/08-father-character/), [10](/en/memoirs/diary/10-notebook-continued-080-089/).
+
+**Do not confuse** with his son [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/) (Tyoma).
 
 ## Family links
 

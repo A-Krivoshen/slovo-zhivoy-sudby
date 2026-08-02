@@ -74,6 +74,22 @@ people:
     url_en: "/en/parents/dmitry-aleksandrovich-krivoshein/"
     note: "Father of Aleksandr D.; father-in-law of Tatyana."
 
+  - entity_id: person-nina-vasilievna-krivosheina
+    name_ru: "Кривошеина (Петрова) Нина Васильевна"
+    name_en: "Nina Vasilievna Krivosheina (née Petrova)"
+    aliases:
+      - person/nina-vasilievna-krivosheina
+      - person-nina-krivosheina
+      - "Нина Васильевна"
+      - "Н. В. Кривошеина"
+    url_ru: "/lyudi/nina-vasilievna-krivosheina/"
+    url_en: "/en/people/nina-vasilievna-krivosheina/"
+    birth_year: 1907
+    death_year: 1991
+    identity_status: family_and_museum_confirmed
+    privacy_status: public_historical
+    note: "Wife of D. A. Krivoshein; mother of Aleksandr D.; mother-in-law of Tatyana. Portrait from notebook chart p.005."
+
   - entity_id: person-dmitry-wartime-correspondent
     aliases: ['person-dmitry-pisma-front', 'person/dmitry-pisma-front']
     name_ru: "Дмитрий (письма 103–104)"

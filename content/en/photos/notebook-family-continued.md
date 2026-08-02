@@ -28,7 +28,7 @@ People in the archive: [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivos
 
 ## Confirmed family portraits
 
-Separate prints (not notebook leaves). Identities **confirmed by the family** on 2 August 2026 (Aleksei Krivoshein). Date and place of photography have **not yet been established**.
+Separate prints and chart portraits. Identities **confirmed by the family** (Aleksei Krivoshein, 2026-08-02) and/or a **named genealogy-chart node**. Photography date is **not invented** when unknown.
 
 {{< figure src="/photos/tatyana-tt/garden-portrait.jpg" alt="Tatyana Timofeevna Krivosheina wearing a light-coloured hat and dress in a garden setting" caption="Tatyana Timofeevna Krivosheina (née Samsonova). Family photograph; the date and location have not yet been established." >}}
 
@@ -37,6 +37,10 @@ Separate prints (not notebook leaves). Identities **confirmed by the family** on
 {{< figure src="/photos/aleksandr-krivoshein/portrait.jpg" alt="Portrait of Aleksandr Dmitrievich Krivoshein wearing a light shirt and tie" caption="Aleksandr Dmitrievich Krivoshein, husband of Tatyana Timofeevna. Family photograph; the date has not yet been established." >}}
 
 → [Aleksandr Dmitrievich](/en/people/aleksandr-krivoshein/) · [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) · [Youth and Sasha](/en/memoirs/diary/16-friends-victory-134-139/) · [Crimea and family](/en/memoirs/diary/17-crimea-family-140-149/)
+
+{{< figure src="/photos/nina-vasilievna-krivosheina/portrait.jpg" alt="Portrait of Nina Vasilievna Krivosheina from the notebook genealogy chart" caption="Nina Vasilievna Krivosheina (1907–1991). Portrait from the “Krivosheins” chart (notebook p. 005). Chart miniature; date of photography not established." >}}
+
+→ [Nina Vasilievna](/en/people/nina-vasilievna-krivosheina/) · [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) · [A. D. Krivoshein](/en/people/aleksandr-krivoshein/) · [chart](/en/memoirs/diary/00-cover-and-charts/)
 
 ## Father and the historical circle
 

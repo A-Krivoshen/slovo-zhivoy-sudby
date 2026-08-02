@@ -69,7 +69,7 @@ The patronymic **Dmitrievich** is **on the site** (chart and father-in-law / wif
 | **Who** | Husband of Tatyana Timofeevna |
 | **In the notebook** | **Sasha** |
 | **Father** | [Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) (1905–1979) |
-| **Mother** | Nina Vasilyevna Krivosheina (née Petrova) (1907–1991) — per chart and Crimea narrative |
+| **Mother** | **[Nina Vasilievna Krivosheina (née Petrova)](/en/people/nina-vasilievna-krivosheina/)** (1907–1991) — [chart portrait](/photos/nina-vasilievna-krivosheina/portrait.jpg); Crimea narrative “Baba Nina” |
 | **Wife** | [Tatyana Timofeevna Krivosheina](/en/memoirs/about-tatyana-timofeevna/) (1926–2021) |
 | **Years** | **1926–1988** (chart; Kirsanov) |
 

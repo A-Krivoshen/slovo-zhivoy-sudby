@@ -27,8 +27,8 @@ In Tatyana Timofeevna’s family notebook he appears in the **Krivoshein** chart
 | | |
 | --- | --- |
 | **Who** | Father-in-law of Tatyana Timofeevna |
-| **Wife** | **Nina Vasilyevna Krivosheina (née Petrova)** (1907–1991) |
-| **Son** | **Aleksandr Dmitrievich Krivoshein** (1926–1988) — husband of T. T. |
+| **Wife** | **[Nina Vasilievna Krivosheina (née Petrova)](/en/people/nina-vasilievna-krivosheina/)** (1907–1991) — [chart portrait](/photos/nina-vasilievna-krivosheina/portrait.jpg) |
+| **Son** | **[Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/)** (1926–1988) — husband of T. T. |
 
 ## Brief biography
 
@@ -68,4 +68,4 @@ Family and public sources state that the son was **rehabilitated** in 1954 and r
 
 ---
 
-See also: [Genealogy from the notebook](/en/memoirs/diary/00-cover-and-charts/) · [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/)
+See also: [Nina Vasilievna](/en/people/nina-vasilievna-krivosheina/) · [Aleksandr Dmitrievich](/en/people/aleksandr-krivoshein/) · [Genealogy from the notebook](/en/memoirs/diary/00-cover-and-charts/) · [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/)

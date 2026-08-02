@@ -7,7 +7,7 @@ summary: "1905–1979. Кирсанов — совхозы — нарком — 
 translationKey: "krivoshein-dmitry"
 tags: ["Кривошеин", "родители", "государство", "совхозы"]
 categories: ["Родители"]
-people: ["Кривошеин Дмитрий Александрович", "Кривошеина Татьяна Тимофеевна", "Кривошеин Александр Дмитриевич"]
+people: ["Кривошеин Дмитрий Александрович", "Кривошеина Нина Васильевна", "Кривошеина Татьяна Тимофеевна", "Кривошеин Александр Дмитриевич"]
 ShowToc: true
 cover:
   image: "/photos/krivoshein-da/dmitry-portrait.jpg"
@@ -27,8 +27,8 @@ cover:
 | | |
 | --- | --- |
 | **Кто** | Свёкор Татьяны Тимофеевны (отец её мужа Александра) |
-| **Жена** | **Кривошеина (Петрова) Нина Васильевна** (1907–1991) |
-| **Сын** | **Кривошеин Александр Дмитриевич** (1926–1988) — муж Т. Т. |
+| **Жена** | **[Кривошеина (Петрова) Нина Васильевна](/lyudi/nina-vasilievna-krivosheina/)** (1907–1991) — [портрет со схемы](/photos/nina-vasilievna-krivosheina/portrait.jpg) |
+| **Сын** | **[Кривошеин Александр Дмитриевич](/lyudi/aleksandr-krivoshein/)** (1926–1988) — муж Т. Т. |
 
 ## Краткая биография
 
@@ -68,4 +68,4 @@ cover:
 
 ---
 
-См. также: [Родословная из тетради](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/) · [О Татьяне Тимофеевне](/vospominaniya/o-tatyane-timofeevne/)
+См. также: [Нина Васильевна](/lyudi/nina-vasilievna-krivosheina/) · [Александр Дмитриевич](/lyudi/aleksandr-krivoshein/) · [Родословная из тетради](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/) · [О Татьяне Тимофеевне](/vospominaniya/o-tatyane-timofeevne/)

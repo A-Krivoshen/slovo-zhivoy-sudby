@@ -24,6 +24,7 @@ Each page says who the person is, how they relate to the family, and where to re
 | [Timofey Timofeevich Samsonov (Tyoma)](/en/people/timofey-timofeevich-samsonov/) | Brother; Timosha letters, Stalingrad medal — **not** the father |
 | [Evgenia (Genya) Samsonova](/en/people/genya-samsonova/) | Elder sister; notebook chapters about her |
 | [Aleksandr Dmitrievich Krivoshein (Sasha)](/en/people/aleksandr-krivoshein/) | **Husband** of Tatyana Timofeevna (1926–1988); **Sasha** in the notebook; youth, Crimea, family |
+| [Nina Vasilievna Krivosheina](/en/people/nina-vasilievna-krivosheina/) | **Mother-in-law** (1907–1991); wife of D. A.; mother of Sasha; chart portrait |
 
 Longer parent bios: [Parents](/en/parents/) · [Father and mother](/en/parents/father-and-mother/) · [D. A. Krivoshein (father-in-law)](/en/parents/dmitry-aleksandrovich-krivoshein/).  
 Archive overview: [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/).

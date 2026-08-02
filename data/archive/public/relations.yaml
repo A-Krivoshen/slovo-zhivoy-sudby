@@ -743,3 +743,44 @@ relations:
     source_ref: content/ru/dokumenty/pisma-s-fronta/pismo-133-gennadiy-29-11-1943.md
     confidence: document_confirmed
     public: true
+
+  # ---------------------------------------------------------------------------
+  # Nina Vasilievna Krivosheina (1907–1991)
+  # ---------------------------------------------------------------------------
+  - subject: person-nina-vasilievna-krivosheina
+    predicate: spouse_of
+    object: person-krivoshein-da
+    source_ref:
+      - content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+      - content/ru/roditeli/krivoshein-dmitriy-aleksandrovich.md
+      - source-family-confirmation-2026-08-02-nina-vasilievna-krivosheina
+    confidence: family_confirmed
+    public: true
+
+  - subject: person-krivoshein-da
+    predicate: spouse_of
+    object: person-nina-vasilievna-krivosheina
+    source_ref:
+      - content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+      - source-family-confirmation-2026-08-02-nina-vasilievna-krivosheina
+    confidence: family_confirmed
+    public: true
+
+  - subject: person-nina-vasilievna-krivosheina
+    predicate: parent_of
+    object: person-alexander-krivoshein
+    source_ref:
+      - content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+      - source-family-confirmation-2026-08-02-nina-vasilievna-krivosheina
+    confidence: family_confirmed
+    public: true
+
+  - subject: person-alexander-krivoshein
+    predicate: child_of
+    object: person-nina-vasilievna-krivosheina
+    source_ref:
+      - content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+      - source-family-confirmation-2026-08-02-nina-vasilievna-krivosheina
+    confidence: family_confirmed
+    public: true
+

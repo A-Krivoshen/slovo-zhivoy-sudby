@@ -363,3 +363,37 @@ photos:
   - /en/photos/notebook-family-continued/
   confidence: family_confirmed
   public: true
+
+- entity_id: photo-nina-vasilievna-chart-portrait
+  type: photograph
+  src: /photos/nina-vasilievna-krivosheina/portrait.jpg
+  src_md: /photos/nina-vasilievna-krivosheina/portrait-md.jpg
+  src_thumb: /photos/nina-vasilievna-krivosheina/portrait-thumb.jpg
+  context_src: /photos/nina-vasilievna-krivosheina/context-chart.jpg
+  caption_ru: "Нина Васильевна Кривошеина. Портрет со схемы «Кривошеины» (тетрадь, стр. 005). Дата съёмки не установлена."
+  caption_en: "Nina Vasilievna Krivosheina. Portrait from the “Krivosheins” chart (notebook p. 005). Date of photography not established."
+  alt_ru: "Портрет Нины Васильевны Кривошеиной из родословной схемы тетради"
+  alt_en: "Portrait of Nina Vasilievna Krivosheina from the notebook genealogy chart"
+  depicted_people:
+  - person-nina-vasilievna-krivosheina
+  related_people:
+  - person-krivoshein-da
+  - person-alexander-krivoshein
+  identity_status: family_and_chart_confirmed
+  date_status: unknown
+  location_status: unknown
+  privacy_status: public_historical
+  source_page: 5
+  source_ref:
+  - source-family-confirmation-2026-08-02-nina-vasilievna-krivosheina
+  - content/ru/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye.md
+  related_urls:
+  - /lyudi/nina-vasilievna-krivosheina/
+  - /roditeli/krivoshein-dmitriy-aleksandrovich/
+  - /lyudi/aleksandr-krivoshein/
+  - /vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/
+  - /foto/tetrad-semya-prodolzhenie/
+  - /en/people/nina-vasilievna-krivosheina/
+  confidence: family_confirmed
+  public: true
+  note: "Crop from chart master c-005; small archival source; not generative restore."

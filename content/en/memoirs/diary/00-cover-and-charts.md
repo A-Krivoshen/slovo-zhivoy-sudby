@@ -187,7 +187,7 @@ b. Tambov
 1907–1991  
 (bur. Lyubertsy Cemetery)  
 
-**[photo]** Woman with curly/short hair (Nina Vasilievna?).
+**[photo on the chart node]** — portrait of **[Nina Vasilievna Krivosheina](/en/people/nina-vasilievna-krivosheina/)**: glued next to her written name (1907–1991); identity from chart context, not from face matching.
 
 ### her mother
 **Arkhipnikova Agrippina Dmitrievna**  
@@ -230,7 +230,7 @@ A second scan of the same Krivoshein family chart leaf; a full second transcript
 *(Content matches the chart on p. 005. Photos: woman with curly hair; three male portraits.)*
 
 - **Krivoshein Dmitry Alexandrovich** (1905–1979), Tambov; Lyubertsy Cemetery  
-- **Krivosheina (Petrova) Nina Vasilievna** (1907–1991), Tambov; Lyubertsy  
+- **[Krivosheina (Petrova) Nina Vasilievna](/en/people/nina-vasilievna-krivosheina/)** (1907–1991), Tambov; Lyubertsy  
 - mother: **Arkhipnikova Agrippina Dmitrievna**  
 - sisters: **Olga Grigorievna Arkhipnikova (Petrova)** (1902–1972); **Maria Grigorievna Kruglova (Arkhipnikova)** (d. 1992)  
 - son: **Krivoshein Alexander Dmitrievich** (10/IX–1926 – 3/IX–1988), Kirsanov; Novodevichy  

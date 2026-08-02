@@ -41,6 +41,7 @@ cover:
 - Мать — [Ева (Евдокия) Константиновна Самсонова](/lyudi/eva-konstantinovna-samsonova/) (1900–1981)
 - Брат — [Самсонов Тимофей Тимофеевич](/lyudi/timofey-timofeevich-samsonov/) (Тёма; р. 1923)
 - Муж — **[Кривошеин Александр Дмитриевич](/lyudi/aleksandr-krivoshein/)** (1926–1988); в тетради и на фото — **Саша**. См. схемы в [обложке и родословных](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/)
+- Свекровь — **[Кривошеина Нина Васильевна](/lyudi/nina-vasilievna-krivosheina/)** (1907–1991); свёкор — [Д. А. Кривошеин](/roditeli/krivoshein-dmitriy-aleksandrovich/)
 
 Дети и внуки в рукописи есть; **полные даты рождения живущих на сайте не публикуются**.
 

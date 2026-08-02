@@ -14,7 +14,7 @@ ShowToc: true
 source_title: "Наша родословная. Самсоновы"
 source_pages_original: "149-161"
 transcription_status: "editorial_structure"
-translation_status: "incomplete"
+translation_status: "complete"
 editorial_status: "reader_chapter"
 source_type: "manuscript"
 privacy_reviewed: true

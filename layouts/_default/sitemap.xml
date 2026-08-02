@@ -5,6 +5,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   {{- range where .Pages "Sitemap.Disable" "ne" true }}
+    {{- /* Skip editorial noindex hubs and other pages marked robotsNoIndex */ -}}
+    {{- if .Params.robotsNoIndex }}{{ continue }}{{ end }}
     {{- if .Permalink }}
   <url>
     <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}

@@ -53,7 +53,7 @@ Under [`data/archive/public/`](../data/archive/public/):
 | `events.yaml` | War, evacuation, school, Crimea, family, reunions, UK expulsion 1917 |
 | `letters.yaml` | Front-letter + postcard entities with required **`url_ru`** |
 | `documents.yaml` | Colt, expulsion, Red Banner, GPU badge, Pravda, Stalingrad medal (T.T.) |
-| `photos.yaml` | B02 priority prints + key album portraits (no 099/100/155/157 entities) |
+| `photos.yaml` | B02 priority prints + key album portraits + genealogy-chart crops (Eva, T.P., Genya, A.D. young, Nina, p.005 leaf). No 099/100/155/157; no living p.004 portrait entities. See `docs/FAMILY_PORTRAIT_COVERAGE_AUDIT.md` (2026-08-02). |
 | `collections.yaml` | Diary B02, letters-from-front, notebook album, parents’ docs |
 | `chapters.yaml` | Manuscript chapters referenced by `mentioned_in` relations |
 | `relations.yaml` | Typed edges (`child_of`, `author_of`, `depicted_in`, …) + `confidence` + `public` |

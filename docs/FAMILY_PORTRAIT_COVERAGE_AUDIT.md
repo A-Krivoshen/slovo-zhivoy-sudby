@@ -5,7 +5,8 @@
 **Identity rule:** caption / tree node / document / family confirmation only — never face matching.
 
 **Backup tag:** `backup-before-family-portraits-lightbox-total-audit-2026-08-02`  
-**Baseline HEAD before pass:** `559e992`
+**Baseline HEAD before pass:** `559e992`  
+**Pass commits (local, then single push):** audit → publish crops → link content/data → lightbox (+ parity/SEO notes below).
 
 ---
 
@@ -147,6 +148,35 @@ Prior entities retained: photo-eva-portrait, photo-album-samsonov-tp-05, photo-t
 | candidate_requires_family_confirmation | 3 unlabeled males p.005; D.A. isolated portrait |
 | text_only_no_image_found | D.A. dedicated portrait |
 | duplicate avoided | chart vs studio (T.P.); chart young vs formal (A.D.); Eva chart vs album |
+
+---
+
+## Production QA checklist (post-build)
+
+| Check | Result |
+|---|---|
+| `hugo --minify` | PASS (RU 284 / EN 268 pages) |
+| Chart figures on RU/EN cover pages | PASS |
+| Person pages + covers for confirmed portraits | PASS |
+| Album RU/EN chart block | PASS |
+| Image tags in sitemap for chart portraits | PASS (in-page image sitemap) |
+| hreflang cover charts RU↔EN | PASS |
+| OG/JSON-LD image on Genya (chart cover) | PASS |
+| Private str-155/157 files absent | PASS |
+| Living p.004 portraits not in static public crops | PASS |
+| Lightbox JS + CSS stage/viewport | PASS build |
+| Real phone pinch gesture | verify after Pages deploy |
+
+## Git (this pass)
+
+Logical commits on `main`:
+
+1. Audit family-tree portrait coverage and identity evidence  
+2. Publish confirmed portraits from genealogy charts and albums  
+3. Link portraits across people, chapters, albums, and family tree  
+4. Add pinch-zoom accessible lightbox  
+5. Complete RU and EN visual-content parity (docs + notes)  
+6. Finalize SEO AI-ready metadata and full production QA  
 
 ---
 

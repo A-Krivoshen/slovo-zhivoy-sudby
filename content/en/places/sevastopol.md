@@ -38,7 +38,7 @@ Sevastopol in this archive belongs to postwar **family Crimea**, not to a separa
 | Place frame | [Crimea (family years)](/en/places/crimea-family/) |
 | Person | [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) |
 | Author | [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/) |
-| Full narrative | Russian diary chapter on Crimea/Sevastopol (EN pages may still be draft) |
+| Full narrative | [Crimea, Sevastopol, and the start of family life](/en/memoirs/diary/17-crimea-family-140-149/) |
 
 ---
 

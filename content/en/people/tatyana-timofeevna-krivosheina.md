@@ -48,8 +48,13 @@ Parent bios: [Parents](/en/parents/) · [Father and mother](/en/parents/father-a
 
 ## Chapters, documents, photos
 
-- Notebook (public chapters): [Diary](/en/memoirs/diary/) — EN chapters 00–11 are published; later EN chapters may still be drafts.
-- RU full reader path for later years: [Childhood and school](/vospominaniya/dnevnik/13-tanya-detstvo-i-shkola/), [School and war](/vospominaniya/dnevnik/14-shkola-i-voyna/), [Youth and Sasha](/vospominaniya/dnevnik/16-yunost-i-sasha/), [Crimea and family](/vospominaniya/dnevnik/17-krym-sevastopol-semya/), [Family and children](/vospominaniya/dnevnik/19-semya-i-deti/).
+- Notebook: all published English reader chapters are available from the [Diary](/en/memoirs/diary/) index, including later years:
+  - [Childhood and school](/en/memoirs/diary/13-school-friends-109-119/)
+  - [School and war](/en/memoirs/diary/14-war-evacuation-120-127/)
+  - [Youth and meeting Sasha](/en/memoirs/diary/16-friends-victory-134-139/)
+  - [Crimea, Sevastopol, and the start of family life](/en/memoirs/diary/17-crimea-family-140-149/)
+  - [Study, work, and alumni meetings](/en/memoirs/diary/18-study-work-reunions/)
+  - [Family and children](/en/memoirs/diary/18-sons-150-161/)
 - Letters addressed to Tanya: [Letters from the front](/en/documents/letters-from-the-front/).
 - Photos: [garden portrait (family-confirmed)](/photos/tatyana-tt/garden-portrait.jpg) · [Tatyana Timofeevna, 2019](/en/photos/tatyana-timofeevna-2019/) · [Notebook family continued](/en/photos/notebook-family-continued/).
 - Husband: [Aleksandr Dmitrievich Krivoshein](/en/people/aleksandr-krivoshein/) (**Sasha** in the notebook — not the “Sasha” on front letter 107).

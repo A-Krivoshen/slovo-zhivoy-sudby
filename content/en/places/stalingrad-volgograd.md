@@ -36,7 +36,7 @@ Not a tourist guide — a **family link**:
 | Link type | Page |
 | --- | --- |
 | Document | [Medal “For the Defence of Stalingrad” — T. T. Samsonov](/en/documents/stalingrad-defense-medal-samsonov-tt/) |
-| Notebook chapter (EN draft may lag) | [Brother on the front (pp. 101–108)](/vospominaniya/dnevnik/12-brat-front-103-108/) |
+| Notebook chapter | [Uncle Tyoma: documents and Stalingrad](/en/memoirs/diary/12-brother-front-letters-101-108/) |
 | Narrative on the brother | [Notebook continued (pp. 090–098)](/en/memoirs/diary/11-notebook-continued-090-099/) |
 | Front letters | [Letters from the front](/en/documents/letters-from-the-front/) |
 | Family overview | [Father and mother](/en/parents/father-and-mother/) |

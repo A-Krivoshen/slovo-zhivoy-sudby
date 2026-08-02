@@ -77,14 +77,14 @@ Children and grandchildren: [genealogy charts](/en/memoirs/diary/00-cover-and-ch
 
 ## Where to read in the archive
 
-### Youth, Crimea, family (RU reader chapters are published)
+### Youth, Crimea, family (English reader chapters)
 
-English diary chapters for this stretch may still be draft; the **Russian** reader chapters are the public narrative:
+Published English notebook chapters (also listed from the [Diary](/en/memoirs/diary/) index):
 
-- **[Youth and meeting Sasha](/vospominaniya/dnevnik/16-yunost-i-sasha/)** (pp. 134–139)
-- **[Crimea, Sevastopol, and the start of family life](/vospominaniya/dnevnik/17-krym-sevastopol-semya/)** (pp. 140–144)
-- **[Study and work](/vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki/)** — work, arrest 2 Sept 1949, return 1954
-- **[Family and children](/vospominaniya/dnevnik/19-semya-i-deti/)**
+- **[Youth and meeting Sasha](/en/memoirs/diary/16-friends-victory-134-139/)** (pp. 134–139)
+- **[Crimea, Sevastopol, and the start of family life](/en/memoirs/diary/17-crimea-family-140-149/)** (pp. 140–144)
+- **[Study, work, and alumni meetings](/en/memoirs/diary/18-study-work-reunions/)** — work, arrest 2 Sept 1949, return 1954
+- **[Family and children](/en/memoirs/diary/18-sons-150-161/)**
 
 ### Father-in-law, chart, photos (EN)
 

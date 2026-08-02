@@ -44,7 +44,7 @@ No calendar day of the first meeting is given — the manuscript describes unloa
 - [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/)
 - [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/)
 
-EN diary chapters 14–17 may still be **draft** — prefer RU reader chapters or the EN about page.
+Notebook: [Youth and meeting Sasha](/en/memoirs/diary/16-friends-victory-134-139/) · [Crimea, Sevastopol, and the start of family life](/en/memoirs/diary/17-crimea-family-140-149/).
 
 
 ## Photographs

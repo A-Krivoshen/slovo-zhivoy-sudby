@@ -36,8 +36,8 @@ ShowToc: true
 
 ## Events and chapters
 
-- Russian reader chapter (full narrative): Crimea, Sevastopol and the start of a family — on the RU site under memoirs/diary.  
-- EN notebook pages for 140–149 may still be draft; use [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/) and [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) as stable anchors.  
+- Full English narrative: [Crimea, Sevastopol, and the start of family life](/en/memoirs/diary/17-crimea-family-140-149/).  
+- Related: [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/) · [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) · [Nina Vasilievna](/en/people/nina-vasilievna-krivosheina/).  
 - Separate place: **[Sevastopol](/en/places/sevastopol/)** (ruined city, 1946 visit).
 
 ## Chronology (short)

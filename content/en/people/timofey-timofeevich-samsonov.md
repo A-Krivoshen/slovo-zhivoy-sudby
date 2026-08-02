@@ -35,8 +35,7 @@ Wartime letters in the collection are signed **Timosha** — the form on the sou
 - Medal certificate: [“For the Defence of Stalingrad” — Samsonov T. T.](/en/documents/stalingrad-defense-medal-samsonov-tt/) (decree 22 Dec 1942; presentation date on the form **23 September 1943**; 79th Guards Mortar Regiment).
 - Letters signed Timosha: [14 June 1943 to mother](/en/documents/letters-from-the-front/letter-105-106-to-mother/), [13 July 1944](/en/documents/letters-from-the-front/letter-107/).
 - Collection: [Letters from the front](/en/documents/letters-from-the-front/).
-- Notebook context (RU reader chapter; EN draft): [Brother at the front](/vospominaniya/dnevnik/12-brat-front-103-108/); EN overview if published: [brother front letters](/vospominaniya/dnevnik/12-brat-front-103-108/) may be draft.
-- Notebook on siblings: [continued 090–099](/en/memoirs/diary/11-notebook-continued-090-099/) (EN public).
+- Notebook: [Uncle Tyoma: documents and Stalingrad](/en/memoirs/diary/12-brother-front-letters-101-108/) · siblings: [Sister Genya and brother Tyoma](/en/memoirs/diary/11-notebook-continued-090-099/).
 - Event: [Defence of Stalingrad](/en/events/defense-of-stalingrad/).
 
 ## Photographs

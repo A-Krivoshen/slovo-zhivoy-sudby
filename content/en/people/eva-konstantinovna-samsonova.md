@@ -36,7 +36,7 @@ Main first-person account: [My mother](/en/memoirs/diary/01-my-mother/).
 ## Letters, chapters, places
 
 - Letter to mother from **Timosha**: [14 June 1943](/en/documents/letters-from-the-front/letter-105-106-to-mother/).
-- War and evacuation in the notebook: EN [War, 1941](/en/memoirs/diary/04-war-1941/); fuller RU chapter [School and war](/vospominaniya/dnevnik/14-shkola-i-voyna/).
+- War and evacuation in the notebook: [War, 1941](/en/memoirs/diary/04-war-1941/) · [School and war](/en/memoirs/diary/14-war-evacuation-120-127/).
 - Event: [Evacuation 1941](/en/events/evacuation-1941/).
 - Places: [Family Moscow](/en/places/family-moscow/) (2nd Brestskaya, Lubyanka, Vozdvizhenka, Novodevichy).
 

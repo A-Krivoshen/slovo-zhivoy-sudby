@@ -34,7 +34,7 @@ The letters address parents and sister Tanya — they sit in the family notebook
 
 Collection: [Letters from the front](/en/documents/letters-from-the-front/).
 
-Notebook pointer (RU): [Brother at the front / documents block](/vospominaniya/dnevnik/12-brat-front-103-108/).
+Notebook: [Uncle Tyoma: documents and Stalingrad](/en/memoirs/diary/12-brother-front-letters-101-108/).
 
 ## Photographs
 

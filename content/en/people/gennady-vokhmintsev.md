@@ -31,7 +31,7 @@ He is a **correspondent / friend**, not a Samsonov sibling.
 | **29 November 1943** | [Letter from Gennady](/en/documents/letters-from-the-front/letter-133-gennady-29-11-1943/) |
 
 Collection: [Letters from the front](/en/documents/letters-from-the-front/).  
-RU chapter context: [Wartime letters](/vospominaniya/dnevnik/15-pisma-voennye-128-133/).
+Chapter context: [Wartime comrades’ letters](/en/memoirs/diary/15-wartime-letters-128-133/).
 
 ## Photographs
 

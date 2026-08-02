@@ -2,3 +2,5 @@ Portrait crop from notebook genealogy chart original_page 005 (c-005).
 Identity: chart node «Кривошеина (Петрова) Нина Васильевна» 1907–1991.
 Masters in inbox/photos/family/nina-vasilievna-krivosheina/ (gitignored).
 Small archival source; not AI-restored.
+
+Orientation fix 2026-08-02: rotated +90° CW so head upright (matched str-005 chart glue).

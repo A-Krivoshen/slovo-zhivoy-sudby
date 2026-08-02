@@ -372,7 +372,7 @@ And pulled out from there a brother frightened half to death.
 
 <!-- p. 039 -->
 
-[Upper PHOTO: group of men in suits / with decorations; flags in the background]
+{{< figure src="/photos/archive-b01/b01-c039-ph01.jpg" alt="Group of men at the CC of the VKP(b); panel with flags in the background" caption="At the Central Committee of the VKP(b). Papa is second from the right; third next to him is Postyshev. Papa — Administrator of Affairs of the CC." >}}
 
 [Caption on the right:]  
 At the Central Committee of the VKP(b)  
@@ -383,7 +383,7 @@ him is Postyshev.
 Papa — Adminis-  
 trator of Affairs of the CC
 
-[Lower PHOTO: large group photograph, men and women, many rows]
+{{< figure src="/photos/archive-b01/b01-c039-ph02.jpg" alt="Large group photograph of a meeting at the CC" caption="A meeting at the CC. Papa — at the edge (← Papa)." >}}
 
 [Caption on the right:]  
 Some  

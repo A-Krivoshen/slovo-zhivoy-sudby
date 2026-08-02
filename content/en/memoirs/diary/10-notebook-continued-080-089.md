@@ -239,7 +239,7 @@ left his mark in the history of our
 country, (how will this be regarded  
 at the present time? I do not know).
 
-**[photo, top]** People at a cemetery monument in winter; a dog.
+Photographs on the leaf (see figure above): people at a cemetery monument in winter; a dog; a group of people in winter at the cemetery.
 
 Caption (right):
 
@@ -253,9 +253,7 @@ grave and
 brought  
 flowers.”
 
-**[photo, bottom]** Group of people in winter at the cemetery.
-
-Caption:
+Caption (lower frame):
 
 [?] [?]  
 [?] [?]

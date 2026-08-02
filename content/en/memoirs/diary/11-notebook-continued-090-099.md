@@ -119,31 +119,25 @@ she said: “Here is sister[?] Samsonova[?].”
 
 <!-- p. 092 -->
 
-{{< figure src="/photos/dnevnik-tt/str-092.jpg" caption="Zhenya and Tyoma; the Samsonov family, 1925." >}}
+{{< figure src="/photos/archive-b02/b02-mp013-ph01.jpg" caption="Zhenya and Tyoma Samsonov." >}}
 
-**[photo, top left]** Two children in sailor suits.
+{{< figure src="/photos/archive-b02/b02-mp013-ph02.jpg" caption="1934. “I am 11 years old.”" >}}
 
-Caption:
+{{< figure src="/photos/archive-b02/b02-mp013-ph03.jpg" caption="November 1925. The Samsonov family." >}}
+
+{{< figure src="/photos/dnevnik-tt/str-092.jpg" caption="Full notebook leaf p. 092 — family photographs." >}}
+
+Captions on the leaf (see figures above):
 
 Zhenya and Tyoma Samsonov.
 
-**[photo, top right]** Portrait of a youth (1934).
-
-Captions:
-
 1934  
 I am 11 years old.
-
-**[caption under left photo]**
 
 My brother and sister  
 (Tyoma and Zhenya)  
 I was not yet  
 there then.
-
-**[photo, bottom]** Family group, November 1925.
-
-Captions:
 
 November 1925
 
@@ -159,11 +153,13 @@ I was not yet there.
 
 <!-- p. 093 -->
 
-{{< figure src="/photos/dnevnik-tt/str-093.jpg" caption="“My brother” — Samsonov Timofey Timofeevich." >}}
+{{< figure src="/photos/archive-b02/b02-mp014-ph01.jpg" caption="Brother — Samsonov Timofey Timofeevich. “After the war.”" >}}
+
+{{< figure src="/photos/dnevnik-tt/str-093.jpg" caption="Full notebook leaf p. 093 — “My brother”." >}}
 
 **My brother.**
 
-**[photo, right]** Man in uniform; caption: *After the war.*
+Caption by the portrait (see figure above): *After the war.*
 
 My brother, Samsonov Timofey  
 Timofeevich, was born in the city of Moscow  

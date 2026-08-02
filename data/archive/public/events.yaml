@@ -166,3 +166,56 @@ events:
   - /roditeli/samsonov-timofey-petrovich/
   confidence: document_confirmed
   public: true
+- entity_id: event-aleksandr-arrest-1949
+  title_ru: Арест А. Д. Кривошеина (2 сентября 1949)
+  title_en: Arrest of A. D. Krivoshein (2 September 1949)
+  date_start: '1949-09-02'
+  date_end: '1949'
+  place_ids:
+  - place-moscow
+  participant_ids:
+  - person-alexander-krivoshein
+  - person-krivosheina-tt
+  - person-krivoshein-da
+  - person-nina-vasilievna-krivosheina
+  related_urls:
+  - /lyudi/aleksandr-krivoshein/
+  - /en/people/aleksandr-krivoshein/
+  - /vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki/
+  - /roditeli/krivoshein-dmitriy-aleksandrovich/
+  confidence: manuscript_stated
+  public: true
+  note: "Article number conflict (58 vs 111) open; see person page."
+- entity_id: event-aleksandr-return-rehab-1954
+  title_ru: Возвращение и реабилитация А. Д. Кривошеина (1954)
+  title_en: Return and rehabilitation of A. D. Krivoshein (1954)
+  date_start: '1954-06'
+  date_end: '1954'
+  place_ids:
+  - place-moscow
+  participant_ids:
+  - person-alexander-krivoshein
+  - person-krivosheina-tt
+  related_urls:
+  - /lyudi/aleksandr-krivoshein/
+  - /en/people/aleksandr-krivoshein/
+  - /vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki/
+  - /foto/tetrad-semya-prodolzhenie/
+  confidence: manuscript_stated
+  public: true
+  note: "Return June 1954 (Tatyana); full rehab and reinstatement 1954 (father autobiography)."
+- entity_id: event-aleksandr-ussr-state-prize-1989
+  title_ru: Государственная премия СССР 1989 (А. Д. Кривошеин, посмертно)
+  title_en: USSR State Prize 1989 (A. D. Krivoshein, posthumous)
+  date_start: '1989-10-30'
+  date_end: '1989'
+  place_ids:
+  - place-moscow
+  participant_ids:
+  - person-alexander-krivoshein
+  related_urls:
+  - /lyudi/aleksandr-krivoshein/
+  - /en/people/aleksandr-krivoshein/
+  confidence: document_confirmed
+  public: true
+  note: "Decree 931 of 30 Oct 1989; named as Stalproekt department head; furnace reconstruction; family memory of Kremlin presentation."

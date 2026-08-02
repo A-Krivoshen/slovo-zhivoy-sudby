@@ -50,8 +50,8 @@ Worked as agronomist and state-farm director (Orenburg area; Ivanovo industrial 
 | 1959–1961 | Deputy director, Moscow livestock state-farm trust |
 | from 1961 | Senior seed agronomist, Mossovet model farm |
 
-In **August 1949** most of the Crimean obkom bureau was repressed; on **2 September 1949** his son **Aleksandr** was arrested (sentenced under Art. 111 RSFSR Criminal Code to 10 years). D. A. Krivoshein was removed from the Amur post; in 1950 he was at the disposal of the Central Committee.  
-Family and public sources state that the son was **rehabilitated** in 1954 and restored to work.
+In **August 1949** most of the Crimean obkom bureau was repressed; on **2 September 1949** his son **Aleksandr** was arrested. D. A.’s **autobiography** records conviction under **Art. 111** for **10 years**; **Tatyana Timofeevna’s notebook** records **Art. 58** and **10 years**. Details, the article conflict and the camp path are on **[Aleksandr Dmitrievich’s page](/en/people/aleksandr-krivoshein/)**. D. A. Krivoshein was removed from the Amur post; in 1950 he was at the disposal of the Central Committee.  
+According to the father’s autobiography, the son was **fully rehabilitated** in 1954 and **reinstated at work**.
 
 ### Awards
 

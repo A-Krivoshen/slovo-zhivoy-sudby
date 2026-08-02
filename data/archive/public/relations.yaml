@@ -532,6 +532,27 @@ relations:
     confidence: family_confirmed
     public: true
 
+  - subject: person-alexander-krivoshein
+    predicate: participant_of
+    object: event-aleksandr-arrest-1949
+    source_ref: content/ru/vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-alexander-krivoshein
+    predicate: participant_of
+    object: event-aleksandr-return-rehab-1954
+    source_ref: content/ru/vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki.md
+    confidence: manuscript_stated
+    public: true
+
+  - subject: person-alexander-krivoshein
+    predicate: participant_of
+    object: event-aleksandr-ussr-state-prize-1989
+    source_ref: docs/ALEKSANDR_KRIVOSHEIN_BIOGRAPHY_RESEARCH_2026-08-02.md
+    confidence: document_confirmed
+    public: true
+
   - subject: person-nina-vasilievna-krivosheina
     predicate: depicted_in
     object: photo-nina-vasilievna-chart-portrait

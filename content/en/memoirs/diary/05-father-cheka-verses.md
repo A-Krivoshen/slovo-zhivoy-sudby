@@ -754,13 +754,15 @@ museum dedicated to his memory was opened. I am writing a review
 
 <!-- p. 031 -->
 
-[PHOTO: bronze bust of a man on a pedestal; plaque on the pedestal:]
+{{< figure src="/photos/samsonov-tp/07-bust-1888-1955.jpg" alt="Bronze bust of Timofey Petrovich Samsonov on a pedestal; plaque 1888–1955" caption="Bust of T. P. Samsonov on a pedestal. Plaque: “Timofey Petrovich Samsonov 1888–1955.” Below on the notebook leaf — verses about Papa." >}}
+
+Plaque on the pedestal (as on the print):
 
 ```
 TIMOFEY
 PETROVICH
 SAMSONOV
-1885–1955
+1888–1955
 ```
 
 [Caption to the right of the photo:]

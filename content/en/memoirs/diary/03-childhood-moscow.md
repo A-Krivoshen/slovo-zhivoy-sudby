@@ -43,7 +43,7 @@ Pages on the early home and marriage are in [Father, marriage and children](/en/
 
 This is a photograph of Papa — one of my favorites
 
-[PHOTO: portrait of a bald man in a dark suit, white shirt and tie, in profile/three-quarter profile]
+{{< figure src="/photos/samsonov-tp/03-late-years.jpg" alt="Portrait of Timofey Petrovich Samsonov in a dark suit, three-quarter profile" caption="“This is a photograph of Papa — one of my favorites.” Three-quarter profile; on the notebook leaf (p. 033) a note that the print was badly pasted." >}}
 
 [In the margin to the right of the photo, in small writing:]  
 Badly  

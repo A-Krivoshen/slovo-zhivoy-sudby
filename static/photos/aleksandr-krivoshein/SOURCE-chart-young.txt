@@ -5,3 +5,5 @@ Identity: “Кривошеин Александр Дмитриевич — му
 Processing: crop + web resize only; no generative restore.
 Public: yes (deceased). Full p.004 leaf not published (living relatives on same leaf).
 Distinct from family-confirmed formal portrait.jpg.
+
+Orientation fix 2026-08-02: rotated +90° CW so head is upright (was sideways on extract).

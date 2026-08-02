@@ -36,6 +36,8 @@ Portrait **confirmed by the family** (Aleksei Krivoshein, 2 August 2026) as Alek
 
 {{< figure src="/photos/archive-b02/b02-mp072-ph02.jpg" caption="By the Moskva River. Summer 1954. With A. D. Krivoshein (Sasha)." >}}
 
+{{< figure src="/photos/archive-b02/b02-mp072-ph03.jpg" caption="After Sasha’s return (A. D. Krivoshein) — family frame, 1954." >}}
+
 {{< figure src="/photos/archive-b02/b02-mp075-ph03.jpg" caption="Kosino, 1954. Mitya and Sasha (A. D. Krivoshein)." >}}
 
 [Album continued](/en/photos/notebook-family-continued/) · [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/)

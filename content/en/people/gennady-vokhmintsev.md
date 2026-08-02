@@ -39,6 +39,8 @@ Chapter context: [Wartime comrades’ letters](/en/memoirs/diary/15-wartime-lett
 
 {{< figure src="/photos/dnevnik-tt/str-133.jpg" caption="Gennady, 29 Nov 1943." >}}
 
+{{< figure src="/photos/dnevnik-tt/str-131.jpg" caption="Short “Tanyusha!” — Gennady (year to be confirmed)." >}}
+
 [Letters collection](/en/documents/letters-from-the-front/)
 
 ## Sources

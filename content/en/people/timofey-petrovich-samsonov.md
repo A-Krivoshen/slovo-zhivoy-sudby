@@ -59,6 +59,8 @@ The Stalingrad defence medal on this site belongs to **Timofey Timofeevich**, no
 
 {{< figure src="/photos/archive-b02/b02-mp002-ph01.jpg" caption="Alexandrovsky Central, 1910. Father’s caption on the notebook leaf." >}}
 
+{{< figure src="/photos/archive-b02/b02-mp001-ph01.jpg" caption="Dzerzhinsky; Belenky (Vilensky?); Papa — labels on the notebook leaf." >}}
+
 Full album: [Timofey P. Samsonov](/en/photos/samsonov-timofey-petrovich/)
 
 ## Sources

@@ -44,7 +44,7 @@ My mother is Samsonova Evdokia (Eva — that is what
 her father and husband called her) (Morozova)  
 Konstantinovna.
 
-**[photo]** Two portraits of Mama: in glasses, dark clothes; an earlier lighter portrait.
+{{< figure src="/photos/dnevnik-tt/str-007.jpg" alt="Notebook page “Mama” with two portraits of Eva Konstantinovna" caption="Two portraits of Mama on the notebook leaf (p. 007): in glasses, dark clothes; an earlier lighter portrait." >}}
 
 She was born on 14 March (2 March by the old  
 style) 1900 in Moscow.  

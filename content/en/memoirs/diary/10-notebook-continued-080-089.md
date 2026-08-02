@@ -32,19 +32,19 @@ Continuation of Tatyana Timofeevna’s handwritten notebook: biographical notes 
 
 <!-- p. 080 -->
 
-{{< figure src="/photos/dnevnik-tt/str-080.jpg" caption="Photo collage; author’s captions." >}}
+{{< figure src="/photos/archive-b02/b02-mp001-ph01.jpg" caption="F. E. Dzerzhinsky; Belenky (Vilensky?); Papa." >}}
 
-**[photo, top]** Three men in winter clothes by a building.
+{{< figure src="/photos/archive-b02/b02-mp001-ph02.jpg" caption="Funeral (c. 1926?). F. E. Dzerzhinsky; Papa." >}}
 
-Captions (blue ink, right):
+{{< figure src="/photos/dnevnik-tt/str-080.jpg" caption="Full notebook leaf p. 080 — photo collage and author’s captions." >}}
+
+Captions on the leaf (blue ink, right of the upper print):
 
 F. E. Dzerzhinsky  
 Belenky[?] / Vilensky[?]  
 Papa.
 
-**[photo, bottom]** Crowd on a paved street, funeral procession; sign “… CHEESE” (СЫР).
-
-Captions:
+Captions (lower print):
 
 Funeral (192[6?])  
 F. E. Dzerzhinsky  
@@ -54,7 +54,9 @@ Papa is carrying [?]
 
 <!-- p. 081 -->
 
-{{< figure src="/photos/dnevnik-tt/str-081.jpg" caption="Father’s meetings; Alexandrovsky Central." >}}
+{{< figure src="/photos/archive-b02/b02-mp002-ph01.jpg" caption="Alexandrovsky Central (Siberia), 1910. “Father was imprisoned here in summer 1910.”" >}}
+
+{{< figure src="/photos/dnevnik-tt/str-081.jpg" caption="Full notebook leaf p. 081 — Father’s meetings; Alexandrovsky Central." >}}
 
 Father met many figures  
 of that era: including Molotov V. M., Voroshilov K. E.,  
@@ -73,9 +75,7 @@ katorga transit Central
 awaiting dispatch to the place of settlement on  
 the Lena river. (See Father’s recollections in his notebook)
 
-**[photo]** Large building, a crowd before it.
-
-Caption:
+Caption on the print:
 
 Alexandrovsky Central (Siberia)  
 (Here Father sat in summer 1910)
@@ -305,13 +305,15 @@ Moscow, 1927.
 
 <!-- p. 086 -->
 
-{{< figure src="/photos/dnevnik-tt/str-086.jpg" caption="Mama and Papa visiting Gvostukha." >}}
+{{< figure src="/photos/archive-b02/b02-mp007-ph01.jpg" caption="Mama and Papa visiting Povstukha (Gvostukha)." >}}
+
+{{< figure src="/photos/archive-b02/b02-mp007-ph02.jpg" caption="The same visit: second frame." >}}
+
+{{< figure src="/photos/dnevnik-tt/str-086.jpg" caption="Full notebook leaf p. 086 — Mama and Papa visiting Gvostukha." >}}
 
 Mama and Papa visiting Gvostukha.
 
-**[photos, left and right]** Group portraits in a room with bookcases.
-
-Captions:
+Captions on the leaf:
 
 (In glasses and with a moustache sits  
 Gvostukha)

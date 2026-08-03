@@ -34,6 +34,6 @@ translationKey: "documents"
 - [Знак ГПУ — Самсонов](/dokumenty/znak-gpu-samsonov/)
 - [Высылка из Великобритании, 1917](/dokumenty/vysylka-velikobritaniya-1917/)
 - [«Правда» о Дзержинском, 1929](/dokumenty/pravda-o-dzerzhinskom-1929/)
-- [«Легенды и мифы Дома на набережной» — «КП», 2011](/dokumenty/kp-dom-na-naberezhnoy-2011/) (внешнее интервью Татьяны Тимофеевны; оригинал на kp.ru)
+- [«Легенды и мифы Дома на набережной» — «КП», 2011](/dokumenty/kp-dom-na-naberezhnoy-2011/) — внешнее интервью Татьяны Тимофеевны; сверка с тетрадью; оригинал на kp.ru
 
 См. также: [Родители](/roditeli/) · [Хронология](/hronologiya/) · [Дневник](/vospominaniya/dnevnik/).

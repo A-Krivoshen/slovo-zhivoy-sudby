@@ -3,8 +3,8 @@ title: "Tatyana Timofeevna Krivosheina"
 date: 2026-08-01
 lastmod: 2026-08-03
 draft: false
-description: "Biography of Tatyana Timofeevna Krivosheina (1926–2021): Samsonov family, notebook, House on the Embankment, 2011 KP interview, war, marriage to A. D. Krivoshein, work, memory."
-summary: "1926–2021. Author of “Our genealogy: the Samsonovs”; daughter of the Samsonovs; wife of A. D. Krivoshein; 2011 interview on the House on the Embankment."
+description: "Biography of Tatyana Timofeevna Krivosheina (1926–2021): Samsonovs, notebook, childhood in the House on the Embankment, 2011 KP interview, war, marriage to A. D. Krivoshein, work, memory."
+summary: "1926–2021. Notebook author; Samsonov daughter; wife of A. D. Krivoshein; voice on the House on the Embankment in notebook and KP 2011."
 translationKey: "person-tatyana-timofeevna-krivosheina"
 entity_id: "person/tatyana-timofeevna-krivosheina"
 schema_type: "Person"
@@ -62,15 +62,16 @@ The **genealogy chart** records “21/IV–1926” by her name. The site does **
 
 ## Interview about the House on the Embankment
 
-In December 2011, Komsomolskaya Pravda published Larisa Kaftan’s article [“Legends and Myths of the House on the Embankment”](https://www.kp.ru/daily/25798.5/2780009/), based in part on an interview with Tatyana Timofeevna. She recalled childhood life in the complex in the early 1930s, the family’s neighbours, and the atmosphere as repression transformed the building. The article is an external journalistic source that complements the family notebook; details are cross-checked against family and archival records.
+In **December 2011**, already in deep old age (about 85), Tatyana Timofeevna became an interlocutor for Komsomolskaya Pravda. Larisa Kaftan’s feature [“Legends and Myths of the House on the Embankment”](https://www.kp.ru/daily/25798.5/2780009/) — for the eightieth anniversary of the [House of Government](/en/places/serafimovich-street/) — is built in part on a walk with her through the courtyards and on her account.
 
-Source card (no full reprint): [KP, 4 December 2011](/en/documents/kp-house-on-the-embankment-2011/).
-Place: [Serafimovich Street / House of Government](/en/places/serafimovich-street/). Notebook: [ch. 02](/en/memoirs/diary/02-father-marriage-children/) · [ch. 03](/en/memoirs/diary/03-childhood-moscow/).
+It is a **second layer** of testimony beside the notebook. In the manuscript, childhood, the **1931** move, the yard, the club, and the years 1937–38 are written in the **first person** ([ch. 02](/en/memoirs/diary/02-father-marriage-children/), [03](/en/memoirs/diary/03-childhood-moscow/), [13](/en/memoirs/diary/13-school-friends-109-119/)). In the newspaper the same nodes are spoken for a general reader: early-1930s children and clubs, the residential complex, her father and the settling of the house, sealed apartments, and the fear her mother later described. The family settled there when Tatyana was a **child** — not “in swaddling clothes”: between birth (**1926**) and the move (**1931**) about five years.
+
+Source card (no full reprint): [KP, 4 December 2011](/en/documents/kp-house-on-the-embankment-2011/). There: layer cross-check (journalist / her speech / notebook), limits of use, and address policy.
 
 *Original article in Russian.*
 
 {{< archive_note type="source" >}}
-External material; original in Russian. Individual journalistic phrasings (including “born with the house” imagery) are **not** taken as precise biographical facts without cross-check.
+External material; original in Russian. Images such as “born with the house” are **journalism**, not a life date. Her father’s office around 1931 and commission details are read as the **daughter’s memory** (the notebook itself has wording variants) and do not replace a personnel archive.
 {{< /archive_note >}}
 
 ## Siblings

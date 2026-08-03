@@ -89,7 +89,9 @@ Partial reading of the verses (to be completed from a sharper scan):
 
 ## House on the Embankment (daughter’s voice)
 
-In Tatyana Timofeevna’s [2011 Komsomolskaya Pravda interview](/en/documents/kp-house-on-the-embankment-2011/), her father is mentioned in connection with settling the [House on the Embankment](/en/places/serafimovich-street/) and apartment allocation. Those points are the **daughter’s recollection** (see also [ch. 02](/en/memoirs/diary/02-father-marriage-children/)); the newspaper’s 1931 office title and some commission details are **not** published here as established administrative facts without further confirmation.
+Per the daughter’s notebook, in **1931** her father sat on the settlement commission for the [House of Government](/en/places/serafimovich-street/), received a large flat, and **separated off** part of the rooms ([ch. 02](/en/memoirs/diary/02-father-marriage-children/), [03](/en/memoirs/diary/03-childhood-moscow/)). The same nodes appear in the [2011 KP interview](/en/documents/kp-house-on-the-embankment-2011/). That is **Tatyana’s memory**, aligned between notebook and external press — not a state-archive extract.
+
+Office around 1931: ch. 02 has an uncertain reading; ch. 03 and the paper use a more direct “administrator of affairs…” wording. This page does **not** pick one redaction as personnel truth. Named commission leadership in her account is likewise only her story.
 
 ## Daughter — the next generation
 

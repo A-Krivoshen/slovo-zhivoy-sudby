@@ -191,9 +191,12 @@ documents:
     confidence: family_testimony_published
     notes: >
       External journalistic article based in part on an interview with
-      Tatyana Timofeevna. Do not store article body. Do not treat as archival
-      proof of every neighbour fact, of T.P. 1931 office title as printed
-      (ЦК ВКП(б) vs manuscript ЦИК[?]), or of A. D. Krivoshein biography.
-      Privacy: do not publish later entrance/flat details from the piece.
-      See claims.yaml and fact_conflicts for cross-checks.
+      Tatyana Timofeevna (~age 85). Do not store article body. Crosswalk with
+      notebook ch. 02–03 (move, commission, half-flat) and ch. 13 (yard, club,
+      1937–38 disappearances). T.P. 1931 office title: internal notebook
+      variance (ch. 02 uncertain vs ch. 03 ЦК ВКП(б)); KP tracks ch. 03 —
+      not personnel-confirmed. Kaganovich as commission chair: ch. 03 + KP,
+      still daughter memory only. Do not use for A. D. Krivoshein career/arrest/prize.
+      Privacy: withhold later entrance/flat from the piece. See claims.yaml and
+      fact_conflicts.
     public: true

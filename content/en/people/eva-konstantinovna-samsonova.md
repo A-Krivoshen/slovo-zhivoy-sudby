@@ -69,7 +69,7 @@ Addressee of her son’s front letters ([105–106](/en/documents/letters-from-t
 
 ## Family memory of repression
 
-In the [2011 Komsomolskaya Pravda interview](/en/documents/kp-house-on-the-embankment-2011/), her daughter recalled the atmosphere of the [House on the Embankment](/en/places/serafimovich-street/) under repression and the family’s neighbourhood context. This is **published family memory**, not a separate biography of neighbours; details are on the source card and in the notebook.
+In the [2011 KP interview](/en/documents/kp-house-on-the-embankment-2011/), the daughter reports that during the repressions her mother **listened in fear at night**, and in the morning the children saw sealed flats in the [House on the Embankment](/en/places/serafimovich-street/). That is **Tatyana’s voice about her mother**, not a standalone biography of Eva Konstantinovna and not a dossier on neighbours. In the notebook the climate of 1937–38 and disappearances around them appear in [ch. 13](/en/memoirs/diary/13-school-friends-109-119/); on her mother more broadly — [“My mother”](/en/memoirs/diary/01-my-mother/).
 
 ## Where to read
 

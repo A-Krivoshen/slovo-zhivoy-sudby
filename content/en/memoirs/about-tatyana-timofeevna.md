@@ -73,6 +73,8 @@ The site publishes a **transcription** of the notebook; unclear passages are mar
 The family remembers a clear mind into deep old age, crosswords, and life at home among familiar things.  
 The 2019 photograph is a respectful home portrait.
 
+In **2011** (about age 85) she spoke to Komsomolskaya Pravda about the [House on the Embankment](/en/places/serafimovich-street/) — an external printed witness beside the notebook: [source card](/en/documents/kp-house-on-the-embankment-2011/) · [biography](/en/people/tatyana-timofeevna-krivosheina/).
+
 ## Memory
 
 {{< figure src="/photos/tatyana-tt/grave-plaque-2021.jpg" alt="Memorial plaque at the burial place of Tatyana Timofeevna Krivosheina with dates 02.09.1926 — 24.09.2021" caption="Burial place of Tatyana Timofeevna Krivosheina. The memorial plaque gives the dates: 2 September 1926 — 24 September 2021." >}}

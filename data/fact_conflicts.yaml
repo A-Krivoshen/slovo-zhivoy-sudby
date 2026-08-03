@@ -155,19 +155,21 @@
     - Journalist framing may stay in internal notes only.
 
 - id: kp-2011-tp-office-title-1931
-  topic: T.P. office title in 1931 (KP vs manuscript)
+  topic: T.P. office title around 1931 (internal notebook variance + KP)
   person: Самсонов Тимофей Петрович
   status: open_cross_check
   resolved_date: "2026-08-03"
   kp_wording: "управляющий делами ЦК ВКП(б) (1931)"
-  manuscript_wording: "Управляющим делами ЦИК[?] ВК[?] (uncertain reading, ch. 02)"
+  manuscript_wording_ch02: "Управляющим делами ЦИК[?] ВК[?] (uncertain reading)"
+  manuscript_wording_ch03: "Управляющим делами ЦК ВКП(б) (ch. 03 childhood)"
   preferred_public_value: >
-    По воспоминанию Татьяны в интервью 2011 / по рукописи — с пометой
-    неясности; не публиковать «ЦК ВКП(б)» как установленный факт без архива.
+    Внутри тетради два чтения должности около 1931; газета 2011 ближе к гл. 03.
+    Не фиксировать одну формулировку как кадровую истину без внешнего архива;
+    атрибутировать как память дочери.
   rules:
-    - Do not promote KP “ЦК ВКП(б)” as confirmed office title.
-    - Keep manuscript uncertain reading markers.
-    - Attribute any 1931 role phrasing to daughter’s memory when only from interview/notebook.
+    - Do not present a single 1931 office title as document-confirmed.
+    - Prefer “daughter’s memory / notebook variants” over silent choice of one wording.
+    - KP is not the sole source of the ЦК ВКП(б) phrasing (also ch. 03).
 
 - id: kp-2011-babiy-name
   topic: “Самсонов (Бабий)” in KP and notebook
@@ -198,11 +200,12 @@
 - id: kp-2011-kaganovich-commission
   topic: Kaganovich as head of housing commission
   person: Самсонов Тимофей Петрович
-  status: interview_only
+  status: family_memory_notebook_and_interview
   resolved_date: "2026-08-03"
   preferred_public_value: >
-    Только как воспоминание из интервью 2011; не как установленный
-    административный факт.
+    Как воспоминание дочери (тетрадь гл. 03 + интервью 2011); не как
+    установленный административный факт из госархива.
   rules:
     - Commission membership of T.P.: ok as daughter memory (notebook + interview).
-    - Kaganovich leadership: interview attribution only.
+    - Kaganovich leadership: notebook ch. 03 + interview; still not external admin proof.
+    - Do not create a person entity for Kaganovich from this alone.

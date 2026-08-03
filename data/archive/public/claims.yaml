@@ -102,38 +102,45 @@ claims:
   - claim_id: TT-SEALED-APARTMENTS-MEMORY
     summary_ru: >
       Татьяна вспоминала опечатанные квартиры и исчезновение семей
-      репрессированных жильцов.
+      репрессированных жильцов; мать по ночам прислушивалась.
     summary_en: >
       Tatyana recalled sealed apartments and the disappearance of repressed
-      residents’ families.
+      residents’ families; her mother listened in fear at night.
     speaker: person-krivosheina-tt
     voice: published_memory
     source_ids:
       - source-kp-2011-house-on-embankment-tatyana-interview
     related_person_ids:
       - person-krivosheina-tt
+      - person-samsonova-ek
     related_place_ids:
       - place-serafimovich
     confidence: family_testimony_published
-    manuscript_link: null
+    manuscript_link:
+      - content/ru/vospominaniya/dnevnik/13-tanya-detstvo-i-shkola.md
     public_wording_ru: >
       Она вспоминала, как во время репрессий менялась атмосфера дома:
-      опечатанные квартиры и исчезновение семей соседей.
+      опечатанные квартиры и исчезновение семей соседей; о ночном страхе
+      матери — в её пересказе (интервью 2011; перекличка с гл. 13).
     public_wording_en: >
       She recalled how repression transformed the building: sealed apartments
-      and the disappearance of neighbours’ families.
+      and neighbours’ families disappearing; her mother’s night-time fear
+      is reported in her 2011 account (echoes notebook ch. 13).
     notes: >
       Published as memory; not proof of each individual case named in the press.
+      Neighbour surnames may differ between KP and notebook — do not merge entities.
 
   - claim_id: TP-HOUSING-COMMISSION-MEMORY
     summary_ru: >
-      По воспоминанию дочери (рукопись и интервью 2011) отец входил в комиссию
-      по заселению / распределению квартир Дома правительства. Утверждение
-      о руководстве комиссии Л. Кагановичем — только из интервью.
+      По воспоминанию дочери (рукопись гл. 02–03 и интервью 2011) отец входил
+      в комиссию по заселению Дома правительства и отделил часть большой
+      квартиры. Руководство комиссии (в т.ч. имя Кагановича) — в гл. 03 и
+      в интервью; только как память дочери.
     summary_en: >
-      Per daughter’s memory (notebook and 2011 interview), the father sat on
-      the settlement / apartment-allocation commission for the House of
-      Government. Kaganovich as commission head — interview only.
+      Per daughter’s memory (notebook ch. 02–03 and 2011 interview), the father
+      sat on the settlement commission and separated off part of a large flat.
+      Commission leadership (including Kaganovich) appears in ch. 03 and the
+      interview — daughter’s memory only.
     speaker: person-krivosheina-tt
     voice: published_memory
     source_ids:
@@ -146,19 +153,20 @@ claims:
     confidence: corroborated_multiple_sources
     manuscript_link:
       - content/ru/vospominaniya/dnevnik/02-otec-brak-deti.md
+      - content/ru/vospominaniya/dnevnik/03-detstvo-moskva.md
     public_wording_ru: >
-      Отец входил в комиссию по заселению Дома правительства (по рукописи и
-      воспоминаниям в интервью 2011). Участие Кагановича как главы комиссии
-      публикуется только как воспоминание из интервью, не как установленный
-      административный факт.
+      Отец входил в комиссию по заселению Дома правительства и, по рассказу
+      дочери, отделил часть большой квартиры (тетрадь + интервью 2011). Имена
+      руководителей комиссии — только как её воспоминание, не как реестр
+      госархива.
     public_wording_en: >
-      The father sat on the House of Government settlement commission (notebook
-      and 2011 interview). Kaganovich as commission head is published only as
-      interview memory, not as an established administrative fact.
+      The father sat on the House of Government settlement commission and, per
+      the daughter, separated off part of a large flat (notebook + 2011
+      interview). Named commission leadership is her memory only, not a
+      state-archive register.
     notes: >
-      Commission membership: manuscript + interview (corroborated as family
-      memory). Kaganovich leadership: interview_only. Flat size / half-flat
-      transfer: manuscript + interview memory; attribute to Tatyana.
+      Membership + half-flat: ch. 02–03 + KP. Kaganovich as chair: ch. 03 AND
+      interview — still not external admin confirmation.
 
   - claim_id: TT-PAVLUNOVSKY-FAMILY-MEMORY
     summary_ru: >
@@ -180,11 +188,13 @@ claims:
     confidence: interview_only
     manuscript_link: null
     public_wording_ru: >
-      В интервью упомянуты знакомые семьи Павлуновских как часть соседского
-      контекста дома; отдельной person-сущности на сайте не создаём.
+      В интервью упомянуты знакомые семьи Павлуновских как соседский контекст;
+      person-сущности не создаём. В тетради (гл. 13) — другие фамилии
+      исчезнувших соседей; не сливать автоматически.
     public_wording_en: >
       The interview mentions the Pavlunovsky family as neighbourhood context;
-      no separate person entity is created on this site.
+      no person entity. Notebook ch. 13 lists other vanished neighbours’
+      surnames — do not auto-merge with the press spelling.
     notes: >
-      Do not create person entities or graph links for Pavlunovsky solely from
-      the newspaper text. Historical neighbours remain place context only.
+      KP: Павлуновские; notebook ch. 13: Павловские and others — may differ.
+      Place context only.

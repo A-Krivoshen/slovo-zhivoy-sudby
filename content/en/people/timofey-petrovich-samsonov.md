@@ -41,7 +41,7 @@ cover:
 
 Daughter’s voice: [ch. 02](/en/memoirs/diary/02-father-marriage-children/), [05](/en/memoirs/diary/05-father-cheka-verses/), [08](/en/memoirs/diary/08-father-character/), [10](/en/memoirs/diary/10-notebook-continued-080-089/).
 
-In Tatyana Timofeevna’s [2011 Komsomolskaya Pravda interview](/en/documents/kp-house-on-the-embankment-2011/), her father is mentioned in connection with settling the [House on the Embankment](/en/places/serafimovich-street/) and apartment allocation. Those points are published as the **daughter’s recollection** and cross-checked with the notebook; the newspaper’s 1931 office title is **not** taken as an established fact without archival confirmation.
+On settling the [House on the Embankment](/en/places/serafimovich-street/) and the housing commission, the daughter writes in the notebook ([ch. 02](/en/memoirs/diary/02-father-marriage-children/), [03](/en/memoirs/diary/03-childhood-moscow/)) and returns to the theme in the [2011 KP interview](/en/documents/kp-house-on-the-embankment-2011/). That is **family memory**, not a personnel file. Wording of his office around 1931 **diverges inside the notebook** (uncertain reading in ch. 02 / more direct in ch. 03; the paper tracks the second) — this site does **not** fix one version as established fact without an external archive.
 
 **Do not confuse** with his son [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/) (Tyoma).
 

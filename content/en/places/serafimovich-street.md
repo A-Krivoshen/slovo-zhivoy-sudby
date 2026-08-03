@@ -1,15 +1,17 @@
 ---
 title: "Serafimovich Street (House of Government)"
 date: 2026-08-01
+lastmod: 2026-08-03
 draft: false
-description: "Serafimovich Street and the House of Government in the family chronicle: the 1931 move, wartime letter address — without apartment numbers."
-summary: "From 1931 — the house on Serafimovich Street (House of Government). Family and epistolary address."
+description: "The House on the Embankment in the Samsonov family chronicle: 1931 move, Tatyana’s childhood, settlement commission, 1943 letters, 2011 interview — without apartment numbers."
+summary: "From 1931 — Serafimovich Street (House of Government). Childhood, war, memory; external 2011 interview."
 translationKey: "places-serafimovich-street"
 entity_id: "place-serafimovich"
 entity_type: "place"
-tags: ["places", "Moscow", "Serafimovich", "House of Government"]
+tags: ["places", "Moscow", "Serafimovich", "House of Government", "House on the Embankment"]
 categories: ["History"]
 people: ["Timofey Petrovich Samsonov", "Eva Konstantinovna", "Tatyana Timofeevna Krivosheina", "Timofey Timofeevich Samsonov"]
+keywords: ["House on the Embankment", "House of Government", "Serafimovich", "Samsonov", "1931"]
 ShowToc: true
 ---
 
@@ -32,12 +34,14 @@ On public archive pages we name the **street and the historic house**, **without
 
 ## Tatyana Timofeevna’s recollections
 
-The family settled here when [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) was a child (**1931**). The notebook covers the move, the settlement commission, and childhood years; in **December 2011** the same themes appeared in an external Komsomolskaya Pravda interview (clubs, courtyards, neighbourhood life, and how the atmosphere changed under repression).
+The family settled here when [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) was a child (**1931**; about age five). Two layers of memory:
 
-- Source: [“Legends and Myths of the House on the Embankment” — KP, 2011](/en/documents/kp-house-on-the-embankment-2011/) · [original (Russian)](https://www.kp.ru/daily/25798.5/2780009/)
-- Notebook: [Father, marriage, children](/en/memoirs/diary/02-father-marriage-children/) · [Childhood in Moscow](/en/memoirs/diary/03-childhood-moscow/)
+| Layer | About | Where to read |
+|---|---|---|
+| **Notebook** | the move; father on the settlement commission; a large flat with part separated off; yard, club, circles; 1937–38 — neighbours and classmates disappearing | [ch. 02](/en/memoirs/diary/02-father-marriage-children/) · [03](/en/memoirs/diary/03-childhood-moscow/) · [13](/en/memoirs/diary/13-school-friends-109-119/) |
+| **2011 interview** | spoken account for KP: early-1930s childhood atmosphere, the residential complex, repression, sealed apartments, family memory of father and mother | [source card](/en/documents/kp-house-on-the-embankment-2011/) · [KP original (Russian)](https://www.kp.ru/daily/25798.5/2780009/) |
 
-This place page does **not** retell the newspaper article; interview details are cross-checked with the notebook and address policy.
+This place page does **not** retell the newspaper and does **not** turn press lists of neighbours into a tenant registry. Historic street and house — yes; entrance and flat numbers on this page — **no**.
 
 ## People and chapters
 

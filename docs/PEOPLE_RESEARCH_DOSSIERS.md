@@ -8,10 +8,10 @@
 
 | Person | Public depth | Primary sources | Open conflicts |
 |--------|--------------|-----------------|----------------|
-| Tatyana T. | Full people page + about essay | notebook entire; family docs; photos | chart 21/IV vs 2.09.1926 |
-| Aleksandr D. | Full deep bio (prior pass) | notebook 16–19; D.A. museum; prize 1989; UMGB list | Art. 58 vs 111 |
-| T. P. Samsonov | Full parents bio + people outline | notebook; album; documents | name variants Babiy |
-| Eva K. | Full people bio from manuscript | ch. 01–02; charts | none major |
+| Tatyana T. | Full people page + about essay | notebook entire; family docs; photos; KP 2011 interview (external) | chart 21/IV vs 2.09.1926; KP “infant / born with house” phrasing rejected as literal fact |
+| Aleksandr D. | Full deep bio (prior pass) | notebook 16–19; D.A. museum; prize 1989; UMGB list | Art. 58 vs 111; **do not** cite KP 2011 for career/arrest/prize |
+| T. P. Samsonov | Full parents bio + people outline | notebook; album; documents; mentioned in KP 2011 as daughter memory | name variants Babiy (notebook+KP; not public alternateName); 1931 office title KP vs manuscript |
+| Eva K. | Full people bio from manuscript | ch. 01–02; charts; light KP 2011 family-memory link | none major |
 | Tyoma (T. T. Samsonov) | Full people bio | ch. 11–12; Stalingrad medal; letters | Zhenya name clash with sister |
 | Genya | Full limited (honest) | ch. 10–11; chart | birth 1920 vs chart 1930–1941 |
 | D. A. Krivoshein | Full public bio (parents) | museum; Wikipedia; son page | son article conflict |

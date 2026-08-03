@@ -41,21 +41,24 @@ cover:
 
 Голос дочери о характере и доме: [гл. 02](/vospominaniya/dnevnik/02-otec-brak-deti/), [05](/vospominaniya/dnevnik/05-otec-vchk-i-stikhi/), [08](/vospominaniya/dnevnik/08-otec-harakter/), [10](/vospominaniya/dnevnik/10-prodolzhenie-080-089/).
 
+В интервью Татьяны Тимофеевны [«Комсомольской правде» (2011)](/dokumenty/kp-dom-na-naberezhnoy-2011/) отец упоминается в связи с заселением [Дома на набережной](/mesta/serafimovich-street/) и распределением квартир. Эти сведения публикуются как **воспоминание дочери** и отдельно сверяются с рукописью; газетная формулировка должности 1931 года **не** принимается как установленный факт без архива.
+
 **Не путать** с сыном [Самсоновым Тимофеем Тимофеевичем](/lyudi/timofey-timofeevich-samsonov/) (дядя Тёма; медаль «За оборону Сталинграда»).
 
 ## Связи в семье
 
-- Жена — [Ева (Евдокия) Константиновна Самсонова](/lyudi/eva-konstantinovna-samsonova/)  
-- Дети (по тетради): Евгения (Геня); [Тимофей Тимофеевич](/lyudi/timofey-timofeevich-samsonov/); [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)  
-- См. также [Отец и мать](/roditeli/otets-i-mat/)  
+- Жена — [Ева (Евдокия) Константиновна Самсонова](/lyudi/eva-konstantinovna-samsonova/)
+- Дети (по тетради): Евгения (Геня); [Тимофей Тимофеевич](/lyudi/timofey-timofeevich-samsonov/); [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
+- См. также [Отец и мать](/roditeli/otets-i-mat/)
 
 ## Документы
 
-- [Удостоверение «Кольт», 1919](/dokumenty/udostoverenie-kolt-1919/)  
-- [Орден Красного Знамени](/dokumenty/orden-krasnogo-znameni-samsonov/)  
-- [Высылка из Великобритании, 1917](/dokumenty/vysylka-velikobritaniya-1917/)  
-- [Знак ГПУ](/dokumenty/znak-gpu-samsonov/)  
-- [«Правда» о Дзержинском, 1929](/dokumenty/pravda-o-dzerzhinskom-1929/)  
+- [Удостоверение «Кольт», 1919](/dokumenty/udostoverenie-kolt-1919/)
+- [Орден Красного Знамени](/dokumenty/orden-krasnogo-znameni-samsonov/)
+- [Высылка из Великобритании, 1917](/dokumenty/vysylka-velikobritaniya-1917/)
+- [Знак ГПУ](/dokumenty/znak-gpu-samsonov/)
+- [«Правда» о Дзержинском, 1929](/dokumenty/pravda-o-dzerzhinskom-1929/)
+- [Интервью дочери о Доме на набережной — «КП», 2011](/dokumenty/kp-dom-na-naberezhnoy-2011/)
 
 Список раздела: [Документы](/dokumenty/).
 
@@ -78,15 +81,15 @@ cover:
 
 ## Главы
 
-- [Моя мама](/vospominaniya/dnevnik/01-moya-mama/)  
-- [Отец, брак, дети](/vospominaniya/dnevnik/02-otec-brak-deti/)  
-- [Отец: ВЧК и стихи](/vospominaniya/dnevnik/05-otec-vchk-i-stikhi/)  
-- [Отец: характер](/vospominaniya/dnevnik/08-otec-harakter/)  
-- [Обложка и родословные](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/)  
+- [Моя мама](/vospominaniya/dnevnik/01-moya-mama/)
+- [Отец, брак, дети](/vospominaniya/dnevnik/02-otec-brak-deti/)
+- [Отец: ВЧК и стихи](/vospominaniya/dnevnik/05-otec-vchk-i-stikhi/)
+- [Отец: характер](/vospominaniya/dnevnik/08-otec-harakter/)
+- [Обложка и родословные](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/)
 
 ## Источники
 
-- Биография: [/roditeli/samsonov-timofey-petrovich/](/roditeli/samsonov-timofey-petrovich/)  
-- [Отец и мать](/roditeli/otets-i-mat/)  
-- Документы и [фотоальбом](/foto/samsonov-timofey-petrovich/)  
-- Рукопись: главы о отце в [дневнике](/vospominaniya/dnevnik/)  
+- Биография: [/roditeli/samsonov-timofey-petrovich/](/roditeli/samsonov-timofey-petrovich/)
+- [Отец и мать](/roditeli/otets-i-mat/)
+- Документы и [фотоальбом](/foto/samsonov-timofey-petrovich/)
+- Рукопись: главы о отце в [дневнике](/vospominaniya/dnevnik/)

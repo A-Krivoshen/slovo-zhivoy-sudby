@@ -219,3 +219,37 @@ events:
   confidence: document_confirmed
   public: true
   note: "Decree 931 of 30 Oct 1989; named as Stalproekt department head; furnace reconstruction; family memory of Kremlin presentation."
+- entity_id: event-kp-interview-tatyana-2011
+  title_ru: Публикация интервью Татьяны Тимофеевны о Доме на набережной
+  title_en: Publication of Tatyana Timofeevna’s interview about the House on the Embankment
+  summary_ru: >
+    «Комсомольская правда» опубликовала материал Ларисы Кафтан
+    «Легенды и мифы Дома на набережной», построенный в том числе на беседе
+    с Татьяной Тимофеевной. Внешний журналистский источник; не архивный
+    документ и не замена рукописи.
+  summary_en: >
+    Komsomolskaya Pravda published Larisa Kaftan’s article “Legends and Myths
+    of the House on the Embankment”, based in part on a conversation with
+    Tatyana Timofeevna. External journalistic source; not an archival document
+    and not a substitute for the notebook.
+  date_start: '2011-12-04'
+  date_end: '2011-12-04'
+  place_ids:
+  - place-serafimovich
+  - place-moscow
+  participant_ids:
+  - person-krivosheina-tt
+  related_urls:
+  - /dokumenty/kp-dom-na-naberezhnoy-2011/
+  - /en/documents/kp-house-on-the-embankment-2011/
+  - /lyudi/tatyana-timofeevna-krivosheina/
+  - /en/people/tatyana-timofeevna-krivosheina/
+  - /mesta/serafimovich-street/
+  - /en/places/serafimovich-street/
+  - https://www.kp.ru/daily/25798.5/2780009/
+  confidence: document_confirmed
+  public: true
+  note: >
+    Publication date of the external interview article. Author Larisa Kaftan
+    is an external journalist, not a family person entity. Interview place
+    not asserted beyond the article’s subject (House on the Embankment / Moscow).

@@ -105,6 +105,14 @@
   {{- if not $page.Date.IsZero -}}
     {{- $ld = merge $ld (dict "datePublished" ($page.Date.Format "2006-01-02")) -}}
   {{- end -}}
+  {{- /* External original (e.g. newspaper interview): sameAs → publisher URL */ -}}
+  {{- with $page.Params.sameAs -}}
+    {{- $ld = merge $ld (dict "sameAs" (printf "%v" .)) -}}
+  {{- else -}}
+    {{- with $page.Params.external_url -}}
+      {{- $ld = merge $ld (dict "sameAs" (printf "%v" .)) -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
 
 {{- with $page.Params.cover -}}

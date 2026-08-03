@@ -41,6 +41,8 @@ cover:
 
 Daughter’s voice: [ch. 02](/en/memoirs/diary/02-father-marriage-children/), [05](/en/memoirs/diary/05-father-cheka-verses/), [08](/en/memoirs/diary/08-father-character/), [10](/en/memoirs/diary/10-notebook-continued-080-089/).
 
+In Tatyana Timofeevna’s [2011 Komsomolskaya Pravda interview](/en/documents/kp-house-on-the-embankment-2011/), her father is mentioned in connection with settling the [House on the Embankment](/en/places/serafimovich-street/) and apartment allocation. Those points are published as the **daughter’s recollection** and cross-checked with the notebook; the newspaper’s 1931 office title is **not** taken as an established fact without archival confirmation.
+
 **Do not confuse** with his son [Timofey Timofeevich Samsonov](/en/people/timofey-timofeevich-samsonov/) (Tyoma).
 
 ## Family links
@@ -59,6 +61,7 @@ See also: [Father and mother](/en/parents/father-and-mother/).
 - [Order of the Red Banner](/en/documents/order-of-the-red-banner-samsonov/)
 - [GPU badge form](/en/documents/gpu-badge-samsonov/)
 - [*Pravda* on Dzerzhinsky, 1929](/en/documents/pravda-on-dzerzhinsky-1929/)
+- [Daughter’s interview on the House on the Embankment — KP, 2011](/en/documents/kp-house-on-the-embankment-2011/)
 - Photo album: [Timofey Petrovich Samsonov](/en/photos/samsonov-timofey-petrovich/)
 - Notebook chapters (EN): [My mother](/en/memoirs/diary/01-my-mother/), [Father, marriage, children](/en/memoirs/diary/02-father-marriage-children/), [Father, Cheka, verses](/en/memoirs/diary/05-father-cheka-verses/), [Father’s character](/en/memoirs/diary/08-father-character/)
 

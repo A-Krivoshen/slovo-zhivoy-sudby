@@ -152,3 +152,13 @@ Full biographies live under **Родители / Parents**. Matching person card
 - Hub pages and publishing-principles have no `entity_id` (section/policy pages, not graph entities).
 - Do not add `robotsNoIndex` to entity hubs or leaves.
 
+
+
+## 2026-08-03 — KP 2011 interview source
+
+| URL | Title focus | Notes |
+| --- | --- | --- |
+| `/dokumenty/kp-dom-na-naberezhnoy-2011/` | КП 2011, Дом на набережной | external_link_only; CreativeWork + sameAs |
+| `/en/documents/kp-house-on-the-embankment-2011/` | KP 2011 House interview | original language RU; no fake EN newspaper |
+| `/lyudi/tatyana-timofeevna-krivosheina/` | + interview section | RU/EN parity |
+| `/mesta/serafimovich-street/` | + memories section | no late address leak |

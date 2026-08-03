@@ -1,18 +1,18 @@
 ---
 title: "Tatyana Timofeevna Krivosheina"
 date: 2026-08-01
-lastmod: 2026-08-02
+lastmod: 2026-08-03
 draft: false
-description: "Biography of Tatyana Timofeevna Krivosheina (1926–2021): Samsonov family, notebook, war, marriage to A. D. Krivoshein, work, memory. Centre of the family archive."
-summary: "1926–2021. Author of “Our genealogy: the Samsonovs”; daughter of the Samsonovs; wife of A. D. Krivoshein."
+description: "Biography of Tatyana Timofeevna Krivosheina (1926–2021): Samsonov family, notebook, House on the Embankment, 2011 KP interview, war, marriage to A. D. Krivoshein, work, memory."
+summary: "1926–2021. Author of “Our genealogy: the Samsonovs”; daughter of the Samsonovs; wife of A. D. Krivoshein; 2011 interview on the House on the Embankment."
 translationKey: "person-tatyana-timofeevna-krivosheina"
 entity_id: "person/tatyana-timofeevna-krivosheina"
 schema_type: "Person"
 birth_date: "1926-09-02"
 death_date: "2021-09-24"
 alternateName: ["Tatyana Timofeevna", "T. T. Krivosheina", "Tanya", "Samsonova Tatyana Timofeevna"]
-keywords: ["Tatyana Timofeevna Krivosheina", "memoirs", "family archive", "Samsonov"]
-tags: ["people", "Krivosheina", "notebook", "biography"]
+keywords: ["Tatyana Timofeevna Krivosheina", "memoirs", "family archive", "Samsonov", "House on the Embankment", "Komsomolskaya Pravda"]
+tags: ["people", "Krivosheina", "notebook", "biography", "interview"]
 categories: ["People"]
 people: ["Tatyana Timofeevna Krivosheina", "Aleksandr Dmitrievich Krivoshein"]
 ShowToc: true
@@ -54,10 +54,23 @@ Essay with life dates and memory: **[About Tatyana Timofeevna](/en/memoirs/about
 | **Death** | **24 September 2021**, age 95 |
 | **Father** | [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/) (1888–1955) |
 | **Mother** | [Eva (Evdokia) Konstantinovna Samsonova](/en/people/eva-konstantinovna-samsonova/) (1900–1981) |
-| **Childhood** | Moscow (notebook: Vozdvizhenka, Mokhovaya, Serafimovich St. — [ch. 03](/en/memoirs/diary/03-childhood-moscow/)) |
+| **Childhood** | Moscow (notebook: Vozdvizhenka, Mokhovaya, Serafimovich St. — [ch. 03](/en/memoirs/diary/03-childhood-moscow/)); the family settled in the [House on the Embankment](/en/places/serafimovich-street/) when Tatyana was a child (move **1931**) |
 
 {{< archive_note type="source" >}}
 The **genealogy chart** records “21/IV–1926” by her name. The site does **not** replace the biographical date **2 Sept 1926** from family documents with that chart reading; the chart is kept as **source content**.
+{{< /archive_note >}}
+
+## Interview about the House on the Embankment
+
+In December 2011, Komsomolskaya Pravda published Larisa Kaftan’s article [“Legends and Myths of the House on the Embankment”](https://www.kp.ru/daily/25798.5/2780009/), based in part on an interview with Tatyana Timofeevna. She recalled childhood life in the complex in the early 1930s, the family’s neighbours, and the atmosphere as repression transformed the building. The article is an external journalistic source that complements the family notebook; details are cross-checked against family and archival records.
+
+Source card (no full reprint): [KP, 4 December 2011](/en/documents/kp-house-on-the-embankment-2011/).
+Place: [Serafimovich Street / House of Government](/en/places/serafimovich-street/). Notebook: [ch. 02](/en/memoirs/diary/02-father-marriage-children/) · [ch. 03](/en/memoirs/diary/03-childhood-moscow/).
+
+*Original article in Russian.*
+
+{{< archive_note type="source" >}}
+External material; original in Russian. Individual journalistic phrasings (including “born with the house” imagery) are **not** taken as precise biographical facts without cross-check.
 {{< /archive_note >}}
 
 ## Siblings
@@ -109,11 +122,13 @@ Start: [About the notebook](/en/memoirs/diary/about-the-notebook/) · [My mother
 | Husband A. D. Krivoshein (Sasha) | chart; ch. 16–19 | high |
 | Lecturer (MISIS / Steel and Alloys) | family portrait/caption | medium–high |
 | Lived through husband’s 1949–1954 arrest | ch. 18 | high *as testimony* |
+| 2011 interview on the House on the Embankment | KP, 4 Dec 2011 | high *as publication fact*; details — memory / cross-check |
 
 ## Sources
 
 - [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/)
 - [Diary](/en/memoirs/diary/)
+- [“Legends and Myths…” — KP, 2011](/en/documents/kp-house-on-the-embankment-2011/) · [original (Russian)](https://www.kp.ru/daily/25798.5/2780009/)
 - [Letters from the front](/en/documents/letters-from-the-front/)
 - [A. D. Krivoshein](/en/people/aleksandr-krivoshein/)
 

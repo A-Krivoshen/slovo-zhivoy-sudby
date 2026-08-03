@@ -130,3 +130,79 @@
     original_page 051 reads “Vasilki”; original_page 064 reads “Valuyevo”
     (both letter-readings visually confirmed on their pages). Do not merge
     without a document.
+
+# ---------------------------------------------------------------------------
+# Komsomolskaya Pravda 2011 interview — journalistic phrasing vs archive
+# ---------------------------------------------------------------------------
+- id: kp-2011-tatyana-infant-phrasing
+  topic: KP 2011 phrases “ровесница Дома” / “ещё в пелёнках”
+  person: Кривошеина Татьяна Тимофеевна
+  status: contradicted_as_literal_biography
+  resolved_date: "2026-08-03"
+  preferred_public_value: >
+    Семья поселилась в Доме на набережной, когда Татьяна была ребёнком
+    (рождение 2.09.1926; переезд 1931).
+  preferred_public_value_en: >
+    The family settled in the House on the Embankment when Tatyana was a child
+    (born 2 Sep 1926; move 1931).
+  sources:
+    - source-kp-2011-house-on-embankment-tatyana-interview
+    - official family documents (birth 1926-09-02)
+    - manuscript ch. 02 (move 1931)
+  rules:
+    - Do not repeat “ровесница Дома на набережной” as a biographical fact.
+    - Do not repeat “ещё в пелёнках” as a biographical fact.
+    - Journalist framing may stay in internal notes only.
+
+- id: kp-2011-tp-office-title-1931
+  topic: T.P. office title in 1931 (KP vs manuscript)
+  person: Самсонов Тимофей Петрович
+  status: open_cross_check
+  resolved_date: "2026-08-03"
+  kp_wording: "управляющий делами ЦК ВКП(б) (1931)"
+  manuscript_wording: "Управляющим делами ЦИК[?] ВК[?] (uncertain reading, ch. 02)"
+  preferred_public_value: >
+    По воспоминанию Татьяны в интервью 2011 / по рукописи — с пометой
+    неясности; не публиковать «ЦК ВКП(б)» как установленный факт без архива.
+  rules:
+    - Do not promote KP “ЦК ВКП(б)” as confirmed office title.
+    - Keep manuscript uncertain reading markers.
+    - Attribute any 1931 role phrasing to daughter’s memory when only from interview/notebook.
+
+- id: kp-2011-babiy-name
+  topic: “Самсонов (Бабий)” in KP and notebook
+  person: Самсонов Тимофей Петрович
+  status: family_form_not_public_alternateName
+  resolved_date: "2026-08-03"
+  note: >
+    “Бабий” appears in Tatyana’s notebook and in the 2011 KP piece.
+    Not added to public Person.alternateName without independent archival confirmation.
+  rules:
+    - Do not set alternateName Бабий / Babiy on public person pages from press alone.
+    - May remain inside manuscript transcription pages as source text.
+
+- id: kp-2011-later-entrance-privacy
+  topic: Later entrance number mentioned in KP 2011
+  person: Кривошеина Татьяна Тимофеевна
+  status: withheld_privacy
+  resolved_date: "2026-08-03"
+  note: >
+    Article mentions a later residential entrance distinct from the historical
+    1930s entrance known from the manuscript/letters. Do not publish later
+    entrance/flat details on public pages.
+  rules:
+    - Never publish the later entrance number from KP on public pages.
+    - Historical 1930s address policy remains as on place pages (street/house only
+      on place cards; letter pages may keep historical documentary addresses).
+
+- id: kp-2011-kaganovich-commission
+  topic: Kaganovich as head of housing commission
+  person: Самсонов Тимофей Петрович
+  status: interview_only
+  resolved_date: "2026-08-03"
+  preferred_public_value: >
+    Только как воспоминание из интервью 2011; не как установленный
+    административный факт.
+  rules:
+    - Commission membership of T.P.: ok as daughter memory (notebook + interview).
+    - Kaganovich leadership: interview attribution only.

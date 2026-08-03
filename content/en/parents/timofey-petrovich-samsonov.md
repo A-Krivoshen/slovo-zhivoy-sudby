@@ -87,6 +87,10 @@ Partial reading of the verses (to be completed from a sharper scan):
 
 {{< figure src="/photos/samsonov-tp/15-pravda-dzerzhinsky-1929.jpg" caption="*Pravda*, 20 July 1929 — date from the handwritten album note. Article “On Dzerzhinsky,” signed SAMSONOV — kept in the family as the father’s text." >}}
 
+## House on the Embankment (daughter’s voice)
+
+In Tatyana Timofeevna’s [2011 Komsomolskaya Pravda interview](/en/documents/kp-house-on-the-embankment-2011/), her father is mentioned in connection with settling the [House on the Embankment](/en/places/serafimovich-street/) and apartment allocation. Those points are the **daughter’s recollection** (see also [ch. 02](/en/memoirs/diary/02-father-marriage-children/)); the newspaper’s 1931 office title and some commission details are **not** published here as established administrative facts without further confirmation.
+
 ## Daughter — the next generation
 
 {{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="T. T. Krivosheina — senior lecturer, Institute of Steel and Alloys. From the same family set." >}}

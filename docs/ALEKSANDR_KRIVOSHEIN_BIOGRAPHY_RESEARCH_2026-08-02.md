@@ -44,6 +44,14 @@
 | AK-STATE-PRIZE-POSTHUMOUS | Death 1988 + prize 1989 consistent with statute 251/1989 | high normative; decree line not marked “posthumous” in list snippet |
 | AK-STATE-PRIZE-KREMLIN-FAMILY-MEMORY | Family presentation in Kremlin | family only |
 
+
+## External press: Komsomolskaya Pravda 2011
+
+Source `source-kp-2011-house-on-embankment-tatyana-interview` (Larisa Kaftan, 4 Dec 2011) is an interview with **Tatyana Timofeevna** about the House on the Embankment.
+
+**Do not use** for Aleksandr Dmitrievich’s work, 1949 arrest, camps, rehabilitation, or 1989 State Prize.
+Allowed only as general family/House context if needed; **not** for Wikipedia draft claims about him.
+
 ## Explicit non-claims
 
 - Not sole Art. 58 or sole Art. 111.

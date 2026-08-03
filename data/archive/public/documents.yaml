@@ -146,3 +146,54 @@ documents:
 # manuscript pages 099–100, Ukrainian medal «Захиснику Вітчизни» 1999,
 # recipient Timofey Timofeevich; withheld_pending_person_page.
 # Do not add document entity_id for 099–100 here.
+
+  - entity_id: document-kp-2011-house-on-embankment
+    type: document
+    kind: published_interview_secondary
+    source_id: source-kp-2011-house-on-embankment-tatyana-interview
+    aliases:
+      - source-kp-2011-house-on-embankment-tatyana-interview
+    source_pages: null
+    scan_ids: null
+    photo_path: null
+    url_ru: /dokumenty/kp-dom-na-naberezhnoy-2011/
+    url_en: /en/documents/kp-house-on-the-embankment-2011/
+    title_ru: "«Легенды и мифы Дома на набережной» — «Комсомольская правда», 4.12.2011"
+    title_en: "“Legends and Myths of the House on the Embankment” — Komsomolskaya Pravda, 4 Dec 2011"
+    original_title_ru: "Легенды и мифы Дома на набережной"
+    original_title_en: "Legends and Myths of the House on the Embankment"
+    original_language: ru
+    author: "Лариса Кафтан"
+    author_en: "Larisa Kaftan"
+    publisher: "Комсомольская правда"
+    publisher_en: "Komsomolskaya Pravda"
+    date: "2011-12-04"
+    date_role: publication
+    accessed: "2026-08-03"
+    external_url: "https://www.kp.ru/daily/25798.5/2780009/"
+    copyright: external_link_only
+    related_person_ids:
+      - person-krivosheina-tt
+      - person-samsonov-tp
+      - person-samsonova-ek
+    related_place_ids:
+      - place-serafimovich
+      - place-moscow
+    event_ids:
+      - event-kp-interview-tatyana-2011
+    topics:
+      - childhood
+      - family memory
+      - House on the Embankment
+      - Stalin-era repression
+      - residents
+      - housing history
+    confidence: family_testimony_published
+    notes: >
+      External journalistic article based in part on an interview with
+      Tatyana Timofeevna. Do not store article body. Do not treat as archival
+      proof of every neighbour fact, of T.P. 1931 office title as printed
+      (ЦК ВКП(б) vs manuscript ЦИК[?]), or of A. D. Krivoshein biography.
+      Privacy: do not publish later entrance/flat details from the piece.
+      See claims.yaml and fact_conflicts for cross-checks.
+    public: true

@@ -854,3 +854,60 @@ relations:
     confidence: family_confirmed
     public: true
 
+  # ---------------------------------------------------------------------------
+  # Komsomolskaya Pravda 2011 interview (external published source)
+  # ---------------------------------------------------------------------------
+  - subject: person-krivosheina-tt
+    predicate: mentioned_in
+    object: document-kp-2011-house-on-embankment
+    source_ref:
+      - content/ru/dokumenty/kp-dom-na-naberezhnoy-2011.md
+      - source-kp-2011-house-on-embankment-tatyana-interview
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonov-tp
+    predicate: mentioned_in
+    object: document-kp-2011-house-on-embankment
+    source_ref:
+      - content/ru/dokumenty/kp-dom-na-naberezhnoy-2011.md
+      - source-kp-2011-house-on-embankment-tatyana-interview
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-samsonova-ek
+    predicate: mentioned_in
+    object: document-kp-2011-house-on-embankment
+    source_ref:
+      - content/ru/dokumenty/kp-dom-na-naberezhnoy-2011.md
+      - source-kp-2011-house-on-embankment-tatyana-interview
+    confidence: document_confirmed
+    public: true
+
+  - subject: person-krivosheina-tt
+    predicate: participant_in
+    object: event-kp-interview-tatyana-2011
+    source_ref:
+      - content/ru/dokumenty/kp-dom-na-naberezhnoy-2011.md
+      - source-kp-2011-house-on-embankment-tatyana-interview
+    confidence: document_confirmed
+    public: true
+
+  - subject: event-kp-interview-tatyana-2011
+    predicate: associated_with
+    object: document-kp-2011-house-on-embankment
+    source_ref:
+      - content/ru/dokumenty/kp-dom-na-naberezhnoy-2011.md
+      - source-kp-2011-house-on-embankment-tatyana-interview
+    confidence: document_confirmed
+    public: true
+
+  - subject: event-kp-interview-tatyana-2011
+    predicate: associated_with
+    object: place-serafimovich
+    source_ref:
+      - content/ru/dokumenty/kp-dom-na-naberezhnoy-2011.md
+      - content/ru/mesta/serafimovich-street.md
+    confidence: editorial_curated
+    public: true
+

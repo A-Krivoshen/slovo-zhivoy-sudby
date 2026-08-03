@@ -67,6 +67,10 @@ Typist — **Tsentropechat**, then the **Cheka secret department**; Dzerzhinsky 
 
 Addressee of her son’s front letters ([105–106](/en/documents/letters-from-the-front/letter-105-106-to-mother/), [107](/en/documents/letters-from-the-front/letter-107/)). Evacuation and household in Tatyana’s war chapters.
 
+## Family memory of repression
+
+In the [2011 Komsomolskaya Pravda interview](/en/documents/kp-house-on-the-embankment-2011/), her daughter recalled the atmosphere of the [House on the Embankment](/en/places/serafimovich-street/) under repression and the family’s neighbourhood context. This is **published family memory**, not a separate biography of neighbours; details are on the source card and in the notebook.
+
 ## Where to read
 
 1. **[My mother](/en/memoirs/diary/01-my-mother/)**  

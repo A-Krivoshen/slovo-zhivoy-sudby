@@ -1,0 +1,190 @@
+# Public/editorial claims tied to sources. Not rendered as visitor UI.
+# confidence: family_testimony_published | corroborated_multiple_sources |
+#   interview_only | contradicted | manuscript_stated | document_confirmed
+# Do not use confirmed_primary for journalistic paraphrase alone.
+
+version: 1
+generated: "2026-08-03"
+public: false
+
+claims:
+  - claim_id: TT-KP-INTERVIEW-2011
+    summary_ru: >
+      В декабре 2011 «Комсомольская правда» опубликовала материал Ларисы Кафтан
+      о Доме на набережной, построенный в том числе на беседе с Татьяной Тимофеевной.
+    summary_en: >
+      In December 2011 Komsomolskaya Pravda published Larisa Kaftan’s piece on
+      the House on the Embankment, based in part on a conversation with
+      Tatyana Timofeevna.
+    speaker: null
+    voice: journalistic_report_of_interview
+    source_ids:
+      - source-kp-2011-house-on-embankment-tatyana-interview
+      - document-kp-2011-house-on-embankment
+    related_person_ids:
+      - person-krivosheina-tt
+    related_place_ids:
+      - place-serafimovich
+    confidence: document_confirmed
+    manuscript_link: null
+    public_wording_ru: >
+      В декабре 2011 года «Комсомольская правда» опубликовала материал Ларисы
+      Кафтан «Легенды и мифы Дома на набережной», построенный в том числе на
+      беседе с Татьяной Тимофеевной.
+    public_wording_en: >
+      In December 2011, Komsomolskaya Pravda published Larisa Kaftan’s article
+      “Legends and Myths of the House on the Embankment”, based in part on an
+      interview with Tatyana Timofeevna.
+    notes: >
+      Publication metadata verified against live KP page (title, author,
+      datePublished 2011-12-04, canonical URL). Body not stored.
+
+  - claim_id: TT-HOUSE-CHILDHOOD-MEMORY
+    summary_ru: >
+      Семья поселилась в Доме на набережной, когда Татьяна была ребёнком;
+      в интервью 2011 она вспоминала детскую жизнь в доме.
+    summary_en: >
+      The family settled in the House on the Embankment when Tatyana was a
+      child; in the 2011 interview she recalled childhood life there.
+    speaker: person-krivosheina-tt
+    voice: published_memory_plus_editorial_safe_wording
+    source_ids:
+      - source-kp-2011-house-on-embankment-tatyana-interview
+      - document-kp-2011-house-on-embankment
+    related_person_ids:
+      - person-krivosheina-tt
+      - person-samsonov-tp
+      - person-samsonova-ek
+    related_place_ids:
+      - place-serafimovich
+    confidence: corroborated_multiple_sources
+    manuscript_link:
+      - content/ru/vospominaniya/dnevnik/02-otec-brak-deti.md
+      - content/ru/vospominaniya/dnevnik/03-detstvo-moskva.md
+    public_wording_ru: >
+      Семья поселилась в Доме на набережной, когда Татьяна была ребёнком.
+    public_wording_en: >
+      The family settled in the House on the Embankment when Tatyana was a child.
+    notes: >
+      Reject journalist phrases «ровесница Дома» and «ещё в пелёнках» as
+      biographical facts: birth 1926-09-02, move 1931 (about age five).
+      See fact_conflicts: kp-2011-tatyana-infant-phrasing.
+
+  - claim_id: TT-HOUSE-CHILDREN-ATMOSPHERE
+    summary_ru: >
+      Татьяна вспоминала детскую атмосферу дома в начале 1930-х: кружки,
+      дворы, соседские дети, отсутствие ощущения «элитности».
+    summary_en: >
+      Tatyana recalled the childhood atmosphere of the house in the early
+      1930s: clubs, courtyards, neighbourhood children, no sense of “elite”
+      living.
+    speaker: person-krivosheina-tt
+    voice: published_memory
+    source_ids:
+      - source-kp-2011-house-on-embankment-tatyana-interview
+    related_person_ids:
+      - person-krivosheina-tt
+    related_place_ids:
+      - place-serafimovich
+    confidence: family_testimony_published
+    manuscript_link:
+      - content/ru/vospominaniya/dnevnik/03-detstvo-moskva.md
+    public_wording_ru: >
+      Она вспоминала детскую жизнь в доме в начале 1930-х годов, кружки,
+      дворы и соседскую атмосферу.
+    public_wording_en: >
+      She recalled childhood life in the complex in the early 1930s, clubs,
+      courtyards, and the neighbourhood atmosphere.
+    notes: >
+      Manuscript also describes Moscow childhood; atmosphere details in KP
+      treated as published memory, not exhaustive proof of every neighbour.
+
+  - claim_id: TT-SEALED-APARTMENTS-MEMORY
+    summary_ru: >
+      Татьяна вспоминала опечатанные квартиры и исчезновение семей
+      репрессированных жильцов.
+    summary_en: >
+      Tatyana recalled sealed apartments and the disappearance of repressed
+      residents’ families.
+    speaker: person-krivosheina-tt
+    voice: published_memory
+    source_ids:
+      - source-kp-2011-house-on-embankment-tatyana-interview
+    related_person_ids:
+      - person-krivosheina-tt
+    related_place_ids:
+      - place-serafimovich
+    confidence: family_testimony_published
+    manuscript_link: null
+    public_wording_ru: >
+      Она вспоминала, как во время репрессий менялась атмосфера дома:
+      опечатанные квартиры и исчезновение семей соседей.
+    public_wording_en: >
+      She recalled how repression transformed the building: sealed apartments
+      and the disappearance of neighbours’ families.
+    notes: >
+      Published as memory; not proof of each individual case named in the press.
+
+  - claim_id: TP-HOUSING-COMMISSION-MEMORY
+    summary_ru: >
+      По воспоминанию дочери (рукопись и интервью 2011) отец входил в комиссию
+      по заселению / распределению квартир Дома правительства. Утверждение
+      о руководстве комиссии Л. Кагановичем — только из интервью.
+    summary_en: >
+      Per daughter’s memory (notebook and 2011 interview), the father sat on
+      the settlement / apartment-allocation commission for the House of
+      Government. Kaganovich as commission head — interview only.
+    speaker: person-krivosheina-tt
+    voice: published_memory
+    source_ids:
+      - source-kp-2011-house-on-embankment-tatyana-interview
+    related_person_ids:
+      - person-samsonov-tp
+      - person-krivosheina-tt
+    related_place_ids:
+      - place-serafimovich
+    confidence: corroborated_multiple_sources
+    manuscript_link:
+      - content/ru/vospominaniya/dnevnik/02-otec-brak-deti.md
+    public_wording_ru: >
+      Отец входил в комиссию по заселению Дома правительства (по рукописи и
+      воспоминаниям в интервью 2011). Участие Кагановича как главы комиссии
+      публикуется только как воспоминание из интервью, не как установленный
+      административный факт.
+    public_wording_en: >
+      The father sat on the House of Government settlement commission (notebook
+      and 2011 interview). Kaganovich as commission head is published only as
+      interview memory, not as an established administrative fact.
+    notes: >
+      Commission membership: manuscript + interview (corroborated as family
+      memory). Kaganovich leadership: interview_only. Flat size / half-flat
+      transfer: manuscript + interview memory; attribute to Tatyana.
+
+  - claim_id: TT-PAVLUNOVSKY-FAMILY-MEMORY
+    summary_ru: >
+      В интервью 2011 Татьяна вспоминала дружбу родителей с семьёй Павлуновских
+      и репрессии в отношении соседей.
+    summary_en: >
+      In the 2011 interview Tatyana recalled her parents’ friendship with the
+      Pavlunovsky family and repression affecting neighbours.
+    speaker: person-krivosheina-tt
+    voice: published_memory
+    source_ids:
+      - source-kp-2011-house-on-embankment-tatyana-interview
+    related_person_ids:
+      - person-krivosheina-tt
+      - person-samsonov-tp
+      - person-samsonova-ek
+    related_place_ids:
+      - place-serafimovich
+    confidence: interview_only
+    manuscript_link: null
+    public_wording_ru: >
+      В интервью упомянуты знакомые семьи Павлуновских как часть соседского
+      контекста дома; отдельной person-сущности на сайте не создаём.
+    public_wording_en: >
+      The interview mentions the Pavlunovsky family as neighbourhood context;
+      no separate person entity is created on this site.
+    notes: >
+      Do not create person entities or graph links for Pavlunovsky solely from
+      the newspaper text. Historical neighbours remain place context only.

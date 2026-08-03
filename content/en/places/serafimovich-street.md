@@ -30,12 +30,22 @@ On public archive pages we name the **street and the historic house**, **without
 - **postal address** of her mother on 1943 front letters (“House of Government”);  
 - tied to **[T. P. Samsonov](/en/parents/timofey-petrovich-samsonov/)** (work near the Central Executive Committee) and **[Eva Konstantinovna](/en/parents/eva-konstantinovna/)** (Party work in the city).
 
+## Tatyana Timofeevna’s recollections
+
+The family settled here when [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) was a child (**1931**). The notebook covers the move, the settlement commission, and childhood years; in **December 2011** the same themes appeared in an external Komsomolskaya Pravda interview (clubs, courtyards, neighbourhood life, and how the atmosphere changed under repression).
+
+- Source: [“Legends and Myths of the House on the Embankment” — KP, 2011](/en/documents/kp-house-on-the-embankment-2011/) · [original (Russian)](https://www.kp.ru/daily/25798.5/2780009/)
+- Notebook: [Father, marriage, children](/en/memoirs/diary/02-father-marriage-children/) · [Childhood in Moscow](/en/memoirs/diary/03-childhood-moscow/)
+
+This place page does **not** retell the newspaper article; interview details are cross-checked with the notebook and address policy.
+
 ## People and chapters
 
 | Link type | Page |
 | --- | --- |
 | Move, home | [Father, marriage and children](/en/memoirs/diary/02-father-marriage-children/) |
 | Childhood in Moscow | [Childhood](/en/memoirs/diary/03-childhood-moscow/) |
+| 2011 interview | [source card](/en/documents/kp-house-on-the-embankment-2011/) · [Tatyana’s biography](/en/people/tatyana-timofeevna-krivosheina/) |
 | Letter, 1943 | [Timosha to mother, 14 June 1943](/en/documents/letters-from-the-front/letter-105-106-to-mother/) |
 | Family map points | [Family Moscow](/en/places/family-moscow/) |
 

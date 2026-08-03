@@ -21,3 +21,4 @@ A separate collection of wartime letters from the notebook (brother **Timosha / 
 - [GPU badge — Samsonov](/en/documents/gpu-badge-samsonov/)
 - [Expulsion from the UK, 1917](/en/documents/expulsion-uk-1917/)
 - [Pravda on Dzerzhinsky, 1929](/en/documents/pravda-on-dzerzhinsky-1929/)
+- [“Legends and Myths of the House on the Embankment” — KP, 2011](/en/documents/kp-house-on-the-embankment-2011/) (external interview with Tatyana Timofeevna; original on kp.ru)

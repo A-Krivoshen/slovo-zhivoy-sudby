@@ -69,6 +69,7 @@ Related sections: [People](/en/people/) · [Events](/en/events/) · [Places](/en
 | **1988** | Death of [A. D. Krivoshein](/en/people/aleksandr-krivoshein/) (year on chart; later notebook years noted separately) | [biography](/en/people/aleksandr-krivoshein/) |
 | **1989** | USSR State Prize (posthumous; Stalproekt; reheating furnaces) | [A. D. Krivoshein](/en/people/aleksandr-krivoshein/) |
 | **1991** | Death of [Nina Vasilievna](/en/people/nina-vasilievna-krivosheina/) | [person page](/en/people/nina-vasilievna-krivosheina/) |
+| **2011** | 4 Dec — publication of Tatyana Timofeevna’s interview about the [House on the Embankment](/en/places/serafimovich-street/) (KP, L. Kaftan) | [source card](/en/documents/kp-house-on-the-embankment-2011/) · [biography](/en/people/tatyana-timofeevna-krivosheina/) · [original (Russian)](https://www.kp.ru/daily/25798.5/2780009/) |
 | **2021** | 24 Sep — death of [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) (age 95) | [about her](/en/memoirs/about-tatyana-timofeevna/) |
 
 ---

@@ -69,6 +69,7 @@ translationKey: "timeline"
 | **1988** | Смерть [А. Д. Кривошеина](/lyudi/aleksandr-krivoshein/) (год по схеме; поздние годы в рукописи — отдельно) | [биография](/lyudi/aleksandr-krivoshein/) |
 | **1989** | Государственная премия СССР (посмертно; «Стальпроект», нагревательные печи) | [А. Д. Кривошеин](/lyudi/aleksandr-krivoshein/) |
 | **1991** | Смерть [Нины Васильевны](/lyudi/nina-vasilievna-krivosheina/) | [карточка](/lyudi/nina-vasilievna-krivosheina/) |
+| **2011** | 4.12 — публикация интервью Татьяны Тимофеевны о [Доме на набережной](/mesta/serafimovich-street/) («КП», Л. Кафтан) | [карточка источника](/dokumenty/kp-dom-na-naberezhnoy-2011/) · [биография](/lyudi/tatyana-timofeevna-krivosheina/) · [оригинал](https://www.kp.ru/daily/25798.5/2780009/) |
 | **2021** | 24.09 — смерть [Татьяны Тимофеевны](/lyudi/tatyana-timofeevna-krivosheina/) (95 лет) | [о ней](/vospominaniya/o-tatyane-timofeevne/) |
 
 ---

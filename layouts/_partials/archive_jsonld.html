@@ -93,6 +93,15 @@
     {{- $ld = merge $ld (dict "alternateName" $alts) -}}
   {{- end -}}
   {{- with $page.Params.jobTitle }}{{ $ld = merge $ld (dict "jobTitle" (printf "%v" .)) }}{{ end -}}
+  {{- /* sameAs: Wikipedia / Wikidata and other confirmed identity URLs */ -}}
+  {{- $same := slice -}}
+  {{- with $page.Params.sameAs }}
+    {{- if reflect.IsSlice . }}{{ range . }}{{ $same = $same | append (printf "%v" .) }}{{ end }}
+    {{- else }}{{ $same = $same | append (printf "%v" .) }}{{ end }}
+  {{- end -}}
+  {{- if gt (len $same) 0 -}}
+    {{- $ld = merge $ld (dict "sameAs" $same) -}}
+  {{- end -}}
 {{- else if eq $schemaType "Event" -}}
   {{- with $page.Params.start_date }}{{ $ld = merge $ld (dict "startDate" (printf "%v" .)) }}{{ end -}}
   {{- with $page.Params.startDate }}{{ $ld = merge $ld (dict "startDate" (printf "%v" .)) }}{{ end -}}

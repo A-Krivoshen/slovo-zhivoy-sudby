@@ -14,10 +14,10 @@ translationKey: "timeline"
 
 | Год | Событие | Ссылки |
 | --- | --- | --- |
-| **1888** | Рождение [Самсонова Тимофея Петровича](/roditeli/samsonov-timofey-petrovich/) | [Родители](/roditeli/) · [карточка](/lyudi/timofey-petrovich-samsonov/) |
+| **1888** | 9(21).05 — рождение [Самсонова Тимофея Петровича](/lyudi/timofey-petrovich-samsonov/) (Михайлены; форма Бабий) | [полная биография](/lyudi/timofey-petrovich-samsonov/) · [альбом](/roditeli/samsonov-timofey-petrovich/) |
 | **1900** | Рождение [Евы (Евдокии) Константиновны](/roditeli/eva-konstantinovna/) (14.03.1900, Москва) | [Моя мама](/vospominaniya/dnevnik/01-moya-mama/) · [карточка](/lyudi/eva-konstantinovna-samsonova/) |
 | **1905** | Рождение [Кривошеина Дмитрия Александровича](/roditeli/krivoshein-dmitriy-aleksandrovich/) (Кирсанов) | биография свёкра |
-| **1910** | Заключение Т. П. Самсонова: Александровский централ (Сибирь) | [биография Т. П.](/roditeli/samsonov-timofey-petrovich/) |
+| **1910** | Заключение Т. П.: Александровский централ (Сибирь; подпись в альбоме) | [биография](/lyudi/timofey-petrovich-samsonov/) · [альбом](/roditeli/samsonov-timofey-petrovich/) |
 
 ## 1917–1929
 
@@ -57,7 +57,7 @@ translationKey: "timeline"
 | **1948** | Брак Татьяны и Александра; рождение сына Дмитрия (Мити) | [Крым и семья](/vospominaniya/dnevnik/17-krym-sevastopol-semya/) · [начало семьи](/sobytiya/nachalo-semi/) |
 | **2.IX.1949** | Арест [А. Д. Кривошеина](/lyudi/aleksandr-krivoshein/); ст. 58 (рукопись) / ст. 111 (отец) — конфликт | [гл. 18](/vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki/) · [биография Саши](/lyudi/aleksandr-krivoshein/) |
 | **VI.1954** | Возвращение Саши; реабилитация и восстановление на работе (по отцу) | [семья и дети](/vospominaniya/dnevnik/19-semya-i-deti/) · [фото 1954](/foto/tetrad-semya-prodolzhenie/) |
-| **1955** | Смерть [Т. П. Самсонова](/roditeli/samsonov-timofey-petrovich/); похороны на Новодевичьем | [Москва семейная](/mesta/moskva-semeynaya/) |
+| **1955** | 28.10 — смерть [Т. П. Самсонова](/lyudi/timofey-petrovich-samsonov/); Новодевичье (схема) | [биография](/lyudi/timofey-petrovich-samsonov/) · [Москва семейная](/mesta/moskva-semeynaya/) |
 
 ## 1956–2021
 

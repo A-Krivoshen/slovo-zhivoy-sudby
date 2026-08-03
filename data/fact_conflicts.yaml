@@ -209,3 +209,54 @@
     - Commission membership of T.P.: ok as daughter memory (notebook + interview).
     - Kaganovich leadership: notebook ch. 03 + interview; still not external admin proof.
     - Do not create a person entity for Kaganovich from this alone.
+
+# ---------------------------------------------------------------------------
+# Timofey Petrovich — deep biography pass 2026-08-03
+# ---------------------------------------------------------------------------
+- id: tp-death-date-1955-vs-1956
+  topic: Death year of Timofey Petrovich Samsonov
+  person: Самсонов Тимофей Петрович
+  status: resolved_public_1955
+  resolved_date: "2026-08-03"
+  preferred_public_value: "1955-10-28"
+  preferred_sources:
+    - "Manuscript ch. 10 / 19 (daughter eyewitness)"
+    - "Bust plaque 1888–1955"
+    - "Wikipedia RU/EN preferred; Hrono"
+  competing_values:
+    - value: "1956"
+      sources: ["knowbysight.info SSS/03432", "some Yakovlev-archive dictionary editions", "Wikidata secondary rank"]
+  rules:
+    - Public biography uses 28 October 1955.
+    - Keep 1956 only in conflict notes / open questions.
+
+- id: tp-el-history-1988-typo
+  topic: el-history.ru header “1988–1955”
+  status: typo_not_for_public
+  resolved_date: "2026-08-03"
+  note: "Obvious birth-year typo; do not copy. Correct range 1888–1955."
+  rules:
+    - Never publish 1988 as T.P. birth year from this source.
+
+- id: tp-arrest-1938-layers
+  topic: 1938 removal vs arrest
+  person: Самсонов Тимофей Петрович
+  status: dual_layer_open
+  resolved_date: "2026-08-03"
+  reference_line: "Arrested 1938; not convicted; released 1940 (Wikipedia RU; knowbysight; el-history)"
+  family_line: "1938 removed from work; months without post; fear; privileges cut (notebook ch. 08)"
+  rules:
+    - Present both layers; do not merge into one unhedged “repressed and rehabilitated”.
+    - Do not claim rehabilitation without a document.
+
+- id: tp-birth-date-os-ns
+  topic: Birth 9 (21) May 1888
+  person: Самсонов Тимофей Петрович
+  status: published_from_notebook_and_refs
+  resolved_date: "2026-08-03"
+  preferred_public_value: "1888-05-09 (O.S. 9 / N.S. 21 May in notebook)"
+  sources:
+    - "Manuscript ch. 05 (Soviet Moldavia 1988 cutting + narrative)"
+    - "Wikipedia RU; Hrono; Wikidata preferred"
+  rules:
+    - Prefer full date over year-only when citing family notebook tradition.

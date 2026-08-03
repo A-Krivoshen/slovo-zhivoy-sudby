@@ -14,10 +14,10 @@ Related sections: [People](/en/people/) · [Events](/en/events/) · [Places](/en
 
 | Year | Event | Links |
 | --- | --- | --- |
-| **1888** | Birth of [Timofey Petrovich Samsonov](/en/parents/timofey-petrovich-samsonov/) | [Parents](/en/parents/) · [person page](/en/people/timofey-petrovich-samsonov/) |
+| **1888** | 9 (21) May — birth of [Timofey Petrovich Samsonov](/en/people/timofey-petrovich-samsonov/) (Mikhayleny; Babiy form) | [full biography](/en/people/timofey-petrovich-samsonov/) · [album](/en/parents/timofey-petrovich-samsonov/) |
 | **1900** | Birth of [Eva (Evdokiya) Konstantinovna](/en/parents/eva-konstantinovna/) (14 Mar 1900, Moscow) | [My mother](/en/memoirs/diary/01-my-mother/) · [person page](/en/people/eva-konstantinovna-samsonova/) |
 | **1905** | Birth of [Dmitry Aleksandrovich Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) (Kirsanov) | father-in-law biography |
-| **1910** | Imprisonment of T. P. Samsonov: Alexandrovsky Central (Siberia) | [T. P. biography](/en/parents/timofey-petrovich-samsonov/) |
+| **1910** | Imprisonment of T. P.: Alexandrovsky Central (Siberia; album caption) | [biography](/en/people/timofey-petrovich-samsonov/) · [album](/en/parents/timofey-petrovich-samsonov/) |
 
 ## 1917–1929
 
@@ -57,7 +57,7 @@ Related sections: [People](/en/people/) · [Events](/en/events/) · [Places](/en
 | **1948** | Marriage of Tatyana and Aleksandr; birth of son Dmitry (Mitya) | [beginning of the family](/en/events/family-beginning/) |
 | **2 Sep 1949** | Arrest of [A. D. Krivoshein](/en/people/aleksandr-krivoshein/); Art. 58 (notebook) / Art. 111 (father) — conflict | [ch. 18](/en/memoirs/diary/18-study-work-reunions/) · [Sasha’s biography](/en/people/aleksandr-krivoshein/) |
 | **Jun 1954** | Sasha’s return; rehabilitation and reinstatement (per father) | [family and children](/en/memoirs/diary/18-sons-150-161/) · [1954 photos](/en/photos/notebook-family-continued/) |
-| **1955** | Death of [T. P. Samsonov](/en/parents/timofey-petrovich-samsonov/); burial at Novodevichy | [Family Moscow](/en/places/family-moscow/) |
+| **1955** | 28 Oct — death of [T. P. Samsonov](/en/people/timofey-petrovich-samsonov/); Novodevichy (chart) | [biography](/en/people/timofey-petrovich-samsonov/) · [Family Moscow](/en/places/family-moscow/) |
 
 ## 1956–2021
 

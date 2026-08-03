@@ -18,9 +18,17 @@ people:
     name_ru: "Самсонов Тимофей Петрович"
     name_en: "Timofey Petrovich Samsonov"
     url_ru: "/lyudi/timofey-petrovich-samsonov/"
-    url_en: "/en/parents/timofey-petrovich-samsonov/"
+    url_en: "/en/people/timofey-petrovich-samsonov/"
     birth_year: 1888
     death_year: 1955
+    birth_date: "1888-05-09"
+    death_date: "1955-10-28"
+    alternate_names: ["Бабий", "Фома", "Babiy", "Foma"]
+    sameAs:
+      - "https://ru.wikipedia.org/wiki/Самсонов,_Тимофей_Петрович"
+      - "https://en.wikipedia.org/wiki/Timofey_Samsonov"
+      - "https://www.wikidata.org/wiki/Q16694245"
+    note: "Canonical full biography on people pages; parents pages are album-only (noindex)."
 
   - entity_id: person-samsonova-ek
     name_ru: "Самсонова (Морозова) Ева Константиновна"

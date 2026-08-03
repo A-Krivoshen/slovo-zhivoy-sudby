@@ -84,7 +84,7 @@ Separate prints and chart portraits. Identities **confirmed by the family** (Ale
 
 → [Tyoma — T. T. Samsonov](/en/people/timofey-timofeevich-samsonov/) · [Genya (Zhenya)](/en/people/genya-samsonova/)
 
-{{< figure src="/photos/archive-b02/b02-mp013-ph02.jpg" caption="1934. “I am 11” — Tatyana Timofeevna." >}}
+{{< figure src="/photos/archive-b02/b02-mp013-ph02.jpg" alt="1934 — “I am 11” — Tatyana Timofeevna" caption="1934 — “I am 11” — Tatyana Timofeevna." >}}
 
 → [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/)
 

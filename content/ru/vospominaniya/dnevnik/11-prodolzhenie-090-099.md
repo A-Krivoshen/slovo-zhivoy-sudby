@@ -150,7 +150,7 @@ P.S. Ты была талантлива, твои
 
 {{< figure src="/photos/archive-b02/b02-mp013-ph01.jpg" caption="Женя и Тёма Самсоновы." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp013-ph02.jpg" caption="1934. «Мне 11 лет»." >}}
+{{< figure src="/photos/archive-b02/b02-mp013-ph02.jpg" alt="1934 год — «Мне 11 лет»" caption="1934 год — «Мне 11 лет»." >}}
 
 {{< figure src="/photos/archive-b02/b02-mp013-ph03.jpg" caption="Ноябрь 1925. Семья Самсоновых." >}}
 

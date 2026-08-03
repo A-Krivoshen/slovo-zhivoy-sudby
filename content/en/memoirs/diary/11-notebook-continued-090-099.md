@@ -121,7 +121,7 @@ she said: “Here is sister[?] Samsonova[?].”
 
 {{< figure src="/photos/archive-b02/b02-mp013-ph01.jpg" caption="Zhenya and Tyoma Samsonov." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp013-ph02.jpg" caption="1934. “I am 11 years old.”" >}}
+{{< figure src="/photos/archive-b02/b02-mp013-ph02.jpg" alt="1934 — “I am 11 years old.”" caption="1934 — “I am 11 years old.”" >}}
 
 {{< figure src="/photos/archive-b02/b02-mp013-ph03.jpg" caption="November 1925. The Samsonov family." >}}
 

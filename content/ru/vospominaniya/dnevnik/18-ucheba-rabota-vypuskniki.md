@@ -64,7 +64,7 @@ batch_id: "manuscript-2026-08-01-b02"
 {{< figure src="/photos/archive-b02/b02-mp068-ph02.jpg" caption="«Мне 12 лет»." >}}
 
 
-{{< figure src="/photos/archive-b02/b02-mp068-ph04.jpg" caption="1938. Паша и Таня." >}} Наш выпуск. Гр. 203. Июнь 1949г.
+{{< figure src="/photos/archive-b02/b02-mp068-ph04.jpg" alt="1938 — Паша и Таня" caption="1938 — Паша и Таня." >}} Наш выпуск. Гр. 203. Июнь 1949г.
 
 Стоят: 1. - Я. 2. - Кира Федорова 3. - Сора Бергская 4. - Люся Палухина.
 

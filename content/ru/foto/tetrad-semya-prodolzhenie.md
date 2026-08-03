@@ -84,7 +84,7 @@ cover:
 
 → [Тёма — Самсонов Т. Т.](/lyudi/timofey-timofeevich-samsonov/) · [Геня (Женя)](/lyudi/genya-samsonova/)
 
-{{< figure src="/photos/archive-b02/b02-mp013-ph02.jpg" caption="1934 год. «Мне 11 лет» — Татьяна Тимофеевна." >}}
+{{< figure src="/photos/archive-b02/b02-mp013-ph02.jpg" alt="1934 год — «Мне 11 лет» — Татьяна Тимофеевна" caption="1934 год — «Мне 11 лет» — Татьяна Тимофеевна." >}}
 
 → [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/)
 

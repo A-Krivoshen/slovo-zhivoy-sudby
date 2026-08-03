@@ -65,7 +65,7 @@ Summer 1945. Pestovo. rest house of the Ichthyological Institute
 {{< figure src="/photos/archive-b02/b02-mp068-ph02.jpg" caption="“I am 12 years old.”" >}}
 
 
-{{< figure src="/photos/archive-b02/b02-mp068-ph04.jpg" caption="1938. Pasha and Tanya." >}} Our graduation. Group 203. June 1949.
+{{< figure src="/photos/archive-b02/b02-mp068-ph04.jpg" alt="1938 — Pasha and Tanya" caption="1938 — Pasha and Tanya." >}} Our graduation. Group 203. June 1949.
 
 Standing: 1. — I. 2. — Kira Fedorova 3. — Sora Bergskaya 4. — Lyusya Palukhina.
 

@@ -20,6 +20,15 @@ weight: 10
 source_type: "mixed"
 privacy_reviewed: true
 editorial_status: "publishable"
+# External published interview (KP owns the article; we only cite metadata)
+subjectOf:
+  - type: "NewsArticle"
+    url: "https://www.kp.ru/daily/25798.5/2780009/"
+    headline: "Легенды и мифы Дома на набережной"
+    datePublished: "2011-12-04"
+    inLanguage: "ru"
+    author: "Лариса Кафтан"
+    publisher: "Комсомольская правда"
 cover:
   image: "/photos/tatyana-tt/garden-portrait.jpg"
   alt: "Татьяна Тимофеевна Кривошеина в светлой шляпе и платье среди садовых растений"

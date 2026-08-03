@@ -100,6 +100,8 @@ claims:
       treated as published memory, not exhaustive proof of every neighbour.
 
   - claim_id: TT-SEALED-APARTMENTS-MEMORY
+    aliases:
+      - TT-HOUSE-REPRESSION-ATMOSPHERE
     summary_ru: >
       Татьяна вспоминала опечатанные квартиры и исчезновение семей
       репрессированных жильцов; мать по ночам прислушивалась.
@@ -131,6 +133,8 @@ claims:
       Neighbour surnames may differ between KP and notebook — do not merge entities.
 
   - claim_id: TP-HOUSING-COMMISSION-MEMORY
+    aliases:
+      - TP-HOUSE-ROLE-INTERVIEW-MEMORY
     summary_ru: >
       По воспоминанию дочери (рукопись гл. 02–03 и интервью 2011) отец входил
       в комиссию по заселению Дома правительства и отделил часть большой

@@ -102,6 +102,48 @@
   {{- if gt (len $same) 0 -}}
     {{- $ld = merge $ld (dict "sameAs" $same) -}}
   {{- end -}}
+  {{- /* subjectOf: external NewsArticle / CreativeWork metadata (no articleBody) */ -}}
+  {{- with $page.Params.subjectOf -}}
+    {{- $subjects := slice -}}
+    {{- if reflect.IsSlice . -}}
+      {{- range . -}}
+        {{- if reflect.IsMap . -}}
+          {{- $item := dict "@type" (index . "type" | default "NewsArticle") -}}
+          {{- with index . "url" }}{{ $item = merge $item (dict "url" (printf "%v" .)) }}{{ end -}}
+          {{- with index . "headline" }}{{ $item = merge $item (dict "headline" (printf "%v" .)) }}{{ end -}}
+          {{- with index . "datePublished" }}{{ $item = merge $item (dict "datePublished" (printf "%v" .)) }}{{ end -}}
+          {{- with index . "inLanguage" }}{{ $item = merge $item (dict "inLanguage" (printf "%v" .)) }}{{ end -}}
+          {{- with index . "author" -}}
+            {{- $item = merge $item (dict "author" (dict "@type" "Person" "name" (printf "%v" .))) -}}
+          {{- end -}}
+          {{- with index . "publisher" -}}
+            {{- $item = merge $item (dict "publisher" (dict "@type" "Organization" "name" (printf "%v" .))) -}}
+          {{- end -}}
+          {{- $subjects = $subjects | append $item -}}
+        {{- end -}}
+      {{- end -}}
+    {{- else if reflect.IsMap . -}}
+      {{- $item := dict "@type" (index . "type" | default "NewsArticle") -}}
+      {{- with index . "url" }}{{ $item = merge $item (dict "url" (printf "%v" .)) }}{{ end -}}
+      {{- with index . "headline" }}{{ $item = merge $item (dict "headline" (printf "%v" .)) }}{{ end -}}
+      {{- with index . "datePublished" }}{{ $item = merge $item (dict "datePublished" (printf "%v" .)) }}{{ end -}}
+      {{- with index . "inLanguage" }}{{ $item = merge $item (dict "inLanguage" (printf "%v" .)) }}{{ end -}}
+      {{- with index . "author" -}}
+        {{- $item = merge $item (dict "author" (dict "@type" "Person" "name" (printf "%v" .))) -}}
+      {{- end -}}
+      {{- with index . "publisher" -}}
+        {{- $item = merge $item (dict "publisher" (dict "@type" "Organization" "name" (printf "%v" .))) -}}
+      {{- end -}}
+      {{- $subjects = $subjects | append $item -}}
+    {{- end -}}
+    {{- if gt (len $subjects) 0 -}}
+      {{- if eq (len $subjects) 1 -}}
+        {{- $ld = merge $ld (dict "subjectOf" (index $subjects 0)) -}}
+      {{- else -}}
+        {{- $ld = merge $ld (dict "subjectOf" $subjects) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
 {{- else if eq $schemaType "Event" -}}
   {{- with $page.Params.start_date }}{{ $ld = merge $ld (dict "startDate" (printf "%v" .)) }}{{ end -}}
   {{- with $page.Params.startDate }}{{ $ld = merge $ld (dict "startDate" (printf "%v" .)) }}{{ end -}}

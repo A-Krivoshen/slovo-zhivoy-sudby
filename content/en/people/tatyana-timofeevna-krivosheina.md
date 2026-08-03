@@ -19,6 +19,15 @@ ShowToc: true
 source_type: "mixed"
 privacy_reviewed: true
 editorial_status: "publishable"
+# External published interview (KP owns the article; metadata only, original language Russian)
+subjectOf:
+  - type: "NewsArticle"
+    url: "https://www.kp.ru/daily/25798.5/2780009/"
+    headline: "Легенды и мифы Дома на набережной"
+    datePublished: "2011-12-04"
+    inLanguage: "ru"
+    author: "Larisa Kaftan"
+    publisher: "Komsomolskaya Pravda"
 cover:
   image: "/photos/tatyana-tt/garden-portrait.jpg"
   alt: "Tatyana Timofeevna Krivosheina in a light hat and dress among garden plants"

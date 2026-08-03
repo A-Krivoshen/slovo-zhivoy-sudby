@@ -40,6 +40,16 @@ translationKey: "home"
 | [Фото](/foto/) | Альбомы с подписями |
 | [О проекте](/o-proekte/) | Зачем собран архив и как мы публикуем |
 
+## С чего начать (биографии)
+
+| Человек | Одна фраза |
+| --- | --- |
+| [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/) | Автор тетради; 1926–2021 |
+| [Александр Дмитриевич (Саша)](/lyudi/aleksandr-krivoshein/) | Муж; Стальпроект, 1949–1954, премия 1989 |
+| [Тимофей Петрович](/roditeli/samsonov-timofey-petrovich/) | Отец; ВЧК, документы, альбом |
+| [Ева Константиновна](/lyudi/eva-konstantinovna-samsonova/) | Мать; рассказ «Моя мама» |
+| [Хронология](/hronologiya/) | Все вехи подряд |
+
 <p class="home-footnote">
   Материалы собраны внуком —
   <a href="https://krivoshein.site" rel="noopener" target="_blank">Алексеем Кривошеиным</a>.

@@ -28,6 +28,7 @@ translationKey: "timeline"
 | **нач. 1920-х** | Жильё в [1-м доме Советов («Метрополь»)](/mesta/metropol-moscow/); брак с Евой Константиновной | [глава](/vospominaniya/dnevnik/02-otec-brak-deti/) |
 | **1923** | Рождение сына Тимофея Тимофеевича ([дядя Тёма](/lyudi/timofey-timofeevich-samsonov/)) | [отец и мать](/roditeli/otets-i-mat/) |
 | **1926** | 02.09 — рождение [Татьяны Тимофеевны](/lyudi/tatyana-timofeevna-krivosheina/) | [о ней](/vospominaniya/o-tatyane-timofeevne/) |
+| **1926** | Рождение [А. Д. Кривошеина](/lyudi/aleksandr-krivoshein/) (Кирсанов) — будущий муж Татьяны (**Саша**) | [схема](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/) · [биография](/lyudi/aleksandr-krivoshein/) |
 | **1929** | 20.07 — статья «О Дзержинском» в «Правде» (подпись САМСОНОВ) | [документ](/dokumenty/pravda-o-dzerzhinskom-1929/) |
 
 ## 1930–1940
@@ -54,15 +55,20 @@ translationKey: "timeline"
 | **1946** | Поездка в [Крым](/mesta/crimea-family/); визит в [Севастополь](/mesta/sevastopol/) | [глава](/vospominaniya/dnevnik/17-krym-sevastopol-semya/) · [событие](/sobytiya/krym-poezdki/) |
 | **1946–1949** | Д. А. Кривошеин — председатель Крымского облисполкома | [биография](/roditeli/krivoshein-dmitriy-aleksandrovich/) |
 | **1948** | Брак Татьяны и Александра; рождение сына Дмитрия (Мити) | [Крым и семья](/vospominaniya/dnevnik/17-krym-sevastopol-semya/) · [начало семьи](/sobytiya/nachalo-semi/) |
-| **1949** | Репрессии крымского руководства; арест Александра (семья) | [Д. А. Кривошеин](/roditeli/krivoshein-dmitriy-aleksandrovich/) |
+| **2.IX.1949** | Арест [А. Д. Кривошеина](/lyudi/aleksandr-krivoshein/); ст. 58 (рукопись) / ст. 111 (отец) — конфликт | [гл. 18](/vospominaniya/dnevnik/18-ucheba-rabota-vypuskniki/) · [биография Саши](/lyudi/aleksandr-krivoshein/) |
+| **VI.1954** | Возвращение Саши; реабилитация и восстановление на работе (по отцу) | [семья и дети](/vospominaniya/dnevnik/19-semya-i-deti/) · [фото 1954](/foto/tetrad-semya-prodolzhenie/) |
 | **1955** | Смерть [Т. П. Самсонова](/roditeli/samsonov-timofey-petrovich/); похороны на Новодевичьем | [Москва семейная](/mesta/moskva-semeynaya/) |
 
 ## 1956–2021
 
 | Год | Событие | Ссылки |
 | --- | --- | --- |
+| **1957** | Рождение сына Сергея (год — публично; день не публикуем) | [гл. 19](/vospominaniya/dnevnik/19-semya-i-deti/) · [схема](/vospominaniya/dnevnik/00-oblozhka-i-rodoslovnye/) |
 | **1979** | Смерть [Д. А. Кривошеина](/roditeli/krivoshein-dmitriy-aleksandrovich/) | биография |
 | **1981** | 17.05 — смерть [Евы Константиновны](/roditeli/eva-konstantinovna/); Новодевичье | [война / поздние годы мамы](/vospominaniya/dnevnik/04-voyna-1941/) |
+| **1988** | Смерть [А. Д. Кривошеина](/lyudi/aleksandr-krivoshein/) (год по схеме; поздние годы в рукописи — отдельно) | [биография](/lyudi/aleksandr-krivoshein/) |
+| **1989** | Государственная премия СССР (посмертно; «Стальпроект», нагревательные печи) | [А. Д. Кривошеин](/lyudi/aleksandr-krivoshein/) |
+| **1991** | Смерть [Нины Васильевны](/lyudi/nina-vasilievna-krivosheina/) | [карточка](/lyudi/nina-vasilievna-krivosheina/) |
 | **2021** | 24.09 — смерть [Татьяны Тимофеевны](/lyudi/tatyana-timofeevna-krivosheina/) (95 лет) | [о ней](/vospominaniya/o-tatyane-timofeevne/) |
 
 ---

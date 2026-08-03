@@ -23,4 +23,6 @@ Periods are given only as far as sources allow: a **year** or **range**, never a
 | [Crimea trips](/en/events/crimea-trips/) | Crimea from 1946: Sevastopol, the Krivoshein family |
 | [Beginning of the family](/en/events/family-beginning/) | Marriage to **A. D. Krivoshein (Sasha)**, birth of Mitya — late 1940s |
 
+Further milestones (full table on the [timeline](/en/timeline/) and in [Sasha’s biography](/en/people/aleksandr-krivoshein/)): **2 Sep 1949** — Aleksandr’s arrest; **June 1954** — return; **1989** — USSR State Prize (posthumous).
+
 See also: [People](/en/people/) · [Places](/en/places/) · [Timeline](/en/timeline/) · [Diary](/en/memoirs/diary/) · [Letters from the front](/en/documents/letters-from-the-front/).

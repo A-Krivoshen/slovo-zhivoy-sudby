@@ -28,6 +28,7 @@ Related sections: [People](/en/people/) · [Events](/en/events/) · [Places](/en
 | **early 1920s** | Lodging in the [1st House of Soviets (Metropol)](/en/places/metropol-moscow/); marriage to Eva Konstantinovna | [chapter](/en/memoirs/diary/02-father-marriage-children/) |
 | **1923** | Birth of son Timofey Timofeevich ([Uncle Tyoma](/en/people/timofey-timofeevich-samsonov/)) | [father and mother](/en/parents/father-and-mother/) |
 | **1926** | 2 Sep — birth of [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) | [about her](/en/memoirs/about-tatyana-timofeevna/) |
+| **1926** | Birth of [A. D. Krivoshein](/en/people/aleksandr-krivoshein/) (Kirsanov) — later Tatyana’s husband (**Sasha**) | [chart](/en/memoirs/diary/00-cover-and-charts/) · [biography](/en/people/aleksandr-krivoshein/) |
 | **1929** | 20 Jul — *Pravda* article “On Dzerzhinsky” (signed SAMSONOV) | [document](/en/documents/pravda-on-dzerzhinsky-1929/) |
 
 ## 1930–1940
@@ -54,15 +55,20 @@ Related sections: [People](/en/people/) · [Events](/en/events/) · [Places](/en
 | **1946** | Journey to [Crimea](/en/places/crimea-family/); visit to [Sevastopol](/en/places/sevastopol/) | [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) · [about Tatyana](/en/memoirs/about-tatyana-timofeevna/) · [event](/en/events/crimea-trips/) |
 | **1946–1949** | D. A. Krivoshein chairs the Crimean regional executive | [biography](/en/parents/dmitry-aleksandrovich-krivoshein/) |
 | **1948** | Marriage of Tatyana and Aleksandr; birth of son Dmitry (Mitya) | [beginning of the family](/en/events/family-beginning/) |
-| **1949** | Crimean leadership repressions; arrest of Aleksandr (family) | [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) |
+| **2 Sep 1949** | Arrest of [A. D. Krivoshein](/en/people/aleksandr-krivoshein/); Art. 58 (notebook) / Art. 111 (father) — conflict | [ch. 18](/en/memoirs/diary/18-study-work-reunions/) · [Sasha’s biography](/en/people/aleksandr-krivoshein/) |
+| **Jun 1954** | Sasha’s return; rehabilitation and reinstatement (per father) | [family and children](/en/memoirs/diary/18-sons-150-161/) · [1954 photos](/en/photos/notebook-family-continued/) |
 | **1955** | Death of [T. P. Samsonov](/en/parents/timofey-petrovich-samsonov/); burial at Novodevichy | [Family Moscow](/en/places/family-moscow/) |
 
 ## 1956–2021
 
 | Year | Event | Links |
 | --- | --- | --- |
+| **1957** | Birth of son Sergey (year public; day not published) | [ch. family](/en/memoirs/diary/18-sons-150-161/) · [chart](/en/memoirs/diary/00-cover-and-charts/) |
 | **1979** | Death of [D. A. Krivoshein](/en/parents/dmitry-aleksandrovich-krivoshein/) | biography |
 | **1981** | 17 May — death of [Eva Konstantinovna](/en/parents/eva-konstantinovna/); Novodevichy | [war / mother’s later years](/en/memoirs/diary/04-war-1941/) |
+| **1988** | Death of [A. D. Krivoshein](/en/people/aleksandr-krivoshein/) (year on chart; later notebook years noted separately) | [biography](/en/people/aleksandr-krivoshein/) |
+| **1989** | USSR State Prize (posthumous; Stalproekt; reheating furnaces) | [A. D. Krivoshein](/en/people/aleksandr-krivoshein/) |
+| **1991** | Death of [Nina Vasilievna](/en/people/nina-vasilievna-krivosheina/) | [person page](/en/people/nina-vasilievna-krivosheina/) |
 | **2021** | 24 Sep — death of [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) (age 95) | [about her](/en/memoirs/about-tatyana-timofeevna/) |
 
 ---

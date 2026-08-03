@@ -23,8 +23,11 @@ Each page says who the person is, how they relate to the family, and where to re
 | [Eva Konstantinovna Samsonova](/en/people/eva-konstantinovna-samsonova/) | Mother; daughter’s account and son’s front letters |
 | [Timofey Timofeevich Samsonov (Tyoma)](/en/people/timofey-timofeevich-samsonov/) | Brother; Timosha letters, Stalingrad medal — **not** the father |
 | [Evgenia (Genya) Samsonova](/en/people/genya-samsonova/) | Elder sister; notebook chapters about her |
-| [Aleksandr Dmitrievich Krivoshein (Sasha)](/en/people/aleksandr-krivoshein/) | **Husband** of Tatyana Timofeevna (1926–1988); **Sasha** in the notebook; youth, Crimea, family |
+| [Aleksandr Dmitrievich Krivoshein (Sasha)](/en/people/aleksandr-krivoshein/) | **Husband** (1926–1988); Stalproekt; arrest 2 Sep 1949; return 1954; USSR State Prize 1989 |
 | [Nina Vasilievna Krivosheina](/en/people/nina-vasilievna-krivosheina/) | **Mother-in-law** (1907–1991); wife of D. A.; mother of Sasha; chart portrait |
+
+**Full biographies** (not link lists only): Tatyana, Aleksandr, T. P. (under [Parents](/en/parents/timofey-petrovich-samsonov/)), Eva, Tyoma, Genya, Nina, [D. A.](/en/parents/dmitry-aleksandrovich-krivoshein/).  
+Years in order: [Timeline](/en/timeline/).
 
 Longer parent bios: [Parents](/en/parents/) · [Father and mother](/en/parents/father-and-mother/) · [D. A. Krivoshein (father-in-law)](/en/parents/dmitry-aleksandrovich-krivoshein/).  
 Archive overview: [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/).
@@ -48,6 +51,10 @@ See also: [Events](/en/events/) · [Timeline](/en/timeline/) · [Places](/en/pla
 
 {{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="Tatyana Timofeevna, 2019." >}}
 
+{{< figure src="/photos/aleksandr-krivoshein/portrait.jpg" caption="Aleksandr Dmitrievich (Sasha)." >}}
+
 {{< figure src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" caption="Timofey Petrovich." >}}
 
 {{< figure src="/photos/archive-b02/b02-mp014-ph01.jpg" caption="Timofey Timofeevich (Tyoma) after the war." >}}
+
+{{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Eva Konstantinovna." >}}

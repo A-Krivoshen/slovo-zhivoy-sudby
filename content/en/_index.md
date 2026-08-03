@@ -40,6 +40,16 @@ This site is not a news feed — it is a **map of family memory**. You can read 
 | [Photos](/en/photos/) | Albums with captions |
 | [About](/en/about/) | Why the archive exists and how we publish |
 
+## Where to start (biographies)
+
+| Person | In one line |
+| --- | --- |
+| [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/) | Notebook author; 1926–2021 |
+| [Aleksandr Dmitrievich (Sasha)](/en/people/aleksandr-krivoshein/) | Husband; Stalproekt, 1949–1954, State Prize 1989 |
+| [Timofey Petrovich](/en/parents/timofey-petrovich-samsonov/) | Father; Cheka circle, documents, album |
+| [Eva Konstantinovna](/en/people/eva-konstantinovna-samsonova/) | Mother; “My mother” chapter |
+| [Timeline](/en/timeline/) | All milestones in order |
+
 <p class="home-footnote">
   Gathered by her grandson
   <a href="https://krivoshein.site" rel="noopener" target="_blank">Alexey Krivoshein</a>.

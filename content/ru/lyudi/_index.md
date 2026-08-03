@@ -19,8 +19,11 @@ translationKey: "people"
 | [Ева Константиновна Самсонова](/lyudi/eva-konstantinovna-samsonova/) | Мать; рассказ дочери и письма сына с фронта |
 | [Самсонов Тимофей Тимофеевич (Тёма)](/lyudi/timofey-timofeevich-samsonov/) | Брат; письма «Тимоша», медаль за Сталинград — **не** отец |
 | [Самсонова Евгения (Геня)](/lyudi/genya-samsonova/) | Старшая сестра; главы тетради о ней |
-| [Кривошеин Александр Дмитриевич (Саша)](/lyudi/aleksandr-krivoshein/) | **Муж** Татьяны Тимофеевны (1926–1988); в тетради — **Саша**; юность, Крым, семья |
+| [Кривошеин Александр Дмитриевич (Саша)](/lyudi/aleksandr-krivoshein/) | **Муж** (1926–1988); Стальпроект; арест 2.IX.1949; возвращение 1954; Госпремия СССР 1989 |
 | [Кривошеина Нина Васильевна](/lyudi/nina-vasilievna-krivosheina/) | **Свекровь** (1907–1991); жена Д. А.; мать Саши; портрет со схемы тетради |
+
+**Полные биографии** (не только список ссылок): Татьяна, Александр, Т. П. (в [Родителях](/roditeli/samsonov-timofey-petrovich/)), Ева, Тёма, Геня, Нина, [Д. А.](/roditeli/krivoshein-dmitriy-aleksandrovich/).  
+Вехи по годам: [Хронология](/hronologiya/).
 
 Подробнее о родителях: [Родители](/roditeli/) · [Отец и мать](/roditeli/otets-i-mat/) · [Д. А. Кривошеин (свёкор)](/roditeli/krivoshein-dmitriy-aleksandrovich/).  
 Очерк об авторе архива: [О Татьяне Тимофеевне](/vospominaniya/o-tatyane-timofeevne/).
@@ -43,6 +46,8 @@ translationKey: "people"
 ## Портреты (с чего начать)
 
 {{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="Татьяна Тимофеевна, 2019." >}}
+
+{{< figure src="/photos/aleksandr-krivoshein/portrait.jpg" caption="Александр Дмитриевич (Саша)." >}}
 
 {{< figure src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" caption="Тимофей Петрович." >}}
 

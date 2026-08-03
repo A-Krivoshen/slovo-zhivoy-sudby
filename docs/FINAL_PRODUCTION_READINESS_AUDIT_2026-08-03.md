@@ -252,13 +252,13 @@ Rationale:
 ## 18. Shutdown status
 
 - Interactive `sudo -v` unavailable (no TTY).  
-- `sudo -n` works → scheduled: `shutdown -h +1` after final commit/push/Pages if required.  
+- `sudo -n` works → `shutdown -h +1 "SZHS final audit finished"` executed after this report push.  
 
 ---
 
 ## Commits from this audit
 
-See git log after push (figure caption fixes + this report).
+- `27a8de0` — Final production readiness audit and figure caption a11y fixes  
 
 ---
 

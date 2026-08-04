@@ -349,7 +349,7 @@ input[type="text"] {
 
 /* ---- Desktop ---- */
 @media (min-width: 1024px) {
-  .home-nav-grid {
+  .home-nav-grid:not(.home-nav-grid--start) {
     grid-template-columns: repeat(3, 1fr);
   }
 

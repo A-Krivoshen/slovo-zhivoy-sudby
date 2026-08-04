@@ -1,0 +1,31 @@
+{{- define "main" }}
+{{- $lang := site.Language.Lang -}}
+<section class="not-found-page" aria-labelledby="not-found-title">
+  <p class="not-found-kicker">{{ if eq $lang "en" }}Page not found{{ else }}Страница не найдена{{ end }}</p>
+  <h1 id="not-found-title" class="not-found-title">404</h1>
+  <p class="not-found-lead">
+    {{- if eq $lang "en" -}}
+    This address is not in the archive. The page may have moved, or the link is outdated.
+    {{- else -}}
+    Такого адреса в архиве нет. Страница могла переехать, или ссылка устарела.
+    {{- end -}}
+  </p>
+  <nav class="not-found-nav" aria-label="{{ if eq $lang "en" }}Useful links{{ else }}Полезные ссылки{{ end }}">
+    <a class="not-found-link not-found-link--primary" href="{{ "" | absLangURL }}">
+      {{- if eq $lang "en" -}}Home{{- else -}}На главную{{- end -}}
+    </a>
+    <a class="not-found-link" href="{{ "search/" | relLangURL }}">
+      {{- if eq $lang "en" -}}Search{{- else -}}Поиск{{- end -}}
+    </a>
+    <a class="not-found-link" href="{{ if eq $lang "en" }}{{ "memoirs/" | relLangURL }}{{ else }}{{ "vospominaniya/" | relLangURL }}{{ end }}">
+      {{- if eq $lang "en" -}}Memoirs{{- else -}}Воспоминания{{- end -}}
+    </a>
+    <a class="not-found-link" href="{{ if eq $lang "en" }}{{ "people/" | relLangURL }}{{ else }}{{ "lyudi/" | relLangURL }}{{ end }}">
+      {{- if eq $lang "en" -}}People{{- else -}}Люди{{- end -}}
+    </a>
+    <a class="not-found-link" href="{{ if eq $lang "en" }}{{ "photos/" | relLangURL }}{{ else }}{{ "foto/" | relLangURL }}{{ end }}">
+      {{- if eq $lang "en" -}}Photos{{- else -}}Фото{{- end -}}
+    </a>
+  </nav>
+</section>
+{{- end -}}

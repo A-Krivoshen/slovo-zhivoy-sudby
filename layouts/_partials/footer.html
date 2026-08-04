@@ -23,6 +23,20 @@
         <a href="https://krivoshein.site" rel="noopener" target="_blank">Кривошеин Алексей</a>
         {{- end -}}
     </span>
+    <span class="footer-legal" aria-label="{{ if eq site.Language.Lang "en" }}Legal{{ else }}Правовое{{ end }}">
+        {{- print " · " -}}
+        {{- if eq site.Language.Lang "en" -}}
+        <a href="{{ "privacy/" | relLangURL }}">Privacy</a>
+        {{- else -}}
+        <a href="{{ "konfidencialnost/" | relLangURL }}">Конфиденциальность</a>
+        {{- end -}}
+        {{- print " · " -}}
+        {{- if eq site.Language.Lang "en" -}}
+        <a href="{{ "about/" | relLangURL }}">About</a>
+        {{- else -}}
+        <a href="{{ "o-proekte/" | relLangURL }}">О проекте</a>
+        {{- end -}}
+    </span>
     <span class="footer-meta-links" aria-label="{{ if eq site.Language.Lang "en" }}Machine-readable{{ else }}Машинные карты{{ end }}">
         {{- print " · " -}}
         <a href="{{ "sitemap.xml" | absURL }}">Sitemap</a>

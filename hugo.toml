@@ -81,8 +81,8 @@ timeZone = 'Europe/Moscow'
       favicon32x32 = 'favicon-32x32.png'
       apple_touch_icon = 'apple-touch-icon.png'
       safari_pinned_tab = 'safari-pinned-tab.svg'
-      theme_color = '#1a1a1a'
-      msapplication_TileColor = '#1a1a1a'
+      theme_color = '#161412'
+      msapplication_TileColor = '#161412'
 
     [languages.ru.params.label]
       text = 'Слово Живой Судьбы'
@@ -208,8 +208,8 @@ timeZone = 'Europe/Moscow'
       favicon32x32 = 'favicon-32x32.png'
       apple_touch_icon = 'apple-touch-icon.png'
       safari_pinned_tab = 'safari-pinned-tab.svg'
-      theme_color = '#1a1a1a'
-      msapplication_TileColor = '#1a1a1a'
+      theme_color = '#161412'
+      msapplication_TileColor = '#161412'
 
     [languages.en.params.label]
       text = 'Word of a Living Fate'

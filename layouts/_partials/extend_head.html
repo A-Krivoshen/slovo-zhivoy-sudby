@@ -1,11 +1,18 @@
 {{- /* Prefer notch-safe layout on modern phones (iOS/Android) */ -}}
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
-<meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)">
-<meta name="theme-color" content="#f4f1ea" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#161412" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f3efe6" media="(prefers-color-scheme: light)">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="format-detection" content="telephone=no">
 <meta name="referrer" content="strict-origin-when-cross-origin">
+
+{{- /* Self-hosted Source Serif 4 + Source Sans 3 (Cyrillic + Latin) */ -}}
+<link rel="stylesheet" href="{{ "fonts/fonts.css" | absURL }}">
+<link rel="preload" href="{{ "fonts/woff2/source-serif-4-cyrillic-600-normal.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ "fonts/woff2/source-sans-3-cyrillic-400-normal.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ "fonts/woff2/source-serif-4-latin-600-normal.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ "fonts/woff2/source-sans-3-latin-400-normal.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
 
 {{- /* PWA manifest, discovery for SEO + AI agents */ -}}
 <link rel="manifest" href="{{ "site.webmanifest" | absURL }}">

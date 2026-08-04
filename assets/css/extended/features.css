@@ -6,10 +6,46 @@
 .reading-toolbar {
   display: flex;
   justify-content: flex-end;
+  align-items: center;
+  gap: 0.45rem;
   max-width: calc(var(--main-width, 720px) + var(--gap, 1.5rem) * 2);
   margin: 0 auto 0.35rem;
   padding: 0 var(--gap, 1rem);
 }
+
+.reading-font-size {
+  display: inline-flex;
+  gap: 0.2rem;
+}
+
+.reading-font-btn {
+  font-family: var(--font-ui, inherit);
+  font-size: 0.82rem;
+  font-weight: 700;
+  min-width: 2.25rem;
+  min-height: 2.25rem;
+  padding: 0.2rem 0.4rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-control, 3px);
+  background: var(--entry);
+  color: var(--secondary);
+  cursor: pointer;
+}
+
+.reading-font-btn:hover {
+  border-color: var(--accent);
+  color: var(--primary);
+}
+
+/* Font scale steps (A− … A+++) */
+html[data-read-font="-1"] .post-content { font-size: 0.98rem; }
+html[data-read-font="1"] .post-content { font-size: 1.12rem; line-height: 1.78; }
+html[data-read-font="2"] .post-content { font-size: 1.2rem; line-height: 1.8; }
+html[data-read-font="3"] .post-content { font-size: 1.28rem; line-height: 1.82; }
+
+html[data-read-font="1"] body.reading-mode .post-content { font-size: 1.18rem; }
+html[data-read-font="2"] body.reading-mode .post-content { font-size: 1.26rem; }
+html[data-read-font="3"] body.reading-mode .post-content { font-size: 1.34rem; }
 
 .reading-mode-toggle {
   font-family: var(--font-ui, inherit);

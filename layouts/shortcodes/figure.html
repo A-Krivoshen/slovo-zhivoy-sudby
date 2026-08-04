@@ -10,8 +10,29 @@
     {{- end }}
     {{- $loading := .Get "loading" | default "lazy" -}}
     {{- $decoding := .Get "decoding" | default "async" -}}
+    {{- $src := .Get "src" -}}
+    {{- /* Optional auto-srcset if -thumb / -md siblings exist under static/ */ -}}
+    {{- $srcset := .Get "srcset" -}}
+    {{- if and (not $srcset) (hasPrefix $src "/") -}}
+      {{- $base := strings.TrimSuffix (path.Ext $src) $src -}}
+      {{- $ext := path.Ext $src -}}
+      {{- $thumbRel := printf "static%s-thumb%s" $base $ext -}}
+      {{- $mdRel := printf "static%s-md%s" $base $ext -}}
+      {{- $parts := slice -}}
+      {{- if fileExists $thumbRel -}}
+        {{- $parts = $parts | append (printf "%s-thumb%s 480w" $base $ext) -}}
+      {{- end -}}
+      {{- if fileExists $mdRel -}}
+        {{- $parts = $parts | append (printf "%s-md%s 960w" $base $ext) -}}
+      {{- end -}}
+      {{- $parts = $parts | append (printf "%s 1600w" $src) -}}
+      {{- if gt (len $parts) 1 -}}
+        {{- $srcset = delimit $parts ", " -}}
+      {{- end -}}
+    {{- end -}}
     <img loading="{{ $loading }}" decoding="{{ $decoding }}"
-         src="{{ .Get "src" }}{{- if eq (.Get "align") "center" }}#center{{- end }}"
+         src="{{ $src }}{{- if eq (.Get "align") "center" }}#center{{- end }}"
+         {{- with $srcset }} srcset="{{ . }}" sizes="{{ $.Get "sizes" | default "(max-width: 720px) 100vw, 720px" }}"{{ end -}}
          {{- if or (.Get "alt") (.Get "caption") }}
          alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify | plainify }}{{ end }}"
          {{- else -}}

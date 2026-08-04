@@ -135,19 +135,39 @@
     window.addEventListener("scroll", onScroll, { passive: true });
     onScroll();
 
-    /* Reading mode */
+    /* Reading mode + font size */
     var readBtn = document.getElementById("reading-mode-toggle");
+    var fontUp = document.getElementById("reading-font-up");
+    var fontDown = document.getElementById("reading-font-down");
+    var FONT_KEY = "szhs-reading-font";
+    var MODE_KEY = "szhs-reading-mode";
+    function applyFontSize(step) {
+        step = Math.max(-1, Math.min(3, step | 0));
+        document.documentElement.dataset.readFont = String(step);
+        try { localStorage.setItem(FONT_KEY, String(step)); } catch (e) {}
+    }
+    try {
+        var savedFont = parseInt(localStorage.getItem(FONT_KEY) || "0", 10);
+        if (!isNaN(savedFont)) applyFontSize(savedFont);
+    } catch (e) {}
+    if (fontUp) fontUp.addEventListener("click", function () {
+        var cur = parseInt(document.documentElement.dataset.readFont || "0", 10) || 0;
+        applyFontSize(cur + 1);
+    });
+    if (fontDown) fontDown.addEventListener("click", function () {
+        var cur = parseInt(document.documentElement.dataset.readFont || "0", 10) || 0;
+        applyFontSize(cur - 1);
+    });
     if (readBtn) {
-        var key = "szhs-reading-mode";
         function applyReading(on) {
             document.body.classList.toggle("reading-mode", on);
             readBtn.setAttribute("aria-pressed", on ? "true" : "false");
             try {
-                if (on) localStorage.setItem(key, "1");
-                else localStorage.removeItem(key);
+                if (on) localStorage.setItem(MODE_KEY, "1");
+                else localStorage.removeItem(MODE_KEY);
             } catch (e) {}
         }
-        applyReading(localStorage.getItem(key) === "1");
+        applyReading(localStorage.getItem(MODE_KEY) === "1");
         readBtn.addEventListener("click", function () {
             applyReading(!document.body.classList.contains("reading-mode"));
         });

@@ -3,6 +3,10 @@
 {{- $inDiary := or (in .RelPermalink "/dnevnik/") (in .RelPermalink "/diary/") -}}
 
 <div class="reading-toolbar" role="toolbar" aria-label="{{ if $isEn }}Reading options{{ else }}Параметры чтения{{ end }}">
+  <div class="reading-font-size" role="group" aria-label="{{ if $isEn }}Font size{{ else }}Размер шрифта{{ end }}">
+    <button type="button" class="reading-font-btn" id="reading-font-down" title="A−" aria-label="{{ if $isEn }}Smaller text{{ else }}Мельче{{ end }}">A−</button>
+    <button type="button" class="reading-font-btn" id="reading-font-up" title="A+" aria-label="{{ if $isEn }}Larger text{{ else }}Крупнее{{ end }}">A+</button>
+  </div>
   <button type="button" class="reading-mode-toggle" id="reading-mode-toggle"
     aria-pressed="false"
     title="{{ if $isEn }}Larger text, quieter chrome{{ else }}Крупнее текст, меньше отвлечений{{ end }}">

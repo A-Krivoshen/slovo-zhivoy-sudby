@@ -40,9 +40,10 @@ weight: 60
 
 ## Фото
 
+<div class="person-gallery">
 {{< figure src="/photos/dnevnik-tt/str-128.jpg" caption="Письмо к Тане, 20.04.1943 — первая страница (Миша Фриоленко)." >}}
-
 {{< figure src="/photos/dnevnik-tt/str-129.jpg" caption="Продолжение письма; подпись Миши Фриоленко." >}}
+</div>
 
 [Письмо 128–129](/dokumenty/pisma-s-fronta/pismo-128-129-tane-ot-tovarishcha/)
 

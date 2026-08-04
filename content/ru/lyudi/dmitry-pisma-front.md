@@ -50,9 +50,10 @@ weight: 50
 
 ## Фото
 
+<div class="person-gallery">
 {{< figure src="/photos/dnevnik-tt/str-103.jpg" caption="Письмо с подписью «Дмитрий», 11.08.1943. Скан листа." >}}
-
 {{< figure src="/photos/dnevnik-tt/str-104.jpg" caption="Письмо с подписью «Дмитрий», 28.VII.44 (чтение). Повреждённый лист." >}}
+</div>
 
 [Письмо 103](/dokumenty/pisma-s-fronta/pismo-103-1943/) · [Письмо 104](/dokumenty/pisma-s-fronta/pismo-104/)
 

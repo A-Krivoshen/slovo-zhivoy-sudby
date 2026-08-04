@@ -43,11 +43,11 @@ weight: 70
 
 ## Фото
 
+<div class="person-gallery">
 {{< figure src="/photos/dnevnik-tt/str-132.jpg" caption="Письмо Геннадия из госпиталя, 18.11.1943." >}}
-
 {{< figure src="/photos/dnevnik-tt/str-133.jpg" caption="Письмо Геннадия, 29.11.1943." >}}
-
 {{< figure src="/photos/dnevnik-tt/str-131.jpg" caption="Короткое «Танюша!» — Геннадий (год уточняется)." >}}
+</div>
 
 [Коллекция писем](/dokumenty/pisma-s-fronta/)
 

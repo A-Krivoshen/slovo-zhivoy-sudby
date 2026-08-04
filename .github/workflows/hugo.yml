@@ -74,6 +74,10 @@ jobs:
           check 404.html
           check en/index.html
           check en/people/index.html
+          check en/people/tatyana-timofeevna-krivosheina/index.html
+          check en/memoirs/diary/01-my-mother/index.html
+          check en/start-here/index.html
+          check en/photos/index.html
           # design tokens / nav present
           grep -q 'home-hero\|home-nav' public/index.html
           grep -q 'entity-card' public/lyudi/index.html

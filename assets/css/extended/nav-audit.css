@@ -76,12 +76,19 @@ body {
 .logo-text {
   font-family: var(--font-display);
   font-weight: 600;
-  font-size: clamp(0.95rem, 2.2vw, 1.2rem);
+  font-size: clamp(0.88rem, 2.2vw, 1.2rem);
   letter-spacing: -0.015em;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: min(42vw, 16rem);
+  max-width: min(48vw, 16rem);
+}
+
+@media (max-width: 360px) {
+  .logo-text {
+    max-width: min(46vw, 11rem);
+    font-size: 0.88rem;
+  }
 }
 
 .logo-switches {
@@ -327,18 +334,36 @@ body {
 
   .menu a {
     width: 100%;
-    min-height: 2.75rem;
-    padding: 0.55rem 0.75rem;
+    min-height: 2.75rem; /* ≥44px touch target */
+    padding: 0.65rem 0.85rem;
     border: 1px solid var(--border);
     border-radius: var(--radius-card, 4px);
     background: var(--entry);
     font-size: 0.95rem;
+    box-sizing: border-box;
+  }
+
+  .menu--primary > li > a,
+  .menu--secondary > li > a {
+    min-height: 2.75rem;
+    line-height: 1.3;
   }
 
   .menu a.is-active {
     border-color: var(--accent);
     background: var(--accent-soft);
     text-decoration: none;
+  }
+
+  /* Desktop “More” must not leave zero-height hit targets in the a11y tree on mobile */
+  .menu-more--desktop {
+    display: none !important;
+    visibility: hidden !important;
+    position: absolute !important;
+    width: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+    pointer-events: none !important;
   }
 
   .nav-backdrop:not([hidden]) {

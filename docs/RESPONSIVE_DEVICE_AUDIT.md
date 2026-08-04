@@ -1,9 +1,14 @@
 # Responsive / multi-device audit — сжс.рф
 
-**Date:** 2026-08-01  
+**Date:** 2026-08-04 (re-audit after nav redesign)  
 **Method:** local Hugo + Chrome headless (puppeteer-core), CSS-pixel viewports  
-**Result:** **276 / 276 checks OK** — horizontal overflow = 0 on all combinations  
-**Machine report:** `work/responsive_audit/report.json`, screenshots in `work/responsive_audit/shots/`
+**Result:** **154 / 154 checks OK** — overflow_x = 0; drawer touch targets ≥40px; closed header ≤93px phones / ≤94px tablets  
+**Machine report:** `work/responsive_audit/report-2026-08-04.json`  
+**Prior full matrix (2026-08-01):** 276/276 OK — `work/responsive_audit/report.json`
+
+### 2026-08-04 scope
+22 viewports (phones, foldables, tablets portrait/landscape) × 7 pages (home, chapter, people, photos, memoirs, search, EN home).  
+Checks: horizontal overflow, header height budget, hamburger presence under 900px, drawer open/close, visible menu link hit areas, image overflow, main content present.
 
 ---
 

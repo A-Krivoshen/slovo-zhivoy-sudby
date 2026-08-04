@@ -39,6 +39,8 @@ cover:
 
 {{< figure src="/photos/archive-b02/b02-mp072-ph02.jpg" caption="By the Moskva River, summer 1954." >}}
 
+{{< figure src="/photos/archive-b02/b02-mp072-ph03.jpg" caption="After Sasha’s return — family frame, 1954." >}}
+
 {{< figure src="/photos/archive-b02/b02-mp075-ph03.jpg" caption="Kosino, 1954. Mitya and Sasha." >}}
 
 </div>

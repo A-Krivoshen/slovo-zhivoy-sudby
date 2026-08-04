@@ -17,7 +17,7 @@ translationKey: "home"
     <p class="home-hero-meta">2 September 1926 — 24 September 2021 · manuscript “Our genealogy: the Samsonovs”</p>
   </div>
   <figure class="home-hero-photo">
-    <img src="/photos/tatyana-tt/2019-home-last-year.jpg" alt="Tatyana Timofeevna at home, 2019" width="400" height="711" loading="eager">
+    <img src="/photos/tatyana-tt/2019-home-last-year.jpg" alt="Tatyana Timofeevna at home, 2019" width="400" height="711" loading="eager" fetchpriority="high" decoding="async">
     <figcaption>Tatyana Timofeevna, 2019</figcaption>
   </figure>
 </div>

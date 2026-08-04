@@ -264,10 +264,7 @@ input[type="text"] {
     bottom: max(4.5rem, calc(env(safe-area-inset-bottom) + 3.5rem));
   }
 
-  /* Floor ads leave room */
-  body {
-    padding-bottom: env(safe-area-inset-bottom, 0);
-  }
+  /* Floor ads: keep space; do not zero out body padding from nav-audit.css */
 
   /* Embedded media */
   .post-content iframe,

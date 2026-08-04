@@ -17,20 +17,75 @@ Each page says who the person is, how they relate to the family, and where to re
 ## Family
 
 <ul class="entity-card-grid">
-  <li><a class="entity-card" href="/en/people/tatyana-timofeevna-krivosheina/"><span class="entity-card__name">Tatyana Timofeevna Krivosheina</span><span class="entity-card__desc">Notebook author; centre of the archive (1926–2021)</span></a></li>
-  <li><a class="entity-card" href="/en/people/timofey-petrovich-samsonov/"><span class="entity-card__name">Timofey Petrovich Samsonov</span><span class="entity-card__desc">Tatyana’s father; biography, papers, photos</span></a></li>
-  <li><a class="entity-card" href="/en/people/eva-konstantinovna-samsonova/"><span class="entity-card__name">Eva Konstantinovna Samsonova</span><span class="entity-card__desc">Mother; daughter’s account and son’s front letters</span></a></li>
-  <li><a class="entity-card" href="/en/people/timofey-timofeevich-samsonov/"><span class="entity-card__name">Timofey Timofeevich Samsonov (Tyoma)</span><span class="entity-card__desc">Brother; Timosha letters, Stalingrad medal — not the father</span></a></li>
-  <li><a class="entity-card" href="/en/people/genya-samsonova/"><span class="entity-card__name">Evgenia (Genya) Samsonova</span><span class="entity-card__desc">Elder sister; notebook chapters about her</span></a></li>
-  <li><a class="entity-card" href="/en/people/aleksandr-krivoshein/"><span class="entity-card__name">Aleksandr Dmitrievich Krivoshein (Sasha)</span><span class="entity-card__desc">Husband (1926–1988); Stalproekt; arrest 1949; return 1954; State Prize 1989</span></a></li>
-  <li><a class="entity-card" href="/en/people/nina-vasilievna-krivosheina/"><span class="entity-card__name">Nina Vasilievna Krivosheina</span><span class="entity-card__desc">Mother-in-law (1907–1991); mother of Sasha</span></a></li>
+  <li>
+    <a class="entity-card entity-card--photo" href="/en/people/tatyana-timofeevna-krivosheina/">
+      <img class="entity-card__photo" src="/photos/tatyana-tt/garden-portrait-thumb.jpg" alt="" width="96" height="120" loading="lazy">
+      <span class="entity-card__body">
+        <span class="entity-card__name">Tatyana Timofeevna Krivosheina</span>
+        <span class="entity-card__desc">Notebook author; centre of the archive (1926–2021)</span>
+      </span>
+    </a>
+  </li>
+  <li>
+    <a class="entity-card entity-card--photo" href="/en/people/timofey-petrovich-samsonov/">
+      <img class="entity-card__photo" src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" alt="" width="96" height="120" loading="lazy">
+      <span class="entity-card__body">
+        <span class="entity-card__name">Timofey Petrovich Samsonov</span>
+        <span class="entity-card__desc">Tatyana’s father; biography, papers, photos</span>
+      </span>
+    </a>
+  </li>
+  <li>
+    <a class="entity-card entity-card--photo" href="/en/people/eva-konstantinovna-samsonova/">
+      <img class="entity-card__photo" src="/photos/eva-konstantinovna/eva-portrait.jpg" alt="" width="96" height="120" loading="lazy">
+      <span class="entity-card__body">
+        <span class="entity-card__name">Eva Konstantinovna Samsonova</span>
+        <span class="entity-card__desc">Mother; daughter’s account and son’s front letters</span>
+      </span>
+    </a>
+  </li>
+  <li>
+    <a class="entity-card entity-card--photo" href="/en/people/timofey-timofeevich-samsonov/">
+      <img class="entity-card__photo" src="/photos/archive-b02/b02-mp014-ph01-thumb.jpg" alt="" width="96" height="120" loading="lazy">
+      <span class="entity-card__body">
+        <span class="entity-card__name">Timofey Timofeevich Samsonov (Tyoma)</span>
+        <span class="entity-card__desc">Brother; Timosha letters, Stalingrad medal — not the father</span>
+      </span>
+    </a>
+  </li>
+  <li>
+    <a class="entity-card entity-card--photo" href="/en/people/genya-samsonova/">
+      <img class="entity-card__photo" src="/photos/genya-samsonova/chart-portrait-thumb.jpg" alt="" width="96" height="120" loading="lazy">
+      <span class="entity-card__body">
+        <span class="entity-card__name">Evgenia (Genya) Samsonova</span>
+        <span class="entity-card__desc">Elder sister; notebook chapters about her</span>
+      </span>
+    </a>
+  </li>
+  <li>
+    <a class="entity-card entity-card--photo" href="/en/people/aleksandr-krivoshein/">
+      <img class="entity-card__photo" src="/photos/aleksandr-krivoshein/portrait-thumb.jpg" alt="" width="96" height="120" loading="lazy">
+      <span class="entity-card__body">
+        <span class="entity-card__name">Aleksandr Dmitrievich Krivoshein (Sasha)</span>
+        <span class="entity-card__desc">Husband (1926–1988); Stalproekt; arrest 1949; return 1954; State Prize 1989</span>
+      </span>
+    </a>
+  </li>
+  <li>
+    <a class="entity-card entity-card--photo" href="/en/people/nina-vasilievna-krivosheina/">
+      <img class="entity-card__photo" src="/photos/nina-vasilievna-krivosheina/portrait-thumb.jpg" alt="" width="96" height="120" loading="lazy">
+      <span class="entity-card__body">
+        <span class="entity-card__name">Nina Vasilievna Krivosheina</span>
+        <span class="entity-card__desc">Mother-in-law (1907–1991); mother of Sasha</span>
+      </span>
+    </a>
+  </li>
 </ul>
 
-**Full biographies** (not link lists only): Tatyana, Aleksandr, T. P. (under [Parents](/en/parents/timofey-petrovich-samsonov/)), Eva, Tyoma, Genya, Nina, [D. A.](/en/parents/dmitry-aleksandrovich-krivoshein/).  
+**Full biographies:** Tatyana, Aleksandr, T. P. (under [Parents](/en/parents/timofey-petrovich-samsonov/)), Eva, Tyoma, Genya, Nina, [D. A.](/en/parents/dmitry-aleksandrovich-krivoshein/).  
 Years in order: [Timeline](/en/timeline/).
 
-Longer parent bios: [Parents](/en/parents/) · [Father and mother](/en/parents/father-and-mother/) · [D. A. Krivoshein (father-in-law)](/en/parents/dmitry-aleksandrovich-krivoshein/).  
-Archive overview: [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/).
+Related: [Parents](/en/parents/) · [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevna/).
 
 ## Wartime letter writers
 
@@ -42,17 +97,7 @@ Archive overview: [About Tatyana Timofeevna](/en/memoirs/about-tatyana-timofeevn
 
 ## Related documents
 
-- **[Letters from the front](/en/documents/letters-from-the-front/)** — Timosha, comrades, correspondence with Tanya  
-- **[Medal “For the Defence of Stalingrad” — T. T.](/en/documents/stalingrad-defense-medal-samsonov-tt/)** — brother Tyoma, not the father  
+- **[Letters from the front](/en/documents/letters-from-the-front/)**  
+- **[Medal “For the Defence of Stalingrad” — T. T.](/en/documents/stalingrad-defense-medal-samsonov-tt/)**  
 
 See also: [Events](/en/events/) · [Timeline](/en/timeline/) · [Places](/en/places/) · [Diary](/en/memoirs/diary/).
-
-## Portraits (where to start)
-
-<div class="album-grid">
-{{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="Tatyana Timofeevna, 2019." >}}
-{{< figure src="/photos/aleksandr-krivoshein/portrait.jpg" caption="Aleksandr Dmitrievich (Sasha)." >}}
-{{< figure src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" caption="Timofey Petrovich." >}}
-{{< figure src="/photos/archive-b02/b02-mp014-ph01.jpg" caption="Timofey Timofeevich (Tyoma) after the war." >}}
-{{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Eva Konstantinovna." >}}
-</div>

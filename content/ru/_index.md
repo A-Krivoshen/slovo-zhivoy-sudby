@@ -17,7 +17,7 @@ translationKey: "home"
     <p class="home-hero-meta">2.09.1926 — 24.09.2021 · рукопись «Наша родословная: Самсоновы»</p>
   </div>
   <figure class="home-hero-photo">
-    <img src="/photos/tatyana-tt/2019-home-last-year.jpg" alt="Татьяна Тимофеевна дома, 2019" width="400" height="711" loading="eager">
+    <img src="/photos/tatyana-tt/2019-home-last-year.jpg" alt="Татьяна Тимофеевна дома, 2019" width="400" height="711" loading="eager" fetchpriority="high" decoding="async">
     <figcaption>Татьяна Тимофеевна, 2019</figcaption>
   </figure>
 </div>

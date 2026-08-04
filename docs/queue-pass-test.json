@@ -1,0 +1,104 @@
+{
+  "issues": [],
+  "checks": {
+    "http": [
+      {
+        "u": "/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "u": "/lyudi/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "u": "/hronologiya/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "u": "/vospominaniya/dnevnik/01-moya-mama/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "u": "/foto/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "u": "/search/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "u": "/en/people/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "u": "/en/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "u": "/nope-404-xyz",
+        "status": 404,
+        "ok": true
+      }
+    ],
+    "people": {
+      "photoCards": 7,
+      "photos": 7,
+      "loaded": 7
+    },
+    "enPeoplePhotos": 7,
+    "title404": "Страница не найдена | Слово Живой Судьбы",
+    "home": {
+      "preload": true,
+      "heroFetch": "high",
+      "bodyPad": "80px",
+      "primary": [
+        "Воспоминания",
+        "Люди",
+        "Родители",
+        "Фото",
+        "Хронология",
+        "Поиск"
+      ]
+    },
+    "dropCap": {
+      "fontSize": "52.7px",
+      "float": "left"
+    },
+    "timeline": {
+      "color": "rgb(122, 101, 72)",
+      "borderLeft": "1px",
+      "fontWeight": "600"
+    },
+    "tablet": {
+      "toggle": "none",
+      "menuDisplay": "flex",
+      "more": true
+    },
+    "phone": {
+      "toggle": "flex",
+      "headerH": 92,
+      "overflow": false
+    },
+    "postNav": true,
+    "search": {
+      "ok": true,
+      "results": 63,
+      "disabled": false
+    },
+    "responsiveSample": {
+      "respFail": 0
+    }
+  },
+  "summary": {
+    "fail": 0,
+    "ok": true
+  }
+}

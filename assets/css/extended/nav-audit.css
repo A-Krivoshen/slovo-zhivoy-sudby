@@ -7,9 +7,16 @@ body.list {
   background: var(--theme);
 }
 
-/* Room for Yandex floor ads */
-body {
-  padding-bottom: max(4.5rem, calc(env(safe-area-inset-bottom, 0px) + 3.5rem));
+/* Room for Yandex floor ads (beats responsive.css safe-area-only padding) */
+body,
+body.list {
+  padding-bottom: max(5rem, calc(env(safe-area-inset-bottom, 0px) + 4rem)) !important;
+}
+
+/* Keep main content clear of floor chrome on reading pages */
+.post-single,
+.main {
+  margin-bottom: 1.25rem;
 }
 
 /* Reading progress under sticky header */

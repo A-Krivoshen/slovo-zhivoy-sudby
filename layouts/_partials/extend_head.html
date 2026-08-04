@@ -14,6 +14,11 @@
 <link rel="preload" href="{{ "fonts/woff2/source-serif-4-latin-600-normal.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="{{ "fonts/woff2/source-sans-3-latin-400-normal.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
 
+{{- /* LCP: preload home hero portrait */ -}}
+{{- if .IsHome }}
+<link rel="preload" as="image" href="{{ "photos/tatyana-tt/2019-home-last-year.jpg" | absURL }}" fetchpriority="high">
+{{- end }}
+
 {{- /* PWA manifest, discovery for SEO + AI agents */ -}}
 <link rel="manifest" href="{{ "site.webmanifest" | absURL }}">
 <link rel="author" href="{{ "ai.txt" | absURL }}" title="AI agent instructions">

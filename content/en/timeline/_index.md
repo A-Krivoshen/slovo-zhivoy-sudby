@@ -8,6 +8,8 @@ translationKey: "timeline"
 Below are the **main dates** of the family archive **in time order**.  
 You can read top to bottom: from the parents’ births through the war, Crimea, and later years. Each row links to where to look next.
 
+Years in the first column form a timeline rail from 1888 to 2021.
+
 Related sections: [People](/en/people/) · [Events](/en/events/) · [Places](/en/places/) · [Documents](/en/documents/) · [Memoirs](/en/memoirs/).
 
 ## Before 1917

@@ -27,13 +27,13 @@ cover:
 
 ## Photographs
 
-{{< figure src="/photos/archive-b02/b02-mp014-ph01.jpg" caption="Brother — Timofey Timofeevich Samsonov. Caption: “After the war.”" >}}
+<div class="person-gallery">
+{{< figure src="/photos/archive-b02/b02-mp014-ph01.jpg" alt="Timofey Timofeevich Samsonov after the war" caption="“After the war.”" >}}
+{{< figure src="/photos/archive-b02/b02-mp013-ph01.jpg" alt="Zhenya and Tyoma Samsonov as children" caption="Zhenya and Tyoma (childhood)." >}}
+{{< figure src="/photos/dnevnik-tt/str-108.jpg" alt="Stalingrad defence medal certificate" caption="Medal for the Defence of Stalingrad — T. T." >}}
+</div>
 
-{{< figure src="/photos/archive-b02/b02-mp013-ph01.jpg" caption="Zhenya and Tyoma Samsonov (childhood)." >}}
-
-{{< figure src="/photos/dnevnik-tt/str-108.jpg" caption="Certificate for the Medal for the Defence of Stalingrad — Samsonov T. T." >}}
-
-[Medal document](/en/documents/stalingrad-defense-medal-samsonov-tt/) · [album](/en/photos/notebook-family-continued/)
+[Medal document](/en/documents/stalingrad-defense-medal-samsonov-tt/) · [album](/en/photos/notebook-family-continued/) · [chapter on brother](/en/memoirs/diary/12-brother-front-letters-101-108/)
 
 ---
 

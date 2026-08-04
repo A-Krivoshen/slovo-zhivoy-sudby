@@ -28,15 +28,14 @@ cover:
 
 ## Photographs
 
-{{< figure src="/photos/eva-konstantinovna/chart-portrait.jpg" alt="Portrait of Eva Konstantinovna in a polka-dot dress" caption="“My mother.” Portrait from the notebook (p. 002)." >}}
+<div class="person-gallery">
+{{< figure src="/photos/eva-konstantinovna/chart-portrait.jpg" alt="Portrait of Eva Konstantinovna in a polka-dot dress" caption="“My mother.” Notebook portrait (p. 002)." >}}
+{{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" alt="Eva Konstantinovna portrait" caption="Family archive / notebook." >}}
+{{< figure src="/photos/dnevnik-tt/str-007.jpg" alt="Two portraits of Mama on notebook leaf" caption="“Mama” leaf (p. 007)." >}}
+{{< figure src="/photos/archive-b02/b02-mp013-ph03.jpg" alt="Samsonov family, November 1925" caption="November 1925. Samsonov family." >}}
+</div>
 
-{{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Eva Konstantinovna — portrait from the family archive / notebook." >}}
-
-{{< figure src="/photos/dnevnik-tt/str-007.jpg" caption="Two portraits of Mama on the “Mama” leaf (p. 007)." >}}
-
-{{< figure src="/photos/archive-b02/b02-mp013-ph03.jpg" caption="November 1925. Samsonov family: grandmother, Zhenya, Mama, Tyoma, Papa." >}}
-
-→ [Parents section page](/en/parents/eva-konstantinovna/) · [album](/en/photos/notebook-family-continued/)
+→ [Parents section page](/en/parents/eva-konstantinovna/) · [album](/en/photos/notebook-family-continued/) · [“My mother”](/en/memoirs/diary/01-my-mother/)
 
 ---
 

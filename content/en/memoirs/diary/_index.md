@@ -12,6 +12,8 @@ From the handwritten notebook “Our genealogy: the Samsonovs.”
 
 The text is prepared from family scans. Unclear places are marked in square brackets; the reading is refined over time.
 
+**How to read:** start with [“My mother”](/en/memoirs/diary/01-my-mother/). On a phone open “Notebook chapters” in a chapter; on a computer use the list on the left. The site remembers your last chapter on the [home page](/en/).
+
 ## Introduction
 
 - [About the notebook](/en/memoirs/diary/about-the-notebook/) — how the manuscript is organized and how to read the transcription

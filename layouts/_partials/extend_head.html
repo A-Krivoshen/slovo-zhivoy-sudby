@@ -7,17 +7,28 @@
 <meta name="format-detection" content="telephone=no">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 
-{{- /* Self-hosted Source Serif 4 + Source Sans 3 (Cyrillic + Latin) */ -}}
+{{- /* Self-hosted fonts — preload only critical weights for LCP */ -}}
 <link rel="stylesheet" href="{{ "fonts/fonts.css" | absURL }}">
-<link rel="preload" href="{{ "fonts/woff2/source-serif-4-cyrillic-600-normal.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="{{ "fonts/woff2/source-sans-3-cyrillic-400-normal.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+{{- if eq site.Language.Lang "en" }}
 <link rel="preload" href="{{ "fonts/woff2/source-serif-4-latin-600-normal.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="{{ "fonts/woff2/source-sans-3-latin-400-normal.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+{{- else }}
+<link rel="preload" href="{{ "fonts/woff2/source-serif-4-cyrillic-600-normal.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ "fonts/woff2/source-sans-3-cyrillic-400-normal.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+{{- end }}
 
 {{- /* LCP: preload home hero portrait */ -}}
 {{- if .IsHome }}
 <link rel="preload" as="image" href="{{ "photos/tatyana-tt/2019-home-last-year.jpg" | absURL }}" fetchpriority="high">
 {{- end }}
+
+{{- /* Prefetch next diary chapter for faster reading flow */ -}}
+{{- if and .IsPage (or (in .RelPermalink "/dnevnik/") (in .RelPermalink "/diary/")) -}}
+  {{- $pages := sort .CurrentSection.RegularPages "File.Path" "asc" -}}
+  {{- with $pages.Prev . -}}
+<link rel="prefetch" href="{{ .Permalink }}">
+  {{- end -}}
+{{- end -}}
 
 {{- /* PWA manifest, discovery for SEO + AI agents */ -}}
 <link rel="manifest" href="{{ "site.webmanifest" | absURL }}">

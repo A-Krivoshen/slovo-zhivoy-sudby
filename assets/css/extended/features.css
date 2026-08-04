@@ -412,6 +412,39 @@ body.reading-mode .post-layout--diary {
   border-radius: 0 4px 4px 0;
 }
 
+/* Sticky next chapter on small screens (reading flow) */
+@media (max-width: 719px) {
+  .next-chapter {
+    position: sticky;
+    bottom: max(0.75rem, env(safe-area-inset-bottom, 0px));
+    z-index: 40;
+    margin-bottom: 0.5rem;
+  }
+
+  .next-chapter__link {
+    box-shadow: 0 8px 24px rgb(40 32 18 / 0.18);
+    backdrop-filter: blur(8px);
+  }
+
+  body.reading-mode .next-chapter {
+    display: block;
+  }
+}
+
+/* Below-fold content: reduce main-thread work slightly */
+.post-content figure,
+.album-card,
+.entity-card,
+.home-nav-card {
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 220px;
+}
+
+.home-nav-card--featured {
+  border-color: color-mix(in srgb, var(--accent) 40%, var(--border));
+  background: linear-gradient(165deg, color-mix(in srgb, var(--accent) 10%, var(--entry)), var(--entry));
+}
+
 /* ---- Print ---- */
 @media print {
   .reading-toolbar,

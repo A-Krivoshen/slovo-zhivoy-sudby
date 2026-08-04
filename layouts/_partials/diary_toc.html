@@ -1,5 +1,6 @@
 {{- /*
   Chapter list for diary pages: sticky on desktop, collapsible on mobile.
+  Skips legacy hub pages (robotsNoIndex / translationKey *legacy*).
 */ -}}
 {{- if not . -}}
 {{- else -}}
@@ -15,10 +16,15 @@
 {{- end -}}
 {{- $pages := slice -}}
 {{- with $hub -}}
-  {{- $pages = sort .RegularPages "File.Path" "asc" -}}
+  {{- range sort .RegularPages "File.Path" "asc" -}}
+    {{- $tk := .Params.translationKey | default "" -}}
+    {{- $skip := or (.Params.robotsNoIndex | default false) (in $tk "legacy") -}}
+    {{- if not $skip -}}
+      {{- $pages = $pages | append . -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
 {{- if gt (len $pages) 1 -}}
-{{- /* Desktop sticky */ -}}
 <nav class="diary-toc diary-toc--desktop" aria-label="{{ if $isEn }}Notebook chapters{{ else }}Главы тетради{{ end }}">
   <p class="diary-toc__heading">{{ if $isEn }}Chapters{{ else }}Главы{{ end }}</p>
   <ol class="diary-toc__list">
@@ -35,7 +41,6 @@
   <p class="diary-toc__hub"><a href="{{ .Permalink }}">{{ if $isEn }}Full list{{ else }}Полный список{{ end }}</a></p>
   {{- end -}}
 </nav>
-{{- /* Mobile collapsible */ -}}
 <details class="diary-toc diary-toc--mobile">
   <summary class="diary-toc__summary">{{ if $isEn }}Notebook chapters{{ else }}Главы тетради{{ end }}</summary>
   <ol class="diary-toc__list">

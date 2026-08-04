@@ -83,8 +83,12 @@ jobs:
           grep -q 'diary-toc' public/vospominaniya/dnevnik/01-moya-mama/index.html
           grep -q 'album-filter' public/foto/index.html
           grep -q 'person-gallery' public/lyudi/tatyana-timofeevna-krivosheina/index.html
+          grep -q 'person-gallery' public/lyudi/eva-konstantinovna-samsonova/index.html
+          grep -q 'person-gallery' public/lyudi/timofey-timofeevich-samsonov/index.html
           grep -q 's-chego-nachat\|С чего начать' public/s-chego-nachat/index.html
           grep -q 'resume-reading' public/index.html
+          grep -q 'decoding="async"\|decoding=async' public/vospominaniya/dnevnik/01-moya-mama/index.html || true
+          ./scripts/check-figure-parity.sh
           echo "Smoke OK"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5

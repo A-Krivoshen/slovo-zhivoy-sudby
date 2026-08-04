@@ -28,13 +28,13 @@ cover:
 
 ## Фото
 
-{{< figure src="/photos/archive-b02/b02-mp014-ph01.jpg" caption="Брат — Самсонов Тимофей Тимофеевич. Подпись: «После войны»." >}}
+<div class="person-gallery">
+{{< figure src="/photos/archive-b02/b02-mp014-ph01.jpg" alt="Самсонов Тимофей Тимофеевич после войны" caption="«После войны»." >}}
+{{< figure src="/photos/archive-b02/b02-mp013-ph01.jpg" alt="Женя и Тёма Самсоновы в детстве" caption="Женя и Тёма (детство)." >}}
+{{< figure src="/photos/dnevnik-tt/str-108.jpg" alt="Удостоверение медали За оборону Сталинграда" caption="Медаль «За оборону Сталинграда» — Т. Т." >}}
+</div>
 
-{{< figure src="/photos/archive-b02/b02-mp013-ph01.jpg" caption="Женя и Тёма Самсоновы (детство)." >}}
-
-{{< figure src="/photos/dnevnik-tt/str-108.jpg" caption="Удостоверение к медали «За оборону Сталинграда» — Самсонов Т. Т." >}}
-
-[Медаль](/dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt/) · [альбом](/foto/tetrad-semya-prodolzhenie/)
+[Медаль](/dokumenty/udostoverenie-oborona-stalingrada-samsonov-tt/) · [альбом](/foto/tetrad-semya-prodolzhenie/) · [глава о брате](/vospominaniya/dnevnik/12-brat-front-103-108/)
 
 ---
 

@@ -29,15 +29,14 @@ cover:
 
 ## Фото
 
+<div class="person-gallery">
 {{< figure src="/photos/eva-konstantinovna/chart-portrait.jpg" alt="Портрет Евы Константиновны в платье в горошек" caption="«Моя мама». Портрет из тетради (стр. 002)." >}}
+{{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" alt="Ева Константиновна — портрет из семейного архива" caption="Портрет из семейного архива / тетради." >}}
+{{< figure src="/photos/dnevnik-tt/str-007.jpg" alt="Два портрета мамы на листе тетради" caption="Лист «Мама» (стр. 007)." >}}
+{{< figure src="/photos/archive-b02/b02-mp013-ph03.jpg" alt="Семья Самсоновых, ноябрь 1925" caption="Ноябрь 1925. Семья Самсоновых." >}}
+</div>
 
-{{< figure src="/photos/eva-konstantinovna/eva-portrait.jpg" caption="Ева Константиновна — портрет из семейного архива / тетради." >}}
-
-{{< figure src="/photos/dnevnik-tt/str-007.jpg" caption="Два портрета мамы на листе «Мама» (стр. 007)." >}}
-
-{{< figure src="/photos/archive-b02/b02-mp013-ph03.jpg" caption="Ноябрь 1925. Семья Самсоновых: бабушка, Женя, мама, Тёма, папа." >}}
-
-→ [Страница в «Родителях»](/roditeli/eva-konstantinovna/) · [альбом](/foto/tetrad-semya-prodolzhenie/)
+→ [Страница в «Родителях»](/roditeli/eva-konstantinovna/) · [альбом](/foto/tetrad-semya-prodolzhenie/) · [глава «Моя мама»](/vospominaniya/dnevnik/01-moya-mama/)
 
 ---
 

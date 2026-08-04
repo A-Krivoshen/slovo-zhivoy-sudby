@@ -1,0 +1,118 @@
+{
+  "ts": "2026-08-04T08:44:44.878Z",
+  "sections": {
+    "http": {
+      "total": 28,
+      "pass": 28,
+      "fail": []
+    },
+    "homeDesktop": {
+      "issues": [],
+      "primary": [
+        "Воспоминания",
+        "Люди",
+        "Родители",
+        "Фото",
+        "Хронология",
+        "Поиск"
+      ],
+      "theme": "#f3efe6",
+      "accent": "#7a6548",
+      "bg": "rgb(243, 239, 230)",
+      "titleFont": "\"Source Serif 4\"",
+      "sticky": "sticky",
+      "headerH": 58
+    },
+    "chapter": {
+      "issues": [],
+      "active": [
+        "Воспоминания"
+      ],
+      "postNav": true,
+      "maxW": "678.215px"
+    },
+    "people": {
+      "cards": 10,
+      "tables": 0,
+      "active": [
+        "Люди"
+      ],
+      "issues": []
+    },
+    "enPeople": {
+      "cards": 10,
+      "hasContent": true,
+      "issues": []
+    },
+    "content": {
+      "foto": 3,
+      "memoirs": {
+        "cta": true,
+        "text": "Читать с начала"
+      },
+      "issues": []
+    },
+    "search": {
+      "hints": 4,
+      "placeholder": "Татьяна, 1941, Саша, Сталинград…",
+      "label": true,
+      "issues": []
+    },
+    "notFound": {
+      "page": true,
+      "title": "Страница не найдена | Слово Живой Судьбы",
+      "links": 5,
+      "issues": []
+    },
+    "mobileDrawer": {
+      "before": {
+        "headerH": 92,
+        "toggle": "flex",
+        "menuHidden": true
+      },
+      "after": {
+        "open": true,
+        "linkCount": 11,
+        "minLinkH": 44,
+        "overflow": false
+      },
+      "issues": []
+    },
+    "responsive": {
+      "total": 60,
+      "pass": 60,
+      "fail": 0,
+      "failed": []
+    },
+    "assets": {
+      "fontsCss": 200,
+      "woff": 200,
+      "cssLinks": [
+        "stylesheet.dea1ed0d469639881e33ead8c0f89945b750f50e0504cf9a1012b5019b21ffe2.css",
+        "fonts.css"
+      ],
+      "issues": []
+    },
+    "console": {
+      "hard": [],
+      "sample": [
+        "Access to font at 'http://localhost:1315/fonts/woff2/source-serif-4-cyrillic-600-normal.woff2' from origin 'http://127.0.0.1:1315' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to font at 'http://localhost:1315/fonts/woff2/source-sans-3-cyrillic-400-normal.woff2' from origin 'http://127.0.0.1:1315' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to font at 'http://localhost:1315/fonts/woff2/source-sans-3-latin-400-normal.woff2' from origin 'http://127.0.0.1:1315' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to font at 'http://localhost:1315/fonts/woff2/source-serif-4-latin-600-normal.woff2' from origin 'http://127.0.0.1:1315' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to font at 'http://localhost:1315/fonts/woff2/source-sans-3-cyrillic-600-normal.woff2' from origin 'http://127.0.0.1:1315' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED"
+      ]
+    }
+  },
+  "summary": {
+    "totalFail": 0,
+    "ok": true,
+    "http": "28/28",
+    "responsive": "60/60"
+  }
+}

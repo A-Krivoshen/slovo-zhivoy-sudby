@@ -178,36 +178,10 @@ input[type="text"] {
     max-width: calc(100% - 5.5rem);
   }
 
-  /* Dense but tappable chip menu */
-  .menu {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    gap: 0.35rem 0.4rem;
-    column-gap: 0.4rem;
-    row-gap: 0.35rem;
-  }
-
+  /* Menu layout handled by nav-audit.css (drawer); keep type readable */
   .menu a {
-    font-size: 0.8rem;
+    font-size: 0.95rem;
     letter-spacing: 0;
-    white-space: nowrap;
-    border: 1px solid var(--border);
-    border-radius: 999px;
-    padding: 0.35rem 0.65rem;
-    min-height: 2.25rem;
-    background: var(--entry);
-  }
-
-  .menu a::before {
-    width: 0.75rem;
-    height: 0.75rem;
-  }
-
-  .menu .active {
-    border-color: var(--accent-line);
-    font-weight: 700;
   }
 
   .post-title,

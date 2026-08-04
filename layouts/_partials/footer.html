@@ -61,54 +61,81 @@
 {{- partial "extend_footer.html" . }}
 
 <script>
-    let menu = document.getElementById('menu');
-    if (menu) {
-        // Set the scroll position
-        const scrollPosition = localStorage.getItem("menu-scroll-position");
-        if (scrollPosition) {
-            menu.scrollLeft = parseInt(scrollPosition, 10);
-        }
-        
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
-    }
-
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+(function () {
+    /* Smooth in-page anchors */
+    document.querySelectorAll('a[href^="#"]').forEach(function (anchor) {
         anchor.addEventListener("click", function (e) {
+            var href = this.getAttribute("href");
+            if (!href || href === "#") return;
+            var id = href.substr(1);
+            var target = document.querySelector("[id='" + decodeURIComponent(id) + "']");
+            if (!target) return;
             e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
+            var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+            target.scrollIntoView({ behavior: reduce ? "auto" : "smooth" });
+            if (id === "top") history.replaceState(null, null, " ");
+            else history.pushState(null, null, "#" + id);
         });
     });
 
-</script>
-
-{{- if (not site.Params.disableScrollToTop) }}
-<script>
-    var toplink = document.getElementById("top-link");
-    window.onscroll = function () {
-        const scrollThreshold = window.innerHeight;
-        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
-            toplink.classList.remove("hidden");
-        } else {
-            toplink.classList.add("hidden");
+    /* Mobile drawer */
+    var toggle = document.getElementById("nav-toggle");
+    var siteMenu = document.getElementById("site-menu");
+    var backdrop = document.getElementById("nav-backdrop");
+    var body = document.body;
+    function setMenuOpen(open) {
+        if (!toggle || !siteMenu) return;
+        toggle.setAttribute("aria-expanded", open ? "true" : "false");
+        toggle.setAttribute("aria-label", open
+            ? {{ if eq site.Language.Lang "en" }}"Close menu"{{ else }}"Закрыть меню"{{ end }}
+            : {{ if eq site.Language.Lang "en" }}"Open menu"{{ else }}"Открыть меню"{{ end }});
+        siteMenu.classList.toggle("is-open", open);
+        body.classList.toggle("nav-open", open);
+        if (backdrop) {
+            if (open) backdrop.removeAttribute("hidden");
+            else backdrop.setAttribute("hidden", "");
         }
-    };
+    }
+    if (toggle && siteMenu) {
+        toggle.addEventListener("click", function () {
+            setMenuOpen(toggle.getAttribute("aria-expanded") !== "true");
+        });
+        if (backdrop) backdrop.addEventListener("click", function () { setMenuOpen(false); });
+        siteMenu.querySelectorAll("a").forEach(function (a) {
+            a.addEventListener("click", function () { setMenuOpen(false); });
+        });
+        document.addEventListener("keydown", function (e) {
+            if (e.key === "Escape") setMenuOpen(false);
+        });
+        window.addEventListener("resize", function () {
+            if (window.matchMedia("(min-width: 900px)").matches) setMenuOpen(false);
+        });
+    }
 
+    /* Top link + reading progress */
+    var toplink = document.getElementById("top-link");
+    var bar = document.getElementById("read-progress-bar");
+    var progress = document.getElementById("read-progress");
+    var article = document.querySelector(".post-single .post-content, article.post-single");
+    function onScroll() {
+        var y = window.scrollY || document.documentElement.scrollTop;
+        if (toplink) {
+            if (y > window.innerHeight) toplink.classList.remove("hidden");
+            else toplink.classList.add("hidden");
+        }
+        if (bar && article) {
+            var rect = article.getBoundingClientRect();
+            var total = article.offsetHeight - window.innerHeight;
+            var scrolled = Math.min(Math.max(-rect.top, 0), Math.max(total, 1));
+            var pct = total > 0 ? (scrolled / total) * 100 : 0;
+            bar.style.width = pct + "%";
+            if (progress) progress.classList.toggle("is-active", y > 80 && pct > 0);
+        }
+    }
+    window.addEventListener("scroll", onScroll, { passive: true });
+    onScroll();
+})();
 </script>
-{{- end }}
 
 {{- if (not site.Params.disableThemeToggle) }}
 <script>

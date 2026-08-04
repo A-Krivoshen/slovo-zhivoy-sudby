@@ -1,5 +1,7 @@
 {{- define "main" }}
 {{- $lang := site.Language.Lang -}}
+{{- /* Prefer localized document title when supported by head */ -}}
+<script>document.title = {{ if eq $lang "en" }}"Page not found | Word of a Living Fate"{{ else }}"Страница не найдена | Слово Живой Судьбы"{{ end }};</script>
 <section class="not-found-page" aria-labelledby="not-found-title">
   <p class="not-found-kicker">{{ if eq $lang "en" }}Page not found{{ else }}Страница не найдена{{ end }}</p>
   <h1 id="not-found-title" class="not-found-title">404</h1>

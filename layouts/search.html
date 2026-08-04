@@ -1,0 +1,48 @@
+{{- define "main" }}
+{{- $isEn := eq site.Language.Lang "en" -}}
+
+<header class="page-header">
+    <h1>{{- .Title -}}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <div class="post-meta">
+        {{- partial "translation_list.html" . -}}
+    </div>
+    {{- end }}
+</header>
+
+<div id="searchbox" class="searchbox">
+    <label class="search-label" for="searchInput">{{ if $isEn }}Search the archive{{ else }}Поиск по архиву{{ end }}</label>
+    <input id="searchInput" disabled
+        placeholder="{{ if $isEn }}Tatyana, 1941, Sasha, Stalingrad…{{ else }}Татьяна, 1941, Саша, Сталинград…{{ end }}"
+        aria-label="{{ if $isEn }}Search{{ else }}Поиск{{ end }}" type="search" autocomplete="off" maxlength="64">
+    <ul id="searchResults" class="searchResults" aria-label="{{ if $isEn }}Search results{{ else }}Результаты поиска{{ end }}"></ul>
+    <div class="search-empty" id="search-empty">
+        <p class="search-empty__lead">
+            {{- if $isEn -}}
+            Try a name, year, or place from the archive.
+            {{- else -}}
+            Введите имя, год или место из архива.
+            {{- end -}}
+        </p>
+        <ul class="search-hints">
+            {{- if $isEn }}
+            <li><a href="{{ "memoirs/diary/01-my-mother/" | relLangURL }}">My mother</a> — first notebook chapter</li>
+            <li><a href="{{ "people/tatyana-timofeevna-krivosheina/" | relLangURL }}">Tatyana Timofeevna</a></li>
+            <li><a href="{{ "people/aleksandr-krivoshein/" | relLangURL }}">Aleksandr (Sasha)</a></li>
+            <li><a href="{{ "timeline/" | relLangURL }}">Timeline</a></li>
+            {{- else }}
+            <li><a href="{{ "vospominaniya/dnevnik/01-moya-mama/" | relLangURL }}">Моя мама</a> — первая глава тетради</li>
+            <li><a href="{{ "lyudi/tatyana-timofeevna-krivosheina/" | relLangURL }}">Татьяна Тимофеевна</a></li>
+            <li><a href="{{ "lyudi/aleksandr-krivoshein/" | relLangURL }}">Александр (Саша)</a></li>
+            <li><a href="{{ "hronologiya/" | relLangURL }}">Хронология</a></li>
+            {{- end }}
+        </ul>
+    </div>
+</div>
+
+{{- end -}}

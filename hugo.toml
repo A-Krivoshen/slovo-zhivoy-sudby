@@ -100,11 +100,7 @@ timeZone = 'Europe/Moscow'
       minMatchCharLength = 2
       keys = ['title', 'permalink', 'summary', 'content']
 
-  [[languages.ru.menu.main]]
-    identifier = 'home'
-    name = 'Главная'
-    url = '/'
-    weight = 10
+  # Primary nav (desktop + mobile drawer core)
   [[languages.ru.menu.main]]
     identifier = 'vospominaniya'
     name = 'Воспоминания'
@@ -121,9 +117,9 @@ timeZone = 'Europe/Moscow'
     url = '/roditeli/'
     weight = 35
   [[languages.ru.menu.main]]
-    identifier = 'sobytiya'
-    name = 'События'
-    url = '/sobytiya/'
+    identifier = 'foto'
+    name = 'Фото'
+    url = '/foto/'
     weight = 40
   [[languages.ru.menu.main]]
     identifier = 'hronologiya'
@@ -131,40 +127,36 @@ timeZone = 'Europe/Moscow'
     url = '/hronologiya/'
     weight = 45
   [[languages.ru.menu.main]]
-    identifier = 'mesta'
-    name = 'Места'
-    url = '/mesta/'
-    weight = 50
-  [[languages.ru.menu.main]]
-    identifier = 'dokumenty'
-    name = 'Документы'
-    url = '/dokumenty/'
-    weight = 55
-  [[languages.ru.menu.main]]
-    identifier = 'foto'
-    name = 'Фото'
-    url = '/foto/'
-    weight = 60
-  [[languages.ru.menu.main]]
-    identifier = 'istoriya'
-    name = 'История'
-    url = '/istoriya/'
-    weight = 65
-  [[languages.ru.menu.main]]
     identifier = 'search'
     name = 'Поиск'
     url = '/search/'
-    weight = 70
-  [[languages.ru.menu.main]]
+    weight = 50
+  # Secondary — shown in “Ещё” / mobile drawer only
+  [[languages.ru.menu.more]]
+    identifier = 'sobytiya'
+    name = 'События'
+    url = '/sobytiya/'
+    weight = 10
+  [[languages.ru.menu.more]]
+    identifier = 'mesta'
+    name = 'Места'
+    url = '/mesta/'
+    weight = 20
+  [[languages.ru.menu.more]]
+    identifier = 'dokumenty'
+    name = 'Документы'
+    url = '/dokumenty/'
+    weight = 30
+  [[languages.ru.menu.more]]
+    identifier = 'istoriya'
+    name = 'История'
+    url = '/istoriya/'
+    weight = 40
+  [[languages.ru.menu.more]]
     identifier = 'o-proekte'
     name = 'О проекте'
     url = '/o-proekte/'
-    weight = 80
-  [[languages.ru.menu.main]]
-    identifier = 'privacy'
-    name = 'Конфиденциальность'
-    url = '/konfidencialnost/'
-    weight = 85
+    weight = 50
 
 # ---------------------------------------------------------------------------
 # English
@@ -228,11 +220,6 @@ timeZone = 'Europe/Moscow'
       keys = ['title', 'permalink', 'summary', 'content']
 
   [[languages.en.menu.main]]
-    identifier = 'home'
-    name = 'Home'
-    url = '/en/'
-    weight = 10
-  [[languages.en.menu.main]]
     identifier = 'memoirs'
     name = 'Memoirs'
     url = '/en/memoirs/'
@@ -248,9 +235,9 @@ timeZone = 'Europe/Moscow'
     url = '/en/parents/'
     weight = 35
   [[languages.en.menu.main]]
-    identifier = 'events'
-    name = 'Events'
-    url = '/en/events/'
+    identifier = 'photos'
+    name = 'Photos'
+    url = '/en/photos/'
     weight = 40
   [[languages.en.menu.main]]
     identifier = 'timeline'
@@ -258,40 +245,35 @@ timeZone = 'Europe/Moscow'
     url = '/en/timeline/'
     weight = 45
   [[languages.en.menu.main]]
-    identifier = 'places'
-    name = 'Places'
-    url = '/en/places/'
-    weight = 50
-  [[languages.en.menu.main]]
-    identifier = 'documents'
-    name = 'Documents'
-    url = '/en/documents/'
-    weight = 55
-  [[languages.en.menu.main]]
-    identifier = 'photos'
-    name = 'Photos'
-    url = '/en/photos/'
-    weight = 60
-  [[languages.en.menu.main]]
-    identifier = 'history'
-    name = 'History'
-    url = '/en/history/'
-    weight = 65
-  [[languages.en.menu.main]]
     identifier = 'search'
     name = 'Search'
     url = '/en/search/'
-    weight = 70
-  [[languages.en.menu.main]]
+    weight = 50
+  [[languages.en.menu.more]]
+    identifier = 'events'
+    name = 'Events'
+    url = '/en/events/'
+    weight = 10
+  [[languages.en.menu.more]]
+    identifier = 'places'
+    name = 'Places'
+    url = '/en/places/'
+    weight = 20
+  [[languages.en.menu.more]]
+    identifier = 'documents'
+    name = 'Documents'
+    url = '/en/documents/'
+    weight = 30
+  [[languages.en.menu.more]]
+    identifier = 'history'
+    name = 'History'
+    url = '/en/history/'
+    weight = 40
+  [[languages.en.menu.more]]
     identifier = 'about'
     name = 'About'
     url = '/en/about/'
-    weight = 80
-  [[languages.en.menu.main]]
-    identifier = 'privacy'
-    name = 'Privacy'
-    url = '/en/privacy/'
-    weight = 85
+    weight = 50
 
 # Shared markup
 [markup]

@@ -1,9 +1,15 @@
+{{- /*
+  Compact primary nav + “more” + mobile drawer.
+  Section-level active: prefix match except home/logo.
+*/ -}}
+{{- $lang := site.Language.Lang -}}
+{{- $isEn := eq $lang "en" -}}
 <header class="header">
-    <nav class="header-nav">
+    <nav class="header-nav" aria-label="{{ if $isEn }}Site{{ else }}Сайт{{ end }}">
         <div class="logo">
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
-            <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
+            <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)" class="logo-link{{ if .IsHome }} is-active{{ end }}">
                 {{- if site.Params.label.icon }}
                 {{- $img := resources.Get site.Params.label.icon }}
                 {{- if $img }}
@@ -19,32 +25,30 @@
                             {{- $img = $img.Resize "x30" }}
                         {{- end }}
                     {{- end }}
-                    <img src="{{ $img.Permalink }}" alt="" aria-label="logo"
+                    <img src="{{ $img.Permalink }}" alt="" aria-hidden="true"
                         height="{{- site.Params.label.iconHeight | default "30" -}}">
                 {{- else }}
-                <img src="{{- site.Params.label.icon | absURL -}}" alt="" aria-label="logo"
+                <img src="{{- site.Params.label.icon | absURL -}}" alt="" aria-hidden="true"
                     height="{{- site.Params.label.iconHeight | default "30" -}}">
                 {{- end -}}
                 {{- else if hasPrefix site.Params.label.iconSVG "<svg" }}
                     {{ site.Params.label.iconSVG | safeHTML }}
                 {{- end -}}
-                {{- $label_text -}}
+                <span class="logo-text">{{- $label_text -}}</span>
             </a>
             {{- end }}
 
-            {{- $lsenabled := (or (not site.Params.disableThemeToggle) (and (not site.Params.disableLangToggle) (hugo.IsMultilingual))) }}
-            {{- if $lsenabled }}
             <div class="logo-switches">
                 {{- if (not site.Params.disableThemeToggle) }}
-                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="{{ if $isEn }}Toggle theme{{ else }}Тема{{ end }}">
                     <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
+                        stroke-linejoin="round" aria-hidden="true">
                         <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
                     </svg>
                     <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
+                        stroke-linejoin="round" aria-hidden="true">
                         <circle cx="12" cy="12" r="5"></circle>
                         <line x1="12" y1="1" x2="12" y2="3"></line>
                         <line x1="12" y1="21" x2="12" y2="23"></line>
@@ -57,12 +61,11 @@
                     </svg>
                 </button>
                 {{- end }}
-                
+
                 {{- if (not site.Params.disableLangToggle) }}
                     {{- $lang := .Lang}}
                     {{- with site.Home.Translations }}
-                    {{- $separator := or $label_text (not site.Params.disableThemeToggle)}}
-                    {{- if $separator }}<span class="nav-sep">|</span>{{ end }}
+                    {{- if or $label_text (not site.Params.disableThemeToggle) }}<span class="nav-sep" aria-hidden="true">|</span>{{ end }}
                     <ul class="lang-menu">
                         {{- range . -}}
                         {{- if ne $lang .Lang }}
@@ -81,34 +84,76 @@
                     </ul>
                     {{- end }}
                 {{- end }}
+
+                <button type="button" class="nav-toggle" id="nav-toggle"
+                    aria-controls="site-menu" aria-expanded="false"
+                    aria-label="{{ if $isEn }}Open menu{{ else }}Открыть меню{{ end }}">
+                    <span class="nav-toggle__bars" aria-hidden="true"></span>
+                </button>
             </div>
+        </div>
+
+        {{- $currentPage := . -}}
+        {{- $pageURL := $currentPage.Permalink | absLangURL -}}
+        <div class="site-menu" id="site-menu">
+            <ul id="menu" class="menu menu--primary">
+                {{- range site.Menus.main }}
+                {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL)) | absLangURL -}}
+                {{- $is_search := eq (site.GetPage .KeyName).Layout `search` -}}
+                {{- $isActive := false -}}
+                {{- if or (eq .URL "/") (eq .URL "/en/") (eq .URL "/en") -}}
+                    {{- $isActive = $currentPage.IsHome -}}
+                {{- else if hasPrefix $pageURL $menu_item_url -}}
+                    {{- $isActive = true -}}
+                {{- else if eq $menu_item_url $pageURL -}}
+                    {{- $isActive = true -}}
+                {{- end -}}
+                <li>
+                    <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}{{- if $is_search }} (Alt + /){{ end }}"
+                        {{- if $is_search }} accesskey="/"{{ end }}
+                        {{- if $isActive }} class="is-active" aria-current="page"{{ end }}>
+                        <span class="menu-label">{{- .Name -}}</span>
+                    </a>
+                </li>
+                {{- end }}
+
+                {{- with site.Menus.more }}
+                <li class="menu-more menu-more--desktop">
+                    <details class="menu-more-details">
+                        <summary class="menu-more-summary">{{ if $isEn }}More{{ else }}Ещё{{ end }}</summary>
+                        <ul class="menu-more-list">
+                            {{- range . }}
+                            {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL)) | absLangURL -}}
+                            {{- $isActive := hasPrefix $pageURL $menu_item_url -}}
+                            <li>
+                                <a href="{{ .URL | absLangURL }}"
+                                    {{- if $isActive }} class="is-active" aria-current="page"{{ end }}>
+                                    {{- .Name -}}
+                                </a>
+                            </li>
+                            {{- end }}
+                        </ul>
+                    </details>
+                </li>
+                {{- end }}
+            </ul>
+
+            {{- with site.Menus.more }}
+            <ul class="menu menu--secondary" aria-label="{{ if $isEn }}More sections{{ else }}Другие разделы{{ end }}">
+                {{- range . }}
+                {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL)) | absLangURL -}}
+                {{- $isActive := hasPrefix $pageURL $menu_item_url -}}
+                <li>
+                    <a href="{{ .URL | absLangURL }}"
+                        {{- if $isActive }} class="is-active" aria-current="page"{{ end }}>
+                        <span class="menu-label">{{- .Name -}}</span>
+                    </a>
+                </li>
+                {{- end }}
+            </ul>
             {{- end }}
         </div>
-        {{- $currentPage := . }}
-        <ul id="menu" class="menu">
-            {{- range site.Menus.main }}
-            {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
-            {{- $page_url:= $currentPage.Permalink | absLangURL }}
-            {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
-            <li>
-                <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
-                {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
-                    <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
-                        {{- .Pre }}
-                        {{- .Name -}}
-                        {{ .Post -}}
-                    </span>
-                    {{- if (findRE "://" .URL) }}&nbsp;
-                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
-                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
-                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
-                        <path d="M15 3h6v6"></path>
-                        <path d="M10 14L21 3"></path>
-                    </svg>
-                    {{- end }}
-                </a>
-            </li>
-            {{- end }}
-        </ul>
     </nav>
+    <div class="nav-backdrop" id="nav-backdrop" hidden></div>
 </header>
+<div class="read-progress" id="read-progress" aria-hidden="true"><div class="read-progress__bar" id="read-progress-bar"></div></div>

@@ -11,43 +11,34 @@ translationKey: "photos"
 
 ## Альбомы
 
-Каталог открытых альбомов (ниже — тот же список карточками раздела):
+<div class="album-grid">
+  <a class="album-card" href="/foto/tetrad-semya-prodolzhenie/">
+    <img src="/photos/archive-b02/b02-mp013-ph03.jpg" alt="Семья Самсоновых, ноябрь 1925" width="640" height="480" loading="lazy">
+    <div class="album-card__body">
+      <div class="album-card__title">Семейный фотоальбом продолжения</div>
+      <div class="album-card__desc">Снимки из продолжения тетради: 1920–30-е, школа, возвращение Саши, дети</div>
+    </div>
+  </a>
+  <a class="album-card" href="/foto/samsonov-timofey-petrovich/">
+    <img src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" alt="Студийный портрет Тимофея Петровича" width="640" height="480" loading="lazy">
+    <div class="album-card__body">
+      <div class="album-card__title">Самсонов Т. П.</div>
+      <div class="album-card__desc">Портреты, исторический круг, документы-фото</div>
+    </div>
+  </a>
+  <a class="album-card" href="/foto/tatyana-timofeevna-2019/">
+    <img src="/photos/tatyana-tt/2019-home-last-year.jpg" alt="Татьяна Тимофеевна дома, 2019" width="640" height="480" loading="lazy">
+    <div class="album-card__body">
+      <div class="album-card__title">Татьяна Тимофеевна, 2019</div>
+      <div class="album-card__desc">Домашний портрет поздних лет (15 апреля 2019)</div>
+    </div>
+  </a>
+</div>
 
-| Альбом | О чём | Связанные страницы |
-| --- | --- | --- |
-| [Семейный фотоальбом продолжения](/foto/tetrad-semya-prodolzhenie/) | Снимки из продолжения тетради: отец, семья 1920–30-х, школа, возвращение Саши, дети, учёба | [Люди](/lyudi/) · [Тетрадь](/vospominaniya/dnevnik/) |
-| [Самсонов Т. П.](/foto/samsonov-timofey-petrovich/) | Портреты, исторический круг, документы-фото, дочь | [Т. П. в «Людях»](/lyudi/timofey-petrovich-samsonov/) · [биография](/roditeli/samsonov-timofey-petrovich/) |
-| [Татьяна Тимофеевна, 2019](/foto/tatyana-timofeevna-2019/) | Домашний портрет поздних лет (15 апреля 2019) | [Т. Т. в «Людях»](/lyudi/tatyana-timofeevna-krivosheina/) · [очерк](/vospominaniya/o-tatyane-timofeevne/) |
+### Кратко
 
-### Кратко по альбомам
-
-- **[Семейный фотоальбом продолжения](/foto/tetrad-semya-prodolzhenie/)** — основной визуальный ряд рукописи; кадры с вырезками `archive-b02`, ссылки на главы тетради и персон. Листы с ныне живущими (в т. ч. бывшие стр. 155 и 157) **не** публикуются.
-- **[Самсонов Тимофей Петрович](/foto/samsonov-timofey-petrovich/)** — отобранные 15 кадров семейного альбома об отце с подписями и ссылками на документы.
+- **[Семейный фотоальбом продолжения](/foto/tetrad-semya-prodolzhenie/)** — основной визуальный ряд рукописи; листы с ныне живущими **не** публикуются.
+- **[Самсонов Тимофей Петрович](/foto/samsonov-timofey-petrovich/)** — отобранные кадры семейного альбома об отце.
 - **[Татьяна Тимофеевна дома, 2019](/foto/tatyana-timofeevna-2019/)** — один семейный снимок поздних лет.
 
 См. также: [Люди](/lyudi/) · [Родители](/roditeli/) · [Воспоминания](/vospominaniya/).
-
-## Превью альбомов
-
-### Семейный фотоальбом продолжения
-
-{{< figure src="/photos/archive-b02/b02-mp013-ph03.jpg" caption="Ноябрь 1925. Семья Самсоновых — из продолжения тетради." >}}
-
-{{< figure src="/photos/archive-b02/b02-mp038-ph01.jpg" caption="Класс 6 «а»." >}}
-
-[Открыть альбом полностью →](/foto/tetrad-semya-prodolzhenie/)
-
-### Самсонов Тимофей Петрович
-
-{{< figure src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" caption="Студийный портрет Тимофея Петровича." >}}
-
-{{< figure src="/photos/samsonov-tp/09-alexandrovsky-central-1910.jpg" caption="Александровский централ, 1910." >}}
-
-[Открыть альбом →](/foto/samsonov-timofey-petrovich/)
-
-### Татьяна Тимофеевна, 2019
-
-{{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="Дома, 15 апреля 2019." >}}
-
-[Открыть →](/foto/tatyana-timofeevna-2019/)
-

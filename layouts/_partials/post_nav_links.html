@@ -1,0 +1,32 @@
+{{- /*
+  Prev/next within current section (diary chapters, people, etc.).
+  Falls back to parent section when the page is nested.
+*/ -}}
+{{- $pages := .CurrentSection.RegularPages.ByWeight -}}
+{{- if lt (len $pages) 2 -}}
+  {{- $pages = .CurrentSection.RegularPages.ByTitle -}}
+{{- end -}}
+{{- if and (lt (len $pages) 2) .Parent -}}
+  {{- $pages = .Parent.RegularPages.ByWeight -}}
+  {{- if lt (len $pages) 2 -}}
+    {{- $pages = .Parent.RegularPages.ByTitle -}}
+  {{- end -}}
+{{- end -}}
+{{- if and (gt (len $pages) 1) (in $pages .) }}
+<nav class="post-nav paginav" aria-label="{{ if eq site.Language.Lang "en" }}Chapter navigation{{ else }}Навигация по главам{{ end }}">
+  {{- with $pages.Next . }}
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">« {{ if eq site.Language.Lang "en" }}Previous{{ else }}Назад{{ end }}</span>
+    <span class="post-nav__name">{{- .LinkTitle | default .Title -}}</span>
+  </a>
+  {{- else }}
+  <span class="prev post-nav__empty" aria-hidden="true"></span>
+  {{- end }}
+  {{- with $pages.Prev . }}
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">{{ if eq site.Language.Lang "en" }}Next{{ else }}Далее{{ end }} »</span>
+    <span class="post-nav__name">{{- .LinkTitle | default .Title -}}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end -}}

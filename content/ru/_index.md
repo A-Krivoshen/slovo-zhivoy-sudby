@@ -50,6 +50,11 @@ translationKey: "home"
 | [Ева Константиновна](/lyudi/eva-konstantinovna-samsonova/) | Мать; рассказ «Моя мама» |
 | [Хронология](/hronologiya/) | Все вехи подряд |
 
+<p class="home-publish-note">
+  Публикуем по <a href="/printsipy-publikacii/">принципам источников и приватности</a>:
+  оригинал важнее красивой догадки; живые люди — осторожно.
+</p>
+
 <p class="home-footnote">
   Материалы собраны внуком —
   <a href="https://krivoshein.site" rel="noopener" target="_blank">Алексеем Кривошеиным</a>.

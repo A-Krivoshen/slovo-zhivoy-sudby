@@ -19,7 +19,7 @@ Each page says who the person is, how they relate to the family, and where to re
 <ul class="entity-card-grid">
   <li>
     <a class="entity-card entity-card--photo" href="/en/people/tatyana-timofeevna-krivosheina/">
-      <img class="entity-card__photo" src="/photos/tatyana-tt/garden-portrait-thumb.jpg" alt="" width="96" height="120" loading="lazy">
+      <img class="entity-card__photo" src="/photos/tatyana-tt/garden-portrait-thumb.jpg" srcset="/photos/tatyana-tt/garden-portrait-thumb.jpg 96w, /photos/tatyana-tt/garden-portrait-md.jpg 240w" sizes="96px" alt="Tatyana Timofeevna Krivosheina" width="96" height="120" loading="lazy">
       <span class="entity-card__body">
         <span class="entity-card__name">Tatyana Timofeevna Krivosheina</span>
         <span class="entity-card__desc">Notebook author; centre of the archive (1926–2021)</span>
@@ -28,7 +28,7 @@ Each page says who the person is, how they relate to the family, and where to re
   </li>
   <li>
     <a class="entity-card entity-card--photo" href="/en/people/timofey-petrovich-samsonov/">
-      <img class="entity-card__photo" src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" alt="" width="96" height="120" loading="lazy">
+      <img class="entity-card__photo" src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" alt="Timofey Petrovich Samsonov" width="96" height="120" loading="lazy">
       <span class="entity-card__body">
         <span class="entity-card__name">Timofey Petrovich Samsonov</span>
         <span class="entity-card__desc">Tatyana’s father; biography, papers, photos</span>
@@ -37,7 +37,7 @@ Each page says who the person is, how they relate to the family, and where to re
   </li>
   <li>
     <a class="entity-card entity-card--photo" href="/en/people/eva-konstantinovna-samsonova/">
-      <img class="entity-card__photo" src="/photos/eva-konstantinovna/eva-portrait.jpg" alt="" width="96" height="120" loading="lazy">
+      <img class="entity-card__photo" src="/photos/eva-konstantinovna/eva-portrait.jpg" alt="Eva Konstantinovna Samsonova" width="96" height="120" loading="lazy">
       <span class="entity-card__body">
         <span class="entity-card__name">Eva Konstantinovna Samsonova</span>
         <span class="entity-card__desc">Mother; daughter’s account and son’s front letters</span>
@@ -46,7 +46,7 @@ Each page says who the person is, how they relate to the family, and where to re
   </li>
   <li>
     <a class="entity-card entity-card--photo" href="/en/people/timofey-timofeevich-samsonov/">
-      <img class="entity-card__photo" src="/photos/archive-b02/b02-mp014-ph01-thumb.jpg" alt="" width="96" height="120" loading="lazy">
+      <img class="entity-card__photo" src="/photos/archive-b02/b02-mp014-ph01-thumb.jpg" alt="Timofey Timofeevich Samsonov (Tyoma)" width="96" height="120" loading="lazy">
       <span class="entity-card__body">
         <span class="entity-card__name">Timofey Timofeevich Samsonov (Tyoma)</span>
         <span class="entity-card__desc">Brother; Timosha letters, Stalingrad medal — not the father</span>
@@ -55,7 +55,7 @@ Each page says who the person is, how they relate to the family, and where to re
   </li>
   <li>
     <a class="entity-card entity-card--photo" href="/en/people/genya-samsonova/">
-      <img class="entity-card__photo" src="/photos/genya-samsonova/chart-portrait-thumb.jpg" alt="" width="96" height="120" loading="lazy">
+      <img class="entity-card__photo" src="/photos/genya-samsonova/chart-portrait-thumb.jpg" alt="Evgenia (Genya) Samsonova" width="96" height="120" loading="lazy">
       <span class="entity-card__body">
         <span class="entity-card__name">Evgenia (Genya) Samsonova</span>
         <span class="entity-card__desc">Elder sister; notebook chapters about her</span>
@@ -64,7 +64,7 @@ Each page says who the person is, how they relate to the family, and where to re
   </li>
   <li>
     <a class="entity-card entity-card--photo" href="/en/people/aleksandr-krivoshein/">
-      <img class="entity-card__photo" src="/photos/aleksandr-krivoshein/portrait-thumb.jpg" alt="" width="96" height="120" loading="lazy">
+      <img class="entity-card__photo" src="/photos/aleksandr-krivoshein/portrait-thumb.jpg" srcset="/photos/aleksandr-krivoshein/portrait-thumb.jpg 96w, /photos/aleksandr-krivoshein/portrait-md.jpg 240w" sizes="96px" alt="Aleksandr Dmitrievich Krivoshein (Sasha)" width="96" height="120" loading="lazy">
       <span class="entity-card__body">
         <span class="entity-card__name">Aleksandr Dmitrievich Krivoshein (Sasha)</span>
         <span class="entity-card__desc">Husband (1926–1988); Stalproekt; arrest 1949; return 1954; State Prize 1989</span>
@@ -73,7 +73,7 @@ Each page says who the person is, how they relate to the family, and where to re
   </li>
   <li>
     <a class="entity-card entity-card--photo" href="/en/people/nina-vasilievna-krivosheina/">
-      <img class="entity-card__photo" src="/photos/nina-vasilievna-krivosheina/portrait-thumb.jpg" alt="" width="96" height="120" loading="lazy">
+      <img class="entity-card__photo" src="/photos/nina-vasilievna-krivosheina/portrait-thumb.jpg" srcset="/photos/nina-vasilievna-krivosheina/portrait-thumb.jpg 96w, /photos/nina-vasilievna-krivosheina/portrait-md.jpg 240w" sizes="96px" alt="Nina Vasilievna Krivosheina" width="96" height="120" loading="lazy">
       <span class="entity-card__body">
         <span class="entity-card__name">Nina Vasilievna Krivosheina</span>
         <span class="entity-card__desc">Mother-in-law (1907–1991); mother of Sasha</span>

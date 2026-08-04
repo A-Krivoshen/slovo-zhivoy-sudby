@@ -55,6 +55,31 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Smoke-check key pages
+        run: |
+          set -euo pipefail
+          check() {
+            local f="$1"
+            test -f "public/$f" || { echo "missing: public/$f"; exit 1; }
+            # non-empty HTML
+            test "$(wc -c < "public/$f")" -gt 500 || { echo "too small: public/$f"; exit 1; }
+          }
+          check index.html
+          check vospominaniya/index.html
+          check vospominaniya/dnevnik/01-moya-mama/index.html
+          check lyudi/index.html
+          check foto/index.html
+          check mesta/index.html
+          check search/index.html
+          check 404.html
+          check en/index.html
+          check en/people/index.html
+          # design tokens / nav present
+          grep -q 'home-hero\|home-nav' public/index.html
+          grep -q 'entity-card' public/lyudi/index.html
+          grep -q 'not-found-page\|Страница не найдена' public/404.html
+          grep -q 'fonts/fonts.css\|Source Serif' public/index.html || grep -q 'fonts.css' public/index.html
+          echo "Smoke OK"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

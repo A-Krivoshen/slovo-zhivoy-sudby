@@ -8,15 +8,15 @@ translationKey: "places"
 Geography of the family chronicle: homes, work, war, memory.  
 Maps: **OpenStreetMap**, greyscale; no tourist widgets.
 
-## Place pages
+## Atlas of places
 
-| Place | Entity |
-| --- | --- |
-| [Family Moscow](/en/places/family-moscow/) | `place-moscow` |
-| [Hotel Metropol](/en/places/metropol-moscow/) | `place-metropol` |
-| [Serafimovich Street](/en/places/serafimovich-street/) | `place-serafimovich` |
-| [Crimea (family years)](/en/places/crimea-family/) | `place-crimea` |
-| [Sevastopol](/en/places/sevastopol/) | `place-sevastopol` |
-| [Stalingrad (Volgograd)](/en/places/stalingrad-volgograd/) | `place-stalingrad-volgograd` |
+<ul class="entity-card-grid places-atlas">
+  <li><a class="entity-card" href="/en/places/family-moscow/"><span class="entity-card__name">Family Moscow</span><span class="entity-card__desc">Homes and streets from the notebook</span></a></li>
+  <li><a class="entity-card" href="/en/places/metropol-moscow/"><span class="entity-card__name">Hotel Metropol</span><span class="entity-card__desc">First House of Soviets; early years</span></a></li>
+  <li><a class="entity-card" href="/en/places/serafimovich-street/"><span class="entity-card__name">Serafimovich Street</span><span class="entity-card__desc">Government House; letters from the front</span></a></li>
+  <li><a class="entity-card" href="/en/places/crimea-family/"><span class="entity-card__name">Crimea (family years)</span><span class="entity-card__desc">Trips, family, 1940s</span></a></li>
+  <li><a class="entity-card" href="/en/places/sevastopol/"><span class="entity-card__name">Sevastopol</span><span class="entity-card__desc">Visit; family connection</span></a></li>
+  <li><a class="entity-card" href="/en/places/stalingrad-volgograd/"><span class="entity-card__name">Stalingrad (Volgograd)</span><span class="entity-card__desc">Brother Tyoma; defence medal</span></a></li>
+</ul>
 
 See also: [Timeline](/en/timeline/) · [People](/en/people/) · [Events](/en/events/).

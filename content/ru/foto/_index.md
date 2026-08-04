@@ -11,22 +11,29 @@ translationKey: "photos"
 
 ## Альбомы
 
-<div class="album-grid">
-  <a class="album-card" href="/foto/tetrad-semya-prodolzhenie/">
+<div class="album-filter" role="group" aria-label="Фильтр альбомов">
+  <button type="button" class="album-filter__btn is-active" data-filter="all">Все</button>
+  <button type="button" class="album-filter__btn" data-filter="notebook">Тетрадь</button>
+  <button type="button" class="album-filter__btn" data-filter="family">Семья</button>
+  <button type="button" class="album-filter__btn" data-filter="portrait">Портреты</button>
+</div>
+
+<div class="album-grid" id="album-grid">
+  <a class="album-card" href="/foto/tetrad-semya-prodolzhenie/" data-tags="notebook family">
     <img src="/photos/archive-b02/b02-mp013-ph03.jpg" alt="Семья Самсоновых, ноябрь 1925" width="640" height="480" loading="lazy">
     <div class="album-card__body">
       <div class="album-card__title">Семейный фотоальбом продолжения</div>
       <div class="album-card__desc">Снимки из продолжения тетради: 1920–30-е, школа, возвращение Саши, дети</div>
     </div>
   </a>
-  <a class="album-card" href="/foto/samsonov-timofey-petrovich/">
+  <a class="album-card" href="/foto/samsonov-timofey-petrovich/" data-tags="family portrait">
     <img src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" alt="Студийный портрет Тимофея Петровича" width="640" height="480" loading="lazy">
     <div class="album-card__body">
       <div class="album-card__title">Самсонов Т. П.</div>
       <div class="album-card__desc">Портреты, исторический круг, документы-фото</div>
     </div>
   </a>
-  <a class="album-card" href="/foto/tatyana-timofeevna-2019/">
+  <a class="album-card" href="/foto/tatyana-timofeevna-2019/" data-tags="portrait family">
     <img src="/photos/tatyana-tt/2019-home-last-year.jpg" alt="Татьяна Тимофеевна дома, 2019" width="640" height="480" loading="lazy">
     <div class="album-card__body">
       <div class="album-card__title">Татьяна Тимофеевна, 2019</div>

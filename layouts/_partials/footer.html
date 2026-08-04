@@ -134,6 +134,43 @@
     }
     window.addEventListener("scroll", onScroll, { passive: true });
     onScroll();
+
+    /* Reading mode */
+    var readBtn = document.getElementById("reading-mode-toggle");
+    if (readBtn) {
+        var key = "szhs-reading-mode";
+        function applyReading(on) {
+            document.body.classList.toggle("reading-mode", on);
+            readBtn.setAttribute("aria-pressed", on ? "true" : "false");
+            try {
+                if (on) localStorage.setItem(key, "1");
+                else localStorage.removeItem(key);
+            } catch (e) {}
+        }
+        applyReading(localStorage.getItem(key) === "1");
+        readBtn.addEventListener("click", function () {
+            applyReading(!document.body.classList.contains("reading-mode"));
+        });
+    }
+
+    /* Photo album filter */
+    var filterBar = document.querySelector(".album-filter");
+    var albumGrid = document.getElementById("album-grid");
+    if (filterBar && albumGrid) {
+        filterBar.addEventListener("click", function (e) {
+            var btn = e.target.closest(".album-filter__btn");
+            if (!btn) return;
+            var f = btn.getAttribute("data-filter") || "all";
+            filterBar.querySelectorAll(".album-filter__btn").forEach(function (b) {
+                b.classList.toggle("is-active", b === btn);
+            });
+            albumGrid.querySelectorAll(".album-card").forEach(function (card) {
+                var tags = (card.getAttribute("data-tags") || "").split(/\s+/);
+                var show = f === "all" || tags.indexOf(f) !== -1;
+                card.classList.toggle("is-filtered-out", !show);
+            });
+        });
+    }
 })();
 </script>
 

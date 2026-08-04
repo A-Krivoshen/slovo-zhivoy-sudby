@@ -50,6 +50,11 @@ This site is not a news feed — it is a **map of family memory**. You can read 
 | [Eva Konstantinovna](/en/people/eva-konstantinovna-samsonova/) | Mother; “My mother” chapter |
 | [Timeline](/en/timeline/) | All milestones in order |
 
+<p class="home-publish-note">
+  We publish by <a href="/en/publishing-principles/">source and privacy principles</a>:
+  the original over a neat guess; living people handled carefully.
+</p>
+
 <p class="home-footnote">
   Gathered by her grandson
   <a href="https://krivoshein.site" rel="noopener" target="_blank">Alexey Krivoshein</a>.

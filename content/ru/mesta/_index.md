@@ -8,15 +8,15 @@ translationKey: "places"
 География семейной хроники: дома, работа, война, память.  
 Карты — **OpenStreetMap**, в ч/б; без «туристических» виджетов.
 
-## Страницы мест
+## Атлас мест
 
-| Место | Сущность |
-| --- | --- |
-| [Москва семейная](/mesta/moskva-semeynaya/) | `place-moscow` |
-| [Гостиница «Метрополь»](/mesta/metropol-moscow/) | `place-metropol` |
-| [Ул. Серафимовича](/mesta/serafimovich-street/) | `place-serafimovich` |
-| [Крым семейный](/mesta/crimea-family/) | `place-crimea` |
-| [Севастополь](/mesta/sevastopol/) | `place-sevastopol` |
-| [Сталинград (Волгоград)](/mesta/stalingrad-volgograd/) | `place-stalingrad-volgograd` |
+<ul class="entity-card-grid places-atlas">
+  <li><a class="entity-card" href="/mesta/moskva-semeynaya/"><span class="entity-card__name">Москва семейная</span><span class="entity-card__desc">Дома, улицы и быт из тетради</span></a></li>
+  <li><a class="entity-card" href="/mesta/metropol-moscow/"><span class="entity-card__name">Гостиница «Метрополь»</span><span class="entity-card__desc">1-й дом Советов; ранние годы</span></a></li>
+  <li><a class="entity-card" href="/mesta/serafimovich-street/"><span class="entity-card__name">Ул. Серафимовича</span><span class="entity-card__desc">Дом правительства; письма с фронта</span></a></li>
+  <li><a class="entity-card" href="/mesta/crimea-family/"><span class="entity-card__name">Крым семейный</span><span class="entity-card__desc">Поездки, семья, 1940-е</span></a></li>
+  <li><a class="entity-card" href="/mesta/sevastopol/"><span class="entity-card__name">Севастополь</span><span class="entity-card__desc">Визит; связь с семьёй</span></a></li>
+  <li><a class="entity-card" href="/mesta/stalingrad-volgograd/"><span class="entity-card__name">Сталинград (Волгоград)</span><span class="entity-card__desc">Брат Тёма; медаль за оборону</span></a></li>
+</ul>
 
 См. также: [Хронология](/hronologiya/) · [Люди](/lyudi/) · [События](/sobytiya/).

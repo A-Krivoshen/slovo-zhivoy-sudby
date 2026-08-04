@@ -1,4 +1,19 @@
 {{- define "main" }}
+{{- $isEn := eq site.Language.Lang "en" -}}
+{{- $inDiary := or (in .RelPermalink "/dnevnik/") (in .RelPermalink "/diary/") -}}
+
+<div class="reading-toolbar" role="toolbar" aria-label="{{ if $isEn }}Reading options{{ else }}Параметры чтения{{ end }}">
+  <button type="button" class="reading-mode-toggle" id="reading-mode-toggle"
+    aria-pressed="false"
+    title="{{ if $isEn }}Larger text, quieter chrome{{ else }}Крупнее текст, меньше отвлечений{{ end }}">
+    {{ if $isEn }}Reading mode{{ else }}Режим чтения{{ end }}
+  </button>
+</div>
+
+<div class="post-layout{{ if $inDiary }} post-layout--diary{{ end }}">
+  {{- if $inDiary -}}
+  {{- partial "diary_toc.html" . -}}
+  {{- end -}}
 
 <article class="post-single">
   <header class="post-header">
@@ -46,6 +61,10 @@
 
   {{- partial "extend_post_content.html" . }}
 
+  {{- if templates.Exists "_partials/continue_reading.html" -}}
+  {{- partial "continue_reading.html" . }}
+  {{- end }}
+
   {{- /* Typed related materials (entity graph / front matter); no-op if data missing */ -}}
   {{- if templates.Exists "_partials/related_materials.html" -}}
   {{- partial "related_materials.html" . }}
@@ -77,5 +96,6 @@
   {{- partial "comments.html" . }}
   {{- end }}
 </article>
+</div>
 
 {{- end }}{{/* end main */}}

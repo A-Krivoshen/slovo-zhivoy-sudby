@@ -11,22 +11,29 @@ Captions do **not** include **current** residential addresses. Historical notebo
 
 ## Albums
 
-<div class="album-grid">
-  <a class="album-card" href="/en/photos/notebook-family-continued/">
+<div class="album-filter" role="group" aria-label="Album filter">
+  <button type="button" class="album-filter__btn is-active" data-filter="all">All</button>
+  <button type="button" class="album-filter__btn" data-filter="notebook">Notebook</button>
+  <button type="button" class="album-filter__btn" data-filter="family">Family</button>
+  <button type="button" class="album-filter__btn" data-filter="portrait">Portraits</button>
+</div>
+
+<div class="album-grid" id="album-grid">
+  <a class="album-card" href="/en/photos/notebook-family-continued/" data-tags="notebook family">
     <img src="/photos/archive-b02/b02-mp013-ph03.jpg" alt="Samsonov family, November 1925" width="640" height="480" loading="lazy">
     <div class="album-card__body">
       <div class="album-card__title">Family photo album (continuation)</div>
       <div class="album-card__desc">Notebook prints: 1920s–30s, school, Sasha’s return, children</div>
     </div>
   </a>
-  <a class="album-card" href="/en/photos/samsonov-timofey-petrovich/">
+  <a class="album-card" href="/en/photos/samsonov-timofey-petrovich/" data-tags="family portrait">
     <img src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" alt="Studio portrait of Timofey Petrovich" width="640" height="480" loading="lazy">
     <div class="album-card__body">
       <div class="album-card__title">T. P. Samsonov</div>
       <div class="album-card__desc">Portraits, historical circle, document photos</div>
     </div>
   </a>
-  <a class="album-card" href="/en/photos/tatyana-timofeevna-2019/">
+  <a class="album-card" href="/en/photos/tatyana-timofeevna-2019/" data-tags="portrait family">
     <img src="/photos/tatyana-tt/2019-home-last-year.jpg" alt="Tatyana Timofeevna at home, 2019" width="640" height="480" loading="lazy">
     <div class="album-card__body">
       <div class="album-card__title">Tatyana Timofeevna, 2019</div>

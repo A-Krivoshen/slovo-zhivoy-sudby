@@ -1,0 +1,72 @@
+{{- /*
+  “Continue reading” for diary/section pages: siblings, hub links.
+*/ -}}
+{{- if not . -}}
+{{- else if not .IsPage -}}
+{{- else -}}
+{{- $lang := site.Language.Lang -}}
+{{- $isEn := eq $lang "en" -}}
+{{- $section := .CurrentSection -}}
+{{- $pages := $section.RegularPages.ByWeight -}}
+{{- if lt (len $pages) 2 -}}
+  {{- $pages = $section.RegularPages.ByTitle -}}
+{{- end -}}
+{{- $siblings := slice -}}
+{{- with $pages.Next . }}{{ $siblings = $siblings | append . }}{{ end -}}
+{{- with $pages.Prev . }}{{ $siblings = $siblings | append . }}{{ end -}}
+
+{{- /* Only show on nested content (diary chapters, people, etc.) */ -}}
+{{- if or (gt (len $siblings) 0) .Parent -}}
+<aside class="continue-reading" aria-label="{{ if $isEn }}Continue reading{{ else }}Читать дальше{{ end }}">
+  <h2 class="continue-reading__title">{{ if $isEn }}Continue reading{{ else }}Читать дальше{{ end }}</h2>
+  <ul class="continue-reading__list">
+    {{- range $siblings -}}
+    <li>
+      <a href="{{ .Permalink }}">
+        <span class="continue-reading__label">{{ .LinkTitle | default .Title }}</span>
+        {{- with .Description -}}
+        <span class="continue-reading__meta">{{ . | truncate 90 }}</span>
+        {{- end -}}
+      </a>
+    </li>
+    {{- end -}}
+    {{- /* Section hub */ -}}
+    {{- with $section -}}
+    {{- if not .IsHome -}}
+    <li>
+      <a href="{{ .Permalink }}">
+        <span class="continue-reading__label">{{ if $isEn }}All in “{{ .Title }}”{{ else }}Все в разделе «{{ .Title }}»{{ end }}</span>
+      </a>
+    </li>
+    {{- end -}}
+    {{- end -}}
+    {{- /* Diary hub when nested under diary */ -}}
+    {{- $sec := .Section -}}
+    {{- if or (eq $sec "vospominaniya") (eq $sec "memoirs") -}}
+    <li>
+      <a href="{{ if $isEn }}{{ "memoirs/diary/" | relLangURL }}{{ else }}{{ "vospominaniya/dnevnik/" | relLangURL }}{{ end }}">
+        <span class="continue-reading__label">{{ if $isEn }}Notebook chapter list{{ else }}Список глав тетради{{ end }}</span>
+      </a>
+    </li>
+    <li>
+      <a href="{{ if $isEn }}{{ "people/" | relLangURL }}{{ else }}{{ "lyudi/" | relLangURL }}{{ end }}">
+        <span class="continue-reading__label">{{ if $isEn }}People in the archive{{ else }}Люди архива{{ end }}</span>
+      </a>
+    </li>
+    {{- else if or (eq $sec "lyudi") (eq $sec "people") -}}
+    <li>
+      <a href="{{ if $isEn }}{{ "memoirs/diary/" | relLangURL }}{{ else }}{{ "vospominaniya/dnevnik/" | relLangURL }}{{ end }}">
+        <span class="continue-reading__label">{{ if $isEn }}Her notebook{{ else }}Её тетрадь{{ end }}</span>
+      </a>
+    </li>
+    {{- else if or (eq $sec "dokumenty") (eq $sec "documents") -}}
+    <li>
+      <a href="{{ if $isEn }}{{ "people/" | relLangURL }}{{ else }}{{ "lyudi/" | relLangURL }}{{ end }}">
+        <span class="continue-reading__label">{{ if $isEn }}People{{ else }}Люди{{ end }}</span>
+      </a>
+    </li>
+    {{- end -}}
+  </ul>
+</aside>
+{{- end -}}
+{{- end -}}

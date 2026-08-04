@@ -1,0 +1,45 @@
+{{- /*
+  Side chapter list for diary pages (desktop sticky).
+*/ -}}
+{{- if not . -}}
+{{- else -}}
+{{- $lang := site.Language.Lang -}}
+{{- $isEn := eq $lang "en" -}}
+{{- $inDiary := false -}}
+{{- if or (in .RelPermalink "/dnevnik/") (in .RelPermalink "/diary/") -}}
+  {{- $inDiary = true -}}
+{{- end -}}
+{{- if $inDiary -}}
+{{- $hub := false -}}
+{{- if $isEn -}}
+  {{- $hub = site.GetPage "/memoirs/diary" -}}
+{{- else -}}
+  {{- $hub = site.GetPage "/vospominaniya/dnevnik" -}}
+{{- end -}}
+{{- $pages := slice -}}
+{{- with $hub -}}
+  {{- $pages = .RegularPages.ByWeight -}}
+  {{- if eq (len $pages) 0 -}}
+    {{- $pages = .RegularPages.ByTitle -}}
+  {{- end -}}
+{{- end -}}
+{{- if gt (len $pages) 1 -}}
+<nav class="diary-toc" aria-label="{{ if $isEn }}Notebook chapters{{ else }}Главы тетради{{ end }}">
+  <p class="diary-toc__heading">{{ if $isEn }}Chapters{{ else }}Главы{{ end }}</p>
+  <ol class="diary-toc__list">
+    {{- range $pages -}}
+    <li>
+      <a href="{{ .Permalink }}"
+        {{- if eq $.Permalink .Permalink }} class="is-current" aria-current="page"{{ end }}>
+        {{ .LinkTitle | default .Title }}
+      </a>
+    </li>
+    {{- end -}}
+  </ol>
+  {{- with $hub -}}
+  <p class="diary-toc__hub"><a href="{{ .Permalink }}">{{ if $isEn }}Full list{{ else }}Полный список{{ end }}</a></p>
+  {{- end -}}
+</nav>
+{{- end -}}
+{{- end -}}
+{{- end -}}

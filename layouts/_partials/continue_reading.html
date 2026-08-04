@@ -7,10 +7,7 @@
 {{- $lang := site.Language.Lang -}}
 {{- $isEn := eq $lang "en" -}}
 {{- $section := .CurrentSection -}}
-{{- $pages := $section.RegularPages.ByWeight -}}
-{{- if lt (len $pages) 2 -}}
-  {{- $pages = $section.RegularPages.ByTitle -}}
-{{- end -}}
+{{- $pages := sort $section.RegularPages "File.Path" "asc" -}}
 {{- $siblings := slice -}}
 {{- with $pages.Next . }}{{ $siblings = $siblings | append . }}{{ end -}}
 {{- with $pages.Prev . }}{{ $siblings = $siblings | append . }}{{ end -}}

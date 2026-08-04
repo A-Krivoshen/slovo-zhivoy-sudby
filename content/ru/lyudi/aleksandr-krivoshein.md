@@ -29,15 +29,19 @@ cover:
 
 ## Фото
 
-{{< figure src="/photos/aleksandr-krivoshein/chart-young-portrait.jpg" alt="Молодой А. Д. Кривошеин со схемы" caption="«Муж Самсоновой Т.Т.» — портрет со схемы (стр. 004)." >}}
+<div class="person-gallery">
 
-{{< figure src="/photos/aleksandr-krivoshein/portrait.jpg" alt="Портрет Александра Дмитриевича Кривошеина в светлой рубашке и галстуке" caption="Александр Дмитриевич Кривошеин, муж Татьяны Тимофеевны. Семейная фотография; дата съёмки пока не установлена." >}}
+{{< figure src="/photos/aleksandr-krivoshein/chart-young-portrait.jpg" alt="Молодой А. Д. Кривошеин со схемы" caption="Со схемы тетради (стр. 004)." >}}
 
-Портрет **подтверждён семьёй** (Алексей Кривошеин, 2 августа 2026) как изображение Александра Дмитриевича. Жена — [Татьяна Тимофеевна Кривошеина](/lyudi/tatyana-timofeevna-krivosheina/).
+{{< figure src="/photos/aleksandr-krivoshein/portrait.jpg" alt="Портрет Александра Дмитриевича Кривошеина в светлой рубашке и галстуке" caption="Семейный портрет; дата съёмки пока не установлена." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="«Саша вернулся. Лето 1954. У Петровского леса». Саша — А. Д. Кривошеин, муж Т. Т." >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="«Саша вернулся. Лето 1954»." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph02.jpg" caption="У Москвы-реки. Петровский лес. Лето 1954. С А. Д. Кривошеиным (Сашей)." >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph02.jpg" caption="У Москвы-реки, лето 1954." >}}
+
+</div>
+
+Портрет **подтверждён семьёй** (2026-08-02). Жена — [Татьяна Тимофеевна](/lyudi/tatyana-timofeevna-krivosheina/). Альбом: [семейный фотоальбом продолжения](/foto/tetrad-semya-prodolzhenie/).
 
 {{< figure src="/photos/archive-b02/b02-mp072-ph03.jpg" caption="После возвращения Саши (А. Д. Кривошеина) — семейный кадр, 1954." >}}
 

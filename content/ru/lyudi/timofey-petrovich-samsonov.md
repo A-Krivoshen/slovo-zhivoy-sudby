@@ -35,13 +35,17 @@ cover:
 
 Страница собрана по **семейной рукописи и документам** и **сверена** с открытыми справочниками (см. [открытые источники](#открытые-источники)). Wikipedia и Wikidata — **навигация**, не единственное доказательство. Спорные места помечены.
 
-{{< figure src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" caption="Молодой Тимофей Петрович. Ателье «Капустинский / Шереметьев», Москва. Подпись дочери: «мой папа»." >}}
+<div class="person-gallery">
+{{< figure src="/photos/samsonov-tp/05-studio-moscow-oval.jpg" caption="Молодой Тимофей Петрович. Ателье в Москве. Подпись дочери: «мой папа»." >}}
+{{< figure src="/photos/samsonov-tp/09-alexandrovsky-central-1910.jpg" caption="Александровский централ, 1910." >}}
+{{< figure src="/photos/samsonov-tp/07-bust-1888-1955.jpg" caption="Бюст: 1888–1955." >}}
+</div>
 
 {{< archive_note type="source" >}}
 **Не путать** с сыном [Самсоновым Тимофеем Тимофеевичем](/lyudi/timofey-timofeevich-samsonov/) (Тёма; медаль «За оборону Сталинграда»).
 {{< /archive_note >}}
 
-Альбомный разворот с грамотами и снимками: [раздел «Родители»](/roditeli/samsonov-timofey-petrovich/) · [фотоальбом](/foto/samsonov-timofey-petrovich/).
+Альбом: [раздел «Родители»](/roditeli/samsonov-timofey-petrovich/) · [фотоальбом](/foto/samsonov-timofey-petrovich/).
 
 ## Имя и происхождение
 

@@ -32,6 +32,13 @@
 {{- end }}
     <a class="skip-link" href="#main-content">{{ if eq site.Language.Lang "en" }}Skip to content{{ else }}К содержанию{{ end }}</a>
     {{ partial "header.html" . -}}
+    <div id="resume-reading" class="resume-reading" hidden>
+      <p class="resume-reading__text"></p>
+      <div class="resume-reading__actions">
+        <a class="resume-reading__go" href="#">{{ if eq site.Language.Lang "en" }}Continue{{ else }}Продолжить{{ end }}</a>
+        <button type="button" class="resume-reading__dismiss" id="resume-reading-dismiss">{{ if eq site.Language.Lang "en" }}Dismiss{{ else }}Скрыть{{ end }}</button>
+      </div>
+    </div>
     <main class="main" id="main-content" tabindex="-1">
         {{- block "main" . }}{{ end }}
     </main>

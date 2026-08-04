@@ -51,8 +51,9 @@ This site is not a news feed — it is a **map of family memory**. You can read 
 | [Timeline](/en/timeline/) | All milestones in order |
 
 <p class="home-publish-note">
-  We publish by <a href="/en/publishing-principles/">source and privacy principles</a>:
-  the original over a neat guess; living people handled carefully.
+  New here? <a href="/en/start-here/">Where to start</a> —
+  a short route. We publish by
+  <a href="/en/publishing-principles/">source and privacy principles</a>.
 </p>
 
 <p class="home-footnote">

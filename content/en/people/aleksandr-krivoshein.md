@@ -29,21 +29,21 @@ cover:
 
 ## Photographs
 
-{{< figure src="/photos/aleksandr-krivoshein/chart-young-portrait.jpg" alt="Young A. D. Krivoshein from the chart" caption="“Husband of Samsonova T.T.” — portrait from the chart (p. 004)." >}}
+<div class="person-gallery">
 
-{{< figure src="/photos/aleksandr-krivoshein/portrait.jpg" alt="Portrait of Aleksandr Dmitrievich Krivoshein wearing a light shirt and tie" caption="Aleksandr Dmitrievich Krivoshein, husband of Tatyana Timofeevna. Family photograph; the date has not yet been established." >}}
+{{< figure src="/photos/aleksandr-krivoshein/chart-young-portrait.jpg" alt="Young A. D. Krivoshein from the chart" caption="From the notebook chart (p. 004)." >}}
 
-Portrait **confirmed by the family** (Aleksei Krivoshein, 2 August 2026) as Aleksandr Dmitrievich. Wife: [Tatyana Timofeevna Krivosheina](/en/people/tatyana-timofeevna-krivosheina/).
+{{< figure src="/photos/aleksandr-krivoshein/portrait.jpg" alt="Portrait of Aleksandr Dmitrievich Krivoshein wearing a light shirt and tie" caption="Family portrait; date not yet established." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="“Sasha returned. Summer 1954. By Petrovsky forest.” Sasha = A. D. Krivoshein, husband of T. T." >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph01.jpg" caption="“Sasha returned. Summer 1954.”" >}}
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph02.jpg" caption="By the Moskva River. Summer 1954. With A. D. Krivoshein (Sasha)." >}}
+{{< figure src="/photos/archive-b02/b02-mp072-ph02.jpg" caption="By the Moskva River, summer 1954." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp072-ph03.jpg" caption="After Sasha’s return (A. D. Krivoshein) — family frame, 1954." >}}
+{{< figure src="/photos/archive-b02/b02-mp075-ph03.jpg" caption="Kosino, 1954. Mitya and Sasha." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp075-ph03.jpg" caption="Kosino, 1954. Mitya and Sasha (A. D. Krivoshein)." >}}
+</div>
 
-[Album continued](/en/photos/notebook-family-continued/) · [Youth and Sasha](/en/memoirs/diary/16-friends-victory-134-139/) · [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/)
+Portrait **confirmed by the family** (2026-08-02). Wife: [Tatyana Timofeevna](/en/people/tatyana-timofeevna-krivosheina/). [Album continued](/en/photos/notebook-family-continued/).
 
 ---
 

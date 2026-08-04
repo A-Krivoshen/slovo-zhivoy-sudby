@@ -51,8 +51,9 @@ translationKey: "home"
 | [Хронология](/hronologiya/) | Все вехи подряд |
 
 <p class="home-publish-note">
-  Публикуем по <a href="/printsipy-publikacii/">принципам источников и приватности</a>:
-  оригинал важнее красивой догадки; живые люди — осторожно.
+  Впервые на сайте? <a href="/s-chego-nachat/">С чего начать</a> —
+  короткий маршрут. Публикуем по
+  <a href="/printsipy-publikacii/">принципам источников и приватности</a>.
 </p>
 
 <p class="home-footnote">

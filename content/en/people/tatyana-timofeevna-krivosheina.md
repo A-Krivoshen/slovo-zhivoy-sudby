@@ -37,17 +37,21 @@ cover:
 
 ## Photographs
 
-{{< figure src="/photos/tatyana-tt/garden-portrait.jpg" alt="Tatyana Timofeevna Krivosheina in a light-coloured hat and dress in a garden" caption="Tatyana Timofeevna Krivosheina (née Samsonova). Family photograph; date and place not yet established. Confirmed by the family (2026-08-02)." >}}
+<div class="person-gallery">
 
-{{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="Tatyana Timofeevna at home, 15 April 2019. Family archive." >}}
+{{< figure src="/photos/tatyana-tt/garden-portrait.jpg" alt="Tatyana Timofeevna Krivosheina in a light-coloured hat and dress in a garden" caption="Tatyana Timofeevna (née Samsonova). Date not yet established." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp068-ph02.jpg" caption="“I am 12” — portrait of Tatyana (from the notebook)." >}}
+{{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="At home, 15 April 2019." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp038-ph01.jpg" caption="Class 6 “A”. Tanya Samsonova among classmates." >}}
+{{< figure src="/photos/archive-b02/b02-mp068-ph02.jpg" caption="“I am 12” — from the notebook." >}}
 
-{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="T. T. Krivosheina — senior lecturer, Institute of Steel and Alloys. Family archive." >}}
+{{< figure src="/photos/archive-b02/b02-mp038-ph01.jpg" caption="Class 6 “A”." >}}
 
-Also: [2019 album](/en/photos/tatyana-timofeevna-2019/) · [notebook family album](/en/photos/notebook-family-continued/)
+{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="Senior lecturer, steel institute." >}}
+
+</div>
+
+Also: [2019 album](/en/photos/tatyana-timofeevna-2019/) · [notebook family album](/en/photos/notebook-family-continued/) · [diary](/en/memoirs/diary/)
 
 ---
 

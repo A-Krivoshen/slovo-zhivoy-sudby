@@ -31,15 +31,17 @@
         </p>
         <ul class="search-hints">
             {{- if $isEn }}
+            <li><a href="{{ "start-here/" | relLangURL }}">Where to start</a> — short visitor path</li>
             <li><a href="{{ "memoirs/diary/01-my-mother/" | relLangURL }}">My mother</a> — first notebook chapter</li>
             <li><a href="{{ "people/tatyana-timofeevna-krivosheina/" | relLangURL }}">Tatyana Timofeevna</a></li>
             <li><a href="{{ "people/aleksandr-krivoshein/" | relLangURL }}">Aleksandr (Sasha)</a></li>
-            <li><a href="{{ "timeline/" | relLangURL }}">Timeline</a></li>
+            <li><a href="{{ "timeline/" | relLangURL }}">Timeline</a> · try also: 1941, Stalingrad</li>
             {{- else }}
+            <li><a href="{{ "s-chego-nachat/" | relLangURL }}">С чего начать</a> — короткий маршрут</li>
             <li><a href="{{ "vospominaniya/dnevnik/01-moya-mama/" | relLangURL }}">Моя мама</a> — первая глава тетради</li>
             <li><a href="{{ "lyudi/tatyana-timofeevna-krivosheina/" | relLangURL }}">Татьяна Тимофеевна</a></li>
             <li><a href="{{ "lyudi/aleksandr-krivoshein/" | relLangURL }}">Александр (Саша)</a></li>
-            <li><a href="{{ "hronologiya/" | relLangURL }}">Хронология</a></li>
+            <li><a href="{{ "hronologiya/" | relLangURL }}">Хронология</a> · также: 1941, Сталинград</li>
             {{- end }}
         </ul>
     </div>

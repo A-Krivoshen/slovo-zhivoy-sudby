@@ -171,6 +171,56 @@
             });
         });
     }
+
+    /* Resume reading bookmark (diary / long pages) */
+    (function () {
+        var KEY = "szhs-resume-reading";
+        var path = location.pathname;
+        var isDiary = /\/dnevnik\/|\/diary\//.test(path) && !/\/dnevnik\/?$|\/diary\/?$/.test(path);
+        var isHome = path === "/" || path === "/en/" || path === "/en";
+        var banner = document.getElementById("resume-reading");
+        var titleEl = document.querySelector(".post-title");
+        var pageTitle = titleEl ? titleEl.textContent.trim() : document.title;
+
+        if (isDiary && pageTitle) {
+            try {
+                localStorage.setItem(KEY, JSON.stringify({
+                    url: location.pathname + location.search,
+                    title: pageTitle,
+                    t: Date.now()
+                }));
+            } catch (e) {}
+        }
+
+        if (!banner || !isHome) return;
+        try {
+            var raw = localStorage.getItem(KEY);
+            if (!raw) return;
+            var data = JSON.parse(raw);
+            if (!data || !data.url || !data.title) return;
+            /* stale after 90 days */
+            if (data.t && (Date.now() - data.t > 90 * 24 * 3600 * 1000)) {
+                localStorage.removeItem(KEY);
+                return;
+            }
+            if (data.url === path) return;
+            var text = banner.querySelector(".resume-reading__text");
+            var go = banner.querySelector(".resume-reading__go");
+            var dismiss = document.getElementById("resume-reading-dismiss");
+            if (text) {
+                var prefix = {{ if eq site.Language.Lang "en" }}"Continue reading: "{{ else }}"Продолжить чтение: "{{ end }};
+                text.textContent = prefix + data.title;
+            }
+            if (go) go.setAttribute("href", data.url);
+            banner.hidden = false;
+            if (dismiss) {
+                dismiss.addEventListener("click", function () {
+                    banner.hidden = true;
+                    try { localStorage.removeItem(KEY); } catch (e) {}
+                });
+            }
+        } catch (e) {}
+    })();
 })();
 </script>
 

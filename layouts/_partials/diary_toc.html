@@ -1,14 +1,11 @@
 {{- /*
-  Side chapter list for diary pages (desktop sticky).
+  Chapter list for diary pages: sticky on desktop, collapsible on mobile.
 */ -}}
 {{- if not . -}}
 {{- else -}}
 {{- $lang := site.Language.Lang -}}
 {{- $isEn := eq $lang "en" -}}
-{{- $inDiary := false -}}
-{{- if or (in .RelPermalink "/dnevnik/") (in .RelPermalink "/diary/") -}}
-  {{- $inDiary = true -}}
-{{- end -}}
+{{- $inDiary := or (in .RelPermalink "/dnevnik/") (in .RelPermalink "/diary/") -}}
 {{- if $inDiary -}}
 {{- $hub := false -}}
 {{- if $isEn -}}
@@ -18,13 +15,11 @@
 {{- end -}}
 {{- $pages := slice -}}
 {{- with $hub -}}
-  {{- $pages = .RegularPages.ByWeight -}}
-  {{- if eq (len $pages) 0 -}}
-    {{- $pages = .RegularPages.ByTitle -}}
-  {{- end -}}
+  {{- $pages = sort .RegularPages "File.Path" "asc" -}}
 {{- end -}}
 {{- if gt (len $pages) 1 -}}
-<nav class="diary-toc" aria-label="{{ if $isEn }}Notebook chapters{{ else }}Главы тетради{{ end }}">
+{{- /* Desktop sticky */ -}}
+<nav class="diary-toc diary-toc--desktop" aria-label="{{ if $isEn }}Notebook chapters{{ else }}Главы тетради{{ end }}">
   <p class="diary-toc__heading">{{ if $isEn }}Chapters{{ else }}Главы{{ end }}</p>
   <ol class="diary-toc__list">
     {{- range $pages -}}
@@ -40,6 +35,23 @@
   <p class="diary-toc__hub"><a href="{{ .Permalink }}">{{ if $isEn }}Full list{{ else }}Полный список{{ end }}</a></p>
   {{- end -}}
 </nav>
+{{- /* Mobile collapsible */ -}}
+<details class="diary-toc diary-toc--mobile">
+  <summary class="diary-toc__summary">{{ if $isEn }}Notebook chapters{{ else }}Главы тетради{{ end }}</summary>
+  <ol class="diary-toc__list">
+    {{- range $pages -}}
+    <li>
+      <a href="{{ .Permalink }}"
+        {{- if eq $.Permalink .Permalink }} class="is-current" aria-current="page"{{ end }}>
+        {{ .LinkTitle | default .Title }}
+      </a>
+    </li>
+    {{- end -}}
+  </ol>
+  {{- with $hub -}}
+  <p class="diary-toc__hub"><a href="{{ .Permalink }}">{{ if $isEn }}Full list{{ else }}Полный список{{ end }}</a></p>
+  {{- end -}}
+</details>
 {{- end -}}
 {{- end -}}
 {{- end -}}

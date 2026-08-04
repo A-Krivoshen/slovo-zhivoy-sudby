@@ -1,0 +1,16 @@
+{{- /*
+  Prominent next-chapter CTA for diary (and section) pages.
+*/ -}}
+{{- if and . .IsPage -}}
+{{- $isEn := eq site.Language.Lang "en" -}}
+{{- $pages := sort .CurrentSection.RegularPages "File.Path" "asc" -}}
+{{- /* Path-sorted: Next = previous file, Prev = next file in reading order. */ -}}
+{{- with $pages.Prev . -}}
+<p class="next-chapter">
+  <a class="next-chapter__link" href="{{ .Permalink }}">
+    <span class="next-chapter__kicker">{{ if $isEn }}Next chapter{{ else }}Следующая глава{{ end }}</span>
+    <span class="next-chapter__title">{{ .LinkTitle | default .Title }}</span>
+  </a>
+</p>
+{{- end -}}
+{{- end -}}

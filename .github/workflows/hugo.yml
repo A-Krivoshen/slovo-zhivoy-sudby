@@ -79,6 +79,12 @@ jobs:
           grep -q 'entity-card' public/lyudi/index.html
           grep -q 'not-found-page\|Страница не найдена' public/404.html
           grep -q 'fonts/fonts.css\|Source Serif' public/index.html || grep -q 'fonts.css' public/index.html
+          grep -q 'continue-reading\|next-chapter\|reading-mode-toggle' public/vospominaniya/dnevnik/01-moya-mama/index.html
+          grep -q 'diary-toc' public/vospominaniya/dnevnik/01-moya-mama/index.html
+          grep -q 'album-filter' public/foto/index.html
+          grep -q 'person-gallery' public/lyudi/tatyana-timofeevna-krivosheina/index.html
+          grep -q 's-chego-nachat\|С чего начать' public/s-chego-nachat/index.html
+          grep -q 'resume-reading' public/index.html
           echo "Smoke OK"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

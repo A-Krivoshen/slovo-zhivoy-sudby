@@ -2,15 +2,9 @@
   Prev/next within current section (diary chapters, people, etc.).
   Falls back to parent section when the page is nested.
 */ -}}
-{{- $pages := .CurrentSection.RegularPages.ByWeight -}}
-{{- if lt (len $pages) 2 -}}
-  {{- $pages = .CurrentSection.RegularPages.ByTitle -}}
-{{- end -}}
+{{- $pages := sort .CurrentSection.RegularPages "File.Path" "asc" -}}
 {{- if and (lt (len $pages) 2) .Parent -}}
-  {{- $pages = .Parent.RegularPages.ByWeight -}}
-  {{- if lt (len $pages) 2 -}}
-    {{- $pages = .Parent.RegularPages.ByTitle -}}
-  {{- end -}}
+  {{- $pages = sort .Parent.RegularPages "File.Path" "asc" -}}
 {{- end -}}
 {{- if and (gt (len $pages) 1) (in $pages .) }}
 <nav class="post-nav paginav" aria-label="{{ if eq site.Language.Lang "en" }}Chapter navigation{{ else }}Навигация по главам{{ end }}">

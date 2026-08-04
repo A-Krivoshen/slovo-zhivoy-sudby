@@ -38,17 +38,21 @@ cover:
 
 ## Фото
 
-{{< figure src="/photos/tatyana-tt/garden-portrait.jpg" alt="Татьяна Тимофеевна Кривошеина в светлой шляпе и платье среди садовых растений" caption="Татьяна Тимофеевна Кривошеина (урождённая Самсонова). Семейная фотография; дата и место съёмки пока не установлены. Подтверждена семьёй (2026-08-02)." >}}
+<div class="person-gallery">
 
-{{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="Татьяна Тимофеевна дома, 15 апреля 2019. Семейный архив." >}}
+{{< figure src="/photos/tatyana-tt/garden-portrait.jpg" alt="Татьяна Тимофеевна Кривошеина в светлой шляпе и платье среди садовых растений" caption="Татьяна Тимофеевна (урожд. Самсонова). Дата съёмки пока не установлена." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp068-ph02.jpg" caption="«Мне 12 лет» — портрет Татьяны (из тетради)." >}}
+{{< figure src="/photos/tatyana-tt/2019-home-last-year.jpg" caption="Дома, 15 апреля 2019." >}}
 
-{{< figure src="/photos/archive-b02/b02-mp038-ph01.jpg" caption="Класс 6 «а». Таня Самсонова среди одноклассников." >}}
+{{< figure src="/photos/archive-b02/b02-mp068-ph02.jpg" caption="«Мне 12 лет» — из тетради." >}}
 
-{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="Кривошеина Т. Т. — старший преподаватель, Институт стали и сплавов. Семейный архив." >}}
+{{< figure src="/photos/archive-b02/b02-mp038-ph01.jpg" caption="Класс 6 «а»." >}}
 
-Ещё: [альбом 2019](/foto/tatyana-timofeevna-2019/) · [семейный альбом продолжения](/foto/tetrad-semya-prodolzhenie/)
+{{< figure src="/photos/samsonov-tp/12-krivoshina-tt-lecturer.jpg" caption="Старший преподаватель, МИСиС." >}}
+
+</div>
+
+Ещё: [альбом 2019](/foto/tatyana-timofeevna-2019/) · [семейный альбом продолжения](/foto/tetrad-semya-prodolzhenie/) · [тетрадь](/vospominaniya/dnevnik/)
 
 ---
 

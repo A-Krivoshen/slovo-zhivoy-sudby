@@ -153,6 +153,11 @@ timeZone = 'Europe/Moscow'
     url = '/istoriya/'
     weight = 40
   [[languages.ru.menu.more]]
+    identifier = 'start-here'
+    name = 'С чего начать'
+    url = '/s-chego-nachat/'
+    weight = 5
+  [[languages.ru.menu.more]]
     identifier = 'o-proekte'
     name = 'О проекте'
     url = '/o-proekte/'
@@ -269,6 +274,11 @@ timeZone = 'Europe/Moscow'
     name = 'History'
     url = '/en/history/'
     weight = 40
+  [[languages.en.menu.more]]
+    identifier = 'start-here'
+    name = 'Where to start'
+    url = '/en/start-here/'
+    weight = 5
   [[languages.en.menu.more]]
     identifier = 'about'
     name = 'About'

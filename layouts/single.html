@@ -61,6 +61,10 @@
 
   {{- partial "extend_post_content.html" . }}
 
+  {{- if templates.Exists "_partials/next_chapter.html" -}}
+  {{- partial "next_chapter.html" . }}
+  {{- end }}
+
   {{- if templates.Exists "_partials/continue_reading.html" -}}
   {{- partial "continue_reading.html" . }}
   {{- end }}

@@ -1,0 +1,8 @@
+# Merged only for the SourceCraft Sites mirror:
+#   hugo --config hugo.toml,config-sourcecraft.toml
+# Do not use this for the VPS build of сжс.рф.
+baseURL = 'https://krivoshein-slon.sourcecraft.site/szhz/'
+canonifyURLs = true
+
+[params]
+  env = 'sourcecraft'

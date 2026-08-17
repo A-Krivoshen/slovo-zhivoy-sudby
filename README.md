@@ -85,7 +85,7 @@ hugo new content/en/memoirs/name.md --kind memoir
 | Куда | Как |
 | --- | --- |
 | GitHub Pages | push в `main` → workflow **Deploy Hugo site to Pages** |
-| SourceCraft Sites | тот же `main` в `krivoshein-slon/szhz` → CI кладёт статику в ветку `release` → [szhz на Sites](https://krivoshein-slon.sourcecraft.site/szhz/) |
+| SourceCraft Sites | зеркало без своего домена: CI собирает с `baseURL` `/szhz/`, `noindex` → [длинная ссылка](https://krivoshein-slon.sourcecraft.site/szhz/) |
 
 Конфиг хостинга: [`.sourcecraft/sites.yaml`](./.sourcecraft/sites.yaml). Свой домен `сжс.рф` в панели Beget: ALIAS/CNAME на `krivoshein-slon.sourcecraft.site` (см. инструкцию в переписке / после проверки preview).
 

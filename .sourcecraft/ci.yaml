@@ -26,8 +26,8 @@ workflows:
               - wget -q -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.164.0/hugo_extended_0.164.0_linux-amd64.deb
               - dpkg -i /tmp/hugo.deb
               - git submodule update --init --recursive
-              - hugo --environment sourcecraft --config hugo.toml,config-sourcecraft.toml --minify --destination site
-              - printf 'User-agent: *\nDisallow: /\n' > site/robots.txt
+              - "hugo --environment sourcecraft --config hugo.toml,config-sourcecraft.toml --minify --destination site"
+              - "printf 'User-agent: *\\nDisallow: /\\n' > site/robots.txt"
               - git config user.name "sourcecraft-ci"
               - git config user.email "ci@users.noreply.sourcecraft.dev"
               - git checkout -B release

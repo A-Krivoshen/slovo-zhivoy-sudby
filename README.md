@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Слово Живой Судьбы — семейный архив о Кривошеиной Татьяне Тимофеевне">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Слово Живой Судьбы — открытый семейный архив мемуаров Татьяны Тимофеевны Кривошеиной, сайт сжс.рф">
 </p>
 
 <p align="center">
@@ -7,66 +7,14 @@
   ·
   <a href="https://сжс.рф/en/">English</a>
   ·
-  <a href="./docs/WORKFLOW.md">Инструкция</a>
+  <a href="https://krivoshein-slon.sourcecraft.site/szhz/">SourceCraft</a>
   ·
-  <a href="./inbox/README.md">Inbox</a>
+  <a href="./docs/WORKFLOW.md">Инструкция</a>
 </p>
 
-Семейный архив о жизни **Кривошеиной Татьяны Тимофеевны**: мемуары, родители, исторический контекст, фото и документы.
+Семейный архив о **Кривошеиной Татьяне Тимофеевне**: мемуары, родители, фото, документы. Русский по умолчанию, английский на `/en/`.
 
-- **Сайт:** https://сжс.рф/
-- **Стек:** [Hugo](https://gohugo.io/) + [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-- **Языки:** русский (по умолчанию), English (`/en/`)
-
----
-
-<p align="center">
-  <img src="./assets/readme/workflow.svg" width="100%" alt="Пайплайн: скан → inbox → разбор → transcripts → content → сжс.рф">
-</p>
-
-### Как мы работаем
-
-1. Отец / семья фотографирует рукописи → `inbox/scans/memoirs/`
-2. В чате: «разбери эту пачку»
-3. Расшифровка → `inbox/transcripts/`
-4. После проверки фактов → статьи в `content/ru/` + `content/en/`
-5. `git push` → сайт обновляется
-
-Полная памятка (локально и в git): **[docs/WORKFLOW.md](./docs/WORKFLOW.md)**
-
----
-
-<p align="center">
-  <img src="./assets/readme/section-inbox.svg" width="100%" alt="Inbox — рабочая зона">
-</p>
-
-<p align="center">
-  <img src="./assets/readme/inbox-map.svg" width="100%" alt="Карта папок inbox">
-</p>
-
-Рабочая зона **для семьи и разбора**, не для сайта:
-
-| Путь | Что класть |
-| --- | --- |
-| `inbox/scans/memoirs/` | Фото рукописных мемуаров |
-| `inbox/scans/photos/` | Семейные фото на разбор |
-| `inbox/scans/documents/` | Документы, письма |
-| `inbox/transcripts/` | Расшифровки до публикации |
-| `inbox/notes/` | Вопросы и уточнения |
-
-Сами фото в git **не коммитятся** (`.gitignore`). Структура папок — да.  
-Подробнее: [`inbox/README.md`](./inbox/README.md)
-
----
-
-<p align="center">
-  <img src="./assets/readme/section-shoot.svg" width="100%" alt="Как снимать рукописи">
-</p>
-
-1. Ровный свет, без блика  
-2. Страница целиком, текст читаемый  
-3. Имена: `001.jpg`, `002.jpg`…  
-4. Не сжимать «в ноль»
+Сайт — статика на [Hugo](https://gohugo.io/) + [PaperMod](https://github.com/adityatelange/hugo-PaperMod). Исходники здесь; публикация — GitHub Pages и [SourceCraft Sites](https://sourcecraft.dev/krivoshein-slon/szhz).
 
 ---
 
@@ -74,47 +22,75 @@
   <img src="./assets/readme/section-sections.svg" width="100%" alt="Разделы сайта">
 </p>
 
-| RU | EN | О чём |
-| --- | --- | --- |
-| `/vospominaniya/` | `/en/memoirs/` | Мемуары о Татьяне Тимофеевне |
-| `/roditeli/` | `/en/parents/` | Родители |
-| `/istoriya/` | `/en/history/` | Исторические факты |
-| `/foto/` | `/en/photos/` | Фотоархив |
-| `/dokumenty/` | `/en/documents/` | Документы |
-| `/search/` | `/en/search/` | Поиск |
+| RU | EN |
+| --- | --- |
+| [Воспоминания](https://сжс.рф/vospominaniya/) | [Memoirs](https://сжс.рф/en/memoirs/) |
+| [Родители](https://сжс.рф/roditeli/) | [Parents](https://сжс.рф/en/parents/) |
+| [История](https://сжс.рф/istoriya/) | [History](https://сжс.рф/en/history/) |
+| [Фото](https://сжс.рф/foto/) | [Photos](https://сжс.рф/en/photos/) |
+| [Документы](https://сжс.рф/dokumenty/) | [Documents](https://сжс.рф/en/documents/) |
+| [Поиск](https://сжс.рф/search/) | [Search](https://сжс.рф/en/search/) |
 
 ---
 
 <p align="center">
-  <img src="./assets/readme/section-start.svg" width="100%" alt="Старт">
+  <img src="./assets/readme/workflow.svg" width="100%" alt="Скан рукописи → inbox → проверка фактов → статьи RU/EN → сжс.рф">
 </p>
 
-### Локально
+1. Семья снимает тетради → `inbox/scans/`
+2. Разбор в чате, расшифровка → `inbox/transcripts/`
+3. После проверки фактов — страницы в `content/ru/` и `content/en/` (один `translationKey`)
+4. Push в `main` собирает сайт
+
+Полная памятка: [docs/WORKFLOW.md](./docs/WORKFLOW.md)
+
+---
+
+<p align="center">
+  <img src="./assets/readme/section-inbox.svg" width="100%" alt="Inbox — сырьё архива">
+</p>
+
+<p align="center">
+  <img src="./assets/readme/inbox-map.svg" width="100%" alt="Папки inbox: сканы мемуаров, фото, документы, расшифровки">
+</p>
+
+Inbox — для семьи, не для посетителя сайта. Сами фото в git **не коммитятся**. См. [inbox/README.md](./inbox/README.md).
+
+<p align="center">
+  <img src="./assets/readme/section-shoot.svg" width="100%" alt="Как снимать рукописи">
+</p>
+
+Ровный свет, страница целиком, имена `001.jpg`, `002.jpg`…, не сжимать «в ноль».
+
+---
+
+<p align="center">
+  <img src="./assets/readme/section-start.svg" width="100%" alt="Локальный запуск">
+</p>
 
 ```bash
 git submodule update --init --recursive
 hugo server -D
 ```
 
-### Новая запись (мемуар)
+Новая парная запись:
 
 ```bash
 hugo new content/ru/vospominaniya/nazvanie.md --kind memoir
 hugo new content/en/memoirs/name.md --kind memoir
 ```
 
-В обоих файлах — одинаковый `translationKey`.
+### Публикация
 
-### README SVG
+| Куда | Как |
+| --- | --- |
+| GitHub Pages | push в `main` → workflow **Deploy Hugo site to Pages** |
+| SourceCraft Sites | тот же `main` в `krivoshein-slon/szhz` → CI кладёт статику в ветку `release` → [szhz на Sites](https://krivoshein-slon.sourcecraft.site/szhz/) |
 
-Баннеры **генерируются**, не правятся руками:
+Конфиг хостинга: [`.sourcecraft/sites.yaml`](./.sourcecraft/sites.yaml). Свой домен `сжс.рф` в панели Beget: ALIAS/CNAME на `krivoshein-slon.sourcecraft.site` (см. инструкцию в переписке / после проверки preview).
+
+Баннеры README собираются так:
 
 ```bash
 python3 scripts/generate_readme_assets.py
 ```
-
-На каждый push в `main` workflow **Regenerate README SVGs** пересоздаёт файлы в `assets/readme/`.
-
-### Деплой сайта
-
-Push в `main` → **Deploy Hugo site to Pages** → https://сжс.рф/

@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360"
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400"
      role="img" aria-labelledby="heroTitle heroDesc">
   <title id="heroTitle">Слово Живой Судьбы — семейный архив</title>
-  <desc id="heroDesc">Мемуары Кривошеиной Татьяны Тимофеевны: воспоминания, родители, история, фото и документы. Сайт сжс.рф, языки RU и EN.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#F5ECDC"/>
-      <stop offset="100%" stop-color="#E8D9C0"/>
-    </linearGradient>
-    <linearGradient id="side" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#5C3D2E"/>
-      <stop offset="100%" stop-color="#8B5A3C"/>
-    </linearGradient>
-  </defs>
+  <desc id="heroDesc">Открытый двуязычный сайт мемуаров Кривошеиной Татьяны Тимофеевны: воспоминания, родители, фото и документы. сжс.рф</desc>
 
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect x="0" y="0" width="18" height="360" rx="0" fill="url(#side)"/>
-  <rect x="0" y="342" width="1200" height="18" fill="#8B5A3C" opacity="0.85"/>
+  <rect width="1200" height="400" rx="4" fill="#f3efe6"/>
+  <rect x="48" y="36" width="3" height="328" fill="#2e2a24"/>
 
-  <!-- monogram -->
-  <g transform="translate(72 70)">
-    <circle cx="90" cy="100" r="88" fill="#FFFDF8" stroke="#5C3D2E" stroke-width="4"/>
-    <circle cx="90" cy="100" r="74" fill="none" stroke="#C4A882" stroke-width="2"/>
-    <text x="90" y="118" text-anchor="middle"
-          font-family="Georgia, 'Times New Roman', 'Noto Serif', 'DejaVu Serif', serif" font-size="52" font-weight="700" fill="#5C3D2E">СЖС</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" fill="#7a6548">
+    <text x="80" y="72" font-size="18" letter-spacing="4">СЕМЕЙНЫЙ АРХИВ · ТЕТРАДЬ</text>
   </g>
 
-  <!-- title block -->
-  <g transform="translate(300 78)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif">
-    <text x="0" y="0" font-size="18" letter-spacing="3" fill="#8B5A3C" font-weight="600">СЕМЕЙНЫЙ АРХИВ · FAMILY ARCHIVE</text>
-    <text x="0" y="58" font-family="Georgia, 'Times New Roman', 'Noto Serif', 'DejaVu Serif', serif" font-size="48" font-weight="700" fill="#5C3D2E">Слово Живой Судьбы</text>
-    <text x="0" y="100" font-family="Georgia, 'Times New Roman', 'Noto Serif', 'DejaVu Serif', serif" font-size="28" fill="#7A5644">Word of a Living Fate</text>
-    <text x="0" y="150" font-size="22" fill="#5C3D2E">Кривошеина Татьяна Тимофеевна</text>
-    <text x="0" y="184" font-size="18" fill="#7A5644">мемуары · родители · история · фото · документы</text>
+  <g font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" fill="#1c1915">
+    <text x="80" y="148" font-size="52" font-weight="700">Слово Живой Судьбы</text>
+    <text x="80" y="196" font-size="26" fill="#5c564c">Мемуары Татьяны Тимофеевны Кривошеиной</text>
   </g>
 
-  <!-- meta chips -->
-  <g transform="translate(300 290)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#5C3D2E">
-    <rect x="0" y="-22" width="110" height="34" rx="17" fill="#FFFDF8" stroke="#C4A882"/>
-    <text x="55" y="0" text-anchor="middle">сжс.рф</text>
-    <rect x="124" y="-22" width="72" height="34" rx="17" fill="#FFFDF8" stroke="#C4A882"/>
-    <text x="160" y="0" text-anchor="middle">RU · EN</text>
-    <rect x="210" y="-22" width="120" height="34" rx="17" fill="#FFFDF8" stroke="#C4A882"/>
-    <text x="270" y="0" text-anchor="middle">Hugo · Pages</text>
-    <rect x="344" y="-22" width="150" height="34" rx="17" fill="#FFFDF8" stroke="#C4A882"/>
-    <text x="419" y="0" text-anchor="middle">inbox → content</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" fill="#2a2620">
+    <text x="80" y="250" font-size="20">Открытый сайт семьи: рукописи, письма, фото</text>
+    <text x="80" y="278" font-size="20">и документы — по-русски и по-английски.</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#5c564c" font-size="18">
+    <text x="80" y="336">сжс.рф</text>
+    <text x="200" y="336">RU · EN</text>
+    <text x="320" y="336">Hugo</text>
+  </g>
+
+  <!-- folio stack: real site sections -->
+  <g id="folios" transform="translate(720 56)">
+    <rect x="28" y="28" width="360" height="268" rx="3" fill="#d0c6b6"/>
+    <rect x="16" y="16" width="360" height="268" rx="3" fill="#e6dfd2"/>
+    <rect x="4" y="4" width="360" height="268" rx="3" fill="#faf7f0" stroke="#d0c6b6" stroke-width="1.5"/>
+    <line x1="36" y1="4" x2="36" y2="272" stroke="#d0c6b6" stroke-width="1"/>
+    <circle cx="36" cy="48" r="3" fill="#7a6548"/>
+    <circle cx="36" cy="96" r="3" fill="#7a6548"/>
+    <circle cx="36" cy="144" r="3" fill="#7a6548"/>
+    <circle cx="36" cy="192" r="3" fill="#7a6548"/>
+    <g font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" fill="#1c1915">
+      <text x="60" y="56" font-size="16" fill="#7a6548">тетрадь I</text>
+      <text x="60" y="100" font-size="24" font-weight="700">Воспоминания</text>
+      <text x="60" y="136" font-size="20" fill="#5c564c">Родители</text>
+      <text x="60" y="172" font-size="20" fill="#5c564c">Фото · Документы</text>
+      <text x="60" y="208" font-size="20" fill="#5c564c">История · Люди</text>
+    </g>
+    <text x="300" y="248" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#7a6548">л. 01</text>
   </g>
 </svg>

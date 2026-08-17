@@ -1,61 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200"
      role="img" aria-labelledby="wfTitle wfDesc">
-  <title id="wfTitle">Как мы работаем с архивом</title>
-  <desc id="wfDesc">Пайплайн: скан рукописи → inbox → разбор → расшифровка → content RU/EN → сайт сжс.рф</desc>
-  <rect width="1200" height="200" rx="20" fill="#F5ECDC"/>
-  <text x="40" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="16" letter-spacing="2" fill="#8B5A3C" font-weight="600">WORKFLOW · КАК МЫ РАБОТАЕМ</text>
+  <title id="wfTitle">Как архив становится сайтом</title>
+  <desc id="wfDesc">Скан рукописи, inbox, проверка фактов, статьи RU/EN, публикация на сжс.рф</desc>
+  <rect width="1200" height="200" rx="4" fill="#f3efe6"/>
+  <text x="48" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="16" letter-spacing="3" fill="#7a6548">ХОД РАБОТЫ</text>
   
-  <g transform="translate(40 48)">
-    <rect width="170" height="110" rx="16" fill="#FFFDF8" stroke="#C4A882" stroke-width="2"/>
-    <circle cx="28" cy="28" r="16" fill="#5C3D2E"/>
-    <text x="28" y="34" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F5ECDC">1</text>
-    <text x="85" y="50" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', 'DejaVu Serif', serif" font-size="22" font-weight="700" fill="#5C3D2E">Скан</text>
-    <text x="85" y="80" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#7A5644">фото рукописи</text>
-  </g>
-  <path d="M216 103 L228 103" stroke="#8B5A3C" stroke-width="3" stroke-linecap="round"/>
-  <path d="M222 97 L230 103 L222 109" fill="none" stroke="#8B5A3C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <g transform="translate(230 48)">
-    <rect width="170" height="110" rx="16" fill="#FFFDF8" stroke="#C4A882" stroke-width="2"/>
-    <circle cx="28" cy="28" r="16" fill="#5C3D2E"/>
-    <text x="28" y="34" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F5ECDC">2</text>
-    <text x="85" y="50" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', 'DejaVu Serif', serif" font-size="22" font-weight="700" fill="#5C3D2E">inbox/</text>
-    <text x="85" y="80" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#7A5644">scans/…</text>
-  </g>
-  <path d="M406 103 L418 103" stroke="#8B5A3C" stroke-width="3" stroke-linecap="round"/>
-  <path d="M412 97 L420 103 L412 109" fill="none" stroke="#8B5A3C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <g transform="translate(420 48)">
-    <rect width="170" height="110" rx="16" fill="#FFFDF8" stroke="#C4A882" stroke-width="2"/>
-    <circle cx="28" cy="28" r="16" fill="#5C3D2E"/>
-    <text x="28" y="34" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F5ECDC">3</text>
-    <text x="85" y="50" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', 'DejaVu Serif', serif" font-size="22" font-weight="700" fill="#5C3D2E">Разбор</text>
-    <text x="85" y="80" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#7A5644">ИИ + семья</text>
-  </g>
-  <path d="M596 103 L608 103" stroke="#8B5A3C" stroke-width="3" stroke-linecap="round"/>
-  <path d="M602 97 L610 103 L602 109" fill="none" stroke="#8B5A3C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <g transform="translate(610 48)">
-    <rect width="170" height="110" rx="16" fill="#FFFDF8" stroke="#C4A882" stroke-width="2"/>
-    <circle cx="28" cy="28" r="16" fill="#5C3D2E"/>
-    <text x="28" y="34" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F5ECDC">4</text>
-    <text x="85" y="50" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', 'DejaVu Serif', serif" font-size="22" font-weight="700" fill="#5C3D2E">transcripts/</text>
-    <text x="85" y="80" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#7A5644">черновик</text>
-  </g>
-  <path d="M786 103 L798 103" stroke="#8B5A3C" stroke-width="3" stroke-linecap="round"/>
-  <path d="M792 97 L800 103 L792 109" fill="none" stroke="#8B5A3C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <g transform="translate(800 48)">
-    <rect width="170" height="110" rx="16" fill="#FFFDF8" stroke="#C4A882" stroke-width="2"/>
-    <circle cx="28" cy="28" r="16" fill="#5C3D2E"/>
-    <text x="28" y="34" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F5ECDC">5</text>
-    <text x="85" y="50" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', 'DejaVu Serif', serif" font-size="22" font-weight="700" fill="#5C3D2E">content/</text>
-    <text x="85" y="80" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#7A5644">RU · EN</text>
-  </g>
-  <path d="M976 103 L988 103" stroke="#8B5A3C" stroke-width="3" stroke-linecap="round"/>
-  <path d="M982 97 L990 103 L982 109" fill="none" stroke="#8B5A3C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <g transform="translate(990 48)">
-    <rect width="170" height="110" rx="16" fill="#FFFDF8" stroke="#C4A882" stroke-width="2"/>
-    <circle cx="28" cy="28" r="16" fill="#5C3D2E"/>
-    <text x="28" y="34" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F5ECDC">6</text>
-    <text x="85" y="50" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', 'DejaVu Serif', serif" font-size="22" font-weight="700" fill="#5C3D2E">сжс.рф</text>
-    <text x="85" y="80" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#7A5644">сайт</text>
+  <g transform="translate(48 56)">
+    <rect width="208" height="112" rx="3" fill="#faf7f0" stroke="#d0c6b6"/>
+    <text x="16" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#7a6548">01</text>
+    <text x="16" y="68" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="24" font-weight="700" fill="#1c1915">Скан</text>
+    <text x="16" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="18" fill="#5c564c">рукопись</text>
+  </g><path d="M262 112 L272 112" stroke="#7a6548" stroke-width="2"/>
+  <g transform="translate(276 56)">
+    <rect width="208" height="112" rx="3" fill="#faf7f0" stroke="#d0c6b6"/>
+    <text x="16" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#7a6548">02</text>
+    <text x="16" y="68" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="24" font-weight="700" fill="#1c1915">inbox</text>
+    <text x="16" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="18" fill="#5c564c">сырьё</text>
+  </g><path d="M490 112 L500 112" stroke="#7a6548" stroke-width="2"/>
+  <g transform="translate(504 56)">
+    <rect width="208" height="112" rx="3" fill="#faf7f0" stroke="#d0c6b6"/>
+    <text x="16" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#7a6548">03</text>
+    <text x="16" y="68" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="24" font-weight="700" fill="#1c1915">Разбор</text>
+    <text x="16" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="18" fill="#5c564c">факты</text>
+  </g><path d="M718 112 L728 112" stroke="#7a6548" stroke-width="2"/>
+  <g transform="translate(732 56)">
+    <rect width="208" height="112" rx="3" fill="#faf7f0" stroke="#d0c6b6"/>
+    <text x="16" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#7a6548">04</text>
+    <text x="16" y="68" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="24" font-weight="700" fill="#1c1915">content</text>
+    <text x="16" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="18" fill="#5c564c">RU · EN</text>
+  </g><path d="M946 112 L956 112" stroke="#7a6548" stroke-width="2"/>
+  <g transform="translate(960 56)">
+    <rect width="208" height="112" rx="3" fill="#faf7f0" stroke="#d0c6b6"/>
+    <text x="16" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#7a6548">05</text>
+    <text x="16" y="68" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="24" font-weight="700" fill="#1c1915">сжс.рф</text>
+    <text x="16" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="18" fill="#5c564c">сайт</text>
   </g>
 </svg>

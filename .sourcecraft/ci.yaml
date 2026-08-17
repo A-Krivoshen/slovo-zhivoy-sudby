@@ -1,0 +1,32 @@
+on:
+  push:
+    workflows: build-site
+    filter:
+      branches: main
+
+workflows:
+  build-site:
+    checkout:
+      fetch_depth: 0
+    settings:
+      max_cube_duration: 20m
+    tasks:
+      - name: build-site
+        cubes:
+          - name: build-hugo
+            image: docker.io/library/ubuntu:24.04
+            script:
+              - apt-get update
+              - apt-get install -y --no-install-recommends ca-certificates git wget
+              - wget -q -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.164.0/hugo_extended_0.164.0_linux-amd64.deb
+              - dpkg -i /tmp/hugo.deb
+              - git submodule update --init --recursive
+              - hugo --minify --destination site
+          - name: publish-site
+            script:
+              - git config user.name "sourcecraft-ci"
+              - git config user.email "ci@users.noreply.sourcecraft.dev"
+              - git checkout -B release
+              - git add -f site
+              - git diff --cached --quiet || git commit -m "feat: release static site"
+              - git push origin release -f

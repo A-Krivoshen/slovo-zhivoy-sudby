@@ -1,6 +1,5 @@
-# Как GitHub Actions hugo.yml: push в main → Hugo → выкладка.
-# SourceCraft Sites не собирает Hugo сам, только раздаёт папку.
-# CI пишет статику в site/ и пушит ветку release.
+# push в main → Hugo → ветка release (как GitHub Actions).
+# SourceCraft Sites раздаёт только готовую папку site/.
 
 on:
   push:
@@ -33,5 +32,5 @@ workflows:
               - git config user.email "ci@users.noreply.sourcecraft.dev"
               - git checkout -B release
               - git add -f site
-              - git diff --cached --quiet || git commit -m "feat: release"
+              - "git diff --cached --quiet || git commit -m 'feat: release'"
               - git push origin release -f

@@ -1,0 +1,12 @@
+{{- /*
+  Menu urls in hugo.toml start with /. Hugo then treats them as host-root
+  (absLangURL/absURL drop a subdirectory baseURL such as /szhz/).
+  Strip the leading slash and relURL so both сжс.рф and the Sites mirror work.
+  External http(s) urls are left alone. EN items already include /en/.
+*/ -}}
+{{- $u := .URL -}}
+{{- if findRE "://" $u -}}
+{{- $u -}}
+{{- else -}}
+{{- strings.TrimPrefix "/" $u | relURL -}}
+{{- end -}}

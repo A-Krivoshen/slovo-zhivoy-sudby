@@ -1,5 +1,7 @@
 /public/
 /site/
+.build-sc/
+.build-prod/
 resources/
 .hugo_build.lock
 .DS_Store

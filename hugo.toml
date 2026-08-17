@@ -86,7 +86,7 @@ timeZone = 'Europe/Moscow'
 
     [languages.ru.params.label]
       text = 'Слово Живой Судьбы'
-      icon = '/apple-touch-icon.png'
+      icon = 'apple-touch-icon.png'
       iconHeight = 26
 
     # homeInfoParams disabled — hero lives in content/ru/_index.md
@@ -210,7 +210,7 @@ timeZone = 'Europe/Moscow'
 
     [languages.en.params.label]
       text = 'Word of a Living Fate'
-      icon = '/apple-touch-icon.png'
+      icon = 'apple-touch-icon.png'
       iconHeight = 26
 
     # homeInfoParams disabled — hero lives in content/en/_index.md

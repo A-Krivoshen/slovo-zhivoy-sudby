@@ -94,22 +94,22 @@
         </div>
 
         {{- $currentPage := . -}}
-        {{- $pageURL := $currentPage.Permalink | absLangURL -}}
+        {{- $pageURL := $currentPage.RelPermalink -}}
         <div class="site-menu" id="site-menu">
             <ul id="menu" class="menu menu--primary">
                 {{- range site.Menus.main }}
-                {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL)) | absLangURL -}}
+                {{- $href := partial "menu_href.html" . -}}
                 {{- $is_search := eq (site.GetPage .KeyName).Layout `search` -}}
                 {{- $isActive := false -}}
                 {{- if or (eq .URL "/") (eq .URL "/en/") (eq .URL "/en") -}}
                     {{- $isActive = $currentPage.IsHome -}}
-                {{- else if hasPrefix $pageURL $menu_item_url -}}
+                {{- else if hasPrefix $pageURL $href -}}
                     {{- $isActive = true -}}
-                {{- else if eq $menu_item_url $pageURL -}}
+                {{- else if eq $href $pageURL -}}
                     {{- $isActive = true -}}
                 {{- end -}}
                 <li>
-                    <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}{{- if $is_search }} (Alt + /){{ end }}"
+                    <a href="{{ $href }}" title="{{ .Title | default .Name }}{{- if $is_search }} (Alt + /){{ end }}"
                         {{- if $is_search }} accesskey="/"{{ end }}
                         {{- if $isActive }} class="is-active" aria-current="page"{{ end }}>
                         <span class="menu-label">{{- .Name -}}</span>
@@ -123,10 +123,10 @@
                         <summary class="menu-more-summary">{{ if $isEn }}More{{ else }}Ещё{{ end }}</summary>
                         <ul class="menu-more-list">
                             {{- range . }}
-                            {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL)) | absLangURL -}}
-                            {{- $isActive := hasPrefix $pageURL $menu_item_url -}}
+                            {{- $href := partial "menu_href.html" . -}}
+                            {{- $isActive := hasPrefix $pageURL $href -}}
                             <li>
-                                <a href="{{ .URL | absLangURL }}"
+                                <a href="{{ $href }}"
                                     {{- if $isActive }} class="is-active" aria-current="page"{{ end }}>
                                     {{- .Name -}}
                                 </a>
@@ -141,10 +141,10 @@
             {{- with site.Menus.more }}
             <ul class="menu menu--secondary" aria-label="{{ if $isEn }}More sections{{ else }}Другие разделы{{ end }}">
                 {{- range . }}
-                {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL)) | absLangURL -}}
-                {{- $isActive := hasPrefix $pageURL $menu_item_url -}}
+                {{- $href := partial "menu_href.html" . -}}
+                {{- $isActive := hasPrefix $pageURL $href -}}
                 <li>
-                    <a href="{{ .URL | absLangURL }}"
+                    <a href="{{ $href }}"
                         {{- if $isActive }} class="is-active" aria-current="page"{{ end }}>
                         <span class="menu-label">{{- .Name -}}</span>
                     </a>

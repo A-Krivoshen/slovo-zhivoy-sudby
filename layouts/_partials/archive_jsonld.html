@@ -174,7 +174,7 @@
     {{- if not $hidden -}}
       {{- with index . "image" -}}
         {{- $img := printf "%v" . -}}
-        {{- $abs := $img | absURL -}}
+        {{- $abs := partial "site_abs.html" $img -}}
         {{- with index $page.Params.cover "relative" -}}
           {{- if eq . true -}}
             {{- $abs = (path.Join $page.RelPermalink $img) | absURL -}}

@@ -1,0 +1,15 @@
+{{- /* Rewrite every URL in a srcset list via site_href; keep 480w / descriptors. */ -}}
+{{- $parts := slice -}}
+{{- range split . "," -}}
+{{- $p := strings.TrimSpace . -}}
+{{- if $p -}}
+{{- $fields := split $p " " -}}
+{{- $fixed := partial "site_href.html" (index $fields 0) -}}
+{{- if gt (len $fields) 1 -}}
+{{- $parts = $parts | append (printf "%s %s" $fixed (delimit (after 1 $fields) " ")) -}}
+{{- else -}}
+{{- $parts = $parts | append $fixed -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+{{- delimit $parts ", " -}}

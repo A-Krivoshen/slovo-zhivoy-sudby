@@ -4,9 +4,4 @@
   Strip the leading slash and relURL so both сжс.рф and the Sites mirror work.
   External http(s) urls are left alone. EN items already include /en/.
 */ -}}
-{{- $u := .URL -}}
-{{- if findRE "://" $u -}}
-{{- $u -}}
-{{- else -}}
-{{- strings.TrimPrefix "/" $u | relURL -}}
-{{- end -}}
+{{- partial "site_href.html" .URL -}}

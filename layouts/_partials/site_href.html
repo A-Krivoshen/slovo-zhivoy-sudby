@@ -1,0 +1,12 @@
+{{- /*
+  Site-root path → URL that keeps a subdirectory baseURL (/szhz/ on Sites).
+  absURL/absLangURL treat a leading slash as the host root and drop the subdir.
+  External, hash, mailto, and data URLs are left alone.
+  Do not pass RelPermalink/Permalink through this — they already include the subdir.
+*/ -}}
+{{- $u := printf "%v" . -}}
+{{- if or (hasPrefix $u "http://") (hasPrefix $u "https://") (hasPrefix $u "//") (hasPrefix $u "#") (hasPrefix $u "mailto:") (hasPrefix $u "tel:") (hasPrefix $u "data:") (eq $u "") -}}
+{{- $u -}}
+{{- else -}}
+{{- strings.TrimPrefix "/" $u | relURL -}}
+{{- end -}}

@@ -26,7 +26,7 @@
       {{- $coverAlt := .alt -}}
       {{- $coverCaption := .caption -}}
       {{- with .image }}
-        {{- $loc := . | absURL -}}
+        {{- $loc := printf "%s" (partial "site_abs.html" .) -}}
         {{- if not (isset $seen $loc) }}
           {{- $seen = merge $seen (dict $loc true) -}}
     <image:image>
@@ -55,7 +55,7 @@
       {{- range findRESubmatch `(?i)(?:src|href)=["']([^"']+\.(?:avif|bmp|gif|jpe?g|png|svgz?|webp))["']` $raw }}
         {{- $path := index . 1 -}}
         {{- if and $path (not (hasPrefix $path "data:")) (not (hasPrefix $path "http://localhost")) }}
-          {{- $loc := cond (or (hasPrefix $path "http://") (hasPrefix $path "https://") (hasPrefix $path "//")) $path ($path | absURL) -}}
+          {{- $loc := cond (or (hasPrefix $path "http://") (hasPrefix $path "https://") (hasPrefix $path "//")) $path (printf "%s" (partial "site_abs.html" $path)) -}}
           {{- if not (isset $seen $loc) }}
             {{- $seen = merge $seen (dict $loc true) -}}
     <image:image>
@@ -67,7 +67,7 @@
       {{- range findRESubmatch `!\[[^\]]*\]\(([^)\s]+)(?:\s+"[^"]*")?\)` $raw }}
         {{- $path := index . 1 -}}
         {{- if and $path (findRE `(?i)\.(avif|bmp|gif|jpe?g|png|svgz?|webp)(?:\?|#|$)` $path) (not (hasPrefix $path "data:")) }}
-          {{- $loc := cond (or (hasPrefix $path "http://") (hasPrefix $path "https://") (hasPrefix $path "//")) $path ($path | absURL) -}}
+          {{- $loc := cond (or (hasPrefix $path "http://") (hasPrefix $path "https://") (hasPrefix $path "//")) $path (printf "%s" (partial "site_abs.html" $path)) -}}
           {{- if not (isset $seen $loc) }}
             {{- $seen = merge $seen (dict $loc true) -}}
     <image:image>

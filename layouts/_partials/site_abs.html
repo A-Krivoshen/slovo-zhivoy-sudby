@@ -1,0 +1,10 @@
+{{- /*
+  Same as site_href but absURL — for sitemap, og:image, JSON-LD.
+  Leading slash is stripped so a subdirectory baseURL is kept.
+*/ -}}
+{{- $u := printf "%v" . -}}
+{{- if or (hasPrefix $u "http://") (hasPrefix $u "https://") (hasPrefix $u "//") (eq $u "") -}}
+{{- $u -}}
+{{- else -}}
+{{- strings.TrimPrefix "/" $u | absURL -}}
+{{- end -}}

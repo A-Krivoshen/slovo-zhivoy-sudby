@@ -48,7 +48,7 @@
 {{- with .Params.cover }}
   {{- if reflect.IsMap . }}
     {{- with .image }}
-      {{- $ogImg = . | absURL -}}
+      {{- $ogImg = partial "site_abs.html" . -}}
     {{- end }}
   {{- end }}
 {{- end }}

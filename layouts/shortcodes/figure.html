@@ -6,11 +6,12 @@
            {{- with .Get "class" }}{{ . }}{{- end }}"
 {{- end -}}>
     {{- if .Get "link" -}}
-        <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
+        <a href="{{ partial "site_href.html" (.Get "link") }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
     {{- end }}
     {{- $loading := .Get "loading" | default "lazy" -}}
     {{- $decoding := .Get "decoding" | default "async" -}}
     {{- $src := .Get "src" -}}
+    {{- $srcOut := partial "site_href.html" $src -}}
     {{- /* Optional auto-srcset if -thumb / -md siblings exist under static/ */ -}}
     {{- $srcset := .Get "srcset" -}}
     {{- if and (not $srcset) (hasPrefix $src "/") -}}
@@ -31,8 +32,8 @@
       {{- end -}}
     {{- end -}}
     <img loading="{{ $loading }}" decoding="{{ $decoding }}"
-         src="{{ $src }}{{- if eq (.Get "align") "center" }}#center{{- end }}"
-         {{- with $srcset }} srcset="{{ . }}" sizes="{{ $.Get "sizes" | default "(max-width: 720px) 100vw, 720px" }}"{{ end -}}
+         src="{{ $srcOut }}{{- if eq (.Get "align") "center" }}#center{{- end }}"
+         {{- with $srcset }} srcset="{{ partial "site_srcset.html" . }}" sizes="{{ $.Get "sizes" | default "(max-width: 720px) 100vw, 720px" }}"{{ end -}}
          {{- if or (.Get "alt") (.Get "caption") }}
          alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify | plainify }}{{ end }}"
          {{- else -}}

@@ -1,3 +1,7 @@
+# Как GitHub Actions hugo.yml: push в main → Hugo → выкладка.
+# SourceCraft Sites не собирает Hugo сам, только раздаёт папку.
+# CI пишет статику в site/ и пушит ветку release.
+
 on:
   push:
     workflows: build-site
@@ -11,22 +15,23 @@ workflows:
     settings:
       max_cube_duration: 20m
     tasks:
-      - name: build-site
+      - name: hugo
         cubes:
-          - name: build-hugo
+          - name: build-and-deploy
             image: docker.io/library/ubuntu:24.04
+            env:
+              HUGO_ENVIRONMENT: production
+              DEBIAN_FRONTEND: noninteractive
             script:
               - apt-get update
               - apt-get install -y --no-install-recommends ca-certificates git wget
               - wget -q -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.164.0/hugo_extended_0.164.0_linux-amd64.deb
               - dpkg -i /tmp/hugo.deb
               - git submodule update --init --recursive
-              - hugo --minify --destination site
-          - name: publish-site
-            script:
+              - hugo --minify --destination site --baseURL "https://сжс.рф/"
               - git config user.name "sourcecraft-ci"
               - git config user.email "ci@users.noreply.sourcecraft.dev"
               - git checkout -B release
               - git add -f site
-              - git diff --cached --quiet || git commit -m "feat: release static site"
+              - git diff --cached --quiet || git commit -m "feat: release"
               - git push origin release -f
